@@ -3765,7 +3765,7 @@
 5CB4	岴	mrgg
 5CB5	岵	mdg
 5CB6	岶	mrg
-5CB7	岷	mnna
+5CB7	岷	mnan
 5CB8	岸	mdfj
 5CB9	岹	mvkg
 5CBA	岺	mwyc
@@ -4875,7 +4875,7 @@
 610A	愊	ngkl
 610B	愋	negc
 610C	愌	nqmd
-610D	愍	nnan
+610D	愍	natn
 610E	愎	ntjt
 610F	意	ujnu
 6110	愐	ndmd
@@ -5309,7 +5309,7 @@
 62BC	押	rlh
 62BD	抽	rmg
 62BE	抾	rfcy
-62BF	抿	rnna
+62BF	抿	rnan
 62C0	拀	rkqn
 62C1	拁	rekg
 62C2	拂	rxjh
@@ -7695,7 +7695,7 @@
 6C0E	氎	llln
 6C0F	氏	qav
 6C10	氐	qayi
-6C11	民	nnav
+6C11	民	nav
 6C12	氒	qafj
 6C13	氓	ynna
 6C14	气	rnb
@@ -7917,7 +7917,7 @@
 6CEC	泬	ipwy
 6CED	泭	iwfy
 6CEE	泮	iugh
-6CEF	泯	inna
+6CEF	泯	inan
 6CF0	泰	dwiu
 6CF1	泱	imdy
 6CF2	泲	itnt
@@ -9671,7 +9671,7 @@
 73C6	珆	gckg
 73C7	珇	gegg
 73C8	珈	gekg
-73C9	珉	gnna
+73C9	珉	gnan
 73CA	珊	gmmg
 73CB	珋	gqtb
 73CC	珌	gntt
@@ -10526,7 +10526,7 @@
 771D	眝	hpsh
 771E	眞	xhnw
 771F	真	fhwu
-7720	眠	hnna
+7720	眠	hnan
 7721	眡	hqay
 7722	眢	qbhf
 7723	眣	hrwy
@@ -11274,7 +11274,7 @@
 7A09	稉	tgjr
 7A0A	稊	tuxt
 7A0B	程	tkgg
-7A0C	稌	twgs
+7A0C	稌	twfi
 7A0D	稍	tieg
 7A0E	税	tukq
 7A0F	稏	tgfg
@@ -12565,7 +12565,7 @@
 7F14	缔	xyuh
 7F15	缕	xovg
 7F16	编	xyna
-7F17	缗	xnnj
+7F17	缗	xnaj
 7F18	缘	xxge
 7F19	缙	xgoj
 7F1A	缚	xgef
@@ -13534,7 +13534,7 @@
 82DD	苝	auxb
 82DE	苞	aqnb
 82DF	苟	aqkf
-82E0	苠	anna
+82E0	苠	anab
 82E1	苡	anyw
 82E2	苢	ahnn
 82E3	苣	aanf
@@ -19166,7 +19166,7 @@
 98DD	飝	nuth
 98DE	飞	nui
 98DF	食	wyve
-98E0	飠	wyty
+98E0	飠	wyu
 98E1	飡	uwye
 98E2	飢	wywn
 98E3	飣	wysh
