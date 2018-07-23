@@ -1930,7 +1930,7 @@
 3B89	㮉	swgd
 3B8A	㮊	scns
 3B8B	㮋	sdeb
-3B8C	㮌	sdmd
+3B8C	㮌	sdmj
 3B8D	㮍	uejs
 3B8E	㮎	sdhl
 3B8F	㮏	ssfi
