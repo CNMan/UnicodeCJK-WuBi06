@@ -47,9 +47,11 @@ CE5A4007936D580000AAF433282D9D183EF87ADC *wmwb2012a.exe v2.0.0.1
 
 ![dyt_settings01](https://github.com/CNMan/Unicode_CJK_XSJWBBM/raw/master/imgs/dyt_settings01.png)
 
+![dyt00](https://github.com/CNMan/Unicode_CJK_XSJWBBM/raw/master/imgs/dyt00.png) ![dyt01](https://github.com/CNMan/Unicode_CJK_XSJWBBM/raw/master/imgs/dyt01.png) ![dyt02](https://github.com/CNMan/Unicode_CJK_XSJWBBM/raw/master/imgs/dyt02.png)
+
 [新世纪版五笔字型字根键位图](http://www.wangma.com.cn/view.asp?id=201&f_id=22)
 
-![zgjwt_jf_1479x843](https://github.com/CNMan/Unicode_CJK_XSJWBBM/raw/master/imgs/zgjwt_jf_1479x843.jpg)
+![zgjwt_jf_871x468](https://github.com/CNMan/Unicode_CJK_XSJWBBM/raw/master/imgs/zgjwt_jf_871x468.jpg)
 
 [新世纪版五笔字型字根助记歌](http://www.wangma.com.cn/view.asp?id=200&f_id=22)
 
@@ -78,6 +80,12 @@ CE5A4007936D580000AAF433282D9D183EF87ADC *wmwb2012a.exe v2.0.0.1
 [Unicode 11.0.0 CodeCharts](https://www.unicode.org/Public/11.0.0/charts/CodeCharts.pdf)
 
 [Unihan Database Lookup](https://www.unicode.org/charts/unihan.html)
+
+[ISO/IEC 10646 5th edition](http://standards.iso.org/ittf/PubliclyAvailableStandards/c069119_ISO_IEC_10646_2017.zip)
+
+[IDS data for CJK Unified Ideographs](https://github.com/cjkvi/cjkvi-ids)
+
+[CJK Unified Ideographs Extension G (30000-31389)](https://unicode.org/roadmaps/tip/)
 
 [《通用规范汉字表》（国发〔2013〕23号）](http://www.gov.cn/gzdt/att/att/site1/20130819/tygfhzb.pdf)
 
