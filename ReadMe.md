@@ -1,6 +1,6 @@
 # Unicode 新世纪版五笔字型编码（未完成）
 
-本项目**拟**将[五笔吧](http://tieba.baidu.com/f?kw=五笔&ie=utf-8)小吧主[LSJ天道酬勤](http://tieba.baidu.com/home/main?un=LSJ天道酬勤&ie=utf-8)制作的[海峰五笔码表 2.02A（2017年4月23日校对）](https://pan.baidu.com/s/1hq5kedm)逐字转换为新世纪版五笔字型码表。
+本项目**拟**将[五笔吧](http://tieba.baidu.com/f?kw=五笔&ie=utf-8)小吧主[LSJ天道酬勤](http://tieba.baidu.com/home/main?un=LSJ天道酬勤&ie=utf-8)制作的[海峰五笔码表 2.02A（2017年4月23日校对）](https://pan.baidu.com/s/1hq5kedm)逐字转换为新世纪版五笔字型编码。
 
 * 仅聚焦单字，不涉及词组。
 
@@ -47,7 +47,9 @@ CE5A4007936D580000AAF433282D9D183EF87ADC *wmwb2012a.exe v2.0.0.1
 
 ![dyt_settings01](https://github.com/CNMan/Unicode_CJK_XSJWBBM/raw/master/imgs/dyt_settings01.png)
 
-![dyt00](https://github.com/CNMan/Unicode_CJK_XSJWBBM/raw/master/imgs/dyt00.png) ![dyt01](https://github.com/CNMan/Unicode_CJK_XSJWBBM/raw/master/imgs/dyt01.png) ![dyt02](https://github.com/CNMan/Unicode_CJK_XSJWBBM/raw/master/imgs/dyt02.png)
+![dyt00](https://github.com/CNMan/Unicode_CJK_XSJWBBM/raw/master/imgs/dyt00.png)
+
+![dyt01](https://github.com/CNMan/Unicode_CJK_XSJWBBM/raw/master/imgs/dyt01.png) ![dyt02](https://github.com/CNMan/Unicode_CJK_XSJWBBM/raw/master/imgs/dyt02.png)
 
 [新世纪版五笔字型字根键位图](http://www.wangma.com.cn/view.asp?id=201&f_id=22)
 
@@ -104,3 +106,7 @@ CE5A4007936D580000AAF433282D9D183EF87ADC *wmwb2012a.exe v2.0.0.1
 [1994年央视五笔字型讲座视频（86版）（王永民）](http://www.wangma.net.cn/vido_main.aspx?sm=4)
 
 [标准五笔字型教材（86版）（王永民）](http://www.wangma.net.cn/InfoMationDetail.aspx?sm=5&m=207)
+
+[https://gitee.com/xionghuaidong/public](https://gitee.com/xionghuaidong/public)
+
+[https://gitee.com/xionghuaidong/WubiTools](https://gitee.com/xionghuaidong/WubiTools)
