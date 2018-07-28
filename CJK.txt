@@ -20900,80 +20900,80 @@
 9FA3	龣	wgki
 9FA4	龤	wgkr
 9FA5	龥	wgkm
-9FA6	龦
-9FA7	龧
-9FA8	龨
-9FA9	龩
-9FAA	龪
-9FAB	龫
-9FAC	龬
-9FAD	龭
-9FAE	龮
-9FAF	龯
-9FB0	龰
-9FB1	龱
-9FB2	龲
-9FB3	龳
-9FB4	龴
-9FB5	龵
-9FB6	龶
-9FB7	龷
-9FB8	龸
-9FB9	龹
-9FBA	龺
-9FBB	龻
-9FBC	龼
-9FBD	龽
-9FBE	龾
-9FBF	龿
-9FC0	鿀
-9FC1	鿁
-9FC2	鿂
-9FC3	鿃
-9FC4	鿄
-9FC5	鿅
-9FC6	鿆
-9FC7	鿇
-9FC8	鿈
-9FC9	鿉
-9FCA	鿊
-9FCB	鿋
-9FCC	鿌
-9FCD	鿍
-9FCE	鿎
-9FCF	鿏
-9FD0	鿐
-9FD1	鿑
-9FD2	鿒
-9FD3	鿓
-9FD4	鿔
-9FD5	鿕
-9FD6	鿖
-9FD7	鿗
-9FD8	鿘
-9FD9	鿙
-9FDA	鿚
-9FDB	鿛
-9FDC	鿜
-9FDD	鿝
-9FDE	鿞
-9FDF	鿟
-9FE0	鿠
-9FE1	鿡
-9FE2	鿢
-9FE3	鿣
-9FE4	鿤
-9FE5	鿥
-9FE6	鿦
-9FE7	鿧
-9FE8	鿨
-9FE9	鿩
-9FEA	鿪
-9FEB	鿫
-9FEC	鿬
-9FED	鿭
-9FEE	鿮
-9FEF	鿯
+9FA6	龦	oiph
+9FA7	龧	jjfj
+9FA8	龨	awyd
+9FA9	龩	aakr
+9FAA	龪	fhwi
+9FAB	龫	lwfh
+9FAC	龬	qmun
+9FAD	龭	colw
+9FAE	龮	conw
+9FAF	龯	qdxy
+9FB0	龰	hhgy
+9FB1	龱	lri
+9FB2	龲	qolh
+9FB3	龳	fqff
+9FB4	龴	cny
+9FB5	龵	dte
+9FB6	龶	gggg
+9FB7	龷	aghg
+9FB8	龸	ipn
+9FB9	龹	udy
+9FBA	龺	fjfj
+9FBB	龻	xyxy
+9FBC	龼	fhpj
+9FBD	龽	oqoy
+9FBE	龾	hcqo
+9FBF	龿	awff
+9FC0	鿀	aatd
+9FC1	鿁	yawy
+9FC2	鿂	lwvo
+9FC3	鿃	hdww
+9FC4	鿄	ivys
+9FC5	鿅	pyfh
+9FC6	鿆	pydc
+9FC7	鿇	wqvh
+9FC8	鿈	tnyy
+9FC9	鿉	tng
+9FCA	鿊	aihf
+9FCB	鿋	pufk
+9FCC	鿌	iyji
+9FCD	鿍	ftah
+9FCE	鿎	ddpy
+9FCF	鿏	qgty
+9FD0	鿐	qoig
+9FD1	鿑	ugyy
+9FD2	鿒	admu
+9FD3	鿓	admu
+9FD4	鿔	qskk
+9FD5	鿕	qgmy
+9FD6	鿖	wgkg
+9FD7	鿗	wwvg
+9FD8	鿘	wvtk
+9FD9	鿙	wvtq
+9FDA	鿚	wvtk
+9FDB	鿛	ufwr
+9FDC	鿜	rugr
+9FDD	鿝	slyr
+9FDE	鿞	gqjr
+9FDF	鿟	tjqi
+9FE0	鿠	tjgr
+9FE1	鿡	lxgr
+9FE2	鿢	bbwk
+9FE3	鿣	bbdq
+9FE4	鿤	bbsk
+9FE5	鿥	yvcr
+9FE6	鿦	amdt
+9FE7	鿧	btgr
+9FE8	鿨	flgr
+9FE9	鿩	qojr
+9FEA	鿪	wgeo
+9FEB	鿫	rntd
+9FEC	鿬	dlg
+9FED	鿭	qqiy
+9FEE	鿮	ogkh
+9FEF	鿯	tqro
 9FF0
 9FF1
 9FF2
