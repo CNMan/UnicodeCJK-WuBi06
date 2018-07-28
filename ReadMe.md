@@ -6,6 +6,10 @@
 
 * 字形以Windows 10中的SimSun（CJK、CJK-A）、SimSun-ExtB（CJK-B、CJK-C、CJK-D和少量CJK-E）以及[方正字库](http://www.foundertype.com/)给[籍合网](http://www.ancientbooks.cn/)做的[中华书局宋体](http://www.ancientbooks.cn/helpcore?font)（支持Unicode 10.0.0）为准。
 
+## 讨论区
+
+[Issues](https://github.com/CNMan/Unicode_CJK_XSJWBBM/issues)、[新世纪五笔吧](http://tieba.baidu.com/f?kw=新世纪五笔&ie=utf-8)、QQ群（38021162）
+
 ## 文本编辑器
 
 推荐使用[BabelPad](http://www.babelstone.co.uk/Software/Download/BabelPad_CHS.zip)，可对Unicode编码区分别设置不同字体。
@@ -110,3 +114,7 @@ CE5A4007936D580000AAF433282D9D183EF87ADC *wmwb2012a.exe v2.0.0.1
 [https://gitee.com/xionghuaidong/public](https://gitee.com/xionghuaidong/public)
 
 [https://gitee.com/xionghuaidong/WubiTools](https://gitee.com/xionghuaidong/WubiTools)
+
+## 版权
+
+所有权利归[王码公司](http://www.wangma.com.cn/)！请勿商用！
