@@ -2916,7 +2916,7 @@
 2C383	𬎃	guwl
 2C384	𬎄	gbti
 2C385	𬎅	gfvg
-2C386	𬎆	#N/A
+2C386	𬎆	gapy
 2C387	𬎇	gajd
 2C388	𬎈	gapb
 2C389	𬎉	gwnh
