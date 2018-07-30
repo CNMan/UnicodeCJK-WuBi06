@@ -18,7 +18,7 @@
 
 |版本|CJK|CJK-A|CJK-B|CJK-C|CJK-D|CJK-E|CJK-F|
 |-------|-------|-------|-------|-------|-------|-------|-------|
-|码位|4E00-9FFF|3400-4DBF|20000-2A6DF|2A700-2B73F|2B740-2B81F|2B820-2CEAF|2CEB0-2EBEF|
+|码位|[4E00-9FFF](https://www.unicode.org/charts/PDF/U4E00.pdf)|[3400-4DBF](https://www.unicode.org/charts/PDF/U3400.pdf)|[20000-2A6DF](https://www.unicode.org/charts/PDF/U20000.pdf)|[2A700-2B73F](https://www.unicode.org/charts/PDF/U2A700.pdf)|[2B740-2B81F](https://www.unicode.org/charts/PDF/U2B740.pdf)|[2B820-2CEAF](https://www.unicode.org/charts/PDF/U2B820.pdf)|[2CEB0-2EBEF](https://www.unicode.org/charts/PDF/U2CEB0.pdf)|
 |码数|20,992|6,592|42,720|4,160|224|5,776|7,488|
 |1.0.1|20,902|||||||
 |3.0.0||6,582||||||
