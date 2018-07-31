@@ -8,7 +8,7 @@
 
 ## 讨论区
 
-[Issues](https://github.com/CNMan/Unicode_CJK_XSJWBBM/issues)、[新世纪五笔吧](http://tieba.baidu.com/f?kw=新世纪五笔&ie=utf-8)、QQ群（38021162）
+[Issues](https://github.com/CNMan/Unicode_CJK_XSJWBBM/issues)、[新世纪五笔吧](http://tieba.baidu.com/f?kw=新世纪五笔&ie=utf-8)、新世纪五笔QQ群（38021162）、Unicode漢字交流QQ群（436064726）
 
 ## 文本编辑器
 
