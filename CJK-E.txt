@@ -159,7 +159,7 @@
 2B8BE	𫢾	wsrg
 2B8BF	𫢿	waqc
 2B8C0	𫣀	wgih
-2B8C1	𫣁	wkjh
+2B8C1	𫣁	wkjf
 2B8C2	𫣂	wecl
 2B8C3	𫣃	wgbv
 2B8C4	𫣄	wdyg
@@ -587,7 +587,7 @@
 2BA6A	𫩪	kufg
 2BA6B	𫩫	kddy
 2BA6C	𫩬	dhvk
-2BA6D	𫩭	kjh
+2BA6D	𫩭	kjfh
 2BA6E	𫩮	kjy
 2BA6F	𫩯	kmnn
 2BA70	𫩰	ktuf
@@ -1327,7 +1327,7 @@
 2BD4E	𫵎	dnui
 2BD4F	𫵏	dnxx
 2BD50	𫵐	anyq
-2BD51	𫵑	wqhj
+2BD51	𫵑	wqhf
 2BD52	𫵒	wqkm
 2BD53	𫵓	nmwi
 2BD54	𫵔	ned
@@ -1515,7 +1515,7 @@
 2BE0A	𫸊	yagq
 2BE0B	𫸋	yagf
 2BE0C	𫸌	yagn
-2BE0D	𫸍	yagj
+2BE0D	𫸍	oagf
 2BE0E	𫸎	yage
 2BE0F	𫸏	yagu
 2BE10	𫸐	yagp
@@ -2067,7 +2067,7 @@
 2C032	𬀲	jyou
 2C033	𬀳	wfwj
 2C034	𬀴	jgqj
-2C035	𬀵	jrwy
+2C035	𬀵	jfrw
 2C036	𬀶	jtgv
 2C037	𬀷	tjgr
 2C038	𬀸	jygq
@@ -2082,7 +2082,7 @@
 2C041	𬁁	jpeg
 2C042	𬁂	gnaj
 2C043	𬁃	jfdt
-2C044	𬁄	jfqw
+2C044	𬁄	jffw
 2C045	𬁅	jjag
 2C046	𬁆	eftj
 2C047	𬁇	jtgf
@@ -2568,7 +2568,7 @@
 2C227	𬈧	ifuk
 2C228	𬈨	ilwb
 2C229	𬈩	iagy
-2C22A	𬈪	iljh
+2C22A	𬈪	iljf
 2C22B	𬈫	itjf
 2C22C	𬈬	ievn
 2C22D	𬈭	itgl
@@ -4250,7 +4250,7 @@
 2C8B9	𬢹	ycuh
 2C8BA	𬢺	fjty
 2C8BB	𬢻	yxhw
-2C8BC	𬢼	yagj
+2C8BC	𬢼	yajf
 2C8BD	𬢽	ydmo
 2C8BE	𬢾	ydff
 2C8BF	𬢿	yawk

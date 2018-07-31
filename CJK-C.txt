@@ -128,7 +128,7 @@
 2A77F	𪝿	jbqb
 2A780	𪞀	iqqh
 2A781	𪞁	qkqc
-2A782	𪞂	qkqj
+2A782	𪞂	qkqf
 2A783	𪞃	iqjg
 2A784	𪞄	tfqd
 2A785	𪞅	ycqk
@@ -245,7 +245,7 @@
 2A7F4	𪟴	fkfn
 2A7F5	𪟵	fjvy
 2A7F6	𪟶	ufik
-2A7F7	𪟷	hjch
+2A7F7	𪟷	hjfg
 2A7F8	𪟸	ufuy
 2A7F9	𪟹	fpxc
 2A7FA	𪟺	fjwj
@@ -253,7 +253,7 @@
 2A7FC	𪟼	ywww
 2A7FD	𪟽	hbj
 2A7FE	𪟾	fihi
-2A7FF	𪟿	hjhy
+2A7FF	𪟿	hjfh
 2A800	𪠀	hpgf
 2A801	𪠁	wgkb
 2A802	𪠂	cvcb
@@ -1113,7 +1113,7 @@
 2AB58	𪭘	ynan
 2AB59	𪭙	ynmk
 2AB5A	𪭚	ynjh
-2AB5B	𪭛	ynaj
+2AB5B	𪭛	ynaf
 2AB5C	𪭜	rqy
 2AB5D	𪭝	rfnh
 2AB5E	𪭞	rtxy
@@ -1825,7 +1825,7 @@
 2AE20	𪸠	oyni
 2AE21	𪸡	oxcy
 2AE22	𪸢	onhy
-2AE23	𪸣	jou
+2AE23	𪸣	jfou
 2AE24	𪸤	odnt
 2AE25	𪸥	obg
 2AE26	𪸦	ftxo
@@ -2319,7 +2319,7 @@
 2B00E	𫀎	pyyg
 2B00F	𫀏	fipq
 2B010	𫀐	pygh
-2B011	𫀑	pyhj
+2B011	𫀑	pyhf
 2B012	𫀒	pyjr
 2B013	𫀓	pykn
 2B014	𫀔	pyqs
@@ -2443,7 +2443,7 @@
 2B08A	𫂊	tsgh
 2B08B	𫂋	tafs
 2B08C	𫂌	tlwn
-2B08D	𫂍	tkjj
+2B08D	𫂍	tkjf
 2B08E	𫂎	tqjd
 2B08F	𫂏	tovy
 2B090	𫂐	tdwi
@@ -2625,7 +2625,7 @@
 2B140	𫅀	lfnb
 2B141	𫅁	lwxb
 2B142	𫅂	ldf
-2B143	𫅃	pqjj
+2B143	𫅃	pwjf
 2B144	𫅄	liqb
 2B145	𫅅	lyjj
 2B146	𫅆	mqqv
@@ -2740,7 +2740,7 @@
 2B1B3	𫆳	ejlc
 2B1B4	𫆴	pnte
 2B1B5	𫆵	egjn
-2B1B6	𫆶	hjye
+2B1B6	𫆶	hjfe
 2B1B7	𫆷	eyfx
 2B1B8	𫆸	mwwf
 2B1B9	𫆹	eadi
@@ -3893,7 +3893,7 @@
 2B634	𫘴	menf
 2B635	𫘵	ymkb
 2B636	𫘶	rgyk
-2B637	𫘷	ymkj
+2B637	𫘷	ykmf
 2B638	𫘸	denb
 2B639	𫘹	deqy
 2B63A	𫘺	devf
@@ -4079,7 +4079,7 @@
 2B6EE	𫛮	umig
 2B6EF	𫛯	xyqg
 2B6F0	𫛰	adwg
-2B6F1	𫛱	hjqg
+2B6F1	𫛱	hjfg
 2B6F2	𫛲	mfkg
 2B6F3	𫛳	ebcg
 2B6F4	𫛴	ujfg
