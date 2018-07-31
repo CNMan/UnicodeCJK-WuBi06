@@ -23,7 +23,7 @@
 2B756	𫝖	qdno
 2B757	𫝗	drbd
 2B758	𫝘	kdnn
-2B759	𫝙	tmkh
+2B759	𫝙	tmkg
 2B75A	𫝚	klfc
 2B75B	𫝛	shmk
 2B75C	𫝜	kvsy
