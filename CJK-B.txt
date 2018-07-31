@@ -39399,7 +39399,7 @@
 299E6	𩧦	cwjh
 299E7	𩧧	cug
 299E8	𩧨	cmg
-299E9	𩧩	cgt
+299E9	𩧩	cgfy
 299EA	𩧪	cdxn
 299EB	𩧫	cmdy
 299EC	𩧬	cmfg

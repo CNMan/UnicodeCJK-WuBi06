@@ -2155,7 +2155,7 @@
 2AF6A	𪽪	utay
 2AF6B	𪽫	urhy
 2AF6C	𪽬	ufii
-2AF6D	𪽭	uge
+2AF6D	𪽭	ufxy
 2AF6E	𪽮	uhne
 2AF6F	𪽯	uxhj
 2AF70	𪽰	ukhi
