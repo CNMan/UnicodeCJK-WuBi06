@@ -2244,7 +2244,7 @@
 2C0E3	𬃣	semf
 2C0E4	𬃤	svhn
 2C0E5	𬃥	thfs
-2C0E6	𬃦	sthg
+2C0E6	𬃦	sthy
 2C0E7	𬃧	spff
 2C0E8	𬃨	upms
 2C0E9	𬃩	suvs
@@ -2871,7 +2871,7 @@
 2C356	𬍖	giy
 2C357	𬍗	gart
 2C358	𬍘	gdkg
-2C359	𬍙	ggt
+2C359	𬍙	gfxy
 2C35A	𬍚	gthf
 2C35B	𬍛	gqiy
 2C35C	𬍜	gpsh
@@ -4211,7 +4211,7 @@
 2C892	𬢒	pjuq
 2C893	𬢓	umiq
 2C894	𬢔	wgkq
-2C895	𬢕	qegt
+2C895	𬢕	qegy
 2C896	𬢖	qeiq
 2C897	𬢗	wwke
 2C898	𬢘	qewh
@@ -4287,7 +4287,7 @@
 2C8DE	𬣞	ypgg
 2C8DF	𬣟	yufh
 2C8E0	𬣠	yafg
-2C8E1	𬣡	ygt
+2C8E1	𬣡	yfxy
 2C8E2	𬣢	ywbn
 2C8E3	𬣣	yygg
 2C8E4	𬣤	yyxy
@@ -4742,7 +4742,7 @@
 2CAA5	𬪥	lrlb
 2CAA6	𬪦	sgfj
 2CAA7	𬪧	sgaq
-2CAA8	𬪨	sggt
+2CAA8	𬪨	sgfy
 2CAA9	𬪩	sgpe
 2CAAA	𬪪	sgsg
 2CAAB	𬪫	sguj
