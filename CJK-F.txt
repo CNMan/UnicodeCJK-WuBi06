@@ -29,7 +29,7 @@
 2CECC	𬻌	xhhf
 2CECD	𬻍	dxgh
 2CECE	𬻎	gjty
-2CECF	𬻏	gulf
+2CECF	𬻏	xhhg
 2CED0	𬻐	sqvh
 2CED1	𬻑	sqcn
 2CED2	𬻒	rtah
@@ -756,7 +756,7 @@
 2D1A3	𭆣	kaff
 2D1A4	𭆤	uxkf
 2D1A5	𭆥	kmah
-2D1A6	𭆦	kryy
+2D1A6	𭆦	chgf
 2D1A7	𭆧	kwmh
 2D1A8	𭆨	qkqy
 2D1A9	𭆩	kpfj
@@ -779,7 +779,7 @@
 2D1BA	𭆺	krgi
 2D1BB	𭆻	kwyg
 2D1BC	𭆼	gnck
-2D1BD	𭆽	kyth
+2D1BD	𭆽	khgf
 2D1BE	𭆾	kpbg
 2D1BF	𭆿	kynv
 2D1C0	𭇀	kiag
@@ -3098,7 +3098,7 @@
 2DAC9	𭫉	tfnj
 2DACA	𭫊	wgkn
 2DACB	𭫋	tfne
-2DACC	𭫌	tfnt
+2DACC	𭫌	cccg
 2DACD	𭫍	fwtn
 2DACE	𭫎	ajtn
 2DACF	𭫏	imkn
@@ -3228,7 +3228,7 @@
 2DB4B	𭭋	idht
 2DB4C	𭭌	ilfh
 2DB4D	𭭍	ifpd
-2DB4E	𭭎	idlg
+2DB4E	𭭎	hgtw
 2DB4F	𭭏	iagj
 2DB50	𭭐	ihxs
 2DB51	𭭑	iogm
@@ -3912,7 +3912,7 @@
 2DDF7	𭷷	xxrt
 2DDF8	𭷸	ryhc
 2DDF9	𭷹	rgtt
-2DDFA	𭷺	kwdt
+2DDFA	𭷺	qthn
 2DDFB	𭷻	gmwt
 2DDFC	𭷼	hjqh
 2DDFD	𭷽	fnyn
@@ -4179,7 +4179,7 @@
 2DF02	𭼂	qdbn
 2DF03	𭼃	uqgn
 2DF04	𭼄	gnye
-2DF05	𭼅	gnyf
+2DF05	𭼅	hgth
 2DF06	𭼆	mgkn
 2DF07	𭼇	gnye
 2DF08	𭼈	usrn
@@ -4354,7 +4354,7 @@
 2DFB1	𭾱	rudj
 2DFB2	𭾲	rgjx
 2DFB3	𭾳	rfaq
-2DFB4	𭾴	rjqr
+2DFB4	𭾴	hgnh
 2DFB5	𭾵	rdjd
 2DFB6	𭾶	rgdn
 2DFB7	𭾷	djjs
@@ -4524,7 +4524,7 @@
 2E05B	𮁛	tdaf
 2E05C	𮁜	sqad
 2E05D	𮁝	ctdk
-2E05E	𮁞	htdt
+2E05E	𮁞	fkhg
 2E05F	𮁟	tdqj
 2E060	𮁠	ddy
 2E061	𮁡	dgg
@@ -5206,7 +5206,7 @@
 2E305	𮌅	digs
 2E306	𮌆	dihg
 2E307	𮌇	diuk
-2E308	𮌈	difx
+2E308	𮌈	hgef
 2E309	𮌉	dipb
 2E30A	𮌊	diev
 2E30B	𮌋	difl
@@ -6045,7 +6045,7 @@
 2E64C	𮙌	fpgj
 2E64D	𮙍	ebk
 2E64E	𮙎	gieu
-2E64F	𮙏	jhey
+2E64F	𮙏	dhgy
 2E650	𮙐	tjeu
 2E651	𮙑	ujeu
 2E652	𮙒	gvhe
@@ -6163,7 +6163,7 @@
 2E6C2	𮛂	khtn
 2E6C3	𮛃	khwk
 2E6C4	𮛄	khtj
-2E6C5	𮛅	khvc
+2E6C5	𮛅	hgkh
 2E6C6	𮛆	khrl
 2E6C7	𮛇	khfq
 2E6C8	𮛈	khdi
@@ -6991,7 +6991,7 @@
 2E9FE	𮧾	tffe
 2E9FF	𮧿	wpgw
 2EA00	𮨀	wpwq
-2EA01	𮨁	wyvd
+2EA01	𮨁	hgnm
 2EA02	𮨂	wpus
 2EA03	𮨃	wpag
 2EA04	𮨄	wpkm

@@ -610,7 +610,7 @@
 2A961	𪥡	bued
 2A962	𪥢	oyod
 2A963	𪥣	exdq
-2A964	𪥤	hvf
+2A964	𪥤	hgvf
 2A965	𪥥	vthh
 2A966	𪥦	vgxg
 2A967	𪥧	vhg
@@ -1368,7 +1368,7 @@
 2AC57	𪱗	uljn
 2AC58	𪱘	maev
 2AC59	𪱙	ecy
-2AC5A	𪱚	ehg
+2AC5A	𪱚	ehgg
 2AC5B	𪱛	vtef
 2AC5C	𪱜	ckeg
 2AC5D	𪱝	bief
@@ -1392,7 +1392,7 @@
 2AC6F	𪱯	ynen
 2AC70	𪱰	deyf
 2AC71	𪱱	sghu
-2AC72	𪱲	shg
+2AC72	𪱲	shgg
 2AC73	𪱳	skg
 2AC74	𪱴	svg
 2AC75	𪱵	vsu
@@ -3460,7 +3460,7 @@
 2B483	𫒃	tgjx
 2B484	𫒄	ocdf
 2B485	𫒅	tgjc
-2B486	𫒆	qhg
+2B486	𫒆	qhgg
 2B487	𫒇	qtan
 2B488	𫒈	qvf
 2B489	𫒉	qbh
