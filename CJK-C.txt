@@ -1050,7 +1050,7 @@
 2AB19	𪬙	nike
 2AB1A	𪬚	nprw
 2AB1B	𪬛	pwwn
-2AB1C	𪬜	nyod
+2AB1C	𪬜	nyoy
 2AB1D	𪬝	nugn
 2AB1E	𪬞	nnhg
 2AB1F	𪬟	ssen
@@ -1903,7 +1903,7 @@
 2AE6E	𪹮	tfno
 2AE6F	𪹯	owys
 2AE70	𪹰	oycy
-2AE71	𪹱	ybdo
+2AE71	𪹱	ykbo
 2AE72	𪹲	oyct
 2AE73	𪹳	onty
 2AE74	𪹴	odap
@@ -4130,7 +4130,7 @@
 2B721	𫜡	hndy
 2B722	𫜢	vnug
 2B723	𫜣	vnuu
-2B724	𫜤	thld
+2B724	𫜤	thly
 2B725	𫜥	hbmm
 2B726	𫜦	hbgy
 2B727	𫜧	hbps

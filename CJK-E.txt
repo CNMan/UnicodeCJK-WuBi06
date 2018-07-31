@@ -1001,7 +1001,7 @@
 2BC08	𫰈	vghy
 2BC09	𫰉	vmyy
 2BC0A	𫰊	vvf
-2BC0B	𫰋	vdy
+2BC0B	𫰋	vdyy
 2BC0C	𫰌	vgg
 2BC0D	𫰍	vfnh
 2BC0E	𫰎	vaht
@@ -2824,16 +2824,16 @@
 2C327	𬌧	trmj
 2C328	𬌨	trqo
 2C329	𬌩	qtyy
-2C32A	𬌪	daj
+2C32A	𬌪	dyaj
 2C32B	𬌫	qttc
 2C32C	𬌬	qtda
 2C32D	𬌭	qtna
 2C32E	𬌮	qtaq
 2C32F	𬌯	qtbg
-2C330	𬌰	drey
+2C330	𬌰	dyre
 2C331	𬌱	qtut
 2C332	𬌲	qtsg
-2C333	𬌳	gafd
+2C333	𬌳	gafy
 2C334	𬌴	qtvo
 2C335	𬌵	qtlp
 2C336	𬌶	qtag
@@ -2844,7 +2844,7 @@
 2C33B	𬌻	qtvm
 2C33C	𬌼	qtvl
 2C33D	𬌽	qtdf
-2C33E	𬌾	qmwd
+2C33E	𬌾	qmwy
 2C33F	𬌿	qtuy
 2C340	𬍀	qtye
 2C341	𬍁	qtlp
@@ -2854,10 +2854,10 @@
 2C345	𬍅	qtpw
 2C346	𬍆	qtfy
 2C347	𬍇	qtro
-2C348	𬍈	gmwd
+2C348	𬍈	gmwy
 2C349	𬍉	qtqt
-2C34A	𬍊	vydy
-2C34B	𬍋	wfgd
+2C34A	𬍊	eydy
+2C34B	𬍋	egny
 2C34C	𬍌	qtqd
 2C34D	𬍍	qtff
 2C34E	𬍎	qtfe
@@ -3646,7 +3646,7 @@
 2C65D	𬙝	lxxf
 2C65E	𬙞	lfca
 2C65F	𬙟	latd
-2C660	𬙠	lxxd
+2C660	𬙠	lxxy
 2C661	𬙡	mqqw
 2C662	𬙢	ljqr
 2C663	𬙣	lrna
@@ -4965,7 +4965,7 @@
 2CB84	𬮄	dtdj
 2CB85	𬮅	ulv
 2CB86	𬮆	ubv
-2CB87	𬮇	udi
+2CB87	𬮇	udyi
 2CB88	𬮈	uqi
 2CB89	𬮉	ubmk
 2CB8A	𬮊	udww
@@ -4987,7 +4987,7 @@
 2CB9A	𬮚	uad
 2CB9B	𬮛	uhgd
 2CB9C	𬮜	ugdi
-2CB9D	𬮝	udi
+2CB9D	𬮝	udyi
 2CB9E	𬮞	uwgn
 2CB9F	𬮟	uoi
 2CBA0	𬮠	uskd
@@ -5049,7 +5049,7 @@
 2CBD8	𬯘	bcce
 2CBD9	𬯙	becc
 2CBDA	𬯚	busd
-2CBDB	𬯛	bynd
+2CBDB	𬯛	byny
 2CBDC	𬯜	bskw
 2CBDD	𬯝	btgn
 2CBDE	𬯞	bqvc

@@ -978,7 +978,7 @@
 2D281	𭊁	ktji
 2D282	𭊂	kqqq
 2D283	𭊃	ktrb
-2D284	𭊄	keaj
+2D284	𭊄	kgky
 2D285	𭊅	kyvp
 2D286	𭊆	kyvp
 2D287	𭊇	kpfu
@@ -2014,7 +2014,7 @@
 2D68D	𭚍	gqxn
 2D68E	𭚎	gjgn
 2D68F	𭚏	ltnu
-2D690	𭚐	jnu
+2D690	𭚐	ojef
 2D691	𭚑	njh
 2D692	𭚒	nqyy
 2D693	𭚓	udnu
@@ -3051,7 +3051,7 @@
 2DA9A	𭪚	gqsj
 2DA9B	𭪛	gqtk
 2DA9C	𭪜	gqyj
-2DA9D	𭪝	gqgq
+2DA9D	𭪝	ssdy
 2DA9E	𭪞	gqfj
 2DA9F	𭪟	gqao
 2DAA0	𭪠	ugqu
@@ -3116,7 +3116,7 @@
 2DADB	𭫛	nqen
 2DADC	𭫜	nwyn
 2DADD	𭫝	tfnt
-2DADE	𭫞	ymmn
+2DADE	𭫞	sahy
 2DADF	𭫟	tfnf
 2DAE0	𭫠	xiyn
 2DAE1	𭫡	tfng
@@ -3917,9 +3917,9 @@
 2DDFC	𭷼	hjqh
 2DDFD	𭷽	fnyn
 2DDFE	𭷾	ycgd
-2DDFF	𭷿	yrey
+2DDFF	𭷿	dynk
 2DE00	𭸀	yylg
-2DE01	𭸁	jsh
+2DE01	𭸁	jhdy
 2DE02	𭸂	tjf
 2DE03	𭸃	cjf
 2DE04	𭸄	jcqb
@@ -3929,7 +3929,7 @@
 2DE08	𭸈	jqhf
 2DE09	𭸉	fwfj
 2DE0A	𭸊	jlqb
-2DE0B	𭸋	jthq
+2DE0B	𭸋	gkiy
 2DE0C	𭸌	jqwc
 2DE0D	𭸍	fqfj
 2DE0E	𭸎	jusy
@@ -3953,18 +3953,18 @@
 2DE20	𭸠	sktd
 2DE21	𭸡	slkp
 2DE22	𭸢	gogo
-2DE23	𭸣	sahd
+2DE23	𭸣	ghvy
 2DE24	𭸤	srxu
 2DE25	𭸥	swyt
 2DE26	𭸦	stdq
 2DE27	𭸧	sawy
 2DE28	𭸨	sxxa
 2DE29	𭸩	stsh
-2DE2A	𭸪	sawk
+2DE2A	𭸪	ogwy
 2DE2B	𭸫	sstp
 2DE2C	𭸬	sfpc
 2DE2D	𭸭	syky
-2DE2E	𭸮	tdas
+2DE2E	𭸮	ghvy
 2DE2F	𭸯	gvjw
 2DE30	𭸰	ssac
 2DE31	𭸱	sfhw
@@ -5069,7 +5069,7 @@
 2E27C	𮉼	xkba
 2E27D	𮉽	xdlo
 2E27E	𮉾	xipj
-2E27F	𮉿	xjse
+2E27F	𮉿	ldyy
 2E280	𮊀	xsdp
 2E281	𮊁	adki
 2E282	𮊂	xwyk
@@ -6581,7 +6581,7 @@
 2E864	𮡤	qyty
 2E865	𮡥	qjta
 2E866	𮡦	qyyg
-2E867	𮡧	qkns
+2E867	𮡧	qdyy
 2E868	𮡨	trtq
 2E869	𮡩	qyjg
 2E86A	𮡪	qpdw
@@ -6728,7 +6728,7 @@
 2E8F7	𮣷	gdub
 2E8F8	𮣸	umwi
 2E8F9	𮣹	uite
-2E8FA	𮣺	uuxv
+2E8FA	𮣺	dcdy
 2E8FB	𮣻	unte
 2E8FC	𮣼	uiad
 2E8FD	𮣽	ugag
