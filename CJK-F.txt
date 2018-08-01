@@ -221,7 +221,7 @@
 2CF8C	𬾌	wqrn
 2CF8D	𬾍	wwib
 2CF8E	𬾎	wihc
-2CF8F	𬾏	wipb
+2CF8F	𬾏	wrbh
 2CF90	𬾐	wbkg
 2CF91	𬾑	wcib
 2CF92	𬾒	wlkf
@@ -2335,7 +2335,7 @@
 2D7CE	𭟎	rpvs
 2D7CF	𭟏	ropy
 2D7D0	𭟐	rywf
-2D7D1	𭟑	riiv
+2D7D1	𭟑	nsrh
 2D7D2	𭟒	rvve
 2D7D3	𭟓	rfjn
 2D7D4	𭟔	rftg

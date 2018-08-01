@@ -11426,7 +11426,7 @@
 22CA1	𢲡	rwgr
 22CA2	𢲢	rbwt
 22CA3	𢲣	rujn
-22CA4	𢲤	rymk
+22CA4	𢲤	rykk
 22CA5	𢲥	rqfh
 22CA6	𢲦	rbat
 22CA7	𢲧	rayw
@@ -30704,7 +30704,7 @@
 277EF	𧟯	sfwn
 277F0	𧟰	qrsv
 277F1	𧟱	gmjc
-277F2	𧟲	gmjd
+277F2	𧟲	gmjh
 277F3	𧟳	gmje
 277F4	𧟴	gmjq
 277F5	𧟵	sebc
@@ -33995,7 +33995,7 @@
 284CA	𨓊	bnpv
 284CB	𨓋	ycap
 284CC	𨓌	vopi
-284CD	𨓍	yrpe
+284CD	𨓍	orpe
 284CE	𨓎	ibpd
 284CF	𨓏	mgpd
 284D0	𨓐	ktkp
@@ -34736,7 +34736,7 @@
 287AF	𨞯	gjgc
 287B0	𨞰	kcrc
 287B1	𨞱	kipb
-287B2	𨞲	rcbh
+287B2	𨞲	rcob
 287B3	𨞳	thlb
 287B4	𨞴	oolb
 287B5	𨞵	nagb
