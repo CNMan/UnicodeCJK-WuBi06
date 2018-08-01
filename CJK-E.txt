@@ -2822,7 +2822,7 @@
 2C325	𬌥	trov
 2C326	𬌦	trjf
 2C327	𬌧	trmj
-2C328	𬌨	trqo
+2C328	𬌨	tqeo
 2C329	𬌩	qtyy
 2C32A	𬌪	dyaj
 2C32B	𬌫	qttc
@@ -3856,7 +3856,7 @@
 2C72F	𬜯	agmw
 2C730	𬜰	akyu
 2C731	𬜱	atdj
-2C732	𬜲	aqef
+2C732	𬜲	aqeh
 2C733	𬜳	awgy
 2C734	𬜴	annw
 2C735	𬜵	aykf
@@ -4211,10 +4211,10 @@
 2C892	𬢒	pjuq
 2C893	𬢓	umiq
 2C894	𬢔	wgkq
-2C895	𬢕	qegy
-2C896	𬢖	qeiq
-2C897	𬢗	wwke
-2C898	𬢘	qewh
+2C895	𬢕	qehy
+2C896	𬢖	qehi
+2C897	𬢗	wwkh
+2C898	𬢘	qehh
 2C899	𬢙	ynky
 2C89A	𬢚	dyd
 2C89B	𬢛	yqn
@@ -4269,7 +4269,7 @@
 2C8CC	𬣌	yafb
 2C8CD	𬣍	ylgf
 2C8CE	𬣎	ywgg
-2C8CF	𬣏	wfqy
+2C8CF	𬣏	eqey
 2C8D0	𬣐	yuxn
 2C8D1	𬣑	ynwy
 2C8D2	𬣒	yajj
@@ -5592,7 +5592,7 @@
 2CDF7	𬷷	oopo
 2CDF8	𬷸	wvgv
 2CDF9	𬷹	awyo
-2CDFA	𬷺	qeyo
+2CDFA	𬷺	qeho
 2CDFB	𬷻	qynn
 2CDFC	𬷼	qqyg
 2CDFD	𬷽	qynb
