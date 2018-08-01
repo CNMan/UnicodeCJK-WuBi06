@@ -2971,7 +2971,7 @@
 2C3BA	𬎺	tgri
 2C3BB	𬎻	ydth
 2C3BC	𬎼	wetg
-2C3BD	𬎽	eqhh
+2C3BD	𬎽	ehqh
 2C3BE	𬎾	vehk
 2C3BF	𬎿	ulf
 2C3C0	𬏀	lqyy
@@ -4775,7 +4775,7 @@
 2CAC6	𬫆	qftc
 2CAC7	𬫇	qafg
 2CAC8	𬫈	kbqf
-2CAC9	𬫉	qeh
+2CAC9	𬫉	qehh
 2CACA	𬫊	qwtf
 2CACB	𬫋	qtdc
 2CACC	𬫌	qqag

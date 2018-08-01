@@ -238,7 +238,7 @@
 200ED	𠃭	eknn
 200EE	𠃮	nnii
 200EF	𠃯	tenn
-200F0	𠃰	nwej
+200F0	𠃰	nweh
 200F1	𠃱	fpbn
 200F2	𠃲	wynn
 200F3	𠃳	vktk
@@ -1469,7 +1469,7 @@
 205BC	𠖼	mduu
 205BD	𠖽	uthf
 205BE	𠖾	ugsy
-205BF	𠖿	ueh
+205BF	𠖿	uehh
 205C0	𠗀	khwu
 205C1	𠗁	agwu
 205C2	𠗂	utkg
@@ -1514,7 +1514,7 @@
 205E9	𠗩	ujho
 205EA	𠗪	uyey
 205EB	𠗫	uqmd
-205EC	𠗬	urne
+205EC	𠗬	urnh
 205ED	𠗭	uthf
 205EE	𠗮	uadn
 205EF	𠗯	uriy
@@ -3111,7 +3111,7 @@
 20C26	𠰦	ynik
 20C27	𠰧	kgyy
 20C28	𠰨	kdtx
-20C29	𠰩	keh
+20C29	𠰩	kehh
 20C2A	𠰪	kghg
 20C2B	𠰫	dwkf
 20C2C	𠰬	kmf
@@ -3305,7 +3305,7 @@
 20CE8	𠳨	ktxu
 20CE9	𠳩	kwhc
 20CEA	𠳪	kqrk
-20CEB	𠳫	deh
+20CEB	𠳫	dehh
 20CEC	𠳬	ddg
 20CED	𠳭	kdqn
 20CEE	𠳮	dkmk
@@ -3692,7 +3692,7 @@
 20E6B	𠹫	ftyk
 20E6C	𠹬	mnmq
 20E6D	𠹭	kskk
-20E6E	𠹮	khxe
+20E6E	𠹮	khxh
 20E6F	𠹯	kbxf
 20E70	𠹰	kmtp
 20E71	𠹱	kias
@@ -3730,7 +3730,7 @@
 20E91	𠺑	ktdy
 20E92	𠺒	kthn
 20E93	𠺓	kqjh
-20E94	𠺔	keeh
+20E94	𠺔	kehh
 20E95	𠺕	kqyl
 20E96	𠺖	kyly
 20E97	𠺗	kopy
@@ -4770,7 +4770,7 @@
 212A1	𡊡	fmg
 212A2	𡊢	fmmg
 212A3	𡊣	rgff
-212A4	𡊤	feh
+212A4	𡊤	fehh
 212A5	𡊥	tfnf
 212A6	𡊦	fqkf
 212A7	𡊧	fqtb
@@ -5884,7 +5884,7 @@
 216FB	𡛻	vyni
 216FC	𡛼	vgyy
 216FD	𡛽	mvf
-216FE	𡛾	veh
+216FE	𡛾	vehh
 216FF	𡛿	vdag
 21700	𡜀	cdvf
 21701	𡜁	vrcy
@@ -7586,7 +7586,7 @@
 21DA1	𡶡	mufh
 21DA2	𡶢	mkqb
 21DA3	𡶣	mwtu
-21DA4	𡶤	mej
+21DA4	𡶤	mehj
 21DA5	𡶥	mlkf
 21DA6	𡶦	mrgf
 21DA7	𡶧	mug
@@ -8176,7 +8176,7 @@
 21FEF	𡿯	jvb
 21FF0	𡿰	ghfv
 21FF1	𡿱	gvtf
-21FF2	𡿲	vej
+21FF2	𡿲	vehj
 21FF3	𡿳	vmfh
 21FF4	𡿴	dvb
 21FF5	𡿵	vdf
@@ -9771,7 +9771,7 @@
 2262A	𢘪	ndfg
 2262B	𢘫	ghnu
 2262C	𢘬	ntbn
-2262D	𢘭	neh
+2262D	𢘭	nehh
 2262E	𢘮	nug
 2262F	𢘯	pxnu
 22630	𢘰	fvnu
@@ -10207,7 +10207,7 @@
 227DE	𢟞	nugi
 227DF	𢟟	ndja
 227E0	𢟠	ndwy
-227E1	𢟡	ngje
+227E1	𢟡	ngjh
 227E2	𢟢	nybc
 227E3	𢟣	nugi
 227E4	𢟤	fitn
@@ -10662,7 +10662,7 @@
 229A5	𢦥	aui
 229A6	𢦦	alk
 229A7	𢦧	cbta
-229A8	𢦨	aek
+229A8	𢦨	aehk
 229A9	𢦩	dtft
 229AA	𢦪	skat
 229AB	𢦫	glat
@@ -11739,7 +11739,7 @@
 22DDA	𢷚	rwgj
 22DDB	𢷛	rfqt
 22DDC	𢷜	rgki
-22DDD	𢷝	reen
+22DDD	𢷝	rehn
 22DDE	𢷞	rafl
 22DDF	𢷟	rfph
 22DE0	𢷠	rtgo
@@ -15570,7 +15570,7 @@
 23CD1	𣳑	ijhh
 23CD2	𣳒	imcy
 23CD3	𣳓	ihhy
-23CD4	𣳔	ieh
+23CD4	𣳔	iehh
 23CD5	𣳕	fiiu
 23CD6	𣳖	idf
 23CD7	𣳗	ixgu
@@ -18728,7 +18728,7 @@
 24927	𤤧	gmg
 24928	𤤨	glng
 24929	𤤩	gtbn
-2492A	𤤪	geh
+2492A	𤤪	gehh
 2492B	𤤫	gqhy
 2492C	𤤬	gxln
 2492D	𤤭	gkqy
@@ -19252,7 +19252,7 @@
 24B33	𤬳	amgn
 24B34	𤬴	nhnn
 24B35	𤬵	qagn
-24B36	𤬶	egnn
+24B36	𤬶	ehgy
 24B37	𤬷	bmgn
 24B38	𤬸	gnyg
 24B39	𤬹	dgnt
@@ -19458,15 +19458,15 @@
 24C01	𤰁	wfgg
 24C02	𤰂	tgye
 24C03	𤰃	thfh
-24C04	𤰄	vej
-24C05	𤰅	tej
+24C04	𤰄	vehj
+24C05	𤰅	tehj
 24C06	𤰆	thgh
-24C07	𤰇	atej
-24C08	𤰈	gjge
-24C09	𤰉	khej
-24C0A	𤰊	svej
-24C0B	𤰋	myvh
-24C0C	𤰌	eeej
+24C07	𤰇	ateh
+24C08	𤰈	gjgh
+24C09	𤰉	kheh
+24C0A	𤰊	sveh
+24C0B	𤰋	movh
+24C0C	𤰌	eheh
 24C0D	𤰍	awmy
 24C0E	𤰎	ybyh
 24C0F	𤰏	cecx
@@ -20556,7 +20556,7 @@
 2504B	𥁋	dglf
 2504C	𥁌	wgnl
 2504D	𥁍	lnwy
-2504E	𥁎	elf
+2504E	𥁎	ehlf
 2504F	𥁏	vklf
 25050	𥁐	cklf
 25051	𥁑	ntlf
@@ -22097,7 +22097,7 @@
 25650	𥙐	pyrk
 25651	𥙑	pyiq
 25652	𥙒	pync
-25653	𥙓	pyne
+25653	𥙓	pynh
 25654	𥙔	pypv
 25655	𥙕	pyfx
 25656	𥙖	pyaw
@@ -22420,7 +22420,7 @@
 25793	𥞓	tnfg
 25794	𥞔	tnan
 25795	𥞕	tbhq
-25796	𥞖	teh
+25796	𥞖	tehh
 25797	𥞗	tgmw
 25798	𥞘	tdhb
 25799	𥞙	twnq
@@ -22730,7 +22730,7 @@
 258C9	𥣉	tjtw
 258CA	𥣊	tlsp
 258CB	𥣋	tlqj
-258CC	𥣌	tmee
+258CC	𥣌	tmeh
 258CD	𥣍	twcj
 258CE	𥣎	twgu
 258CF	𥣏	tuxo
@@ -22875,7 +22875,7 @@
 2595A	𥥚	pqma
 2595B	𥥛	pqdq
 2595C	𥥜	pwtc
-2595D	𥥝	pwej
+2595D	𥥝	pweh
 2595E	𥥞	pqnc
 2595F	𥥟	pwgn
 25960	𥥠	pqqb
@@ -25050,7 +25050,7 @@
 261D9	𦇙	xwfh
 261DA	𦇚	voai
 261DB	𦇛	xgkm
-261DC	𦇜	xmee
+261DC	𦇜	xmeh
 261DD	𦇝	xooi
 261DE	𦇞	xkhp
 261DF	𦇟	xdto
@@ -25942,7 +25942,7 @@
 26555	𦕕	qbbf
 26556	𦕖	bthg
 26557	𦕗	btiy
-26558	𦕘	beh
+26558	𦕘	behh
 26559	𦕙	bqkg
 2655A	𦕚	bxjh
 2655B	𦕛	bnan
@@ -26230,7 +26230,7 @@
 26675	𦙵	qbef
 26676	𦙶	edg
 26677	𦙷	envn
-26678	𦙸	eeh
+26678	𦙸	eehh
 26679	𦙹	enhq
 2667A	𦙺	lkef
 2667B	𦙻	egoy
@@ -26705,7 +26705,7 @@
 26850	𦡐	eavp
 26851	𦡑	eham
 26852	𦡒	tmge
-26853	𦡓	evle
+26853	𦡓	evlh
 26854	𦡔	evnn
 26855	𦡕	efqn
 26856	𦡖	hdge
@@ -27612,7 +27612,7 @@
 26BDB	𦯛	amwa
 26BDC	𦯜	arqb
 26BDD	𦯝	ahiu
-26BDE	𦯞	adej
+26BDE	𦯞	adeh
 26BDF	𦯟	aefn
 26BE0	𦯠	atdn
 26BE1	𦯡	axnu
@@ -29320,7 +29320,7 @@
 27287	𧊇	waju
 27288	𧊈	naju
 27289	𧊉	jtpy
-2728A	𧊊	jeh
+2728A	𧊊	jehh
 2728B	𧊋	jjhh
 2728C	𧊌	jagn
 2728D	𧊍	jkqy
@@ -29854,7 +29854,7 @@
 2749D	𧒝	najj
 2749E	𧒞	jloe
 2749F	𧒟	ymnj
-274A0	𧒠	jpce
+274A0	𧒠	jpch
 274A1	𧒡	pdhj
 274A2	𧒢	njjj
 274A3	𧒣	abuj
@@ -30296,7 +30296,7 @@
 27657	𧙗	pudk
 27658	𧙘	qnye
 27659	𧙙	ymhe
-2765A	𧙚	yeej
+2765A	𧙚	yeeh
 2765B	𧙛	pudh
 2765C	𧙜	uyei
 2765D	𧙝	pury
@@ -33941,7 +33941,7 @@
 28494	𨒔	tdpi
 28495	𨒕	wfpi
 28496	𨒖	qtbp
-28497	𨒗	epk
+28497	𨒗	ehpk
 28498	𨒘	gmhp
 28499	𨒙	dpd
 2849A	𨒚	hpd
@@ -34009,7 +34009,7 @@
 284D8	𨓘	hmap
 284D9	𨓙	japk
 284DA	𨓚	ukqp
-284DB	𨓛	xepk
+284DB	𨓛	xehp
 284DC	𨓜	qkqp
 284DD	𨓝	qpmp
 284DE	𨓞	ycqp
@@ -34038,7 +34038,7 @@
 284F5	𨓵	wudp
 284F6	𨓶	ehvo
 284F7	𨓷	gvgp
-284F8	𨓸	sepk
+284F8	𨓸	sehp
 284F9	𨓹	mygp
 284FA	𨓺	kmkp
 284FB	𨓻	vipi
@@ -40956,7 +40956,7 @@
 29FFB	𩿻	uxwo
 29FFC	𩿼	wvgl
 29FFD	𩿽	tbwo
-29FFE	𩿾	ewvo
+29FFE	𩿾	ehwo
 29FFF	𩿿	qvwo
 2A000	𪀀	qnwo
 2A001	𪀁	wvgk
