@@ -1784,7 +1784,7 @@
 2BF17	𫼗	rcg
 2BF18	𫼘	rmyg
 2BF19	𫼙	rqan
-2BF1A	𫼚	ruy
+2BF1A	𫼚	rywy
 2BF1B	𫼛	rxhh
 2BF1C	𫼜	rhkg
 2BF1D	𫼝	rqvg
@@ -3655,7 +3655,7 @@
 2C666	𬙦	liec
 2C667	𬙧	lqje
 2C668	𬙨	lntc
-2C669	𬙩	lulu
+2C669	𬙩	lyww
 2C66A	𬙪	lxle
 2C66B	𬙫	lxfe
 2C66C	𬙬	ugaj
@@ -4057,7 +4057,7 @@
 2C7F8	𬟸	jdcy
 2C7F9	𬟹	jwxn
 2C7FA	𬟺	wwju
-2C7FB	𬟻	juy
+2C7FB	𬟻	jywy
 2C7FC	𬟼	jgsy
 2C7FD	𬟽	jaiy
 2C7FE	𬟾	janw
@@ -4130,7 +4130,7 @@
 2C841	𬡁	tkkh
 2C842	𬡂	puty
 2C843	𬡃	pufg
-2C844	𬡄	uneu
+2C844	𬡄	ywne
 2C845	𬡅	pubh
 2C846	𬡆	punn
 2C847	𬡇	yceu
@@ -4543,7 +4543,7 @@
 2C9DE	𬧞	khfe
 2C9DF	𬧟	khge
 2C9E0	𬧠	tmdn
-2C9E1	𬧡	tmdu
+2C9E1	𬧡	tmdw
 2C9E2	𬧢	tmdx
 2C9E3	𬧣	tmda
 2C9E4	𬧤	tmdl
