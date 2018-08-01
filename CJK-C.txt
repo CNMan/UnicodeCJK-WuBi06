@@ -694,7 +694,7 @@
 2A9B5	𪦵	fhwv
 2A9B6	𪦶	bfcy
 2A9B7	𪦷	bat
-2A9B8	𪦸	buy
+2A9B8	𪦸	bywy
 2A9B9	𪦹	byy
 2A9BA	𪦺	brg
 2A9BB	𪦻	wgkb
@@ -1751,7 +1751,7 @@
 2ADD6	𪷖	iqdo
 2ADD7	𪷗	ierf
 2ADD8	𪷘	irmr
-2ADD9	𪷙	iuqg
+2ADD9	𪷙	iywq
 2ADDA	𪷚	ipwh
 2ADDB	𪷛	ipgl
 2ADDC	𪷜	ixii
@@ -3058,7 +3058,7 @@
 2B2F1	𫋱	tmmh
 2B2F2	𫋲	puaq
 2B2F3	𫋳	puyn
-2B2F4	𫋴	uyeu
+2B2F4	𫋴	ywye
 2B2F5	𫋵	pujh
 2B2F6	𫋶	puvh
 2B2F7	𫋷	puch
