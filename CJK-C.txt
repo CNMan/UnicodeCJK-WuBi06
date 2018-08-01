@@ -733,7 +733,7 @@
 2A9DC	𪧜	pfyt
 2A9DD	𪧝	paao
 2A9DE	𪧞	pttu
-2A9DF	𪧟	pnte
+2A9DF	𪧟	pnth
 2A9E0	𪧠	pntg
 2A9E1	𪧡	fhnf
 2A9E2	𪧢	pfwy
@@ -1403,7 +1403,7 @@
 2AC7A	𪱺	sdag
 2AC7B	𪱻	ssg
 2AC7C	𪱼	fiwn
-2AC7D	𪱽	seh
+2AC7D	𪱽	sehh
 2AC7E	𪱾	sqiy
 2AC7F	𪱿	stbg
 2AC80	𪲀	srgg
@@ -3719,7 +3719,7 @@
 2B586	𫖆	akfw
 2B587	𫖇	akff
 2B588	𫖈	nakf
-2B589	𫖉	akfe
+2B589	𫖉	akfh
 2B58A	𫖊	akff
 2B58B	𫖋	akfc
 2B58C	𫖌	gkah
@@ -3907,7 +3907,7 @@
 2B642	𫙂	dcev
 2B643	𫙃	dceq
 2B644	𫙄	gkmh
-2B645	𫙅	gkme
+2B645	𫙅	gkmh
 2B646	𫙆	xwfh
 2B647	𫙇	xuwh
 2B648	𫙈	rqcw
