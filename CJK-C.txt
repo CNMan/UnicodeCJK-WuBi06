@@ -62,7 +62,7 @@
 2A73D	𪜽	wjff
 2A73E	𪜾	wegl
 2A73F	𪜿	wjvg
-2A740	𪝀	wqeg
+2A740	𪝀	wqeh
 2A741	𪝁	wekx
 2A742	𪝂	wyjg
 2A743	𪝃	wtcy
@@ -1938,7 +1938,7 @@
 2AE91	𪺑	rhye
 2AE92	𪺒	ehtu
 2AE93	𪺓	evhs
-2AE94	𪺔	epqe
+2AE94	𪺔	epqh
 2AE95	𪺕	exxx
 2AE96	𪺖	rhys
 2AE97	𪺗	evhq
@@ -2401,7 +2401,7 @@
 2B060	𫁠	ummg
 2B061	𫁡	uqyg
 2B062	𫁢	upgf
-2B063	𫁣	uqeg
+2B063	𫁣	uqeh
 2B064	𫁤	uvug
 2B065	𫁥	uyhk
 2B066	𫁦	undg
@@ -3067,7 +3067,7 @@
 2B2FA	𫋺	puiq
 2B2FB	𫋻	puwc
 2B2FC	𫋼	puxi
-2B2FD	𫋽	puqe
+2B2FD	𫋽	puqh
 2B2FE	𫋾	pudn
 2B2FF	𫋿	pust
 2B300	𫌀	pugm
@@ -3116,10 +3116,10 @@
 2B32B	𫌫	gliq
 2B32C	𫌬	sfiq
 2B32D	𫌭	mqtt
-2B32E	𫌮	qedn
-2B32F	𫌯	qetj
-2B330	𫌰	qejr
-2B331	𫌱	qenh
+2B32E	𫌮	qehn
+2B32F	𫌯	qehj
+2B330	𫌰	qehr
+2B331	𫌱	qehh
 2B332	𫌲	yaj
 2B333	𫌳	yvg
 2B334	𫌴	yyy
