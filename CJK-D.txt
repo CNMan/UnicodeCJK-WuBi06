@@ -52,8 +52,8 @@
 2B773	𫝳	mxn
 2B774	𫝴	mrgk
 2B775	𫝵	mdtf
-2B776	𫝶	ykwf
-2B777	𫝷	ykcf
+2B776	𫝶	okwf
+2B777	𫝷	okcf
 2B778	𫝸	uttw
 2B779	𫝹	wfnu
 2B77A	𫝺	renn
