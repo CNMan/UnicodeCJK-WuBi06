@@ -7895,7 +7895,7 @@
 21ED6	𡻖	mkmy
 21ED7	𡻗	mxhw
 21ED8	𡻘	mudl
-21ED9	𡻙	mybb
+21ED9	𡻙	mykb
 21EDA	𡻚	myvi
 21EDB	𡻛	mgwf
 21EDC	𡻜	mpqf
@@ -7921,7 +7921,7 @@
 21EF0	𡻰	mwfi
 21EF1	𡻱	mlxi
 21EF2	𡻲	mdlm
-21EF3	𡻳	mybb
+21EF3	𡻳	mykb
 21EF4	𡻴	mbft
 21EF5	𡻵	mtkk
 21EF6	𡻶	migt
@@ -13127,7 +13127,7 @@
 23346	𣍆	fnmj
 23347	𣍇	gjqc
 23348	𣍈	dhdu
-23349	𣍉	jybb
+23349	𣍉	jykb
 2334A	𣍊	jqwu
 2334B	𣍋	wglh
 2334C	𣍌	gqgj
@@ -17256,7 +17256,7 @@
 24367	𤍧	oopy
 24368	𤍨	ybvo
 24369	𤍩	oopu
-2436A	𤍪	oybb
+2436A	𤍪	oykb
 2436B	𤍫	fwyo
 2436C	𤍬	ofag
 2436D	𤍭	osbi
@@ -20641,7 +20641,7 @@
 250A0	𥂠	ahnl
 250A1	𥂡	ymnl
 250A2	𥂢	gqtl
-250A3	𥂣	ybbl
+250A3	𥂣	ykbl
 250A4	𥂤	wfdl
 250A5	𥂥	hqal
 250A6	𥂦	ybtl
@@ -21844,7 +21844,7 @@
 25553	𥕓	dajd
 25554	𥕔	dqwy
 25555	𥕕	dhah
-25556	𥕖	dybb
+25556	𥕖	dykb
 25557	𥕗	gjgd
 25558	𥕘	dvjs
 25559	𥕙	dytd
@@ -26064,7 +26064,7 @@
 265CF	𦗏	byvb
 265D0	𦗐	buey
 265D1	𦗑	bumd
-265D2	𦗒	bybb
+265D2	𦗒	bykb
 265D3	𦗓	bynx
 265D4	𦗔	bvjs
 265D5	𦗕	yfqb
@@ -28238,7 +28238,7 @@
 26E4D	𦹍	awta
 26E4E	𦹎	apwn
 26E4F	𦹏	aiwy
-26E50	𦹐	aybb
+26E50	𦹐	aykb
 26E51	𦹑	aynf
 26E52	𦹒	aakg
 26E53	𦹓	avhg
@@ -33676,7 +33676,7 @@
 2838B	𨎋	lipf
 2838C	𨎌	fufl
 2838D	𨎍	lyvi
-2838E	𨎎	lybb
+2838E	𨎎	lykb
 2838F	𨎏	lkdk
 28390	𨎐	fqfl
 28391	𨎑	fwll
@@ -41320,7 +41320,7 @@
 2A167	𪅧	fwyo
 2A168	𪅨	tqqo
 2A169	𪅩	ccco
-2A16A	𪅪	ybbo
+2A16A	𪅪	ykbo
 2A16B	𪅫	fako
 2A16C	𪅬	wajo
 2A16D	𪅭	whto
