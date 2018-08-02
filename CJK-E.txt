@@ -2359,7 +2359,7 @@
 2C156	𬅖	sqqb
 2C157	𬅗	yjfu
 2C158	𬅘	svsf
-2C159	𬅙	sqqb
+2C159	𬅙	srrb
 2C15A	𬅚	stud
 2C15B	𬅛	ssgx
 2C15C	𬅜	syrf
