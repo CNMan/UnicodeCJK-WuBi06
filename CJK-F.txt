@@ -3821,7 +3821,7 @@
 2DD9C	𭶜	pgwj
 2DD9D	𭶝	qeho
 2DD9E	𭶞	pwyf
-2DD9F	𭶟	dnuf
+2DD9F	𭶟	ykmo
 2DDA0	𭶠	nnfu
 2DDA1	𭶡	faff
 2DDA2	𭶢	ukff
@@ -5757,7 +5757,7 @@
 2E52C	𮔬	gkij
 2E52D	𮔭	jagy
 2E52E	𮔮	jkkn
-2E52F	𮔯	jhlo
+2E52F	𮔯	ykpj
 2E530	𮔰	jdhv
 2E531	𮔱	tjfn
 2E532	𮔲	jtjf
@@ -7174,11 +7174,11 @@
 2EAB5	𮪵	kkko
 2EAB6	𮪶	qokn
 2EAB7	𮪷	qouh
-2EAB8	𮪸	qoqg
-2EAB9	𮪹	qows
-2EABA	𮪺	qoqb
+2EAB8	𮪸	ykme
+2EAB9	𮪹	ykmc
+2EABA	𮪺	swck
 2EABB	𮪻	qott
-2EABC	𮪼	qolt
+2EABC	𮪼	ykms
 2EABD	𮪽	dced
 2EABE	𮪾	dcen
 2EABF	𮪿	dcef

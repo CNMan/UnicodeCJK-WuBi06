@@ -785,7 +785,7 @@
 2AA10	𪨐	nyuy
 2AA11	𪨑	nylk
 2AA12	𪨒	nakf
-2AA13	𪨓	nymk
+2AA13	𪨓	nykk
 2AA14	𪨔	nbhq
 2AA15	𪨕	ntfm
 2AA16	𪨖	ntfl
@@ -1256,7 +1256,7 @@
 2ABE7	𪯧	yqg
 2ABE8	𪯨	ydpv
 2ABE9	𪯩	ywyc
-2ABEA	𪯪	yymk
+2ABEA	𪯪	yykk
 2ABEB	𪯫	ufrg
 2ABEC	𪯬	rgkf
 2ABED	𪯭	adjf
@@ -3891,7 +3891,7 @@
 2B632	𫘲	mevj
 2B633	𫘳	mevp
 2B634	𫘴	menf
-2B635	𫘵	ymkb
+2B635	𫘵	ykmb
 2B636	𫘶	rgyk
 2B637	𫘷	ykmf
 2B638	𫘸	dcen
