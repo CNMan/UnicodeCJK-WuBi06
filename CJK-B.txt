@@ -17460,7 +17460,7 @@
 24433	𤐳	qqdo
 24434	𤐴	ojxo
 24435	𤐵	ofkk
-24436	𤐶	oype
+24436	𤐶	oyke
 24437	𤐷	oynf
 24438	𤐸	tgko
 24439	𤐹	ouwp
@@ -19093,7 +19093,7 @@
 24A94	𤪔	gtpn
 24A95	𤪕	grlh
 24A96	𤪖	gmgt
-24A97	𤪗	gype
+24A97	𤪗	gyke
 24A98	𤪘	gfkk
 24A99	𤪙	ggwq
 24A9A	𤪚	gfay
@@ -35735,7 +35735,7 @@
 28B96	𨮖	wfgq
 28B97	𨮗	qhaw
 28B98	𨮘	qpnm
-28B99	𨮙	qype
+28B99	𨮙	qyke
 28B9A	𨮚	qftk
 28B9B	𨮛	qyne
 28B9C	𨮜	ilrq
