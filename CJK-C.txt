@@ -110,7 +110,7 @@
 2A76D	𪝭	whad
 2A76E	𪝮	wytq
 2A76F	𪝯	wujf
-2A770	𪝰	wgcy
+2A770	𪝰	wgco
 2A771	𪝱	wmwh
 2A772	𪝲	towg
 2A773	𪝳	wiaw
@@ -174,7 +174,7 @@
 2A7AD	𪞭	uffq
 2A7AE	𪞮	ufwc
 2A7AF	𪞯	uyke
-2A7B0	𪞰	uucy
+2A7B0	𪞰	uuco
 2A7B1	𪞱	fpmb
 2A7B2	𪞲	mhkg
 2A7B3	𪞳	tfum
@@ -670,7 +670,7 @@
 2A99D	𪦝	vyky
 2A99E	𪦞	vnrg
 2A99F	𪦟	vbyu
-2A9A0	𪦠	ccvf
+2A9A0	𪦠	cocv
 2A9A1	𪦡	vgmi
 2A9A2	𪦢	veqg
 2A9A3	𪦣	vwtf
@@ -1214,7 +1214,7 @@
 2ABBD	𪮽	rrrm
 2ABBE	𪮾	ryns
 2ABBF	𪮿	rynt
-2ABC0	𪯀	rlkc
+2ABC0	𪯀	reko
 2ABC1	𪯁	rnay
 2ABC2	𪯂	rywn
 2ABC3	𪯃	raue
@@ -1801,7 +1801,7 @@
 2AE08	𪸈	ilff
 2AE09	𪸉	iqoi
 2AE0A	𪸊	ievq
-2AE0B	𪸋	ipfc
+2AE0B	𪸋	ipfo
 2AE0C	𪸌	iunu
 2AE0D	𪸍	nou
 2AE0E	𪸎	otmn
@@ -3549,7 +3549,7 @@
 2B4DC	𫓜	qyjd
 2B4DD	𫓝	qggq
 2B4DE	𫓞	qssk
-2B4DF	𫓟	qkkc
+2B4DF	𫓟	qkko
 2B4E0	𫓠	qfnb
 2B4E1	𫓡	qlft
 2B4E2	𫓢	qnlw
