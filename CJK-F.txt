@@ -5775,7 +5775,7 @@
 2E53E	𮔾	tjnv
 2E53F	𮔿	juep
 2E540	𮕀	jnro
-2E541	𮕁	jdhc
+2E541	𮕁	ykbj
 2E542	𮕂	bcjj
 2E543	𮕃	kjnj
 2E544	𮕄	jldy
@@ -7155,7 +7155,7 @@
 2EAA2	𮪢	qonk
 2EAA3	𮪣	qogg
 2EAA4	𮪤	qoqc
-2EAA5	𮪥	qove
+2EAA5	𮪥	cgyt
 2EAA6	𮪦	qoxf
 2EAA7	𮪧	qomc
 2EAA8	𮪨	qoel

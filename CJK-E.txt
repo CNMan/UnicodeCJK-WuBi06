@@ -3717,7 +3717,7 @@
 2C6A4	𬚤	bwgk
 2C6A5	𬚥	bwgp
 2C6A6	𬚦	bagf
-2C6A7	𬚧	bybt
+2C6A7	𬚧	bykt
 2C6A8	𬚨	bgwq
 2C6A9	𬚩	mddb
 2C6AA	𬚪	vfqu
@@ -4353,7 +4353,7 @@
 2C920	𬤠	ykkm
 2C921	𬤡	ytmd
 2C922	𬤢	yusf
-2C923	𬤣	yybt
+2C923	𬤣	yykt
 2C924	𬤤	yulj
 2C925	𬤥	ynnw
 2C926	𬤦	ykhp
@@ -5641,7 +5641,7 @@
 2CE28	𬸨	adwg
 2CE29	𬸩	tmog
 2CE2A	𬸪	tolg
-2CE2B	𬸫	ybtg
+2CE2B	𬸫	ykbg
 2CE2C	𬸬	fpgg
 2CE2D	𬸭	ajqg
 2CE2E	𬸮	awgg
