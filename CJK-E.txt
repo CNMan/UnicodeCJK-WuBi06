@@ -96,7 +96,7 @@
 2B87F	𫡿	ylko
 2B880	𫢀	ylkj
 2B881	𫢁	yjfi
-2B882	𫢂	yiih
+2B882	𫢂	ykih
 2B883	𫢃	ynky
 2B884	𫢄	ynky
 2B885	𫢅	wgg
@@ -1950,7 +1950,7 @@
 2BFBD	𫾽	wgkt
 2BFBE	𫾾	wwwt
 2BFBF	𫾿	wgnc
-2BFC0	𫿀	yity
+2BFC0	𫿀	ykit
 2BFC1	𫿁	alty
 2BFC2	𫿂	hpgt
 2BFC3	𫿃	rgty
@@ -2689,11 +2689,11 @@
 2C2A0	𬊠	owtm
 2C2A1	𬊡	oqrn
 2C2A2	𬊢	ough
-2C2A3	𬊣	oyiy
+2C2A3	𬊣	oyki
 2C2A4	𬊤	oujf
 2C2A5	𬊥	oylk
 2C2A6	𬊦	oomq
-2C2A7	𬊧	yiou
+2C2A7	𬊧	ykio
 2C2A8	𬊨	ovcx
 2C2A9	𬊩	oseg
 2C2AA	𬊪	dmou
@@ -5324,7 +5324,7 @@
 2CCEB	𬳫	clll
 2CCEC	𬳬	cgjq
 2CCED	𬳭	mumc
-2CCEE	𬳮	cyiy
+2CCEE	𬳮	coyi
 2CCEF	𬳯	ccde
 2CCF0	𬳰	cuql
 2CCF1	𬳱	ckhm

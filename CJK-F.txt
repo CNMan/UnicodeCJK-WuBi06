@@ -167,7 +167,7 @@
 2CF56	𬽖	wwhh
 2CF57	𬽗	wdxn
 2CF58	𬽘	wjg
-2CF59	𬽙	wufh
+2CF59	𬽙	ykiy
 2CF5A	𬽚	wynt
 2CF5B	𬽛	wnwy
 2CF5C	𬽜	wfmh
@@ -2115,7 +2115,7 @@
 2D6F2	𭛲	gogm
 2D6F3	𭛳	jegn
 2D6F4	𭛴	navb
-2D6F5	𭛵	hgdn
+2D6F5	𭛵	tyki
 2D6F6	𭛶	jjdn
 2D6F7	𭛷	njlq
 2D6F8	𭛸	nham
@@ -2698,7 +2698,7 @@
 2D939	𭤹	mafn
 2D93A	𭤺	qhjf
 2D93B	𭤻	mawn
-2D93C	𭤼	maat
+2D93C	𭤼	yyki
 2D93D	𭤽	jqrr
 2D93E	𭤾	gytj
 2D93F	𭤿	uljt
@@ -4920,7 +4920,7 @@
 2E1E7	𮇧	tjai
 2E1E8	𮇨	tynt
 2E1E9	𮇩	tpuf
-2E1EA	𮇪	tptl
+2E1EA	𮇪	oyki
 2E1EB	𮇫	tuee
 2E1EC	𮇬	tuto
 2E1ED	𮇭	tgho

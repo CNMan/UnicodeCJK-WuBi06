@@ -1618,7 +1618,7 @@
 2AD51	𪵑	fnmj
 2AD52	𪵒	ajmc
 2AD53	𪵓	ngcc
-2AD54	𪵔	txgi
+2AD54	𪵔	txyi
 2AD55	𪵕	xxwm
 2AD56	𪵖	tfnn
 2AD57	𪵗	tfne
@@ -3724,7 +3724,7 @@
 2B58B	𫖋	akfc
 2B58C	𫖌	gkah
 2B58D	𫖍	nhkh
-2B58E	𫖎	yinh
+2B58E	𫖎	ykih
 2B58F	𫖏	nhkc
 2B590	𫖐	fash
 2B591	𫖑	fnhn

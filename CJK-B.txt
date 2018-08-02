@@ -364,7 +364,7 @@
 2016B	𠅫	yqqm
 2016C	𠅬	ytfc
 2016D	𠅭	yukm
-2016E	𠅮	yifq
+2016E	𠅮	ykiq
 2016F	𠅯	yoyo
 20170	𠅰	yftx
 20171	𠅱	qcyy
@@ -379,13 +379,13 @@
 2017A	𠅺	ylns
 2017B	𠅻	ynie
 2017C	𠅼	yntw
-2017D	𠅽	ynmi
+2017D	𠅽	ynwi
 2017E	𠅾	ywqn
 2017F	𠅿	ypfh
 20180	𠆀	ypgf
 20181	𠆁	ylry
 20182	𠆂	ywwh
-20183	𠆃	yipq
+20183	𠆃	ykiq
 20184	𠆄	ywnm
 20185	𠆅	ywks
 20186	𠆆	ykgf
@@ -3481,7 +3481,7 @@
 20D98	𠶘	skgj
 20D99	𠶙	kagi
 20D9A	𠶚	kvsk
-20D9B	𠶛	kyiy
+20D9B	𠶛	kyki
 20D9C	𠶜	krmj
 20D9D	𠶝	kgkh
 20D9E	𠶞	kntg
@@ -4471,7 +4471,7 @@
 21176	𡅶	kpfc
 21177	𡅷	kyut
 21178	𡅸	fkug
-21179	𡅹	kyig
+21179	𡅹	kykg
 2117A	𡅺	kfkt
 2117B	𡅻	kkgk
 2117C	𡅼	kuyu
@@ -4925,7 +4925,7 @@
 2133C	𡌼	ytff
 2133D	𡌽	fyhk
 2133E	𡌾	fyma
-2133F	𡌿	fyiy
+2133F	𡌿	fyki
 21340	𡍀	frny
 21341	𡍁	sfcf
 21342	𡍂	giwf
@@ -6959,7 +6959,7 @@
 21B2E	𡬮	pnhf
 21B2F	𡬯	vhfu
 21B30	𡬰	efny
-21B31	𡬱	yify
+21B31	𡬱	ykif
 21B32	𡬲	vhfy
 21B33	𡬳	elfu
 21B34	𡬴	wahf
@@ -7052,7 +7052,7 @@
 21B8B	𡮋	istu
 21B8C	𡮌	ithc
 21B8D	𡮍	irbm
-21B8E	𡮎	ymyi
+21B8E	𡮎	ywyi
 21B8F	𡮏	itit
 21B90	𡮐	iiii
 21B91	𡮑	iten
@@ -7189,12 +7189,12 @@
 21C14	𡰔	ykin
 21C15	𡰕	wquf
 21C16	𡰖	dneh
-21C17	𡰗	yyin
+21C17	𡰗	ykyn
 21C18	𡰘	tdkn
 21C19	𡰙	usgn
 21C1A	𡰚	oqan
 21C1B	𡰛	wqal
-21C1C	𡰜	yyin
+21C1C	𡰜	ykyy
 21C1D	𡰝	dngy
 21C1E	𡰞	gqay
 21C1F	𡰟	wqyy
@@ -7772,10 +7772,10 @@
 21E5B	𡹛	mdjn
 21E5C	𡹜	mtvg
 21E5D	𡹝	mpwa
-21E5E	𡹞	myiu
+21E5E	𡹞	myki
 21E5F	𡹟	mspq
 21E60	𡹠	mpeg
-21E61	𡹡	myiy
+21E61	𡹡	myki
 21E62	𡹢	mrpu
 21E63	𡹣	mbsk
 21E64	𡹤	mltu
@@ -8754,7 +8754,7 @@
 22231	𢈱	ytjk
 22232	𢈲	yjbd
 22233	𢈳	ywcn
-22234	𢈴	yyii
+22234	𢈴	oyki
 22235	𢈵	ypwa
 22236	𢈶	yhaq
 22237	𢈷	ylgj
@@ -12595,7 +12595,7 @@
 23132	𣄲	aqqb
 23133	𣄳	fqqh
 23134	𣄴	aqyi
-23135	𣄵	yiaq
+23135	𣄵	ykiq
 23136	𣄶	yjiq
 23137	𣄷	aqyi
 23138	𣄸	aqmk
@@ -19940,7 +19940,7 @@
 24DE3	𤷣	utgf
 24DE4	𤷤	uqde
 24DE5	𤷥	uwce
-24DE6	𤷦	uyii
+24DE6	𤷦	uyki
 24DE7	𤷧	upqb
 24DE8	𤷨	unff
 24DE9	𤷩	uick
@@ -25380,7 +25380,7 @@
 26323	𦌣	looc
 26324	𦌤	mwwc
 26325	𦌥	lqoj
-26326	𦌦	lyiy
+26326	𦌦	lyky
 26327	𦌧	lioj
 26328	𦌨	mqqo
 26329	𦌩	lduc
@@ -29482,7 +29482,7 @@
 27329	𧌩	aqaj
 2732A	𧌪	hdju
 2732B	𧌫	jvhh
-2732C	𧌬	jyiy
+2732C	𧌬	jyki
 2732D	𧌭	jhaw
 2732E	𧌮	jeyy
 2732F	𧌯	jtgf
@@ -35911,7 +35911,7 @@
 28C46	𨱆	qdnt
 28C47	𨱇	qfiy
 28C48	𨱈	qgki
-28C49	𨱉	qyiy
+28C49	𨱉	qyki
 28C4A	𨱊	qnbm
 28C4B	𨱋	qfwt
 28C4C	𨱌	qxfm
@@ -38378,7 +38378,7 @@
 295E9	𩗩	qmgj
 295EA	𩗪	mgjk
 295EB	𩗫	mgjf
-295EC	𩗬	mgji
+295EC	𩗬	wgji
 295ED	𩗭	mgjd
 295EE	𩗮	mgjl
 295EF	𩗯	tvmj
@@ -38399,7 +38399,7 @@
 295FE	𩗾	mtjy
 295FF	𩗿	mtjf
 29600	𩘀	wtjf
-29601	𩘁	yimj
+29601	𩘁	ykij
 29602	𩘂	mtjn
 29603	𩘃	mgjj
 29604	𩘄	mtjt
