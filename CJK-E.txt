@@ -402,7 +402,7 @@
 2B9B1	𫦱	jeln
 2B9B2	𫦲	khln
 2B9B3	𫦳	xqcl
-2B9B4	𫦴	jiql
+2B9B4	𫦴	jige
 2B9B5	𫦵	psel
 2B9B6	𫦶	llfx
 2B9B7	𫦷	tfql

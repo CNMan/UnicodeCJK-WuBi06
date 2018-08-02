@@ -2842,7 +2842,7 @@
 2D9C9	𭧉	sfas
 2D9CA	𭧊	sgcb
 2D9CB	𭧋	jsqk
-2D9CC	𭧌	saxt
+2D9CC	𭧌	jjiq
 2D9CD	𭧍	jswe
 2D9CE	𭧎	mtls
 2D9CF	𭧏	sknh
@@ -4650,7 +4650,7 @@
 2E0D9	𮃙	pydb
 2E0DA	𮃚	pyss
 2E0DB	𮃛	fild
-2E0DC	𮃜	fiqc
+2E0DC	𮃜	tjiq
 2E0DD	𮃝	pydi
 2E0DE	𮃞	fnmi
 2E0DF	𮃟	fufi
@@ -5753,7 +5753,7 @@
 2E528	𮔨	tjil
 2E529	𮔩	jfhw
 2E52A	𮔪	ypkj
-2E52B	𮔫	yju
+2E52B	𮔫	jjiq
 2E52C	𮔬	gkij
 2E52D	𮔭	jagy
 2E52E	𮔮	jkkn
