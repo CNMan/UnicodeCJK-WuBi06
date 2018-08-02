@@ -2120,7 +2120,7 @@
 2C067	𬁧	jnjw
 2C068	𬁨	jeud
 2C069	𬁩	ytrj
-2C06A	𬁪	bujf
+2C06A	𬁪	bufj
 2C06B	𬁫	vfjg
 2C06C	𬁬	jjjb
 2C06D	𬁭	uljk
@@ -2885,7 +2885,7 @@
 2C364	𬍤	gvfy
 2C365	𬍥	ggey
 2C366	𬍦	gwwc
-2C367	𬍧	guh
+2C367	𬍧	gufh
 2C368	𬍨	gvkb
 2C369	𬍩	gcnh
 2C36A	𬍪	ggng
@@ -4247,7 +4247,7 @@
 2C8B6	𬢶	ywvl
 2C8B7	𬢷	ywgq
 2C8B8	𬢸	ytoc
-2C8B9	𬢹	ycuh
+2C8B9	𬢹	ycuf
 2C8BA	𬢺	fjty
 2C8BB	𬢻	yxhw
 2C8BC	𬢼	yajf
@@ -4596,12 +4596,12 @@
 2CA13	𬨓	lvjs
 2CA14	𬨔	lnku
 2CA15	𬨕	lfph
-2CA16	𬨖	unn
-2CA17	𬨗	fiuh
-2CA18	𬨘	untt
-2CA19	𬨙	uxjh
-2CA1A	𬨚	cngu
-2CA1B	𬨛	ugkm
+2CA16	𬨖	ufnn
+2CA17	𬨗	fiuf
+2CA18	𬨘	udnt
+2CA19	𬨙	ufxj
+2CA1A	𬨚	cngf
+2CA1B	𬨛	udgm
 2CA1C	𬨜	fpd
 2CA1D	𬨝	fwpi
 2CA1E	𬨞	hcyp
@@ -4746,7 +4746,7 @@
 2CAA9	𬪩	sgpe
 2CAAA	𬪪	sgsg
 2CAAB	𬪫	sguj
-2CAAC	𬪬	sguh
+2CAAC	𬪬	sguf
 2CAAD	𬪭	sgsf
 2CAAE	𬪮	sgda
 2CAAF	𬪯	sgjq
@@ -5023,7 +5023,7 @@
 2CBBE	𬮾	brgg
 2CBBF	𬮿	bmnn
 2CBC0	𬯀	byjh
-2CBC1	𬯁	buh
+2CBC1	𬯁	bufh
 2CBC2	𬯂	byg
 2CBC3	𬯃	biqw
 2CBC4	𬯄	bdaf
@@ -5076,7 +5076,7 @@
 2CBF3	𬯳	pwyw
 2CBF4	𬯴	wyny
 2CBF5	𬯵	mmwy
-2CBF6	𬯶	wfuy
+2CBF6	𬯶	eufy
 2CBF7	𬯷	uday
 2CBF8	𬯸	fvyu
 2CBF9	𬯹	fmcu

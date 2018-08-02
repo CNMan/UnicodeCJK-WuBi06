@@ -1205,7 +1205,7 @@
 2ABB4	𪮴	rnov
 2ABB5	𪮵	rgxw
 2ABB6	𪮶	rgkm
-2ABB7	𪮷	rwgu
+2ABB7	𪮷	rwgf
 2ABB8	𪮸	rsdp
 2ABB9	𪮹	rtdh
 2ABBA	𪮺	rvhl
@@ -2272,7 +2272,7 @@
 2AFDF	𪿟	ddfe
 2AFE0	𪿠	dkeg
 2AFE1	𪿡	dpqf
-2AFE2	𪿢	duh
+2AFE2	𪿢	dufh
 2AFE3	𪿣	dvfb
 2AFE4	𪿤	ddqn
 2AFE5	𪿥	dsty
@@ -3007,7 +3007,7 @@
 2B2BE	𫊾	jtmt
 2B2BF	𫊿	jwca
 2B2C0	𫋀	jpsy
-2B2C1	𫋁	juh
+2B2C1	𫋁	jufh
 2B2C2	𫋂	jgvv
 2B2C3	𫋃	jfy
 2B2C4	𫋄	jrgb
@@ -3352,10 +3352,10 @@
 2B417	𫐗	logy
 2B418	𫐘	ldgn
 2B419	𫐙	llll
-2B41A	𫐚	usnn
-2B41B	𫐛	ugmi
-2B41C	𫐜	ucny
-2B41D	𫐝	uyyw
+2B41A	𫐚	udsn
+2B41B	𫐛	udgi
+2B41C	𫐜	udcn
+2B41D	𫐝	udyw
 2B41E	𫐞	hypk
 2B41F	𫐟	api
 2B420	𫐠	spi
@@ -3523,7 +3523,7 @@
 2B4C2	𫓂	qwga
 2B4C3	𫓃	qphw
 2B4C4	𫓄	qfkf
-2B4C5	𫓅	qduh
+2B4C5	𫓅	qduf
 2B4C6	𫓆	qfgf
 2B4C7	𫓇	qgmi
 2B4C8	𫓈	qgym
