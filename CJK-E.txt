@@ -854,7 +854,7 @@
 2BB75	𫭵	fnnf
 2BB76	𫭶	uwyf
 2BB77	𫭷	fyg
-2BB78	𫭸	fybh
+2BB78	𫭸	fykb
 2BB79	𫭹	vfbf
 2BB7A	𫭺	fnfy
 2BB7B	𫭻	fnny
@@ -1041,7 +1041,7 @@
 2BC30	𫰰	vwgi
 2BC31	𫰱	wwkv
 2BC32	𫰲	qjqv
-2BC33	𫰳	vybh
+2BC33	𫰳	vykb
 2BC34	𫰴	vprh
 2BC35	𫰵	ntfv
 2BC36	𫰶	cknv
