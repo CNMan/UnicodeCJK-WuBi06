@@ -5136,7 +5136,7 @@
 2140F	𡐏	wdaf
 21410	𡐐	feee
 21411	𡐑	fqlj
-21412	𡐒	fypn
+21412	𡐒	fykn
 21413	𡐓	fyvi
 21414	𡐔	fpgw
 21415	𡐕	fvrf
@@ -11523,7 +11523,7 @@
 22D02	𢴂	raya
 22D03	𢴃	rgny
 22D04	𢴄	rlng
-22D05	𢴅	rypn
+22D05	𢴅	rykn
 22D06	𢴆	rige
 22D07	𢴇	rfuy
 22D08	𢴈	rtjg
@@ -16122,7 +16122,7 @@
 23EF9	𣻹	iahf
 23EFA	𣻺	iadf
 23EFB	𣻻	iapq
-23EFC	𣻼	iypn
+23EFC	𣻼	iykn
 23EFD	𣻽	iega
 23EFE	𣻾	ijft
 23EFF	𣻿	iauh
@@ -28284,7 +28284,7 @@
 26E7B	𦹻	aief
 26E7C	𦹼	btbh
 26E7D	𦹽	axrf
-26E7E	𦹾	aypn
+26E7E	𦹾	aykn
 26E7F	𦹿	awct
 26E80	𦺀	asgw
 26E81	𦺁	aigs
@@ -29728,7 +29728,7 @@
 2741F	𧐟	jtxn
 27420	𧐠	ynjj
 27421	𧐡	fnmj
-27422	𧐢	jypn
+27422	𧐢	jykn
 27423	𧐣	jltk
 27424	𧐤	jyxh
 27425	𧐥	jrgh
