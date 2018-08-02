@@ -2340,7 +2340,7 @@
 2D7D3	𭟓	rfjn
 2D7D4	𭟔	rftg
 2D7D5	𭟕	rhag
-2D7D6	𭟖	rtdp
+2D7D6	𭟖	nyje
 2D7D7	𭟗	rtel
 2D7D8	𭟘	rwhs
 2D7D9	𭟙	rtjs
@@ -4411,7 +4411,7 @@
 2DFEA	𭿪	ahnl
 2DFEB	𭿫	eevl
 2DFEC	𭿬	uwln
-2DFED	𭿭	iyvl
+2DFED	𭿭	hyke
 2DFEE	𭿮	jndl
 2DFEF	𭿯	fclu
 2DFF0	𭿰	hfh
@@ -4673,7 +4673,7 @@
 2E0F0	𮃰	fiwr
 2E0F1	𮃱	fiyo
 2E0F2	𮃲	pyyi
-2E0F3	𮃳	pyaf
+2E0F3	𮃳	tyke
 2E0F4	𮃴	fibb
 2E0F5	𮃵	pyqy
 2E0F6	𮃶	fita
@@ -5599,7 +5599,7 @@
 2E48E	𮒎	aype
 2E48F	𮒏	aiwo
 2E490	𮒐	afik
-2E491	𮒑	axim
+2E491	𮒑	ayke
 2E492	𮒒	axiv
 2E493	𮒓	axij
 2E494	𮒔	agkf

@@ -4361,7 +4361,7 @@
 2C928	𬤨	ykks
 2C929	𬤩	yxth
 2C92A	𬤪	ylip
-2C92B	𬤫	yype
+2C92B	𬤫	yyke
 2C92C	𬤬	yxxn
 2C92D	𬤭	ydhn
 2C92E	𬤮	ytfm

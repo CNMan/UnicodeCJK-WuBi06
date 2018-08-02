@@ -173,7 +173,7 @@
 2A7AC	𪞬	uujh
 2A7AD	𪞭	uffq
 2A7AE	𪞮	ufwc
-2A7AF	𪞯	uype
+2A7AF	𪞯	uyke
 2A7B0	𪞰	uucy
 2A7B1	𪞱	fpmb
 2A7B2	𪞲	mhkg
