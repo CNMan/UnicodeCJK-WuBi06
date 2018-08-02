@@ -36311,7 +36311,7 @@
 28DD6	𨷖	uanr
 28DD7	𨷗	ufwg
 28DD8	𨷘	ufdj
-28DD9	𨷙	uybf
+28DD9	𨷙	uykf
 28DDA	𨷚	upnm
 28DDB	𨷛	upnj
 28DDC	𨷜	ucyi
