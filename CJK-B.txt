@@ -4188,7 +4188,7 @@
 2105B	𡁛	kvgt
 2105C	𡁜	kpyk
 2105D	𡁝	kwfw
-2105E	𡁞	kymc
+2105E	𡁞	kykc
 2105F	𡁟	kpgm
 21060	𡁠	kgwq
 21061	𡁡	kutd
