@@ -25032,7 +25032,7 @@
 261C7	𦇇	xfff
 261C8	𦇈	xwwa
 261C9	𦇉	xsnc
-261CA	𦇊	xiql
+261CA	𦇊	xigl
 261CB	𦇋	xavj
 261CC	𦇌	xely
 261CD	𦇍	xfpc
