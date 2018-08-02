@@ -15556,7 +15556,7 @@
 23CC3	𣳃	iafg
 23CC4	𣳄	ikhg
 23CC5	𣳅	iwiy
-23CC6	𣳆	uciu
+23CC6	𣳆	ucgi
 23CC7	𣳇	idag
 23CC8	𣳈	iwmh
 23CC9	𣳉	ilf
