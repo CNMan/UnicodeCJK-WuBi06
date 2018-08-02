@@ -1232,7 +1232,7 @@
 2ABCF	𪯏	qrnt
 2ABD0	𪯐	upmt
 2ABD1	𪯑	gxit
-2ABD2	𪯒	yptt
+2ABD2	𪯒	ykpt
 2ABD3	𪯓	gmat
 2ABD4	𪯔	umqt
 2ABD5	𪯕	ytwf
