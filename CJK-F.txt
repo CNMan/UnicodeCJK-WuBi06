@@ -1173,7 +1173,7 @@
 2D344	𭍄	tyff
 2D345	𭍅	thnf
 2D346	𭍆	nhfy
-2D347	𭍇	fbb
+2D347	𭍇	kcoi
 2D348	𭍈	ffcy
 2D349	𭍉	fgah
 2D34A	𭍊	fqxn
@@ -2026,7 +2026,7 @@
 2D699	𭚙	gaiq
 2D69A	𭚚	aqrn
 2D69B	𭚛	ahtn
-2D69C	𭚜	nrrh
+2D69C	𭚜	kcoa
 2D69D	𭚝	nmy
 2D69E	𭚞	nlln
 2D69F	𭚟	nrgw
@@ -3967,7 +3967,7 @@
 2DE2E	𭸮	ghvy
 2DE2F	𭸯	gvjw
 2DE30	𭸰	ssac
-2DE31	𭸱	sfhw
+2DE31	𭸱	qtlo
 2DE32	𭸲	qkqw
 2DE33	𭸳	udqw
 2DE34	𭸴	aoqw
@@ -4518,7 +4518,7 @@
 2E055	𮁕	otdu
 2E056	𮁖	tdeg
 2E057	𮁗	tdgg
-2E058	𮁘	tdgh
+2E058	𮁘	dcoc
 2E059	𮁙	tdbk
 2E05A	𮁚	tdmj
 2E05B	𮁛	tdaf
@@ -5102,7 +5102,7 @@
 2E29D	𮊝	rmfw
 2E29E	𮊞	rmhc
 2E29F	𮊟	rmgq
-2E2A0	𮊠	rmwf
+2E2A0	𮊠	lcok
 2E2A1	𮊡	rmyk
 2E2A2	𮊢	usgm
 2E2A3	𮊣	ugqy

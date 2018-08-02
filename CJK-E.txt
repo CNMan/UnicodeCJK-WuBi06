@@ -741,7 +741,7 @@
 2BB04	𫬄	kufe
 2BB05	𫬅	ynjk
 2BB06	𫬆	kodm
-2BB07	𫬇	kcqq
+2BB07	𫬇	kcor
 2BB08	𫬈	krvs
 2BB09	𫬉	kaej
 2BB0A	𫬊	kmnk
@@ -789,7 +789,7 @@
 2BB34	𫬴	wfsk
 2BB35	𫬵	kiyj
 2BB36	𫬶	krvn
-2BB37	𫬷	kcdk
+2BB37	𫬷	kcok
 2BB38	𫬸	fkul
 2BB39	𫬹	kgwy
 2BB3A	𫬺	kaqy
@@ -2626,7 +2626,7 @@
 2C261	𬉡	iann
 2C262	𬉢	ikka
 2C263	𬉣	iwgt
-2C264	𬉤	itcy
+2C264	𬉤	itco
 2C265	𬉥	ifjn
 2C266	𬉦	ifjj
 2C267	𬉧	ifjh
@@ -3409,7 +3409,7 @@
 2C570	𬕰	ttfk
 2C571	𬕱	tygf
 2C572	𬕲	tpej
-2C573	𬕳	tcqh
+2C573	𬕳	tcoh
 2C574	𬕴	tbmn
 2C575	𬕵	tadg
 2C576	𬕶	tlfe
@@ -5107,7 +5107,7 @@
 2CC12	𬰒	fpdw
 2CC13	𬰓	fpwi
 2CC14	𬰔	fben
-2CC15	𬰕	fafc
+2CC15	𬰕	fako
 2CC16	𬰖	fvqq
 2CC17	𬰗	gean
 2CC18	𬰘	gerg
@@ -5361,7 +5361,7 @@
 2CD10	𬴐	cgay
 2CD11	𬴑	game
 2CD12	𬴒	mewk
-2CD13	𬴓	tcme
+2CD13	𬴓	tcoe
 2CD14	𬴔	ypkq
 2CD15	𬴕	ykmn
 2CD16	𬴖	yjfx
