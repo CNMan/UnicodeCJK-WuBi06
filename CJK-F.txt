@@ -265,7 +265,7 @@
 2CFB8	𬾸	ywuf
 2CFB9	𬾹	wvyg
 2CFBA	𬾺	wfgh
-2CFBB	𬾻	wswc
+2CFBB	𬾻	wykq
 2CFBC	𬾼	wgjt
 2CFBD	𬾽	wlag
 2CFBE	𬾾	whqc
@@ -386,7 +386,7 @@
 2D031	𭀱	wvmw
 2D032	𭀲	ufyn
 2D033	𭀳	wcdh
-2D034	𭀴	wceg
+2D034	𭀴	igqw
 2D035	𭀵	wltf
 2D036	𭀶	udia
 2D037	𭀷	mjwu
@@ -2828,7 +2828,7 @@
 2D9BB	𭦻	sqbp
 2D9BC	𭦼	rmhs
 2D9BD	𭦽	srmj
-2D9BE	𭦾	wgqs
+2D9BE	𭦾	jykw
 2D9BF	𭦿	mqss
 2D9C0	𭧀	qsiq
 2D9C1	𭧁	ynas
@@ -4381,7 +4381,7 @@
 2DFCC	𭿌	hcqt
 2DFCD	𭿍	gmhc
 2DFCE	𭿎	mwgc
-2DFCF	𭿏	udkc
+2DFCF	𭿏	hykw
 2DFD0	𭿐	hagc
 2DFD1	𭿑	fkuu
 2DFD2	𭿒	gwmc
@@ -4405,7 +4405,7 @@
 2DFE4	𭿤	ftdl
 2DFE5	𭿥	rnol
 2DFE6	𭿦	vtml
-2DFE7	𭿧	xylf
+2DFE7	𭿧	rhyw
 2DFE8	𭿨	hnnl
 2DFE9	𭿩	gvhl
 2DFEA	𭿪	ahnl
@@ -5355,7 +5355,7 @@
 2E39A	𮎚	tedj
 2E39B	𮎛	teth
 2E39C	𮎜	tedf
-2E39D	𮎝	tewk
+2E39D	𮎝	qcyw
 2E39E	𮎞	tekk
 2E39F	𮎟	tekg
 2E3A0	𮎠	tepp
@@ -5868,7 +5868,7 @@
 2E59B	𮖛	aufe
 2E59C	𮖜	meye
 2E59D	𮖝	puwc
-2E59E	𮖞	ywfe
+2E59E	𮖞	puyw
 2E59F	𮖟	puwp
 2E5A0	𮖠	puqe
 2E5A1	𮖡	puuy
@@ -6219,7 +6219,7 @@
 2E6FA	𮛺	khuk
 2E6FB	𮛻	khlm
 2E6FC	𮛼	khxk
-2E6FD	𮛽	khow
+2E6FD	𮛽	khyw
 2E6FE	𮛾	khwf
 2E6FF	𮛿	khfm
 2E700	𮜀	khnj
