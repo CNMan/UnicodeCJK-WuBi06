@@ -874,7 +874,7 @@
 2BB89	𫮉	fagf
 2BB8A	𫮊	fefc
 2BB8B	𫮋	qhwf
-2BB8C	𫮌	fypm
+2BB8C	𫮌	fykw
 2BB8D	𫮍	fusk
 2BB8E	𫮎	fyji
 2BB8F	𫮏	iref
@@ -1067,7 +1067,7 @@
 2BC4A	𫱊	vjqn
 2BC4B	𫱋	vrdf
 2BC4C	𫱌	vpff
-2BC4D	𫱍	vypq
+2BC4D	𫱍	vykq
 2BC4E	𫱎	vugy
 2BC4F	𫱏	ynvw
 2BC50	𫱐	vnah

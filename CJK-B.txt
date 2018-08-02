@@ -10057,7 +10057,7 @@
 22748	𢝈	nkhl
 22749	𢝉	ndbg
 2274A	𢝊	dmnu
-2274B	𢝋	nypm
+2274B	𢝋	nykw
 2274C	𢝌	njhg
 2274D	𢝍	nfcn
 2274E	𢝎	nabg
@@ -18873,7 +18873,7 @@
 249B8	𤦸	gwks
 249B9	𤦹	ghmy
 249BA	𤦺	gusk
-249BB	𤦻	gypq
+249BB	𤦻	gykq
 249BC	𤦼	hcuy
 249BD	𤦽	gytb
 249BE	𤦾	gfqv
@@ -35404,7 +35404,7 @@
 28A4B	𨩋	qleg
 28A4C	𨩌	qyod
 28A4D	𨩍	qugv
-28A4E	𨩎	qypq
+28A4E	𨩎	qykq
 28A4F	𨩏	qyxh
 28A50	𨩐	qovg
 28A51	𨩑	qfja

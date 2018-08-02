@@ -1381,7 +1381,7 @@
 2AC64	𪱤	dett
 2AC65	𪱥	efam
 2AC66	𪱦	ergg
-2AC67	𪱧	eypq
+2AC67	𪱧	eykq
 2AC68	𪱨	eujn
 2AC69	𪱩	eybc
 2AC6A	𪱪	eudo
@@ -1474,7 +1474,7 @@
 2ACC1	𪳁	syac
 2ACC2	𪳂	suth
 2ACC3	𪳃	spvm
-2ACC4	𪳄	sypm
+2ACC4	𪳄	sykw
 2ACC5	𪳅	sitk
 2ACC6	𪳆	scel
 2ACC7	𪳇	slkp
