@@ -1700,7 +1700,7 @@
 2ADA3	𪶣	itla
 2ADA4	𪶤	iwuy
 2ADA5	𪶥	ingg
-2ADA6	𪶦	iyey
+2ADA6	𪶦	iyke
 2ADA7	𪶧	iyob
 2ADA8	𪶨	ivcn
 2ADA9	𪶩	ickn
@@ -2860,7 +2860,7 @@
 2B22B	𫈫	atdw
 2B22C	𫈬	apwn
 2B22D	𫈭	aiud
-2B22E	𫈮	ayeu
+2B22E	𫈮	ayke
 2B22F	𫈯	augy
 2B230	𫈰	aiwk
 2B231	𫈱	ayde

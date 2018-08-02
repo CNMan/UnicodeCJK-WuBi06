@@ -3096,7 +3096,7 @@
 2DAC7	𭫇	tfne
 2DAC8	𭫈	tfnr
 2DAC9	𭫉	tfnj
-2DACA	𭫊	wgkn
+2DACA	𭫊	syke
 2DACB	𭫋	tfne
 2DACC	𭫌	cccg
 2DACD	𭫍	fwtn
@@ -7012,7 +7012,7 @@
 2EA13	𮨓	wpao
 2EA14	𮨔	wpao
 2EA15	𮨕	xgwe
-2EA16	𮨖	qnaq
+2EA16	𮨖	tkem
 2EA17	𮨗	qnxf
 2EA18	𮨘	qnjn
 2EA19	𮨙	qnfu
