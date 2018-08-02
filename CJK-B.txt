@@ -13224,7 +13224,7 @@
 233A7	𣎧	efto
 233A8	𣎨	eaqn
 233A9	𣎩	djee
-233AA	𣎪	eype
+233AA	𣎪	eyke
 233AB	𣎫	elgf
 233AC	𣎬	depl
 233AD	𣎭	eqqa
@@ -28684,7 +28684,7 @@
 2700B	𧀋	aysc
 2700C	𧀌	aigw
 2700D	𧀍	btbb
-2700E	𧀎	aype
+2700E	𧀎	ayke
 2700F	𧀏	aqyq
 27010	𧀐	agrc
 27011	𧀑	attf
