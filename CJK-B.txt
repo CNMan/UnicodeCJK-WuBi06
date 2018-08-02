@@ -17625,7 +17625,7 @@
 244D8	𤓘	akko
 244D9	𤓙	oukf
 244DA	𤓚	ougo
-244DB	𤓛	oiqy
+244DB	𤓛	oigy
 244DC	𤓜	twio
 244DD	𤓝	oawa
 244DE	𤓞	twio
