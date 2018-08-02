@@ -1859,7 +1859,7 @@
 2BF62	𫽢	rtcg
 2BF63	𫽣	ruqf
 2BF64	𫽤	rohn
-2BF65	𫽥	riwh
+2BF65	𫽥	rigg
 2BF66	𫽦	rivs
 2BF67	𫽧	rxjm
 2BF68	𫽨	rvtq
