@@ -2281,7 +2281,7 @@
 2AFE8	𪿨	ddjd
 2AFE9	𪿩	dndg
 2AFEA	𪿪	drdf
-2AFEB	𪿫	dcuq
+2AFEB	𪿫	dcgr
 2AFEC	𪿬	ddun
 2AFED	𪿭	dpey
 2AFEE	𪿮	dpwk

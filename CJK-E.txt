@@ -4164,7 +4164,7 @@
 2C863	𬡣	puuk
 2C864	𬡤	ooye
 2C865	𬡥	puhm
-2C866	𬡦	putc
+2C866	𬡦	putg
 2C867	𬡧	puwk
 2C868	𬡨	puye
 2C869	𬡩	puhg
@@ -4498,7 +4498,7 @@
 2C9B1	𬦱	khre
 2C9B2	𬦲	khlh
 2C9B3	𬦳	khee
-2C9B4	𬦴	khum
+2C9B4	𬦴	khuw
 2C9B5	𬦵	khxy
 2C9B6	𬦶	khgj
 2C9B7	𬦷	khax
