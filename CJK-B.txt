@@ -9885,7 +9885,7 @@
 2269C	𢚜	nclg
 2269D	𢚝	nctd
 2269E	𢚞	phnu
-2269F	𢚟	ybnu
+2269F	𢚟	ykbn
 226A0	𢚠	psnu
 226A1	𢚡	fiyn
 226A2	𢚢	ntnu
@@ -16955,7 +16955,7 @@
 2423A	𤈺	oomy
 2423B	𤈻	opdc
 2423C	𤈼	oufh
-2423D	𤈽	oybh
+2423D	𤈽	oykb
 2423E	𤈾	iqwo
 2423F	𤈿	fiyo
 24240	𤉀	sfou
@@ -31247,7 +31247,7 @@
 27A0E	𧨎	ypfq
 27A0F	𧨏	ypeg
 27A10	𧨐	yyvg
-27A11	𧨑	yybh
+27A11	𧨑	yykb
 27A12	𧨒	ygjq
 27A13	𧨓	yjpy
 27A14	𧨔	yayn
@@ -35298,7 +35298,7 @@
 289E1	𨧡	qvtk
 289E2	𨧢	qklj
 289E3	𨧣	qfpm
-289E4	𨧤	qybh
+289E4	𨧤	qykb
 289E5	𨧥	qhxf
 289E6	𨧦	bhcq
 289E7	𨧧	qeyy

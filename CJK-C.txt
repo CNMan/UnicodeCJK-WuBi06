@@ -2019,7 +2019,7 @@
 2AEE2	𪻢	grrh
 2AEE3	𪻣	gmqk
 2AEE4	𪻤	grgw
-2AEE5	𪻥	gybh
+2AEE5	𪻥	gykb
 2AEE6	𪻦	gdfi
 2AEE7	𪻧	gfqf
 2AEE8	𪻨	gfnd

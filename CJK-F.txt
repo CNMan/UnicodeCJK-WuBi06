@@ -123,7 +123,7 @@
 2CF2A	𬼪	bgf
 2CF2B	𬼫	byi
 2CF2C	𬼬	bou
-2CF2D	𬼭	unpt
+2CF2D	𬼭	ykbb
 2CF2E	𬼮	cbgj
 2CF2F	𬼯	cbfm
 2CF30	𬼰	fcfj
