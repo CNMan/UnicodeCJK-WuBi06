@@ -481,7 +481,7 @@
 2D090	𭂐	mdmb
 2D091	𭂑	mded
 2D092	𭂒	mgmm
-2D093	𭂓	ghmq
+2D093	𭂓	uykb
 2D094	𭂔	mktk
 2D095	𭂕	mimm
 2D096	𭂖	cmgk
@@ -2630,7 +2630,7 @@
 2D8F5	𭣵	jjiq
 2D8F6	𭣶	jkjf
 2D8F7	𭣷	jexd
-2D8F8	𭣸	jevg
+2D8F8	𭣸	ykbc
 2D8F9	𭣹	jlpy
 2D8FA	𭣺	jypm
 2D8FB	𭣻	jswi
@@ -5142,7 +5142,7 @@
 2E2C5	𮋅	lxim
 2E2C6	𮋆	lcdk
 2E2C7	𮋇	lafo
-2E2C8	𮋈	ugtu
+2E2C8	𮋈	ykbn
 2E2C9	𮋉	udqy
 2E2CA	𮋊	ynud
 2E2CB	𮋋	uddt

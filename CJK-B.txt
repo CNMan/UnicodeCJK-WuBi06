@@ -401,8 +401,8 @@
 20190	𠆐	yhho
 20191	𠆑	ylkw
 20192	𠆒	ypuj
-20193	𠆓	ybyy
-20194	𠆔	ybvq
+20193	𠆓	ykby
+20194	𠆔	ykbq
 20195	𠆕	tfty
 20196	𠆖	yyqk
 20197	𠆗	ywgk
@@ -412,7 +412,7 @@
 2019B	𠆛	yjkf
 2019C	𠆜	ygvv
 2019D	𠆝	yjjt
-2019E	𠆞	ybyg
+2019E	𠆞	ykbg
 2019F	𠆟	ywfe
 201A0	𠆠	ywfo
 201A1	𠆡	ywfo
@@ -2667,7 +2667,7 @@
 20A6A	𠩪	dgmj
 20A6B	𠩫	dvqv
 20A6C	𠩬	dsww
-20A6D	𠩭	dybd
+20A6D	𠩭	dykb
 20A6E	𠩮	ddth
 20A6F	𠩯	dctl
 20A70	𠩰	dkkf
@@ -6519,7 +6519,7 @@
 21976	𡥶	btky
 21977	𡥷	nbnb
 21978	𡥸	ntfb
-21979	𡥹	ybnw
+21979	𡥹	ykbw
 2197A	𡥺	kqbb
 2197B	𡥻	tobf
 2197C	𡥼	bqmy
@@ -6552,21 +6552,21 @@
 21997	𡦗	bgjo
 21998	𡦘	bdmj
 21999	𡦙	mmmb
-2199A	𡦚	ybgi
-2199B	𡦛	trnb
+2199A	𡦚	ykbi
+2199B	𡦛	trxb
 2199C	𡦜	bujf
 2199D	𡦝	mfkb
 2199E	𡦞	bhqo
-2199F	𡦟	ybrf
+2199F	𡦟	ykbf
 219A0	𡦠	twyb
-219A1	𡦡	ybfj
+219A1	𡦡	ykbj
 219A2	𡦢	ebtf
 219A3	𡦣	mbub
 219A4	𡦤	ovtb
 219A5	𡦥	ntfb
-219A6	𡦦	yjfo
+219A6	𡦦	ykbo
 219A7	𡦧	tbyf
-219A8	𡦨	ybhm
+219A8	𡦨	ykbw
 219A9	𡦩	jymb
 219AA	𡦪	bbbb
 219AB	𡦫	brrm
@@ -6979,7 +6979,7 @@
 21B42	𡭂	gmif
 21B43	𡭃	gmwf
 21B44	𡭄	ffff
-21B45	𡭅	ybwf
+21B45	𡭅	ykbf
 21B46	𡭆	alff
 21B47	𡭇	gjhw
 21B48	𡭈	kkff
@@ -10760,7 +10760,7 @@
 22A07	𢨇	alaw
 22A08	𢨈	wwwa
 22A09	𢨉	ulja
-22A0A	𢨊	ybag
+22A0A	𢨊	ykbg
 22A0B	𢨋	akgg
 22A0C	𢨌	cbta
 22A0D	𢨍	wgka
@@ -11985,7 +11985,7 @@
 22ED0	𢻐	ugqc
 22ED1	𢻑	oofc
 22ED2	𢻒	imkc
-22ED3	𢻓	ybfc
+22ED3	𢻓	ykbc
 22ED4	𢻔	jsfc
 22ED5	𢻕	ujfc
 22ED6	𢻖	jghc
@@ -15264,7 +15264,7 @@
 23B9F	𣮟	cddn
 23BA0	𣮠	aetn
 23BA1	𣮡	dfan
-23BA2	𣮢	ybtn
+23BA2	𣮢	ykbn
 23BA3	𣮣	tfnw
 23BA4	𣮤	tfni
 23BA5	𣮥	pwsn
@@ -19292,7 +19292,7 @@
 24B5B	𤭛	mumn
 24B5C	𤭜	tqtn
 24B5D	𤭝	fqfn
-24B5E	𤭞	ybgn
+24B5E	𤭞	ykby
 24B5F	𤭟	wnnn
 24B60	𤭠	ahnn
 24B61	𤭡	bcgn
@@ -19468,7 +19468,7 @@
 24C0B	𤰋	movh
 24C0C	𤰌	eheh
 24C0D	𤰍	awmy
-24C0E	𤰎	ybyh
+24C0E	𤰎	ykbh
 24C0F	𤰏	cecx
 24C10	𤰐	ogwy
 24C11	𤰑	ycky
@@ -20954,7 +20954,7 @@
 251D9	𥇙	akgh
 251DA	𥇚	hdsk
 251DB	𥇛	dhhd
-251DC	𥇜	hybg
+251DC	𥇜	hykb
 251DD	𥇝	hduf
 251DE	𥇞	hhkf
 251DF	𥇟	huql
@@ -31746,7 +31746,7 @@
 27C01	𧰁	gkuf
 27C02	𧰂	gkun
 27C03	𧰃	gkuv
-27C04	𧰄	ybmu
+27C04	𧰄	ykbu
 27C05	𧰅	magw
 27C06	𧰆	gkuf
 27C07	𧰇	fkuw
@@ -34780,7 +34780,7 @@
 287DB	𨟛	fdjb
 287DC	𨟜	hlob
 287DD	𨟝	tjyb
-287DE	𨟞	ybfb
+287DE	𨟞	ykbb
 287DF	𨟟	dttb
 287E0	𨟠	hhwb
 287E1	𨟡	bflb
@@ -36831,7 +36831,7 @@
 28FDE	𨿞	wyok
 28FDF	𨿟	skwy
 28FE0	𨿠	tgay
-28FE1	𨿡	ybwy
+28FE1	𨿡	ykby
 28FE2	𨿢	gjiy
 28FE3	𨿣	adwy
 28FE4	𨿤	ywty
@@ -41924,7 +41924,7 @@
 2A3C3	𪏃	aglo
 2A3C4	𪏄	aglu
 2A3C5	𪏅	amwa
-2A3C6	𪏆	ybaw
+2A3C6	𪏆	ykbw
 2A3C7	𪏇	aglg
 2A3C8	𪏈	aglj
 2A3C9	𪏉	aglh
