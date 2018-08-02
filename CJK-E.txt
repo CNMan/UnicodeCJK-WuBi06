@@ -2218,7 +2218,7 @@
 2C0C9	𬃉	swfk
 2C0CA	𬃊	srfm
 2C0CB	𬃋	spck
-2C0CC	𬃌	syvl
+2C0CC	𬃌	syve
 2C0CD	𬃍	sirg
 2C0CE	𬃎	syxi
 2C0CF	𬃏	spgy
