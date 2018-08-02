@@ -2763,7 +2763,7 @@
 2D97A	𭥺	snwu
 2D97B	𭥻	sgf
 2D97C	𭥼	sdxn
-2D97D	𭥽	ccsu
+2D97D	𭥽	jigw
 2D97E	𭥾	ansu
 2D97F	𭥿	sagn
 2D980	𭦀	sdnt

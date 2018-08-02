@@ -2267,7 +2267,7 @@
 2AFDA	𪿚	dffy
 2AFDB	𪿛	djy
 2AFDC	𪿜	dpqn
-2AFDD	𪿝	iwdf
+2AFDD	𪿝	igwd
 2AFDE	𪿞	ddtf
 2AFDF	𪿟	ddfe
 2AFE0	𪿠	dkeg
