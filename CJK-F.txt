@@ -7151,10 +7151,10 @@
 2EA9E	𮪞	tlou
 2EA9F	𮪟	qovy
 2EAA0	𮪠	qohc
-2EAA1	𮪡	qoty
-2EAA2	𮪢	qonk
-2EAA3	𮪣	qogg
-2EAA4	𮪤	qoqc
+2EAA1	𮪡	cgdy
+2EAA2	𮪢	cgaa
+2EAA3	𮪣	cgrt
+2EAA4	𮪤	cgaf
 2EAA5	𮪥	cgyt
 2EAA6	𮪦	qoxf
 2EAA7	𮪧	qomc
