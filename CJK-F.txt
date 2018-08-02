@@ -1202,7 +1202,7 @@
 2D361	𭍡	ukff
 2D362	𭍢	fifh
 2D363	𭍣	fng
-2D364	𭍤	fdtf
+2D364	𭍤	kufk
 2D365	𭍥	fgdk
 2D366	𭍦	fgku
 2D367	𭍧	fgik
@@ -2195,7 +2195,7 @@
 2D742	𭝂	ujxn
 2D743	𭝃	ngjo
 2D744	𭝄	ntud
-2D745	𭝅	ngku
+2D745	𭝅	nufh
 2D746	𭝆	agd
 2D747	𭝇	ahf
 2D748	𭝈	udae
@@ -2450,7 +2450,7 @@
 2D841	𭡁	skst
 2D842	𭡂	fptt
 2D843	𭡃	hoty
-2D844	𭡄	cbtv
+2D844	𭡄	rufh
 2D845	𭡅	gmct
 2D846	𭡆	qajm
 2D847	𭡇	ujty
@@ -3317,7 +3317,7 @@
 2DBA4	𭮤	ihah
 2DBA5	𭮥	imov
 2DBA6	𭮦	ijpw
-2DBA7	𭮧	iebh
+2DBA7	𭮧	udgf
 2DBA8	𭮨	ithd
 2DBA9	𭮩	iyni
 2DBAA	𭮪	iype
@@ -4844,7 +4844,7 @@
 2E19B	𮆛	tywf
 2E19C	𮆜	tlmb
 2E19D	𮆝	trvf
-2E19E	𮆞	tsjg
+2E19E	𮆞	twnf
 2E19F	𮆟	tdmd
 2E1A0	𮆠	tskl
 2E1A1	𮆡	tsjh
@@ -4875,7 +4875,7 @@
 2E1BA	𮆺	ttde
 2E1BB	𮆻	ttdw
 2E1BC	𮆼	tjdj
-2E1BD	𮆽	tgqt
+2E1BD	𮆽	tudy
 2E1BE	𮆾	tlrj
 2E1BF	𮆿	tyyq
 2E1C0	𮇀	tige
@@ -4908,7 +4908,7 @@
 2E1DB	𮇛	tuwk
 2E1DC	𮇜	tnth
 2E1DD	𮇝	traw
-2E1DE	𮇞	tyms
+2E1DE	𮇞	oufh
 2E1DF	𮇟	txfy
 2E1E0	𮇠	tffs
 2E1E1	𮇡	taqm
@@ -5547,10 +5547,10 @@
 2E45A	𮑚	adut
 2E45B	𮑛	aahu
 2E45C	𮑜	agaw
-2E45D	𮑝	aaff
+2E45D	𮑝	axif
 2E45E	𮑞	aadc
 2E45F	𮑟	abkg
-2E460	𮑠	ajjh
+2E460	𮑠	aahf
 2E461	𮑡	angf
 2E462	𮑢	anhl
 2E463	𮑣	anhe
@@ -6346,8 +6346,8 @@
 2E779	𮝹	frcp
 2E77A	𮝺	fcap
 2E77B	𮝻	guep
-2E77C	𮝼	gwmp
-2E77D	𮝽	faqp
+2E77C	𮝼	ukuf
+2E77D	𮝽	udjc
 2E77E	𮝾	fypi
 2E77F	𮝿	ahyp
 2E780	𮞀	aeyp
@@ -7034,7 +7034,7 @@
 2EA29	𮨩	tjto
 2EA2A	𮨪	tjvj
 2EA2B	𮨫	tjpm
-2EA2C	𮨬	cxn
+2EA2C	𮨬	wtjf
 2EA2D	𮨭	ghfa
 2EA2E	𮨮	ghfh
 2EA2F	𮨯	ghfh
