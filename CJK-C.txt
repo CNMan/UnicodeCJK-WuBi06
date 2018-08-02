@@ -2561,7 +2561,7 @@
 2B100	𫄀	xpff
 2B101	𫄁	xaje
 2B102	𫄂	xith
-2B103	𫄃	xybt
+2B103	𫄃	xykt
 2B104	𫄄	xnov
 2B105	𫄅	xdgt
 2B106	𫄆	xdyf

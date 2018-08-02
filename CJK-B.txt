@@ -898,7 +898,7 @@
 20381	𠎁	wlfo
 20382	𠎂	wyhn
 20383	𠎃	wgwf
-20384	𠎄	wybt
+20384	𠎄	wykt
 20385	𠎅	wvaf
 20386	𠎆	wwxc
 20387	𠎇	wdhd
@@ -6250,7 +6250,7 @@
 21869	𡡩	vpgl
 2186A	𡡪	vpqe
 2186B	𡡫	vuvo
-2186C	𡡬	vybt
+2186C	𡡬	vykt
 2186D	𡡭	ugve
 2186E	𡡮	vpnh
 2186F	𡡯	vool
@@ -7956,7 +7956,7 @@
 21F13	𡼓	musd
 21F14	𡼔	madm
 21F15	𡼕	mwym
-21F16	𡼖	ybtm
+21F16	𡼖	ykbm
 21F17	𡼗	mthf
 21F18	𡼘	mmmn
 21F19	𡼙	mwwn
@@ -14754,7 +14754,7 @@
 239A1	𣦡	hafy
 239A2	𣦢	nkuh
 239A3	𣦣	mmmh
-239A4	𣦤	ybth
+239A4	𣦤	ykbh
 239A5	𣦥	ghfq
 239A6	𣦦	hdgh
 239A7	𣦧	hdgm
@@ -20644,7 +20644,7 @@
 250A3	𥂣	ykbl
 250A4	𥂤	wfdl
 250A5	𥂥	hqal
-250A6	𥂦	ybtl
+250A6	𥂦	ykbl
 250A7	𥂧	sgdl
 250A8	𥂨	nwgl
 250A9	𥂩	dqfl
@@ -21188,7 +21188,7 @@
 252C3	𥋃	hdmj
 252C4	𥋄	hsfo
 252C5	𥋅	jjhf
-252C6	𥋆	hybt
+252C6	𥋆	hykt
 252C7	𥋇	hipr
 252C8	𥋈	fffh
 252C9	𥋉	hnbg
@@ -29776,7 +29776,7 @@
 2744F	𧑏	jnty
 27450	𧑐	jcbk
 27451	𧑑	jadh
-27452	𧑒	jybt
+27452	𧑒	jykt
 27453	𧑓	jtwi
 27454	𧑔	jvip
 27455	𧑕	jgfn
@@ -30549,7 +30549,7 @@
 27754	𧝔	puhg
 27755	𧝕	ylne
 27756	𧝖	lnhe
-27757	𧝗	ybte
+27757	𧝗	ykbe
 27758	𧝘	puye
 27759	𧝙	puuh
 2775A	𧝚	wgde
@@ -38818,7 +38818,7 @@
 297A1	𩞡	wpuj
 297A2	𩞢	wpbe
 297A3	𩞣	kgne
-297A4	𩞤	ybte
+297A4	𩞤	ykbe
 297A5	𩞥	wpit
 297A6	𩞦	wpir
 297A7	𩞧	wpqe
@@ -41345,7 +41345,7 @@
 2A180	𪆀	xoxo
 2A181	𪆁	adwo
 2A182	𪆂	iano
-2A183	𪆃	ybto
+2A183	𪆃	ykbo
 2A184	𪆄	wvgo
 2A185	𪆅	wyoo
 2A186	𪆆	aqko
@@ -41371,7 +41371,7 @@
 2A19A	𪆚	ffco
 2A19B	𪆛	haoo
 2A19C	𪆜	twio
-2A19D	𪆝	ybto
+2A19D	𪆝	ykbo
 2A19E	𪆞	oqao
 2A19F	𪆟	igko
 2A1A0	𪆠	pgko
