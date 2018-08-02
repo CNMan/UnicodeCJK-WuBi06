@@ -4494,7 +4494,7 @@
 2E03D	𮀽	hhgh
 2E03E	𮀾	hjfj
 2E03F	𮀿	rhym
-2E040	𮁀	huep
+2E040	𮁀	dykn
 2E041	𮁁	fnmh
 2E042	𮁂	hhwc
 2E043	𮁃	hafl
