@@ -161,18 +161,18 @@
 2CF50	𬽐	wbn
 2CF51	𬽑	wfhh
 2CF52	𬽒	gwfk
-2CF53	𬽓	wghy
+2CF53	𬽓	ykpb
 2CF54	𬽔	wvyy
 2CF55	𬽕	wqyy
 2CF56	𬽖	wwhh
-2CF57	𬽗	wdxn
+2CF57	𬽗	ykpc
 2CF58	𬽘	wjg
 2CF59	𬽙	ykiy
 2CF5A	𬽚	wynt
-2CF5B	𬽛	wnwy
+2CF5B	𬽛	ykpy
 2CF5C	𬽜	wfmh
 2CF5D	𬽝	wakg
-2CF5E	𬽞	wfjh
+2CF5E	𬽞	ykpp
 2CF5F	𬽟	wkgn
 2CF60	𬽠	wtbn
 2CF61	𬽡	wmmh
@@ -423,7 +423,7 @@
 2D056	𭁖	ywxi
 2D057	𭁗	pgjg
 2D058	𭁘	qtjw
-2D059	𭁙	pgjq
+2D059	𭁙	ugys
 2D05A	𭁚	phgw
 2D05B	𭁛	ywtp
 2D05C	𭁜	pwff
@@ -1915,7 +1915,7 @@
 2D62A	𭘪	xfpl
 2D62B	𭘫	xdmy
 2D62C	𭘬	xkkm
-2D62D	𭘭	xrtf
+2D62D	𭘭	mhys
 2D62E	𭘮	uxhb
 2D62F	𭘯	xuej
 2D630	𭘰	xngf
@@ -2243,7 +2243,7 @@
 2D772	𭝲	rajh
 2D773	𭝳	rdeg
 2D774	𭝴	rdfh
-2D775	𭝵	gqjr
+2D775	𭝵	ykpn
 2D776	𭝶	rdfg
 2D777	𭝷	rgaj
 2D778	𭝸	rthg
@@ -2261,7 +2261,7 @@
 2D784	𭞄	rfny
 2D785	𭞅	rxxf
 2D786	𭞆	rdtf
-2D787	𭞇	rgmp
+2D787	𭞇	ykpt
 2D788	𭞈	rhqn
 2D789	𭞉	rklj
 2D78A	𭞊	rmcn
@@ -2599,7 +2599,7 @@
 2D8D6	𭣖	svjf
 2D8D7	𭣗	jfhw
 2D8D8	𭣘	jdff
-2D8D9	𭣙	jdhg
+2D8D9	𭣙	ykpc
 2D8DA	𭣚	jgha
 2D8DB	𭣛	xjgy
 2D8DC	𭣜	jkbg
@@ -6576,7 +6576,7 @@
 2E85F	𮡟	qqsj
 2E860	𮡠	qtdj
 2E861	𮡡	qrpy
-2E862	𮡢	qynk
+2E862	𮡢	ykph
 2E863	𮡣	qssy
 2E864	𮡤	qyty
 2E865	𮡥	qjta

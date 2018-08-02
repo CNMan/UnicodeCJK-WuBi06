@@ -3149,7 +3149,7 @@
 2C46C	𬑬	hwfq
 2C46D	𬑭	cbtm
 2C46E	𬑮	cbtf
-2C46F	𬑯	cbts
+2C46F	𬑯	cnhs
 2C470	𬑰	tduf
 2C471	𬑱	tdps
 2C472	𬑲	tdtu

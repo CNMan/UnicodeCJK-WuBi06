@@ -375,7 +375,7 @@
 20176	𠅶	yjfy
 20177	𠅷	ykkf
 20178	𠅸	ypfx
-20179	𠅹	ypsx
+20179	𠅹	ykpx
 2017A	𠅺	ylns
 2017B	𠅻	ynie
 2017C	𠅼	yntw
@@ -407,7 +407,7 @@
 20196	𠆖	yyqk
 20197	𠆗	ywgk
 20198	𠆘	upwe
-20199	𠆙	ypsy
+20199	𠆙	ykpy
 2019A	𠆚	yhhx
 2019B	𠆛	yjkf
 2019C	𠆜	ygvv
@@ -3555,7 +3555,7 @@
 20DE2	𠷢	krhh
 20DE3	𠷣	kkjy
 20DE4	𠷤	keqn
-20DE5	𠷥	kyps
+20DE5	𠷥	kyks
 20DE6	𠷦	kqkl
 20DE7	𠷧	kago
 20DE8	𠷨	krna
@@ -4418,7 +4418,7 @@
 21141	𡅁	kyjs
 21142	𡅂	kfpo
 21143	𡅃	kdud
-21144	𡅄	ypsf
+21144	𡅄	ykpl
 21145	𡅅	kptm
 21146	𡅆	kadt
 21147	𡅇	kogc
@@ -7841,7 +7841,7 @@
 21EA0	𡺠	mplh
 21EA1	𡺡	mecl
 21EA2	𡺢	mmjh
-21EA3	𡺣	myps
+21EA3	𡺣	myks
 21EA4	𡺤	mmgj
 21EA5	𡺥	mjmy
 21EA6	𡺦	mecl
@@ -10074,7 +10074,7 @@
 22759	𢝙	ngil
 2275A	𢝚	nitq
 2275B	𢝛	ndhd
-2275C	𢝜	nyps
+2275C	𢝜	nyks
 2275D	𢝝	hgin
 2275E	𢝞	nbbh
 2275F	𢝟	nlkr
@@ -12168,7 +12168,7 @@
 22F87	𢾇	gklc
 22F88	𢾈	bmqc
 22F89	𢾉	usty
-22F8A	𢾊	ypsc
+22F8A	𢾊	ykpc
 22F8B	𢾋	mdoc
 22F8C	𢾌	vahc
 22F8D	𢾍	bmyc
@@ -12185,7 +12185,7 @@
 22F98	𢾘	ghtp
 22F99	𢾙	jgqc
 22F9A	𢾚	ujty
-22F9B	𢾛	ypst
+22F9B	𢾛	ykpt
 22F9C	𢾜	dwjt
 22F9D	𢾝	nhkt
 22F9E	𢾞	najt
@@ -12465,8 +12465,8 @@
 230B0	𣂰	jqwr
 230B1	𣂱	gxxr
 230B2	𣂲	mfbr
-230B3	𣂳	ypsr
-230B4	𣂴	ryps
+230B3	𣂳	ykpr
+230B4	𣂴	ryks
 230B5	𣂵	xerh
 230B6	𣂶	hrmr
 230B7	𣂷	akfr
@@ -15008,7 +15008,7 @@
 23A9F	𣪟	gcec
 23AA0	𣪠	lbmc
 23AA1	𣪡	nhkc
-23AA2	𣪢	ypsc
+23AA2	𣪢	ykpc
 23AA3	𣪣	vemc
 23AA4	𣪤	fnml
 23AA5	𣪥	fpgk
@@ -18909,7 +18909,7 @@
 249DC	𤧜	gvjx
 249DD	𤧝	gwnd
 249DE	𤧞	gugd
-249DF	𤧟	gyps
+249DF	𤧟	gyks
 249E0	𤧠	gyfj
 249E1	𤧡	gfqb
 249E2	𤧢	ghgb
@@ -20003,7 +20003,7 @@
 24E22	𤸢	ummm
 24E23	𤸣	utgm
 24E24	𤸤	uwge
-24E25	𤸥	uyps
+24E25	𤸥	uyks
 24E26	𤸦	ubbb
 24E27	𤸧	upgg
 24E28	𤸨	uiqi
@@ -22561,7 +22561,7 @@
 25820	𥠠	wmat
 25821	𥠡	tqrn
 25822	𥠢	ttmg
-25823	𥠣	typs
+25823	𥠣	tyks
 25824	𥠤	ylrt
 25825	𥠥	tytb
 25826	𥠦	tugd
@@ -23194,7 +23194,7 @@
 25A99	𥪙	udmy
 25A9A	𥪚	utjt
 25A9B	𥪛	ghtu
-25A9C	𥪜	uyps
+25A9C	𥪜	uyks
 25A9D	𥪝	ujnh
 25A9E	𥪞	ujnw
 25A9F	𥪟	uuph
@@ -23520,7 +23520,7 @@
 25BDF	𥯟	trdf
 25BE0	𥯠	tire
 25BE1	𥯡	tlxx
-25BE2	𥯢	typs
+25BE2	𥯢	tyks
 25BE3	𥯣	tmwt
 25BE4	𥯤	tnhh
 25BE5	𥯥	ttfv
@@ -24705,7 +24705,7 @@
 26080	𦂀	xyac
 26081	𦂁	xuey
 26082	𦂂	xfts
-26083	𦂃	xyps
+26083	𦂃	xyks
 26084	𦂄	xxxr
 26085	𦂅	xcks
 26086	𦂆	xlkp
@@ -26460,7 +26460,7 @@
 2675B	𦝛	enhh
 2675C	𦝜	edhd
 2675D	𦝝	eqmd
-2675E	𦝞	eyps
+2675E	𦝞	eyks
 2675F	𦝟	edjf
 26760	𦝠	ynky
 26761	𦝡	ewga
@@ -32184,7 +32184,7 @@
 27DB7	𧶷	ghgm
 27DB8	𧶸	mhmy
 27DB9	𧶹	mmmn
-27DBA	𧶺	myps
+27DBA	𧶺	myks
 27DBB	𧶻	nagm
 27DBC	𧶼	pawm
 27DBD	𧶽	mjgr
@@ -35457,7 +35457,7 @@
 28A80	𨪀	qafs
 28A81	𨪁	qsvg
 28A82	𨪂	quey
-28A83	𨪃	qyps
+28A83	𨪃	qyks
 28A84	𨪄	ftmq
 28A85	𨪅	qhcn
 28A86	𨪆	qusk
@@ -36527,7 +36527,7 @@
 28EAE	𨺮	bcgt
 28EAF	𨺯	blny
 28EB0	𨺰	bugd
-28EB1	𨺱	byps
+28EB1	𨺱	byks
 28EB2	𨺲	btky
 28EB3	𨺳	bcel
 28EB4	𨺴	bwyf
@@ -37938,7 +37938,7 @@
 29431	𩐱	ujas
 29432	𩐲	ujjh
 29433	𩐳	ujdm
-29434	𩐴	ypsj
+29434	𩐴	ykpj
 29435	𩐵	ujam
 29436	𩐶	ujny
 29437	𩐷	ujfs
@@ -39191,7 +39191,7 @@
 29916	𩤖	ctlq
 29917	𩤗	cwtn
 29918	𩤘	cvtq
-29919	𩤙	cyps
+29919	𩤙	coys
 2991A	𩤚	cmdj
 2991B	𩤛	cjmy
 2991C	𩤜	cftj
@@ -39428,7 +39428,7 @@
 29A03	𩨃	cvfp
 29A04	𩨄	cvhc
 29A05	𩨅	cleg
-29A06	𩨆	cyps
+29A06	𩨆	cgys
 29A07	𩨇	covg
 29A08	𩨈	cwgj
 29A09	𩨉	cgkj

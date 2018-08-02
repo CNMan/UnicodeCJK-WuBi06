@@ -36,7 +36,7 @@
 2A723	𪜣	ucwa
 2A724	𪜤	ywwy
 2A725	𪜥	ylkh
-2A726	𪜦	ypsl
+2A726	𪜦	ykpl
 2A727	𪜧	wqy
 2A728	𪜨	wgvg
 2A729	𪜩	wqcy
@@ -166,7 +166,7 @@
 2A7A5	𪞥	upfi
 2A7A6	𪞦	uleg
 2A7A7	𪞧	uwyq
-2A7A8	𪞨	uyps
+2A7A8	𪞨	uyks
 2A7A9	𪞩	uawy
 2A7AA	𪞪	uwqu
 2A7AB	𪞫	ugkt
@@ -503,7 +503,7 @@
 2A8F6	𪣶	wtcf
 2A8F7	𪣷	fqmd
 2A8F8	𪣸	wtcf
-2A8F9	𪣹	fyps
+2A8F9	𪣹	fyks
 2A8FA	𪣺	fnwk
 2A8FB	𪣻	fovg
 2A8FC	𪣼	fyod
@@ -869,7 +869,7 @@
 2AA64	𪩤	angj
 2AA65	𪩥	anyk
 2AA66	𪩦	anss
-2AA67	𪩧	ypsn
+2AA67	𪩧	ykpn
 2AA68	𪩨	qlpn
 2AA69	𪩩	anwp
 2AA6A	𪩪	anww
