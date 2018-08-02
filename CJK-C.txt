@@ -126,13 +126,13 @@
 2A77D	𪝽	whmm
 2A77E	𪝾	wdej
 2A77F	𪝿	jbqb
-2A780	𪞀	iqqh
+2A780	𪞀	igqh
 2A781	𪞁	qkqc
 2A782	𪞂	qkqf
-2A783	𪞃	iqjg
+2A783	𪞃	igqg
 2A784	𪞄	tfqd
 2A785	𪞅	ycqk
-2A786	𪞆	iqho
+2A786	𪞆	igqo
 2A787	𪞇	tygv
 2A788	𪞈	wxfj
 2A789	𪞉	fkaw
@@ -2996,7 +2996,7 @@
 2B2B3	𫊳	jgkq
 2B2B4	𫊴	jrta
 2B2B5	𫊵	jffy
-2B2B6	𫊶	jiqn
+2B2B6	𫊶	jigq
 2B2B7	𫊷	jqsy
 2B2B8	𫊸	jtdj
 2B2B9	𫊹	jwfc
@@ -3871,7 +3871,7 @@
 2B61E	𫘞	ctbn
 2B61F	𫘟	chcy
 2B620	𫘠	cgcf
-2B621	𫘡	ciqn
+2B621	𫘡	cgiq
 2B622	𫘢	cskg
 2B623	𫘣	cjfh
 2B624	𫘤	cctd
