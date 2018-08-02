@@ -4069,7 +4069,7 @@
 2C804	𬠄	jlmh
 2C805	𬠅	jivg
 2C806	𬠆	qxhj
-2C807	𬠇	jiwy
+2C807	𬠇	jigw
 2C808	𬠈	jamy
 2C809	𬠉	kqrj
 2C80A	𬠊	jwnw
