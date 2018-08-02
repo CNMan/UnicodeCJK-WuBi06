@@ -507,7 +507,7 @@
 2BA1A	𫨚	dukb
 2BA1B	𫨛	dxik
 2BA1C	𫨜	dwgw
-2BA1D	𫨝	dyeh
+2BA1D	𫨝	dykh
 2BA1E	𫨞	dhlh
 2BA1F	𫨟	dbbj
 2BA20	𫨠	dfyh
@@ -785,7 +785,7 @@
 2BB30	𫬰	kkpe
 2BB31	𫬱	kajp
 2BB32	𫬲	kkhk
-2BB33	𫬳	tyek
+2BB33	𫬳	tykk
 2BB34	𫬴	wfsk
 2BB35	𫬵	kiyj
 2BB36	𫬶	krvn
@@ -3388,7 +3388,7 @@
 2C55B	𬕛	tldf
 2C55C	𬕜	tmtj
 2C55D	𬕝	tjgf
-2C55E	𬕞	tyeu
+2C55E	𬕞	tyke
 2C55F	𬕟	tgmp
 2C560	𬕠	tigg
 2C561	𬕡	txaf

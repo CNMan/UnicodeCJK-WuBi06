@@ -1512,7 +1512,7 @@
 205E7	𠗧	umjh
 205E8	𠗨	uans
 205E9	𠗩	ujho
-205EA	𠗪	uyey
+205EA	𠗪	uyke
 205EB	𠗫	uqmd
 205EC	𠗬	urnh
 205ED	𠗭	uthf
@@ -6097,7 +6097,7 @@
 217D0	𡟐	vtkh
 217D1	𡟑	vwnd
 217D2	𡟒	vudv
-217D3	𡟓	vyey
+217D3	𡟓	vyke
 217D4	𡟔	vfqk
 217D5	𡟕	ytbv
 217D6	𡟖	ipvv
@@ -10040,7 +10040,7 @@
 22737	𢜷	tlvn
 22738	𢜸	ncbs
 22739	𢜹	lden
-2273A	𢜺	nyey
+2273A	𢜺	nyke
 2273B	𢜻	nemf
 2273C	𢜼	ntgi
 2273D	𢜽	nwgd
@@ -19988,7 +19988,7 @@
 24E13	𤸓	ugct
 24E14	𤸔	ukkk
 24E15	𤸕	utgp
-24E16	𤸖	uyei
+24E16	𤸖	uyke
 24E17	𤸗	uwfy
 24E18	𤸘	uhmi
 24E19	𤸙	udyl
