@@ -705,7 +705,7 @@
 2A9C0	𪧀	bmmv
 2A9C1	𪧁	blfh
 2A9C2	𪧂	ahnb
-2A9C3	𪧃	ybtf
+2A9C3	𪧃	ykbf
 2A9C4	𪧄	brcc
 2A9C5	𪧅	pgmj
 2A9C6	𪧆	pnyu
@@ -1853,7 +1853,7 @@
 2AE3C	𪸼	omfk
 2AE3D	𪸽	owgf
 2AE3E	𪸾	oevh
-2AE3F	𪸿	ybou
+2AE3F	𪸿	ykbo
 2AE40	𪹀	poch
 2AE41	𪹁	oblg
 2AE42	𪹂	vocf
