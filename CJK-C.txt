@@ -29,7 +29,7 @@
 2A71C	𪜜	uxbh
 2A71D	𪜝	cbaw
 2A71E	𪜞	fcdt
-2A71F	𪜟	ybvc
+2A71F	𪜟	ykbc
 2A720	𪜠	ymyu
 2A721	𪜡	ntha
 2A722	𪜢	yhjf
@@ -667,7 +667,7 @@
 2A99A	𪦚	vmty
 2A99B	𪦛	vpwd
 2A99C	𪦜	vifj
-2A99D	𪦝	vyby
+2A99D	𪦝	vyky
 2A99E	𪦞	vnrg
 2A99F	𪦟	vbyu
 2A9A0	𪦠	ccvf
