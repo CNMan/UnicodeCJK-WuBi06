@@ -3605,7 +3605,7 @@
 2DCC4	𭳄	gtfn
 2DCC5	𭳅	ipgy
 2DCC6	𭳆	gjjg
-2DCC7	𭳇	tdkg
+2DCC7	𭳇	iyke
 2DCC8	𭳈	gilg
 2DCC9	𭳉	gpey
 2DCCA	𭳊	dunv
