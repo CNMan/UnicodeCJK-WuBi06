@@ -38752,7 +38752,7 @@
 2975F	𩝟	wpfv
 29760	𩝠	wptd
 29761	𩝡	wpkn
-29762	𩝢	wpyb
+29762	𩝢	wyyb
 29763	𩝣	wpjn
 29764	𩝤	wpfn
 29765	𩝥	wpgi
