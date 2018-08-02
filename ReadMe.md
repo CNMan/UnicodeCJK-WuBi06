@@ -6,33 +6,38 @@
 
 * 字形以Windows 10中的SimSun（CJK、CJK-A）、SimSun-ExtB（CJK-B、CJK-C、CJK-D和少量CJK-E）以及[方正字库](http://www.foundertype.com/)给[籍合网](http://www.ancientbooks.cn/)做的[中华书局宋体](http://www.ancientbooks.cn/helpcore?font)（支持Unicode 10.0.0）为准。
 
+## [如何参与项目](https://github.com/CNMan/Unicode_CJK_XSJWBBM/issues/5)
+
+## [关于项目进度](https://github.com/CNMan/Unicode_CJK_XSJWBBM/issues/4)
+
 ## 讨论区
 
 [Issues](https://github.com/CNMan/Unicode_CJK_XSJWBBM/issues)、[新世纪五笔吧](http://tieba.baidu.com/f?kw=新世纪五笔&ie=utf-8)、新世纪五笔QQ群（38021162）、Unicode漢字交流QQ群（436064726）
 
-## 文本编辑器
+如果你使用过程中发现编码错误，请发[Issue](https://github.com/CNMan/Unicode_CJK_XSJWBBM/issues)或发邮件到以下地址，以便及时修正
 
-推荐使用[BabelPad](http://www.babelstone.co.uk/Software/Download/BabelPad_CHS.zip)，可对Unicode编码区分别设置不同字体。
+![myemail](https://github.com/CNMan/Unicode_CJK_XSJWBBM/raw/master/imgs/myemail.png)
 
 ## Unicode CJK 部分变动历史：
 
-|版本|CJK|CJK-A|CJK-B|CJK-C|CJK-D|CJK-E|CJK-F|
-|-------|-------|-------|-------|-------|-------|-------|-------|
-|码位|[4E00-9FFF](https://www.unicode.org/charts/PDF/U4E00.pdf)|[3400-4DBF](https://www.unicode.org/charts/PDF/U3400.pdf)|[20000-2A6DF](https://www.unicode.org/charts/PDF/U20000.pdf)|[2A700-2B73F](https://www.unicode.org/charts/PDF/U2A700.pdf)|[2B740-2B81F](https://www.unicode.org/charts/PDF/U2B740.pdf)|[2B820-2CEAF](https://www.unicode.org/charts/PDF/U2B820.pdf)|[2CEB0-2EBEF](https://www.unicode.org/charts/PDF/U2CEB0.pdf)|
-|码数|20,992|6,592|42,720|4,160|224|5,776|7,488|
-|1.0.1|20,902|||||||
-|3.0.0||6,582||||||
-|3.1.0|||42,711|||||
-|4.1.0|20,924|||||||
-|5.1.0|20,932|||||||
-|5.2.0|20,940|||4,149||||
-|6.0.0|||||222|||
-|6.1.0|20,941|||||||
-|8.0.0|20,950|||||5,762||
-|10.0.0|20,971||||||7,473|
-|11.0.0|20,976|||||||
+|版本|CJK|CJK-A|CJK-B|CJK-C|CJK-D|CJK-E|CJK-F|CJK-G|
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+|码位|[4E00-9FFF](https://www.unicode.org/charts/PDF/U4E00.pdf)|[3400-4DBF](https://www.unicode.org/charts/PDF/U3400.pdf)|[20000-2A6DF](https://www.unicode.org/charts/PDF/U20000.pdf)|[2A700-2B73F](https://www.unicode.org/charts/PDF/U2A700.pdf)|[2B740-2B81F](https://www.unicode.org/charts/PDF/U2B740.pdf)|[2B820-2CEAF](https://www.unicode.org/charts/PDF/U2B820.pdf)|[2CEB0-2EBEF](https://www.unicode.org/charts/PDF/U2CEB0.pdf)|30000-3138F|
+|码数|20,992|6,592|42,720|4,160|224|5,776|7,488|5,008|
+|1.0.1|20,902||||||||
+|3.0.0||6,582|||||||
+|3.1.0|||42,711||||||
+|4.1.0|20,924||||||||
+|5.1.0|20,932||||||||
+|5.2.0|20,940|||4,149|||||
+|6.0.0|||||222||||
+|6.1.0|20,941||||||||
+|8.0.0|20,950|||||5,762|||
+|10.0.0|20,971||||||7,473||
+|11.0.0|20,976||||||||
+|13.0.0||||||||5,002|
 
-GBK 基本相当于 Unicode 1.0.1；GB18030－2000 基本相当于 Unicode 3.0.0；GB18030－2005 基本相当于 Unicode 3.1.0
+GBK 基本相当于 Unicode 1.0.1；GB18030－2000 基本相当于 Unicode 3.0.0；GB18030－2005 基本相当于 Unicode 3.1.0；[CJK-G](https://unicode.org/roadmaps/tip/) 预计将在[2020年](https://blogs.adobe.com/CCJKType/2018/06/unicode11.html)7~8月正式发布。
 
 ## 王码五笔字形输入法
 
@@ -90,8 +95,6 @@ CE5A4007936D580000AAF433282D9D183EF87ADC *wmwb2012a.exe v2.0.0.1
 [ISO/IEC 10646 5th edition](http://standards.iso.org/ittf/PubliclyAvailableStandards/c069119_ISO_IEC_10646_2017.zip)
 
 [IDS data for CJK Unified Ideographs](https://github.com/cjkvi/cjkvi-ids)
-
-[CJK Unified Ideographs Extension G (30000-31389)](https://unicode.org/roadmaps/tip/)
 
 [《通用规范汉字表》（国发〔2013〕23号）](http://www.gov.cn/gzdt/att/att/site1/20130819/tygfhzb.pdf)
 
