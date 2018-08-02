@@ -5742,7 +5742,7 @@
 2166D	𡙭	fwhd
 2166E	𡙮	dakg
 2166F	𡙯	diqf
-21670	𡙰	ybvd
+21670	𡙰	ykbd
 21671	𡙱	rwyd
 21672	𡙲	dkkl
 21673	𡙳	dufr
@@ -17254,7 +17254,7 @@
 24365	𤍥	ahno
 24366	𤍦	orne
 24367	𤍧	oopy
-24368	𤍨	ybvo
+24368	𤍨	ykbo
 24369	𤍩	oopu
 2436A	𤍪	oykb
 2436B	𤍫	fwyo
@@ -33055,7 +33055,7 @@
 2811E	𨄞	khgp
 2811F	𨄟	fwyh
 28120	𨄠	khtn
-28121	𨄡	ybvh
+28121	𨄡	ykbh
 28122	𨄢	khyh
 28123	𨄣	khdt
 28124	𨄤	khiy
@@ -36251,7 +36251,7 @@
 28D9A	𨶚	uxxg
 28D9B	𨶛	uami
 28D9C	𨶜	ugkf
-28D9D	𨶝	uyby
+28D9D	𨶝	uyky
 28D9E	𨶞	uvec
 28D9F	𨶟	unwv
 28DA0	𨶠	uwvo
