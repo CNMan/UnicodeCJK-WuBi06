@@ -11536,7 +11536,7 @@
 22D0F	𢴏	rief
 22D10	𢴐	rtqq
 22D11	𢴑	rton
-22D12	𢴒	rybo
+22D12	𢴒	ryko
 22D13	𢴓	rgiq
 22D14	𢴔	rmrc
 22D15	𢴕	rpgs
