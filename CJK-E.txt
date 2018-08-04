@@ -2023,7 +2023,7 @@
 2C006	𬀆	ytxf
 2C007	𬀇	ytdg
 2C008	𬀈	ytkq
-2C009	𬀉	yyyb
+2C009	𬀉	yyyr
 2C00A	𬀊	upqy
 2C00B	𬀋	ytdh
 2C00C	𬀌	ytdq
@@ -2654,7 +2654,7 @@
 2C27D	𬉽	omnn
 2C27E	𬉾	omyg
 2C27F	𬉿	eou
-2C280	𬊀	oyn
+2C280	𬊀	oyt
 2C281	𬊁	omfg
 2C282	𬊂	oqvg
 2C283	𬊃	ogmi
@@ -3168,7 +3168,7 @@
 2C47F	𬑿	dty
 2C480	𬒀	dqan
 2C481	𬒁	dtdy
-2C482	𬒂	dyn
+2C482	𬒂	dyt
 2C483	𬒃	danw
 2C484	𬒄	dlnn
 2C485	𬒅	dmnn
@@ -3639,7 +3639,7 @@
 2C656	𬙖	lghu
 2C657	𬙗	pqgf
 2C658	𬙘	lgfj
-2C659	𬙙	lyb
+2C659	𬙙	lyr
 2C65A	𬙚	lanb
 2C65B	𬙛	lduu
 2C65C	𬙜	ltdu

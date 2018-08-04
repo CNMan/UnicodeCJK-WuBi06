@@ -190,7 +190,7 @@
 2A7BD	𪞽	ybme
 2A7BE	𪞾	fwjh
 2A7BF	𪞿	gbnj
-2A7C0	𪟀	vyn
+2A7C0	𪟀	vyt
 2A7C1	𪟁	dcjh
 2A7C2	𪟂	hkvn
 2A7C3	𪟃	ddjh
@@ -1129,7 +1129,7 @@
 2AB68	𪭨	rtdy
 2AB69	𪭩	rway
 2AB6A	𪭪	rmmg
-2AB6B	𪭫	rsyn
+2AB6B	𪭫	rsyt
 2AB6C	𪭬	rdmh
 2AB6D	𪭭	rrqa
 2AB6E	𪭮	rwww
@@ -1267,7 +1267,7 @@
 2ABF2	𪯲	yrh
 2ABF3	𪯳	ytcy
 2ABF4	𪯴	yhkg
-2ABF5	𪯵	agyn
+2ABF5	𪯵	agyt
 2ABF6	𪯶	ytgd
 2ABF7	𪯷	yugh
 2ABF8	𪯸	ytrg
@@ -2376,7 +2376,7 @@
 2B047	𫁇	trie
 2B048	𫁈	tujn
 2B049	𫁉	temq
-2B04A	𫁊	pwyn
+2B04A	𫁊	pwyt
 2B04B	𫁋	pqmk
 2B04C	𫁌	pqgf
 2B04D	𫁍	pwri
@@ -3057,7 +3057,7 @@
 2B2F0	𫋰	ttdh
 2B2F1	𫋱	tmmh
 2B2F2	𫋲	puaq
-2B2F3	𫋳	puyn
+2B2F3	𫋳	puyt
 2B2F4	𫋴	ywye
 2B2F5	𫋵	pujh
 2B2F6	𫋶	puvh
@@ -3216,7 +3216,7 @@
 2B38F	𫎏	mgfh
 2B390	𫎐	mtnn
 2B391	𫎑	mqhh
-2B392	𫎒	myn
+2B392	𫎒	myt
 2B393	𫎓	mpgg
 2B394	𫎔	wfmu
 2B395	𫎕	mgmh
