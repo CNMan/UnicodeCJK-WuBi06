@@ -3065,7 +3065,7 @@
 2DAA8	𭪨	jsmc
 2DAA9	𭪩	hjfc
 2DAAA	𭪪	rvdc
-2DAAB	𭪫	rfmc
+2DAAB	𭪫	wrss
 2DAAC	𭪬	rsiq
 2DAAD	𭪭	usmc
 2DAAE	𭪮	fpxc
@@ -7042,8 +7042,8 @@
 2EA31	𮨱	wtjj
 2EA32	𮨲	wtjc
 2EA33	𮨳	wgjh
-2EA34	𮨴	cvcy
-2EA35	𮨵	cxjh
+2EA34	𮨴	sswr
+2EA35	𮨵	wrne
 2EA36	𮨶	cccc
 2EA37	𮨷	cjy
 2EA38	𮨸	wyuh
