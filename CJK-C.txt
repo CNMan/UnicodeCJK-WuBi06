@@ -3769,7 +3769,7 @@
 2B5B8	𫖸	drim
 2B5B9	𫖹	dhim
 2B5BA	𫖺	sqqm
-2B5BB	𫖻	wcmj
+2B5BB	𫖻	wcwj
 2B5BC	𫖼	wfgs
 2B5BD	𫖽	wftc
 2B5BE	𫖾	wgef
@@ -3780,7 +3780,7 @@
 2B5C3	𫗃	wfwn
 2B5C4	𫗄	wfwn
 2B5C5	𫗅	thlj
-2B5C6	𫗆	mtjn
+2B5C6	𫗆	wtjn
 2B5C7	𫗇	mqjd
 2B5C8	𫗈	mqfb
 2B5C9	𫗉	mqdh
