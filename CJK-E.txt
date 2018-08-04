@@ -3386,7 +3386,7 @@
 2C559	𬕙	tisg
 2C55A	𬕚	tdgt
 2C55B	𬕛	tldf
-2C55C	𬕜	tmtj
+2C55C	𬕜	twtj
 2C55D	𬕝	tjgf
 2C55E	𬕞	tyke
 2C55F	𬕟	tgmp
@@ -5202,7 +5202,7 @@
 2CC71	𬱱	udum
 2CC72	𬱲	rpwm
 2CC73	𬱳	wgkm
-2CC74	𬱴	mtjf
+2CC74	𬱴	wtjf
 2CC75	𬱵	mqfh
 2CC76	𬱶	wfxn
 2CC77	𬱷	mqnw
