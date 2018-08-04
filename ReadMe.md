@@ -2,9 +2,11 @@
 
 本项目**拟**将[五笔吧](http://tieba.baidu.com/f?kw=五笔&ie=utf-8)小吧主[LSJ天道酬勤](http://tieba.baidu.com/home/main?un=LSJ天道酬勤&ie=utf-8)制作的[海峰五笔码表 2.02A（2017年4月23日校对）](https://pan.baidu.com/s/1hq5kedm)逐字转换为新世纪版五笔字型编码。
 
-* 仅聚焦单字，不涉及词组。
+* 仅聚焦单字全码，不涉及词组。
 
 * 字形以Windows 10中的SimSun（CJK、CJK-A）、SimSun-ExtB（CJK-B、CJK-C、CJK-D和少量CJK-E）以及[方正字库](http://www.foundertype.com/)给[籍合网](http://www.ancientbooks.cn/)做的[中华书局宋体](http://www.ancientbooks.cn/helpcore?font)（支持Unicode 10.0.0）为准。
+
+* 这是一个数据库，不是一个码表。
 
 ## [如何参与项目](https://github.com/CNMan/Unicode_CJK_XSJWBBM/issues/5)
 
@@ -14,7 +16,7 @@
 
 [Issues](https://github.com/CNMan/Unicode_CJK_XSJWBBM/issues)、[新世纪五笔吧](http://tieba.baidu.com/f?kw=新世纪五笔&ie=utf-8)、新世纪五笔QQ群（38021162）、Unicode漢字交流QQ群（436064726）
 
-如果你使用过程中发现编码错误，请发[Issue](https://github.com/CNMan/Unicode_CJK_XSJWBBM/issues)或发邮件到以下地址，以便及时修正
+如果你使用过程中发现编码错误，请发[Issue](https://github.com/CNMan/Unicode_CJK_XSJWBBM/issues)、[Pull request](https://github.com/CNMan/Unicode_CJK_XSJWBBM/pulls)或发邮件到以下地址，以便及时修正
 
 ![myemail](https://github.com/CNMan/Unicode_CJK_XSJWBBM/raw/master/imgs/myemail.png)
 
