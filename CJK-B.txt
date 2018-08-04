@@ -4547,7 +4547,7 @@
 211C2	𡇂	loi
 211C3	𡇃	lcv
 211C4	𡇄	lcci
-211C5	𡇅	lyv
+211C5	𡇅	lye
 211C6	𡇆	lngd
 211C7	𡇇	lwvv
 211C8	𡇈	ldd
@@ -8310,7 +8310,7 @@
 22075	𢁵	mhhc
 22076	𢁶	mhmc
 22077	𢁷	mhwc
-22078	𢁸	mhyn
+22078	𢁸	mhyt
 22079	𢁹	wfmh
 2207A	𢁺	rgnh
 2207B	𢁻	mhdh
@@ -9141,7 +9141,7 @@
 223B4	𢎴	xdi
 223B5	𢎵	xkk
 223B6	𢎶	xwgf
-223B7	𢎷	xyn
+223B7	𢎷	xyt
 223B8	𢎸	xgxg
 223B9	𢎹	xnwy
 223BA	𢎺	xxhh
@@ -10677,7 +10677,7 @@
 229B4	𢦴	aygd
 229B5	𢦵	acbt
 229B6	𢦶	aawi
-229B7	𢦷	fayv
+229B7	𢦷	faye
 229B8	𢦸	kkar
 229B9	𢦹	dgit
 229BA	𢦺	wwfa
@@ -10800,7 +10800,7 @@
 22A2F	𢨯	rnrn
 22A30	𢨰	ynwq
 22A31	𢨱	ynwc
-22A32	𢨲	rnyn
+22A32	𢨲	rnyt
 22A33	𢨳	ynyn
 22A34	𢨴	rncv
 22A35	𢨵	yntf
@@ -12503,18 +12503,18 @@
 230D6	𣃖	hhwr
 230D7	𣃗	yvn
 230D8	𣃘	ywhh
-230D9	𣃙	gwyb
+230D9	𣃙	gwyr
 230DA	𣃚	yymn
 230DB	𣃛	yoy
-230DC	𣃜	ufyb
+230DC	𣃜	ufyr
 230DD	𣃝	ymdy
-230DE	𣃞	duyv
+230DE	𣃞	duye
 230DF	𣃟	ghpy
 230E0	𣃠	ywyc
 230E1	𣃡	yyxy
 230E2	𣃢	ywyn
 230E3	𣃣	yhcy
-230E4	𣃤	hcyn
+230E4	𣃤	hcyt
 230E5	𣃥	ytiy
 230E6	𣃦	ytqr
 230E7	𣃧	ytjg
@@ -12553,7 +12553,7 @@
 23108	𣄈	yplh
 23109	𣄉	ytsg
 2310A	𣄊	ytgo
-2310B	𣄋	gryb
+2310B	𣄋	gryr
 2310C	𣄌	yxmy
 2310D	𣄍	yjgh
 2310E	𣄎	ygef
@@ -13382,7 +13382,7 @@
 23445	𣑅	hnsk
 23446	𣑆	sqdc
 23447	𣑇	sxiu
-23448	𣑈	sqyn
+23448	𣑈	sqyt
 23449	𣑉	sthg
 2344A	𣑊	sdhf
 2344B	𣑋	spfy
@@ -13684,7 +13684,7 @@
 23573	𣕳	sloy
 23574	𣕴	smdo
 23575	𣕵	sawc
-23576	𣕶	slyn
+23576	𣕶	slyt
 23577	𣕷	xsks
 23578	𣕸	saah
 23579	𣕹	shvh
@@ -18687,7 +18687,7 @@
 248FE	𤣾	gdcy
 248FF	𤣿	ggah
 24900	𤤀	ggbn
-24901	𤤁	gyn
+24901	𤤁	gyt
 24902	𤤂	gcbh
 24903	𤤃	ghdg
 24904	𤤄	gwcy
@@ -23281,7 +23281,7 @@
 25AF0	𥫰	tywu
 25AF1	𥫱	tgbn
 25AF2	𥫲	taj
-25AF3	𥫳	tyb
+25AF3	𥫳	tyr
 25AF4	𥫴	tgmh
 25AF5	𥫵	tdyu
 25AF6	𥫶	tfjj
@@ -36352,7 +36352,7 @@
 28DFF	𨷿	uxte
 28E00	𨸀	ubd
 28E01	𨸁	uynv
-28E02	𨸂	uyv
+28E02	𨸂	uye
 28E03	𨸃	utfn
 28E04	𨸄	uvei
 28E05	𨸅	ugcf
@@ -38557,7 +38557,7 @@
 2969D	𩚝	wywe
 2969E	𩚞	wygx
 2969F	𩚟	wynw
-296A0	𩚠	wyyn
+296A0	𩚠	wyyt
 296A1	𩚡	wyfc
 296A2	𩚢	wygg
 296A3	𩚣	wyjg
@@ -39456,7 +39456,7 @@
 29A20	𩨠	meat
 29A21	𩨡	meit
 29A22	𩨢	mery
-29A23	𩨣	meyn
+29A23	𩨣	meyt
 29A24	𩨤	megx
 29A25	𩨥	mepq
 29A26	𩨦	mewn

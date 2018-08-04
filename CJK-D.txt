@@ -72,7 +72,7 @@
 2B787	𫞇	eiwh
 2B788	𫞈	svyg
 2B789	𫞉	sgkj
-2B78A	𫞊	sryn
+2B78A	𫞊	sryt
 2B78B	𫞋	stuh
 2B78C	𫞌	swnc
 2B78D	𫞍	sseg
