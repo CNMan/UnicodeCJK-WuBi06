@@ -3781,11 +3781,11 @@
 2B5C4	𫗄	wfwn
 2B5C5	𫗅	thlj
 2B5C6	𫗆	wtjn
-2B5C7	𫗇	mqjd
-2B5C8	𫗈	mqfb
-2B5C9	𫗉	mqdh
-2B5CA	𫗊	mquj
-2B5CB	𫗋	mqgt
+2B5C7	𫗇	wrjd
+2B5C8	𫗈	wrfb
+2B5C9	𫗉	wrdh
+2B5CA	𫗊	wruj
+2B5CB	𫗋	wrgt
 2B5CC	𫗌	dfau
 2B5CD	𫗍	ftwe
 2B5CE	𫗎	wgvn
