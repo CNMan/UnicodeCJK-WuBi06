@@ -38381,6 +38381,7 @@
 295EC	𩗬	wgji
 295ED	𩗭	wgjy
 295EE	𩗮	wgjl
+295EF	𩗯	tvwj
 295F0	𩗰	wgjf
 295F1	𩗱	wgjr
 295F2	𩗲	wgjh
