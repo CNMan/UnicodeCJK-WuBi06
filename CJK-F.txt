@@ -4121,7 +4121,7 @@
 2DEC8	𭻈	fclj
 2DEC9	𭻉	tklf
 2DECA	𭻊	ltny
-2DECB	𭻋	hsjt
+2DECB	𭻋	ndjt
 2DECC	𭻌	slf
 2DECD	𭻍	gogl
 2DECE	𭻎	lgqj
