@@ -7202,8 +7202,8 @@
 2EAD1	𮫑	dcei
 2EAD2	𮫒	dcel
 2EAD3	𮫓	dcey
-2EAD4	𮫔	jggb
-2EAD5	𮫕	jggo
+2EAD4	𮫔	hggb
+2EAD5	𮫕	hggo
 2EAD6	𮫖	cbfn
 2EAD7	𮫗	snjc
 2EAD8	𮫘	egne
