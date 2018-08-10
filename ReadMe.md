@@ -1,12 +1,18 @@
-# Unicode 新世纪版五笔字型编码（未完成）
-
-本项目**拟**将[五笔吧](http://tieba.baidu.com/f?kw=五笔&ie=utf-8)小吧主[LSJ天道酬勤](http://tieba.baidu.com/home/main?un=LSJ天道酬勤&ie=utf-8)制作的[海峰五笔码表 2.02A（2017年4月23日校对）](https://pan.baidu.com/s/1hq5kedm)逐字转换为新世纪版五笔字型编码。
+# 新世纪版五笔字型 Unicode CJK 超大字符集编码数据库
 
 * 仅聚焦单字全码，不涉及词组。
 
-* 字形以Windows 10中的SimSun（CJK、CJK-A）、SimSun-ExtB（CJK-B、CJK-C、CJK-D和少量CJK-E）以及[方正字库](http://www.foundertype.com/)给[籍合网](http://www.ancientbooks.cn/)做的[中华书局宋体](http://www.ancientbooks.cn/helpcore?font)（支持Unicode 10.0.0）为准。
+* 字形以 Unicode 11.0.0 CodeCharts 为准，目前主攻简体中文字形。
+
+* 字体以 Windows 10 中的**中易宋体**和[方正字库](http://www.foundertype.com/)给[籍合网](http://www.ancientbooks.cn/)做的[**中华书局宋体**](http://www.ancientbooks.cn/helpcore?font)（支持Unicode 10.0.0）为主。
+
+  * [中易宋体字形错误](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/6)
+
+  * [中华书局宋体字形错误](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/7)
 
 * 这是一个数据库，不是一个码表。
+
+* 力求“标准”、“同形同码”
 
 ## [如何参与项目](https://github.com/CNMan/Unicode_CJK_XSJWBBM/issues/5)
 
@@ -128,3 +134,11 @@ CE5A4007936D580000AAF433282D9D183EF87ADC *wmwb2012a.exe v2.0.0.1
 ## 版权
 
 所有权利归[王码公司](http://www.wangma.com.cn/)！请勿商用！
+
+## 致谢
+
+* [五笔吧](http://tieba.baidu.com/f?kw=五笔&ie=utf-8)小吧主[LSJ天道酬勤](http://tieba.baidu.com/home/main?un=LSJ天道酬勤&ie=utf-8)制作的[海峰五笔码表 2.02A（2017年4月23日校对）](https://pan.baidu.com/s/1hq5kedm)。
+
+* [新世纪五笔吧](http://tieba.baidu.com/f?kw=新世纪五笔&ie=utf-8)原吧主[xionghuaidong](http://tieba.baidu.com/home/main?un=xionghuaidong&ie=utf-8)。
+
+* 以及曾经为86版、98版五笔字型超大字符集编码作出贡献的“五笔爱好者论坛”网友。
