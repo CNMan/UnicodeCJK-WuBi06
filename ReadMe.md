@@ -2,7 +2,7 @@
 
 * 仅聚焦单字全码，不涉及词组。
 
-* 字形以 Unicode 11.0.0 CodeCharts 为准，目前主攻简体中文字形。
+* 字形以 Unicode 11.0.0 CodeCharts 为准，G 源字形优先。
 
 * 字体以 Windows 10 中的**中易宋体**和[方正字库](http://www.foundertype.com/)给[籍合网](http://www.ancientbooks.cn/)做的[**中华书局宋体**](http://www.ancientbooks.cn/helpcore?font)（支持Unicode 10.0.0）为主。
 
