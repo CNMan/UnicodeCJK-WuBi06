@@ -131,6 +131,8 @@ CE5A4007936D580000AAF433282D9D183EF87ADC *wmwb2012a.exe v2.0.0.1
 
 [https://gitee.com/xionghuaidong/WubiTools](https://gitee.com/xionghuaidong/WubiTools)
 
+[五笔爱好者论坛两周年精华](https://cnnews.info/share/uploads/wbfans.com_2years.chm)
+
 ## 版权
 
 所有权利归[王码公司](http://www.wangma.com.cn/)！请勿商用！
