@@ -297,7 +297,7 @@
 2A828	𪠨	ecu
 2A829	𪠩	wfic
 2A82A	𪠪	nhfc
-2A82B	𪠫	udrc
+2A82B	𪠫	uddc
 2A82C	𪠬	vdcy
 2A82D	𪠭	rcbg
 2A82E	𪠮	pwwc
@@ -628,7 +628,7 @@
 2A973	𪥳	vkmh
 2A974	𪥴	thvf
 2A975	𪥵	vng
-2A976	𪥶	vdtb
+2A976	𪥶	vtgb
 2A977	𪥷	wrvf
 2A978	𪥸	qrvb
 2A979	𪥹	vywe
@@ -650,7 +650,7 @@
 2A989	𪦉	vigy
 2A98A	𪦊	vkkn
 2A98B	𪦋	vwdc
-2A98C	𪦌	vuqv
+2A98C	𪦌	vfqv
 2A98D	𪦍	ynvq
 2A98E	𪦎	vyde
 2A98F	𪦏	vxin
