@@ -18,6 +18,8 @@
 
 ## [关于项目进度](https://github.com/CNMan/Unicode_CJK_XSJWBBM/issues/4)
 
+## [部分字根异写的处理](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/10)
+
 ## 讨论区
 
 [Issues](https://github.com/CNMan/Unicode_CJK_XSJWBBM/issues)、[新世纪五笔吧](http://tieba.baidu.com/f?kw=新世纪五笔&ie=utf-8)、新世纪五笔QQ群（38021162）、Unicode漢字交流QQ群（436064726）
