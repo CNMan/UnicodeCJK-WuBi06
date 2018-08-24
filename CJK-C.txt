@@ -2666,7 +2666,7 @@
 2B169	𫅩	ngjr
 2B16A	𫅪	nhdd
 2B16B	𫅫	rdfn
-2B16C	𫅬	ujng
+2B16C	𫅬	ujnt
 2B16D	𫅭	prgn
 2B16E	𫅮	nujn
 2B16F	𫅯	ngkp
@@ -2688,7 +2688,7 @@
 2B17F	𫅿	tfim
 2B180	𫆀	bbh
 2B181	𫆁	bqwy
-2B182	𫆂	bwgg
+2B182	𫆂	btyg
 2B183	𫆃	nhtb
 2B184	𫆄	bdgn
 2B185	𫆅	bktf
@@ -3910,9 +3910,9 @@
 2B645	𫙅	gkmh
 2B646	𫙆	xwfh
 2B647	𫙇	xuwh
-2B648	𫙈	rqcw
+2B648	𫙈	tlqw
 2B649	𫙉	rqcr
-2B64A	𫙊	rqcg
+2B64A	𫙊	tlqg
 2B64B	𫙋	tjrc
 2B64C	𫙌	ffhc
 2B64D	𫙍	rqcl
