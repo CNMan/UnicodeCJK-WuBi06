@@ -56,7 +56,7 @@ GBK 基本相当于 Unicode 1.0.1；GB18030－2000 基本相当于 Unicode 3.0.0
 
 ## 王码五笔字形输入法
 
-[王码五笔字型大一统2018高级版](http://www.wangma.net.cn/prodetail.aspx?sm=2&p=7)仅售28元人民币，含86版、98版、新世纪版三个版本的五笔字型输入法，支持Windows XP/Vista/7/8/8.1/10 32/64位操作系统（不支持Metro App），可输入GB18030-2000标准的27533个汉字，**建议支持正版**。实在不想花钱的可以寻找曾经免费的[2012A](http://www.wangma.com.cn/view.asp?id=263&f_id=21)，亦可输入GB18030-2000标准的27533个汉字，但可能不支持最新的操作系统。
+[王码五笔字型大一统2018高级版](http://www.wangma.net.cn/prodetail.aspx?sm=2&p=7)仅售9.9元人民币，含86版、98版、新世纪版三个版本的五笔字型输入法，支持Windows XP/Vista/7/8/8.1/10 32/64位操作系统（不支持Metro App），可输入GB18030-2000标准的27533个汉字，**建议支持正版**。实在不想花钱的可以寻找曾经免费的[2012A](http://www.wangma.com.cn/view.asp?id=263&f_id=21)，亦可输入GB18030-2000标准的27533个汉字，但可能不支持最新的操作系统。
 
 [五笔字型辅助教材](http://www.wangma.com.cn/wb2012/help/wmwb.chm)
 
