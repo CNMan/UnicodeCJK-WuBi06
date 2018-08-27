@@ -1,4 +1,4 @@
-2B740	𫝀	nhng
+2B740	𫝀	nnhg
 2B741	𫝁	gkjk
 2B742	𫝂	gith
 2B743	𫝃	gumw
@@ -119,7 +119,7 @@
 2B7B6	𫞶	pyro
 2B7B7	𫞷	twfc
 2B7B8	𫞸	tgji
-2B7B9	𫞹	pwng
+2B7B9	𫞹	pwnf
 2B7BA	𫞺	pqek
 2B7BB	𫞻	ush
 2B7BC	𫞼	udhf
@@ -144,7 +144,7 @@
 2B7CF	𫟏	atky
 2B7D0	𫟐	apyb
 2B7D1	𫟑	avou
-2B7D2	𫟒	aasi
+2B7D2	𫟒	aasu
 2B7D3	𫟓	awek
 2B7D4	𫟔	aubw
 2B7D5	𫟕	aulb
