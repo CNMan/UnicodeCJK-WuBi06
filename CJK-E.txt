@@ -2,7 +2,7 @@
 2B821	𫠡	gwhj
 2B822	𫠢	hgsj
 2B823	𫠣	anwi
-2B824	𫠤	gqb
+2B824	𫠤	gqr
 2B825	𫠥	gmwn
 2B826	𫠦	ghth
 2B827	𫠧	tfgh
