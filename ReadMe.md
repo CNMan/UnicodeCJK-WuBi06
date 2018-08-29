@@ -2,9 +2,9 @@
 
 * 仅聚焦单字全码，不涉及词组。
 
-* CJK/CJK-A/CJK-B 字形以中华人民共和国国家标准[信息技术 中文编码字符集 GB 18030-2005](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=C344D8D120B341A8DD328954A9B27A99) 为准。
+* CJK/CJK-A/CJK-B 字形以[中华人民共和国《信息技术 中文编码字符集》国家标准 GB 18030-2005](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=C344D8D120B341A8DD328954A9B27A99) 为准。
 
-* CJK-C/CJK-D/CJK-E/CJK-F 字形以 Unicode 11.0.0 CodeCharts 为准，G 源字形优先，待[新版](http://www.nits.org.cn/getIndex.req?action=quary&req=modulenvpromote&id=3247&type=0&moduleId=83&sid=5) GB 18030 国标出台后再修正。
+* CJK-C/CJK-D/CJK-E/CJK-F 字形以 [Unicode 11.0.0 CodeCharts](https://www.unicode.org/Public/11.0.0/charts/CodeCharts.pdf) 为准，G 源字形优先，待[新版 GB 18030 国标](http://www.nits.org.cn/getIndex.req?action=quary&req=modulenvpromote&id=3247&type=0&moduleId=83&sid=5)出台后校正。
 
 * 字体以[方正字库](http://www.foundertype.com/)给[籍合网](http://www.ancientbooks.cn/)做的[**中华书局宋体**](http://www.ancientbooks.cn/helpcore?font)（支持Unicode 10.0.0）为主。
 
@@ -102,8 +102,6 @@ CE5A4007936D580000AAF433282D9D183EF87ADC *wmwb2012a.exe v2.0.0.1
 ![bmff](https://github.com/CNMan/Unicode_CJK_XSJWBBM/raw/master/imgs/bmff.jpg)
 
 ## 参考资料
-
-[Unicode 11.0.0 CodeCharts](https://www.unicode.org/Public/11.0.0/charts/CodeCharts.pdf)
 
 [Unihan Database Lookup](https://www.unicode.org/charts/unihan.html)
 
