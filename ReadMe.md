@@ -117,6 +117,12 @@ CE5A4007936D580000AAF433282D9D183EF87ADC *wmwb2012a.exe v2.0.0.1
 
 [《现代汉语通用字笔顺规范》（国家语言文字工作委员会标准化工作委员会 编）](https://github.com/Haixing-Hu/typesetting-standard/raw/master/数字文字/现代汉语通用字笔顺规范（1997年版）.pdf)
 
+[《GB13000.1字符集汉字笔顺规范》（GF3002-1999）](http://www.moe.gov.cn/s78/A19/yxs_left/moe_810/s230/201001/t20100115_75619.html)
+
+[《GB13000.1字符集汉字字序（笔画序）规范》（GF3003-1999）](http://www.moe.gov.cn/s78/A19/yxs_left/moe_810/s230/201001/t20100115_75631.html)
+
+[《GB13000.1字符集汉字部首归部规范》（GF0012-2009）](http://www.moe.gov.cn/s78/A19/yxs_left/moe_810/s230/200901/t20090102_186104.html)
+
 [国家语委语料库在线网站](http://corpus.zhonghuayuwen.org/)
 
 [方正通用规范字库（个人版）V1.0](http://ifont.foundertype.com/index/generalfonts.html)
