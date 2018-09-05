@@ -2441,7 +2441,7 @@
 2C1A8	𬆨	wywc
 2C1A9	𬆩	fmuc
 2C1AA	𬆪	tkmc
-2C1AB	𬆫	uenc
+2C1AB	𬆫	utnc
 2C1AC	𬆬	wgdc
 2C1AD	𬆭	fpfc
 2C1AE	𬆮	fpgc
@@ -4376,7 +4376,7 @@
 2C937	𬤷	gkuf
 2C938	𬤸	gkuh
 2C939	𬤹	mgkn
-2C93A	𬤺	dhdn
+2C93A	𬤺	mdhn
 2C93B	𬤻	gebt
 2C93C	𬤼	rbge
 2C93D	𬤽	genf
@@ -5414,7 +5414,7 @@
 2CD45	𬵅	jqou
 2CD46	𬵆	qoiy
 2CD47	𬵇	qody
-2CD48	𬵈	qolg
+2CD48	𬵈	qomg
 2CD49	𬵉	qolf
 2CD4A	𬵊	qowi
 2CD4B	𬵋	isqo

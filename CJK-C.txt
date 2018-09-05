@@ -43,7 +43,7 @@
 2A72A	𪜪	wqxn
 2A72B	𪜫	wnhf
 2A72C	𪜬	wfiu
-2A72D	𪜭	wlng
+2A72D	𪜭	wmng
 2A72E	𪜮	whg
 2A72F	𪜯	wket
 2A730	𪜰	wty
@@ -2189,7 +2189,7 @@
 2AF8C	𪾌	sklf
 2AF8D	𪾍	kqlf
 2AF8E	𪾎	qblf
-2AF8F	𪾏	hlnl
+2AF8F	𪾏	hmnl
 2AF90	𪾐	qkql
 2AF91	𪾑	rqnl
 2AF92	𪾒	itul

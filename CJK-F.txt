@@ -518,7 +518,7 @@
 2D0B5	𭂵	wiwm
 2D0B6	𭂶	cwgk
 2D0B7	𭂷	hhwb
-2D0B8	𭂸	hagw
+2D0B8	𭂸	hadw
 2D0B9	𭂹	wvgm
 2D0BA	𭂺	wtgo
 2D0BB	𭂻	btgm
@@ -614,7 +614,7 @@
 2D115	𭄕	twgj
 2D116	𭄖	pdej
 2D117	𭄗	pnmj
-2D118	𭄘	ghaj
+2D118	𭄘	gjaj
 2D119	𭄙	trnj
 2D11A	𭄚	akkj
 2D11B	𭄛	tfqj
@@ -3416,7 +3416,7 @@
 2DC07	𭰇	nicy
 2DC08	𭰈	ickn
 2DC09	𭰉	isgg
-2DC0A	𭰊	ilng
+2DC0A	𭰊	imng
 2DC0B	𭰋	tdiu
 2DC0C	𭰌	isss
 2DC0D	𭰍	iahh
@@ -3707,7 +3707,7 @@
 2DD2A	𭴪	godo
 2DD2B	𭴫	jnou
 2DD2C	𭴬	jfou
-2DD2D	𭴭	ohln
+2DD2D	𭴭	ohmg
 2DD2E	𭴮	ebou
 2DD2F	𭴯	wgso
 2DD30	𭴰	oqgo
@@ -5059,7 +5059,7 @@
 2E272	𮉲	rmhc
 2E273	𮉳	rmgr
 2E274	𮉴	rmwf
-2E275	𮉵	rmhk
+2E275	𮉵	rmyk
 2E276	𮉶	wsgm
 2E277	𮉷	rmah
 2E278	𮉸	rmry
