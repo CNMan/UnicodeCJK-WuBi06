@@ -115,7 +115,7 @@ CE5A4007936D580000AAF433282D9D183EF87ADC *wmwb2012a.exe v2.0.0.1
 
 [《信息处理用GB13000.1字符集汉字部件规范》（GF 3001-1997）](http://www.moe.gov.cn/s78/A19/yxs_left/moe_810/s230/201001/t20100115_75616.html)
 
-[《现代汉语通用字笔顺规范》）](http://www.moe.gov.cn/s78/A19/yxs_left/moe_810/s230/201001/t20100115_75615.html)
+[《现代汉语通用字笔顺规范》](http://www.moe.gov.cn/s78/A19/yxs_left/moe_810/s230/201001/t20100115_75615.html)
 
 [《GB13000.1字符集汉字笔顺规范》（GF3002-1999）](http://www.moe.gov.cn/s78/A19/yxs_left/moe_810/s230/201001/t20100115_75619.html)
 
