@@ -109,19 +109,21 @@ CE5A4007936D580000AAF433282D9D183EF87ADC *wmwb2012a.exe v2.0.0.1
 
 [IDS data for CJK Unified Ideographs](https://github.com/cjkvi/cjkvi-ids)
 
-[《通用规范汉字表》（国发〔2013〕23号）](http://www.gov.cn/gzdt/att/att/site1/20130819/tygfhzb.pdf)
+[《通用规范汉字表》（国发〔2013〕23号）](http://www.moe.gov.cn/s78/A19/yxs_left/moe_810/s230/201306/t20130601_186002.html)
 
-[《现代常用字部件及部件名称规范》（GF 0014-2009）](http://www.moe.edu.cn/ewebeditor/uploadfile/2015/01/13/20150113090318445.pdf)
+[《现代常用字部件及部件名称规范》（GF 0014-2009）](http://www.moe.gov.cn/s78/A19/yxs_left/moe_810/s230/201001/t20100115_75696.html)
 
-[《信息处理用GB13000.1字符集汉字部件规范》（GF 3001-1997）](http://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/12/20150112165337190.pdf)
+[《信息处理用GB13000.1字符集汉字部件规范》（GF 3001-1997）](http://www.moe.gov.cn/s78/A19/yxs_left/moe_810/s230/201001/t20100115_75616.html)
 
-[《现代汉语通用字笔顺规范》（国家语言文字工作委员会标准化工作委员会 编）](https://github.com/Haixing-Hu/typesetting-standard/raw/master/数字文字/现代汉语通用字笔顺规范（1997年版）.pdf)
+[《现代汉语通用字笔顺规范》）](http://www.moe.gov.cn/s78/A19/yxs_left/moe_810/s230/201001/t20100115_75615.html)
 
 [《GB13000.1字符集汉字笔顺规范》（GF3002-1999）](http://www.moe.gov.cn/s78/A19/yxs_left/moe_810/s230/201001/t20100115_75619.html)
 
 [《GB13000.1字符集汉字字序（笔画序）规范》（GF3003-1999）](http://www.moe.gov.cn/s78/A19/yxs_left/moe_810/s230/201001/t20100115_75631.html)
 
 [《GB13000.1字符集汉字部首归部规范》（GF0012-2009）](http://www.moe.gov.cn/s78/A19/yxs_left/moe_810/s230/200901/t20090102_186104.html)
+
+[《GB13000.1字符集汉字折笔规范》（GF2001-2001）](http://www.moe.gov.cn/s78/A19/yxs_left/moe_810/s230/201001/t20100115_75688.html)
 
 [国家语委语料库在线网站](http://corpus.zhonghuayuwen.org/)
 
