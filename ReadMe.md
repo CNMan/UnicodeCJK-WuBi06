@@ -22,7 +22,7 @@
 
 ## 讨论区
 
-[Issues](https://github.com/CNMan/Unicode_CJK_XSJWBBM/issues)、[新世纪五笔吧](http://tieba.baidu.com/f?kw=新世纪五笔&ie=utf-8)、新世纪五笔QQ群（38021162）、Unicode漢字交流QQ群（436064726）
+[Issues](https://github.com/CNMan/Unicode_CJK_XSJWBBM/issues)、[新世纪五笔吧](http://tieba.baidu.com/f?kw=新世纪五笔&ie=utf-8)、五笔超大字符集编码QQ群（857031696）、新世纪五笔QQ群（38021162）、Unicode漢字交流QQ群（436064726）
 
 如果你使用过程中发现编码错误，请发[Issue](https://github.com/CNMan/Unicode_CJK_XSJWBBM/issues)、[Pull request](https://github.com/CNMan/Unicode_CJK_XSJWBBM/pulls)或发邮件到以下地址，以便及时修正
 
