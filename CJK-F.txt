@@ -4484,7 +4484,7 @@
 2E033	𮀳	dpag
 2E034	𮀴	dvgp
 2E035	𮀵	dcds
-2E036	𮀶	dffr
+2E036	𮀶	dgdr
 2E037	𮀷	dmth
 2E038	𮀸	dhat
 2E039	𮀹	dthy

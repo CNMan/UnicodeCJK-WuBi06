@@ -1465,7 +1465,7 @@
 2BDD8	𫷘	uamn
 2BDD9	𫷙	gufj
 2BDDA	𫷚	gufe
-2BDDB	𫷛	ftfw
+2BDDB	𫷛	gdfw
 2BDDC	𫷜	rhff
 2BDDD	𫷝	gufe
 2BDDE	𫷞	rhfn
@@ -3664,7 +3664,7 @@
 2C66F	𬙯	ugpg
 2C670	𬙰	ugxu
 2C671	𬙱	ugdy
-2C672	𬙲	ugff
+2C672	𬙲	uggf
 2C673	𬙳	ugka
 2C674	𬙴	ugdn
 2C675	𬙵	ugdw
