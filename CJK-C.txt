@@ -1543,7 +1543,7 @@
 2AD06	𪴆	suxn
 2AD07	𪴇	sono
 2AD08	𪴈	scns
-2AD09	𪴉	sxxt
+2AD09	𪴉	smxt
 2AD0A	𪴊	sgmu
 2AD0B	𪴋	skak
 2AD0C	𪴌	stpn
