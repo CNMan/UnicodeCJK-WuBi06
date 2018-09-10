@@ -5196,7 +5196,7 @@
 2CC6B	𬱫	pghm
 2CC6C	𬱬	cdem
 2CC6D	𬱭	akfm
-2CC6E	𬱮	xxmm
+2CC6E	𬱮	mxxm
 2CC6F	𬱯	uthm
 2CC70	𬱰	edhm
 2CC71	𬱱	ugum
