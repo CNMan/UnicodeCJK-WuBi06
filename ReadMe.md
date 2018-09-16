@@ -153,7 +153,7 @@ CE5A4007936D580000AAF433282D9D183EF87ADC *wmwb2012a.exe v2.0.0.1
 
 * [86版五笔字型超大字符集编码](https://pan.baidu.com/s/1hq5kedm) by [五笔吧](http://tieba.baidu.com/f?kw=五笔&ie=utf-8)小吧主[LSJ天道酬勤](http://tieba.baidu.com/home/main?un=LSJ天道酬勤&ie=utf-8)
 
-* [98版五笔字型超大字符集编码](https://github.com/yanhuacuo/98wubi-unicode) by [98五笔吧](http://tieba.baidu.com/f?kw=98五笔&ie=utf-8)小吧主[乘凉的猪](http://tieba.baidu.com/home/main?un=乘凉的猪&ie=utf-8)
+* [98版五笔字型超大字符集编码](https://github.com/yanhuacuo/98wubi-unicode) by [98五笔吧](http://tieba.baidu.com/f?kw=98五笔&ie=utf-8)吧主[yanhuacuo](http://tieba.baidu.com/home/main?un=yanhuacuo&ie=utf-8)
 
 * [新世纪五笔吧](http://tieba.baidu.com/f?kw=新世纪五笔&ie=utf-8)原吧主[xionghuaidong](http://tieba.baidu.com/home/main?un=xionghuaidong&ie=utf-8)
 
