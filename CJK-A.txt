@@ -449,7 +449,7 @@
 35C0	㗀	kmxx
 35C1	㗁	kkkn
 35C2	㗂	kith
-35C3	㗃	knnj
+35C3	㗃	knaj
 35C4	㗄	klyt
 35C5	㗅	kdeg
 35C6	㗆	kakf
@@ -750,7 +750,7 @@
 36ED	㛭	vajg
 36EE	㛮	vpoc
 36EF	㛯	vqke
-36F0	㛰	vnnj
+36F0	㛰	vnaj
 36F1	㛱	vlge
 36F2	㛲	vdmy
 36F3	㛳	yupv
@@ -1003,7 +1003,7 @@
 37EA	㟪	mlge
 37EB	㟫	mriy
 37EC	㟬	mehc
-37ED	㟭	mnnj
+37ED	㟭	mnaj
 37EE	㟮	mpwy
 37EF	㟯	mptk
 37F0	㟰	mpjw
@@ -1543,7 +1543,7 @@
 3A06	㨆	rssy
 3A07	㨇	ihcr
 3A08	㨈	ryjg
-3A09	㨉	rnnj
+3A09	㨉	rnaj
 3A0A	㨊	rdae
 3A0B	㨋	rftj
 3A0C	㨌	fprc
@@ -1796,7 +1796,7 @@
 3B03	㬃	jcko
 3B04	㬄	jdfo
 3B05	㬅	jlyr
-3B06	㬆	jnnj
+3B06	㬆	jnaj
 3B07	㬇	jqmd
 3B08	㬈	jjlg
 3B09	㬉	jdmd
@@ -3155,7 +3155,7 @@
 4052	䁒	hkbg
 4053	䁓	hrbt
 4054	䁔	hegc
-4055	䁕	hnnj
+4055	䁕	hnaj
 4056	䁖	hovg
 4057	䁗	hmgu
 4058	䁘	herm
@@ -3271,7 +3271,7 @@
 40C6	䃆	dadw
 40C7	䃇	drmh
 40C8	䃈	dxxr
-40C9	䃉	dnnj
+40C9	䃉	dnaj
 40CA	䃊	daeg
 40CB	䃋	dwgj
 40CC	䃌	dsfg
