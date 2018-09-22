@@ -4,7 +4,7 @@
 2B743	𫝃	gumw
 2B744	𫝄	twi
 2B745	𫝅	ycwu
-2B746	𫝆	wftr
+2B746	𫝆	wgdr
 2B747	𫝇	wgkh
 2B748	𫝈	wplh
 2B749	𫝉	wgvk
@@ -19,7 +19,7 @@
 2B752	𫝒	hjfj
 2B753	𫝓	feiy
 2B754	𫝔	fjfq
-2B755	𫝕	dnei
+2B755	𫝕	dnui
 2B756	𫝖	qdno
 2B757	𫝗	drbd
 2B758	𫝘	kdnn
@@ -61,7 +61,7 @@
 2B77C	𫝼	rwfq
 2B77D	𫝽	rwhe
 2B77E	𫝾	rfwt
-2B77F	𫝿	rujh
+2B77F	𫝿	rujs
 2B780	𫞀	yctd
 2B781	𫞁	yugd
 2B782	𫞂	jgyy
@@ -123,7 +123,7 @@
 2B7BA	𫞺	pqek
 2B7BB	𫞻	ush
 2B7BC	𫞼	udhf
-2B7BD	𫞽	tfje
+2B7BD	𫞽	taeu
 2B7BE	𫞾	tlxx
 2B7BF	𫞿	tuvs
 2B7C0	𫟀	ofvg
@@ -134,7 +134,7 @@
 2B7C5	𫟅	xyki
 2B7C6	𫟆	xtgf
 2B7C7	𫟇	xone
-2B7C8	𫟈	udwu
+2B7C8	𫟈	ufwu
 2B7C9	𫟉	bcy
 2B7CA	𫟊	eoah
 2B7CB	𫟋	egnw
@@ -142,7 +142,7 @@
 2B7CD	𫟍	aqxb
 2B7CE	𫟎	aagk
 2B7CF	𫟏	atky
-2B7D0	𫟐	apyb
+2B7D0	𫟐	apyr
 2B7D1	𫟑	avou
 2B7D2	𫟒	aasu
 2B7D3	𫟓	awek
