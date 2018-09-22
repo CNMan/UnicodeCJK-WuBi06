@@ -182,12 +182,12 @@
 2A7B5	𪞵	wfvd
 2A7B6	𪞶	tygb
 2A7B7	𪞷	bmah
-2A7B8	𪞸	ybtf
+2A7B8	𪞸	yrbf
 2A7B9	𪞹	bmvn
 2A7BA	𪞺	bmen
-2A7BB	𪞻	ybkd
-2A7BC	𪞼	ybuw
-2A7BD	𪞽	ybme
+2A7BB	𪞻	yrbd
+2A7BC	𪞼	yrbw
+2A7BD	𪞽	yrbe
 2A7BE	𪞾	fwjh
 2A7BF	𪞿	gbnj
 2A7C0	𪟀	vyt
