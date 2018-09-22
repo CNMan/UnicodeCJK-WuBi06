@@ -6434,7 +6434,7 @@
 2E7D1	𮟑	adwp
 2E7D2	𮟒	hhap
 2E7D3	𮟓	khtp
-2E7D4	𮟔	apgp
+2E7D4	𮟔	hghp
 2E7D5	𮟕	jftp
 2E7D6	𮟖	rdmp
 2E7D7	𮟗	thpp
