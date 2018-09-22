@@ -12335,7 +12335,7 @@
 2302E	𣀮	ykkc
 2302F	𣀯	ossc
 23030	𣀰	oagc
-23031	𣀱	oaft
+23031	𣀱	oaat
 23032	𣀲	olac
 23033	𣀳	bbbt
 23034	𣀴	imkv
@@ -24400,7 +24400,7 @@
 25F4F	𥽏	ahno
 25F50	𥽐	ahno
 25F51	𥽑	ohdo
-25F52	𥽒	oaas
+25F52	𥽒	ogks
 25F53	𥽓	oosc
 25F54	𥽔	oxrh
 25F55	𥽕	opwi

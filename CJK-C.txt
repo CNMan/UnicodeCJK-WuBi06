@@ -1968,7 +1968,7 @@
 2AEAF	𪺯	tooy
 2AEB0	𪺰	tdhl
 2AEB1	𪺱	tamf
-2AEB2	𪺲	tgmf
+2AEB2	𪺲	tgkf
 2AEB3	𪺳	tqtg
 2AEB4	𪺴	taph
 2AEB5	𪺵	thdn

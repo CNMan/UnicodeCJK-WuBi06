@@ -2990,7 +2990,7 @@
 2DA5D	𭩝	sdxn
 2DA5E	𭩞	ccsu
 2DA5F	𭩟	snwu
-2DA60	𭩠	ansu
+2DA60	𭩠	gkgs
 2DA61	𭩡	sxhh
 2DA62	𭩢	ansu
 2DA63	𭩣	sagn
@@ -3102,7 +3102,7 @@
 2DACD	𭫍	snhc
 2DACE	𭫎	slkp
 2DACF	𭫏	sfas
-2DAD0	𭫐	samf
+2DAD0	𭫐	sgkf
 2DAD1	𭫑	dans
 2DAD2	𭫒	gmws
 2DAD3	𭫓	sdjg
