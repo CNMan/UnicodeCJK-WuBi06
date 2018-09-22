@@ -1487,7 +1487,7 @@
 39CE	㧎	raht
 39CF	㧏	rmry
 39D0	㧐	rccy
-39D1	㧑	ryey
+39D1	㧑	ryty
 39D2	㧒	rpwy
 39D3	㧓	rrcy
 39D4	㧔	rdxy
@@ -1930,7 +1930,7 @@
 3B89	㮉	swgd
 3B8A	㮊	scns
 3B8B	㮋	sdeb
-3B8C	㮌	sdmj
+3B8C	㮌	sdmd
 3B8D	㮍	uejs
 3B8E	㮎	sdhl
 3B8F	㮏	ssfi
@@ -2736,7 +2736,7 @@
 3EAF	㺯	gdu
 3EB0	㺰	ggmh
 3EB1	㺱	wbgy
-3EB2	㺲	gnfg
+3EB2	㺲	gnhf
 3EB3	㺳	ghcy
 3EB4	㺴	fdyy
 3EB5	㺵	gqwy
@@ -4050,7 +4050,7 @@
 43D1	䏑	qmww
 43D2	䏒	ethn
 43D3	䏓	mufq
-43D4	䏔	enfg
+43D4	䏔	enhf
 43D5	䏕	etfg
 43D6	䏖	exhh
 43D7	䏗	ernn
@@ -4511,7 +4511,7 @@
 459E	䖞	jfy
 459F	䖟	ynju
 45A0	䖠	jwyy
-45A1	䖡	jnfg
+45A1	䖡	jnhf
 45A2	䖢	jitt
 45A3	䖣	jrhy
 45A4	䖤	qbju
@@ -4794,7 +4794,7 @@
 46B9	䚹	yxxn
 46BA	䚺	yty
 46BB	䚻	qyf
-46BC	䚼	ynfg
+46BC	䚼	ynhf
 46BD	䚽	ytfn
 46BE	䚾	ytfg
 46BF	䚿	yqwy
