@@ -521,7 +521,7 @@
 2A908	𪤈	tewf
 2A909	𪤉	fudi
 2A90A	𪤊	iyvf
-2A90B	𪤋	fybc
+2A90B	𪤋	fyrc
 2A90C	𪤌	fccs
 2A90D	𪤍	fnae
 2A90E	𪤎	flpy
@@ -1383,7 +1383,7 @@
 2AC66	𪱦	ergg
 2AC67	𪱧	eykq
 2AC68	𪱨	eujn
-2AC69	𪱩	eybc
+2AC69	𪱩	eyrc
 2AC6A	𪱪	eudo
 2AC6B	𪱫	qkxe
 2AC6C	𪱬	eief
@@ -2339,7 +2339,7 @@
 2B022	𫀢	pymc
 2B023	𫀣	pytw
 2B024	𫀤	fikt
-2B025	𫀥	ybmj
+2B025	𫀥	yrbj
 2B026	𫀦	tfqy
 2B027	𫀧	taf
 2B028	𫀨	tmqn
