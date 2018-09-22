@@ -323,12 +323,12 @@
 2B962	𫥢	rfxw
 2B963	𫥣	uvow
 2B964	𫥤	bmgw
-2B965	𫥥	ybnu
+2B965	𫥥	yrbu
 2B966	𫥦	nsgb
 2B967	𫥧	bmla
 2B968	𫥨	ldbm
-2B969	𫥩	ybgk
-2B96A	𫥪	ybjw
+2B969	𫥩	yrbk
+2B96A	𫥪	yrbw
 2B96B	𫥫	ngcm
 2B96C	𫥬	bmaf
 2B96D	𫥭	iamm
@@ -597,7 +597,7 @@
 2BA74	𫩴	kbsy
 2BA75	𫩵	kpyn
 2BA76	𫩶	pynk
-2BA77	𫩷	kybh
+2BA77	𫩷	kyrb
 2BA78	𫩸	kepy
 2BA79	𫩹	kxiy
 2BA7A	𫩺	knyu
@@ -1803,7 +1803,7 @@
 2BF2A	𫼪	rutt
 2BF2B	𫼫	ruft
 2BF2C	𫼬	ryoy
-2BF2D	𫼭	rybh
+2BF2D	𫼭	ryrb
 2BF2E	𫼮	rpey
 2BF2F	𫼯	repy
 2BF30	𫼰	rvkg
