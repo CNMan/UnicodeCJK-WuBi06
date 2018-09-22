@@ -4859,7 +4859,7 @@
 60FA	惺	njtg
 60FB	惻	nmjh
 60FC	惼	nyna
-60FD	惽	nnnj
+60FD	惽	nnaj
 60FE	惾	nrbt
 60FF	惿	njgh
 6100	愀	ntoy
@@ -5997,7 +5997,7 @@
 656C	敬	aqkt
 656D	敭	jgqt
 656E	敮	tfec
-656F	敯	nnac
+656F	敯	najc
 6570	数	ovty
 6571	敱	mgkc
 6572	敲	ykmc
@@ -6186,7 +6186,7 @@
 6629	昩	jgsy
 662A	昪	jcaj
 662B	昫	jqkg
-662C	昬	nnaj
+662C	昬	najf
 662D	昭	jvkg
 662E	昮	jaer
 662F	是	jghu
@@ -8289,7 +8289,7 @@
 6E60	湠	imdo
 6E61	湡	ijmy
 6E62	湢	igkl
-6E63	湣	innj
+6E63	湣	inaj
 6E64	湤	iytb
 6E65	湥	ipwy
 6E66	湦	ijtg
@@ -9799,7 +9799,7 @@
 7446	瑆	gjtg
 7447	瑇	ggxy
 7448	瑈	gcns
-7449	瑉	gnnj
+7449	瑉	gnaj
 744A	瑊	gdgy
 744B	瑋	gnkh
 744C	瑌	gdmd
@@ -12255,7 +12255,7 @@
 7DDE	緞	xwdc
 7DDF	緟	xtgf
 7DE0	締	xyuh
-7DE1	緡	xnnj
+7DE1	緡	xnaj
 7DE2	緢	xalg
 7DE3	緣	xxge
 7DE4	緤	xans
@@ -17776,7 +17776,7 @@
 936F	鍯	qqrn
 9370	鍰	qegc
 9371	鍱	qans
-9372	鍲	qnnj
+9372	鍲	qnaj
 9373	鍳	ahnq
 9374	鍴	qmdj
 9375	鍵	qvgp
