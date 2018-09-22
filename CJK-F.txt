@@ -3102,7 +3102,7 @@
 2DACD	𭫍	snhc
 2DACE	𭫎	slkp
 2DACF	𭫏	sfas
-2DAD0	𭫐	sgkf
+2DAD0	𭫐	samf
 2DAD1	𭫑	dans
 2DAD2	𭫒	gmws
 2DAD3	𭫓	sdjg
