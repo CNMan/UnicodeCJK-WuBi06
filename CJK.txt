@@ -12686,7 +12686,7 @@
 7F8D	羍	dugj
 7F8E	美	ugdu
 7F8F	羏	uget
-7F90	羐	ghhy
+7F90	羐	hghy
 7F91	羑	ugqy
 7F92	羒	ugwv
 7F93	羓	ugcn

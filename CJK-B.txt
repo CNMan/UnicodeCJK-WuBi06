@@ -106,7 +106,7 @@
 20069	𠁩	fkhf
 2006A	𠁪	tfkh
 2006B	𠁫	nhws
-2006C	𠁬	anhh
+2006C	𠁬	hghh
 2006D	𠁭	whwh
 2006E	𠁮	wwwh
 2006F	𠁯	khck
@@ -224,7 +224,7 @@
 200DF	𠃟	anb
 200E0	𠃠	vui
 200E1	𠃡	nunn
-200E2	𠃢	mgjg
+200E2	𠃢	mtgg
 200E3	𠃣	nite
 200E4	𠃤	wfkb
 200E5	𠃥	nfii
@@ -460,7 +460,7 @@
 201CB	𠇋	wgaj
 201CC	𠇌	fcwy
 201CD	𠇍	wnu
-201CE	𠇎	wgjg
+201CE	𠇎	wtgg
 201CF	𠇏	wwyn
 201D0	𠇐	wgng
 201D1	𠇑	wwry
@@ -1067,7 +1067,7 @@
 2042A	𠐪	wakb
 2042B	𠐫	wtxf
 2042C	𠐬	wtbm
-2042D	𠐭	wagg
+2042D	𠐭	whgg
 2042E	𠐮	werb
 2042F	𠐯	wnnp
 20430	𠐰	whwh
@@ -6166,7 +6166,7 @@
 21815	𡠕	vjnh
 21816	𡠖	vthf
 21817	𡠗	fufv
-21818	𡠘	vafi
+21818	𡠘	vhgi
 21819	𡠙	vcep
 2181A	𡠚	vjaf
 2181B	𡠛	vkkn
@@ -8162,7 +8162,7 @@
 21FE1	𡿡	mfkw
 21FE2	𡿢	mwnq
 21FE3	𡿣	myqy
-21FE4	𡿤	awjk
+21FE4	𡿤	hghk
 21FE5	𡿥	mrme
 21FE6	𡿦	eiu
 21FE7	𡿧	gvv
@@ -9261,9 +9261,9 @@
 2242C	𢐬	xqyx
 2242D	𢐭	ymgx
 2242E	𢐮	xolx
-2242F	𢐯	aatx
+2242F	𢐯	hghx
 22430	𢐰	xfdj
-22431	𢐱	aftx
+22431	𢐱	hghx
 22432	𢐲	xtox
 22433	𢐳	xamr
 22434	𢐴	xwwh
@@ -37348,7 +37348,7 @@
 291E3	𩇣	gegt
 291E4	𩇤	geyy
 291E5	𩇥	geac
-291E6	𩇦	tdhg
+291E6	𩇦	tdgg
 291E7	𩇧	tfyg
 291E8	𩇨	tuuu
 291E9	𩇩	dhdd
@@ -37896,7 +37896,7 @@
 29407	𩐇	mwtg
 29408	𩐈	tnhg
 29409	𩐉	khqg
-2940A	𩐊	gjgg
+2940A	𩐊	fhgg
 2940B	𩐋	gkig
 2940C	𩐌	bueg
 2940D	𩐍	ajdg
