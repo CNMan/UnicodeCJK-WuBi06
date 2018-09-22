@@ -489,7 +489,7 @@
 4FE8	俨	wgod
 4FE9	俩	wgmw
 4FEA	俪	wgmy
-4FEB	俫	wgus
+4FEB	俫	wgoy
 4FEC	俬	wtcy
 4FED	俭	wwgg
 4FEE	修	whte
@@ -4340,7 +4340,7 @@
 5EF3	廳	obgn
 5EF4	廴	pny
 5EF5	廵	vpv
-5EF6	延	thpd
+5EF6	延	thnp
 5EF7	廷	tfpd
 5EF8	廸	mpd
 5EF9	廹	rpd
@@ -4971,7 +4971,7 @@
 616A	慪	nakk
 616B	慫	twwn
 616C	慬	nakg
-616D	慭	gusn
+616D	慭	godn
 616E	慮	haln
 616F	慯	ntjr
 6170	慰	nfin
@@ -6844,7 +6844,7 @@
 68BB	梻	swxj
 68BC	梼	sdtf
 68BD	梽	sfny
-68BE	梾	sgus
+68BE	梾	sgoy
 68BF	梿	slpy
 68C0	检	swgg
 68C1	棁	sukq
@@ -11274,7 +11274,7 @@
 7A09	稉	tgjr
 7A0A	稊	tuxt
 7A0B	程	tkgg
-7A0C	稌	twfi
+7A0C	稌	twgs
 7A0D	稍	tieg
 7A0E	税	tukq
 7A0F	稏	tgfg
@@ -12693,7 +12693,7 @@
 7F94	羔	ugou
 7F95	羕	ugyi
 7F96	羖	ugwc
-7F97	羗	ugnc
+7F97	羗	ufqc
 7F98	羘	eugh
 7F99	羙	ugou
 7F9A	羚	ugwc
@@ -14625,7 +14625,7 @@
 8720	蜠	jlty
 8721	蜡	jajg
 8722	蜢	jblg
-8723	蜣	jugn
+8723	蜣	jufq
 8724	蜤	srju
 8725	蜥	jsrh
 8726	蜦	jwga
@@ -15764,7 +15764,7 @@
 8B93	讓	yyke
 8B94	讔	yben
 8B95	讕	yugi
-8B96	讖	ywwy
+8B96	讖	ywwg
 8B97	讗	ymwk
 8B98	讘	ybbb
 8B99	讙	yaky
@@ -19166,7 +19166,7 @@
 98DD	飝	nuth
 98DE	飞	nui
 98DF	食	wyve
-98E0	飠	wyu
+98E0	飠	wyty
 98E1	飡	uwye
 98E2	飢	wywn
 98E3	飣	wysh
