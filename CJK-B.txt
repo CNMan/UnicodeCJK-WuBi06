@@ -813,7 +813,7 @@
 2032C	𠌬	wnig
 2032D	𠌭	wyxf
 2032E	𠌮	woao
-2032F	𠌯	wyby
+2032F	𠌯	wyrc
 20330	𠌰	wvcq
 20331	𠌱	wdwy
 20332	𠌲	wlrh
@@ -3797,7 +3797,7 @@
 20ED4	𠻔	khfy
 20ED5	𠻕	kpbc
 20ED6	𠻖	kkkg
-20ED7	𠻗	kybc
+20ED7	𠻗	kyrc
 20ED8	𠻘	kiwy
 20ED9	𠻙	kclk
 20EDA	𠻚	ajdk
@@ -7935,7 +7935,7 @@
 21EFE	𡻾	mlih
 21EFF	𡻿	mqmh
 21F00	𡼀	mwwg
-21F01	𡼁	mybc
+21F01	𡼁	myrc
 21F02	𡼂	monx
 21F03	𡼃	mihv
 21F04	𡼄	mpwf
@@ -10208,7 +10208,7 @@
 227DF	𢟟	ndja
 227E0	𢟠	ndwy
 227E1	𢟡	naqh
-227E2	𢟢	nybc
+227E2	𢟢	nyrc
 227E3	𢟣	nugi
 227E4	𢟤	fitn
 227E5	𢟥	fpbn
@@ -12923,7 +12923,7 @@
 2327A	𣉺	jgqw
 2327B	𣉻	tdkj
 2327C	𣉼	jugl
-2327D	𣉽	jybc
+2327D	𣉽	jyrc
 2327E	𣉾	jakk
 2327F	𣉿	jgmj
 23280	𣊀	jayk

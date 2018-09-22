@@ -3260,8 +3260,8 @@
 2C4DB	𬓛	pysi
 2C4DC	𬓜	sfij
 2C4DD	𬓝	pynw
-2C4DE	𬓞	ybmc
-2C4DF	𬓟	ybmq
+2C4DE	𬓞	yrbc
+2C4DF	𬓟	yrbq
 2C4E0	𬓠	twn
 2C4E1	𬓡	twwu
 2C4E2	𬓢	twgn
