@@ -31,7 +31,7 @@
 2A71E	𪜞	fcdt
 2A71F	𪜟	ykbc
 2A720	𪜠	ywyu
-2A721	𪜡	ntha
+2A721	𪜡	hgta
 2A722	𪜢	yhjf
 2A723	𪜣	ywcy
 2A724	𪜤	ywwy
@@ -55,7 +55,7 @@
 2A736	𪜶	wldy
 2A737	𪜷	wbsy
 2A738	𪜸	wpbg
-2A739	𪜹	wng
+2A739	𪜹	wnt
 2A73A	𪜺	wxfy
 2A73B	𪜻	wfoy
 2A73C	𪜼	wahg
@@ -133,8 +133,8 @@
 2A784	𪞄	tfqd
 2A785	𪞅	ycqk
 2A786	𪞆	igqo
-2A787	𪞇	tygv
-2A788	𪞈	wxfj
+2A787	𪞇	wgwv
+2A788	𪞈	wxff
 2A789	𪞉	fkaw
 2A78A	𪞊	wyuk
 2A78B	𪞋	vcew
@@ -221,7 +221,7 @@
 2A7DC	𪟜	iite
 2A7DD	𪟝	gmet
 2A7DE	𪟞	left
-2A7DF	𪟟	qqee
+2A7DF	𪟟	qlqe
 2A7E0	𪟠	ujet
 2A7E1	𪟡	lesk
 2A7E2	𪟢	wgwe
@@ -323,7 +323,7 @@
 2A842	𪡂	kcah
 2A843	𪡃	knud
 2A844	𪡄	kalh
-2A845	𪡅	gkkd
+2A845	𪡅	gkkf
 2A846	𪡆	krwn
 2A847	𪡇	kwqi
 2A848	𪡈	kwrg

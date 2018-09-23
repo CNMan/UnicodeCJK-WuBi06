@@ -13291,7 +13291,7 @@
 233EA	𣏪	sccu
 233EB	𣏫	svet
 233EC	𣏬	sjg
-233ED	𣏭	sxdr
+233ED	𣏭	sxdf
 233EE	𣏮	tgki
 233EF	𣏯	sqty
 233F0	𣏰	wvsu
