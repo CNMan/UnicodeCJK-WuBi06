@@ -4,7 +4,9 @@
 
 * CJK/CJK-A/CJK-B 字形以[中华人民共和国《信息技术 中文编码字符集》国家标准 GB 18030-2005](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=C344D8D120B341A8DD328954A9B27A99) 为准。
 
-* CJK-C/CJK-D/CJK-E/CJK-F 字形以 [Unicode 11.0.0 CodeCharts](https://www.unicode.org/Public/11.0.0/charts/CodeCharts.pdf) 为准，G 源字形优先，待[新版 GB 18030 国标](http://www.nits.org.cn/getIndex.req?action=quary&req=modulenvpromote&id=3247&type=0&moduleId=83&sid=5)出台后校正。
+* CJK-C/CJK-D/CJK-E 字形以[中华人民共和国《信息技术 中文编码字符集 汉字48点阵字型 第1部分：宋体》国家标准 GB/T 22321.1-2018](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=BCBF3BC7DCED3629F5E41CE02D9CFD55) 为准。
+
+* CJK-F 字形以 [Unicode 11.0.0 CodeCharts](https://www.unicode.org/Public/11.0.0/charts/CodeCharts.pdf) 为准，G 源字形优先，待[新版 GB 18030 国标](http://www.nits.org.cn/getIndex.req?action=quary&req=modulenvpromote&id=3247&type=0&moduleId=83&sid=5)出台后校正。
 
 * 字体以[方正字库](http://www.foundertype.com/)给[籍合网](http://www.ancientbooks.cn/)做的[**中华书局宋体**](http://www.ancientbooks.cn/helpcore?font)（支持Unicode 10.0.0）为主。
 
@@ -19,6 +21,10 @@
 ## [关于项目进度](https://github.com/CNMan/Unicode_CJK_XSJWBBM/issues/4)
 
 ## [部分字根异写的处理](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/10)
+
+## G源以外其他地区字形编码
+
+T源（中国台湾）、H源（中国香港）、M源（中国澳门）、J源（日本）、K源（韩国）、KP源（朝鲜）、V源（越南）、U源（Unicode委员会/美国等）等与G源（中国大陆/新加坡）字形不同的编码本人没时间整理，如有需求，请Fork后自行逐字校正。
 
 ## 讨论区
 
