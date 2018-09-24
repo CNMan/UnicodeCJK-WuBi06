@@ -20931,7 +20931,7 @@
 9FC2	鿂	lwvo
 9FC3	鿃	hdty
 9FC4	鿄	ivys
-9FC5	鿅	pyfb
+9FC5	鿅	pyfc
 9FC6	鿆	pydc
 9FC7	鿇	wqvh
 9FC8	鿈	tnyy
