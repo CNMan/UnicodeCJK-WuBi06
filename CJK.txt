@@ -20974,13 +20974,13 @@
 9FED	鿭	qqiy
 9FEE	鿮	ogkh
 9FEF	鿯	tqro
-9FF0
-9FF1
-9FF2
-9FF3
-9FF4
-9FF5
-9FF6
+9FF0	鿰	
+9FF1	鿱	
+9FF2	鿲	
+9FF3	鿳	
+9FF4	鿴	
+9FF5	鿵	
+9FF6	鿶	
 9FF7
 9FF8
 9FF9
