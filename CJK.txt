@@ -20918,10 +20918,10 @@
 9FB5	龵	rtgt
 9FB6	龶	gggg
 9FB7	龷	aghg
-9FB8	龸	ipn
-9FB9	龹	udy
+9FB8	龸	ipb
+9FB9	龹	udi
 9FBA	龺	fjfj
-9FBB	龻	xyxy
+9FBB	龻	yxxy
 9FBC	龼	fhph
 9FBD	龽	oqoy
 9FBE	龾	hcqo
