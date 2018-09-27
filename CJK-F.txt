@@ -7463,10 +7463,10 @@
 2EBD6	𮯖	hbag
 2EBD7	𮯗	hbhd
 2EBD8	𮯘	hbwa
-2EBD9	𮯙	hwmk
+2EBD9	𮯙	hwbk
 2EBDA	𮯚	uegk
 2EBDB	𮯛	qpvn
-2EBDC	𮯜	umwg
+2EBDC	𮯜	umwo
 2EBDD	𮯝	tlvy
 2EBDE	𮯞	qmgh
 2EBDF	𮯟	qkhh
