@@ -2876,7 +2876,7 @@
 2C35B	𬍛	gtni
 2C35C	𬍜	gpsh
 2C35D	𬍝	gxcy
-2C35E	𬍞	gtgy
+2C35E	𬍞	dtgy
 2C35F	𬍟	wgyy
 2C360	𬍠	gyey
 2C361	𬍡	inry
@@ -3263,7 +3263,7 @@
 2C4DE	𬓞	yrbc
 2C4DF	𬓟	yrbq
 2C4E0	𬓠	twn
-2C4E1	𬓡	twwu
+2C4E1	𬓡	twwi
 2C4E2	𬓢	twgn
 2C4E3	𬓣	tngh
 2C4E4	𬓤	tnyy
@@ -3483,7 +3483,7 @@
 2C5BA	𬖺	ougi
 2C5BB	𬖻	jwgo
 2C5BC	𬖼	oegb
-2C5BD	𬖽	oiay
+2C5BD	𬖽	oiac
 2C5BE	𬖾	ohcm
 2C5BF	𬖿	oqak
 2C5C0	𬗀	oshm
@@ -3635,7 +3635,7 @@
 2C652	𬙒	rmle
 2C653	𬙓	rmhg
 2C654	𬙔	rmil
-2C655	𬙕	lhgd
+2C655	𬙕	lhgf
 2C656	𬙖	lghu
 2C657	𬙗	pqgf
 2C658	𬙘	lgfj
@@ -4802,7 +4802,7 @@
 2CAE1	𬫡	qgng
 2CAE2	𬫢	qgfl
 2CAE3	𬫣	qadh
-2CAE4	𬫤	qlgn
+2CAE4	𬫤	qlfn
 2CAE5	𬫥	qtbg
 2CAE6	𬫦	qwgb
 2CAE7	𬫧	fiqq
@@ -4864,7 +4864,7 @@
 2CB1F	𬬟	qyli
 2CB20	𬬠	qxgr
 2CB21	𬬡	qato
-2CB22	𬬢	qnhh
+2CB22	𬬢	qhnh
 2CB23	𬬣	qpuj
 2CB24	𬬤	qkkk
 2CB25	𬬥	qgke
@@ -5209,7 +5209,7 @@
 2CC78	𬱸	wray
 2CC79	𬱹	wfux
 2CC7A	𬱺	qbwr
-2CC7B	𬱻	uwfg
+2CC7B	𬱻	uwrt
 2CC7C	𬱼	mnwr
 2CC7D	𬱽	wrth
 2CC7E	𬱾	wrss
@@ -5567,7 +5567,7 @@
 2CDDE	𬷞	sswo
 2CDDF	𬷟	wvga
 2CDE0	𬷠	qswo
-2CDE1	𬷡	pnho
+2CDE1	𬷡	phno
 2CDE2	𬷢	dmwo
 2CDE3	𬷣	wvgj
 2CDE4	𬷤	esko
