@@ -5870,7 +5870,7 @@
 2E59D	𮖝	puto
 2E59E	𮖞	puyw
 2E59F	𮖟	yume
-2E5A0	𮖠	yxxe
+2E5A0	𮖠	ycce
 2E5A1	𮖡	puad
 2E5A2	𮖢	aufe
 2E5A3	𮖣	puqe
