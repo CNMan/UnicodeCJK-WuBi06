@@ -7628,7 +7628,7 @@
 6BCB	毋	xdd
 6BCC	毌	xfd
 6BCD	母	xnny
-6BCE	毎	txfj
+6BCE	毎	txff
 6BCF	每	txu
 6BD0	毐	fxdf
 6BD1	毑	xbn
