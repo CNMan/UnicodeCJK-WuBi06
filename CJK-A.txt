@@ -3750,7 +3750,7 @@
 42A5	䊥	ovfj
 42A6	䊦	ofpu
 42A7	䊧	oxjm
-42A8	䊨	ynky
+42A8	䊨	ynkw
 42A9	䊩	otol
 42AA	䊪	oajy
 42AB	䊫	olhd
