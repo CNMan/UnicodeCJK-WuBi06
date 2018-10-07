@@ -26,13 +26,9 @@
 
 T源（中国台湾）、H源（中国香港）、M源（中国澳门）、J源（日本）、K源（韩国）、KP源（朝鲜）、V源（越南）、U源（Unicode委员会/美国等）等与G源（中国大陆/新加坡）字形不同的编码本人没时间整理，如有需求，请Fork后自行逐字校正。
 
-## 讨论区
+## 反馈
 
-除项目[Issues](https://github.com/CNMan/Unicode_CJK_XSJWBBM/issues)外，亦可加入“五笔超大字符集编码QQ群（857031696）”参与讨论、共同学习。
-
-![qqqun](https://github.com/CNMan/Unicode_CJK_XSJWBBM/raw/master/imgs/qqqun.png)
-
-如果你使用过程中发现编码错误，请发[Issue](https://github.com/CNMan/Unicode_CJK_XSJWBBM/issues)、[Pull request](https://github.com/CNMan/Unicode_CJK_XSJWBBM/pulls)或发邮件到以下地址，以便及时修正
+如果你发现编码错误，请发[Issue](https://github.com/CNMan/Unicode_CJK_XSJWBBM/issues)、[Pull request](https://github.com/CNMan/Unicode_CJK_XSJWBBM/pulls)或发邮件到以下地址，以便及时修正
 
 ![myemail](https://github.com/CNMan/Unicode_CJK_XSJWBBM/raw/master/imgs/myemail.png)
 
