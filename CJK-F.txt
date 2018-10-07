@@ -5964,7 +5964,7 @@
 2E5FB	𮗻	yfjh
 2E5FC	𮗼	ysy
 2E5FD	𮗽	yqxn
-2E5FE	𮗾	yghy
+2E5FE	𮗾	yfyy
 2E5FF	𮗿	avyf
 2E600	𮘀	ygsy
 2E601	𮘁	yjnn
@@ -5990,7 +5990,7 @@
 2E615	𮘕	jntn
 2E616	𮘖	yngb
 2E617	𮘗	ydwg
-2E618	𮘘	whhy
+2E618	𮘘	yhhy
 2E619	𮘙	ypgg
 2E61A	𮘚	yeeg
 2E61B	𮘛	ypqn
@@ -6002,7 +6002,7 @@
 2E621	𮘡	yamd
 2E622	𮘢	yshg
 2E623	𮘣	yfqp
-2E624	𮘤	yjfy
+2E624	𮘤	jfuy
 2E625	𮘥	ymdb
 2E626	𮘦	yehj
 2E627	𮘧	wksy
@@ -6067,7 +6067,7 @@
 2E662	𮙢	ucgy
 2E663	𮙣	genh
 2E664	𮙤	gedq
-2E665	𮙥	etyy
+2E665	𮙥	eui
 2E666	𮙦	eay
 2E667	𮙧	epwn
 2E668	𮙨	ewfy
@@ -6383,7 +6383,7 @@
 2E79E	𮞞	arpk
 2E79F	𮞟	ahpd
 2E7A0	𮞠	aepi
-2E7A1	𮞡	jgtp
+2E7A1	𮞡	jdcp
 2E7A2	𮞢	imkp
 2E7A3	𮞣	tjpi
 2E7A4	𮞤	wgnp
@@ -6504,7 +6504,7 @@
 2E817	𮠗	sgng
 2E818	𮠘	sgqy
 2E819	𮠙	fnsg
-2E81A	𮠚	tjmd
+2E81A	𮠚	rjmd
 2E81B	𮠛	sgsy
 2E81C	𮠜	sgry
 2E81D	𮠝	sgtd
@@ -6778,7 +6778,7 @@
 2E929	𮤩	ufqm
 2E92A	𮤪	udlf
 2E92B	𮤫	usk
-2E92C	𮤬	ufk
+2E92C	𮤬	ufd
 2E92D	𮤭	uii
 2E92E	𮤮	gdub
 2E92F	𮤯	umwi
@@ -6866,7 +6866,7 @@
 2E981	𮦁	gkkn
 2E982	𮦂	wyws
 2E983	𮦃	akky
-2E984	𮦄	gmhw
+2E984	𮦄	gmii
 2E985	𮦅	fub
 2E986	𮦆	gmhw
 2E987	𮦇	gdfu
@@ -6895,10 +6895,10 @@
 2E99E	𮦞	flcn
 2E99F	𮦟	flou
 2E9A0	𮦠	fjfi
-2E9A1	𮦡	fefm
+2E9A1	𮦡	fefb
 2E9A2	𮦢	fuyu
 2E9A3	𮦣	fitk
-2E9A4	𮦤	fgyi
+2E9A4	𮦤	fggi
 2E9A5	𮦥	fdtp
 2E9A6	𮦦	fqtf
 2E9A7	𮦧	fitp
@@ -7108,7 +7108,7 @@
 2EA73	𮩳	covy
 2EA74	𮩴	cak
 2EA75	𮩵	cmhk
-2EA76	𮩶	cotw
+2EA76	𮩶	conw
 2EA77	𮩷	coaq
 2EA78	𮩸	ckhk
 2EA79	𮩹	coqw
@@ -7212,8 +7212,8 @@
 2EADB	𮫛	xagx
 2EADC	𮫜	tlqd
 2EADD	𮫝	ittc
-2EADE	𮫞	ilqj
-2EADF	𮫟	ilqe
+2EADE	𮫞	tlqj
+2EADF	𮫟	tlqe
 2EAE0	𮫠	dtbc
 2EAE1	𮫡	adwc
 2EAE2	𮫢	lqtv
@@ -7325,7 +7325,7 @@
 2EB4C	𮭌	ykwo
 2EB4D	𮭍	pjvo
 2EB4E	𮭎	ufwo
-2EB4F	𮭏	bgqo
+2EB4F	𮭏	bgto
 2EB50	𮭐	ykno
 2EB51	𮭑	fnwo
 2EB52	𮭒	lxio
@@ -7373,7 +7373,7 @@
 2EB7C	𮭼	dwwx
 2EB7D	𮭽	swwo
 2EB7E	𮭾	dwwj
-2EB7F	𮭿	dwwy
+2EB7F	𮭿	dwww
 2EB80	𮮀	swwh
 2EB81	𮮁	swwj
 2EB82	𮮂	swwf
@@ -7432,7 +7432,7 @@
 2EBB7	𮮷	thli
 2EBB8	𮮸	thlu
 2EBB9	𮮹	thlh
-2EBBA	𮮺	ynwg
+2EBBA	𮮺	ywng
 2EBBB	𮮻	yxvj
 2EBBC	𮮼	yuhj
 2EBBD	𮮽	hwwn
@@ -7441,12 +7441,12 @@
 2EBC0	𮯀	hbqw
 2EBC1	𮯁	hbuf
 2EBC2	𮯂	hbdg
-2EBC3	𮯃	hbvk
+2EBC3	𮯃	hobk
 2EBC4	𮯄	hbtk
 2EBC5	𮯅	hobe
 2EBC6	𮯆	hbvi
 2EBC7	𮯇	hobh
-2EBC8	𮯈	hobd
+2EBC8	𮯈	hobw
 2EBC9	𮯉	hbwo
 2EBCA	𮯊	hbvi
 2EBCB	𮯋	hobn
