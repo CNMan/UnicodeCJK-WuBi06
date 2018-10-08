@@ -14607,7 +14607,7 @@
 870E	蜎	jkeg
 870F	蜏	jtbt
 8710	蜐	jfce
-8711	蜑	thpj
+8711	蜑	thnj
 8712	蜒	jthp
 8713	蜓	jtfp
 8714	蜔	jqlg
@@ -17106,7 +17106,7 @@
 90D1	郑	udbh
 90D2	郒	yvcc
 90D3	郓	plbh
-90D4	郔	thpb
+90D4	郔	thnb
 90D5	郕	dnxb
 90D6	郖	gkub
 90D7	郗	rdmb
