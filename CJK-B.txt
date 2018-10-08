@@ -12741,7 +12741,7 @@
 231C4	𣇄	jrrj
 231C5	𣇅	jgfj
 231C6	𣇆	jpsu
-231C7	𣇇	thpg
+231C7	𣇇	thng
 231C8	𣇈	jagq
 231C9	𣇉	jvtk
 231CA	𣇊	jdhk
