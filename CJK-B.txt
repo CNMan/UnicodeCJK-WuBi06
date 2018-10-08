@@ -218,7 +218,7 @@
 200D9	𠃙	vvb
 200DA	𠃚	nnv
 200DB	𠃛	mfd
-200DC	𠃜	nhgt
+200DC	𠃜	nnht
 200DD	𠃝	nii
 200DE	𠃞	gvnn
 200DF	𠃟	anb
@@ -9110,12 +9110,12 @@
 22395	𢎕	hbay
 22396	𢎖	hhwy
 22397	𢎗	xngn
-22398	𢎘	nnv
-22399	𢎙	nnnn
+22398	𢎘	cnn
+22399	𢎙	ccb
 2239A	𢎚	xyi
 2239B	𢎛	xyi
 2239C	𢎜	ghgn
-2239D	𢎝	vnv
+2239D	𢎝	vnb
 2239E	𢎞	xnn
 2239F	𢎟	xhk
 223A0	𢎠	xhk
@@ -9125,7 +9125,7 @@
 223A4	𢎤	xcy
 223A5	𢎥	xfd
 223A6	𢎦	wxb
-223A7	𢎧	nhxv
+223A7	𢎧	nngn
 223A8	𢎨	xhte
 223A9	𢎩	xvn
 223AA	𢎪	xwn
