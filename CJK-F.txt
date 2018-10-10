@@ -3049,7 +3049,7 @@
 2DA98	𭪘	ssfc
 2DA99	𭪙	aufi
 2DA9A	𭪚	sgko
-2DA9B	𭪛	ggvs
+2DA9B	𭪛	gvcs
 2DA9C	𭪜	saqi
 2DA9D	𭪝	ssdy
 2DA9E	𭪞	ssoy
