@@ -2652,7 +2652,7 @@
 2B15B	𫅛	ugme
 2B15C	𫅜	wyck
 2B15D	𫅝	ugdg
-2B15E	𫅞	gvck
+2B15E	𫅞	yvck
 2B15F	𫅟	ugdc
 2B160	𫅠	ugds
 2B161	𫅡	ugnk
@@ -3437,9 +3437,9 @@
 2B46C	𫑬	slab
 2B46D	𫑭	onjb
 2B46E	𫑮	djfb
-2B46F	𫑯	gvcf
+2B46F	𫑯	yvcf
 2B470	𫑰	uegb
-2B471	𫑱	gvce
+2B471	𫑱	yvce
 2B472	𫑲	elvb
 2B473	𫑳	sgvy
 2B474	𫑴	sgdb
