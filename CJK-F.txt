@@ -2359,7 +2359,7 @@
 2D7E6	𭟦	ywwn
 2D7E7	𭟧	nsae
 2D7E8	𭟨	nhhs
-2D7E9	𭟩	nwyy
+2D7E9	𭟩	nwyw
 2D7EA	𭟪	ujfn
 2D7EB	𭟫	ngjo
 2D7EC	𭟬	ntud
@@ -2373,7 +2373,7 @@
 2D7F4	𭟴	ahgj
 2D7F5	𭟵	aqeh
 2D7F6	𭟶	kney
-2D7F7	𭟷	nyna
+2D7F7	𭟷	wfia
 2D7F8	𭟸	hviy
 2D7F9	𭟹	uudy
 2D7FA	𭟺	gxxj
@@ -4237,7 +4237,7 @@
 2DF3C	𭼼	utmt
 2DF3D	𭼽	true
 2DF3E	𭼾	trrd
-2DF3F	𭼿	qnyj
+2DF3F	𭼿	wjf
 2DF40	𭽀	wou
 2DF41	𭽁	tryu
 2DF42	𭽂	tyrt

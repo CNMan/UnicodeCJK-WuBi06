@@ -22750,7 +22750,7 @@
 258DD	𥣝	tynt
 258DE	𥣞	tnwy
 258DF	𥣟	tqeo
-258E0	𥣠	wfqt
+258E0	𥣠	wfwt
 258E1	𥣡	tnih
 258E2	𥣢	tflw
 258E3	𥣣	tijy
