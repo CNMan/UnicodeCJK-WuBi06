@@ -1556,7 +1556,7 @@
 2D4C3	𭓃	bdqn
 2D4C4	𭓄	brbc
 2D4C5	𭓅	bebg
-2D4C6	𭓆	pbpn
+2D4C6	𭓆	pbpy
 2D4C7	𭓇	krpb
 2D4C8	𭓈	bfhy
 2D4C9	𭓉	bgeg
@@ -1587,7 +1587,7 @@
 2D4E2	𭓢	pgiu
 2D4E3	𭓣	paff
 2D4E4	𭓤	pdmh
-2D4E5	𭓥	phkj
+2D4E5	𭓥	phkf
 2D4E6	𭓦	ptu
 2D4E7	𭓧	ptdc
 2D4E8	𭓨	pudf
