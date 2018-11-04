@@ -4453,7 +4453,7 @@
 5F64	彤	myet
 5F65	彥	yder
 5F66	彦	utee
-5F67	彧	gkgy
+5F67	彧	akgy
 5F68	彨	gmye
 5F69	彩	eset
 5F6A	彪	hawe
@@ -11316,7 +11316,7 @@
 7A33	稳	tqvn
 7A34	稴	tuvo
 7A35	稵	tuxx
-7A36	稶	tgky
+7A36	稶	taky
 7A37	稷	tlwt
 7A38	稸	tyxl
 7A39	稹	tfhw
@@ -15342,11 +15342,11 @@
 89ED	觭	qehk
 89EE	觮	qehi
 89EF	觯	qehl
-89F0	觰	qmfj
+89F0	觰	qehj
 89F1	觱	dgkh
 89F2	觲	qehg
 89F3	觳	fpgc
-89F4	觴	qmfr
+89F4	觴	qehr
 89F5	觵	qehw
 89F6	觶	qehl
 89F7	觷	errh
