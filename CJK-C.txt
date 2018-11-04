@@ -443,7 +443,7 @@
 2A8BA	𪢺	fhcy
 2A8BB	𪢻	feg
 2A8BC	𪢼	fwxn
-2A8BD	𪢽	ftfh
+2A8BD	𪢽	ftgh
 2A8BE	𪢾	off
 2A8BF	𪢿	fiy
 2A8C0	𪣀	fcn
@@ -598,7 +598,7 @@
 2A955	𪥕	dnbm
 2A956	𪥖	jand
 2A957	𪥗	uejd
-2A958	𪥘	yusd
+2A958	𪥘	ukhd
 2A959	𪥙	rkad
 2A95A	𪥚	dufq
 2A95B	𪥛	ujnd
@@ -700,7 +700,7 @@
 2A9BB	𪦻	wgkb
 2A9BC	𪦼	brqy
 2A9BD	𪦽	ynab
-2A9BE	𪦾	bnjw
+2A9BE	𪦾	bjnw
 2A9BF	𪦿	bwge
 2A9C0	𪧀	bmmv
 2A9C1	𪧁	blfh
@@ -722,7 +722,7 @@
 2A9D1	𪧑	pawu
 2A9D2	𪧒	pwtk
 2A9D3	𪧓	pirf
-2A9D4	𪧔	paer
+2A9D4	𪧔	pawe
 2A9D5	𪧕	pfrm
 2A9D6	𪧖	prou
 2A9D7	𪧗	pwwl
@@ -1218,7 +1218,7 @@
 2ABC1	𪯁	rnay
 2ABC2	𪯂	rown
 2ABC3	𪯃	raue
-2ABC4	𪯄	rake
+2ABC4	𪯄	rhge
 2ABC5	𪯅	odfc
 2ABC6	𪯆	fcff
 2ABC7	𪯇	lgcc
@@ -1532,7 +1532,7 @@
 2ACFB	𪳻	scns
 2ACFC	𪳼	ifti
 2ACFD	𪳽	ssdl
-2ACFE	𪳾	sfay
+2ACFE	𪳾	sfly
 2ACFF	𪳿	jsoc
 2AD00	𪴀	smau
 2AD01	𪴁	skhi
@@ -1572,7 +1572,7 @@
 2AD23	𪴣	spwm
 2AD24	𪴤	serq
 2AD25	𪴥	spgm
-2AD26	𪴦	sysf
+2AD26	𪴦	yssf
 2AD27	𪴧	stui
 2AD28	𪴨	ogui
 2AD29	𪴩	yqwy
@@ -1706,7 +1706,7 @@
 2ADA9	𪶩	ickn
 2ADAA	𪶪	isgn
 2ADAB	𪶫	idwy
-2ADAC	𪶬	iahd
+2ADAC	𪶬	iatd
 2ADAD	𪶭	igqo
 2ADAE	𪶮	igon
 2ADAF	𪶯	isdj
@@ -1747,7 +1747,7 @@
 2ADD2	𪷒	iaqm
 2ADD3	𪷓	ihae
 2ADD4	𪷔	iwcq
-2ADD5	𪷕	ihdy
+2ADD5	𪷕	itdy
 2ADD6	𪷖	iqdo
 2ADD7	𪷗	ierf
 2ADD8	𪷘	irmr
@@ -1788,7 +1788,7 @@
 2ADFB	𪷻	iqaa
 2ADFC	𪷼	iqdk
 2ADFD	𪷽	itfm
-2ADFE	𪷾	iqxy
+2ADFE	𪷾	iqxg
 2ADFF	𪷿	ixfm
 2AE00	𪸀	ifnc
 2AE01	𪸁	ioac
@@ -1819,7 +1819,7 @@
 2AE1A	𪸚	odkg
 2AE1B	𪸛	ogyy
 2AE1C	𪸜	olwy
-2AE1D	𪸝	oken
+2AE1D	𪸝	oket
 2AE1E	𪸞	oqiy
 2AE1F	𪸟	oqhy
 2AE20	𪸠	oyni
@@ -2085,7 +2085,7 @@
 2AF24	𪼤	gqdy
 2AF25	𪼥	gouo
 2AF26	𪼦	gujn
-2AF27	𪼧	gawk
+2AF27	𪼧	ghgk
 2AF28	𪼨	gpxe
 2AF29	𪼩	gddj
 2AF2A	𪼪	gted
@@ -2168,7 +2168,7 @@
 2AF77	𪽷	ugun
 2AF78	𪽸	ufhy
 2AF79	𪽹	ubjy
-2AF7A	𪽺	uhdr
+2AF7A	𪽺	utdr
 2AF7B	𪽻	rsy
 2AF7C	𪽼	ryy
 2AF7D	𪽽	rrgg
@@ -2184,7 +2184,7 @@
 2AF87	𪾇	hcty
 2AF88	𪾈	hcsv
 2AF89	𪾉	hcbb
-2AF8A	𪾊	dnyf
+2AF8A	𪾊	dnyl
 2AF8B	𪾋	jclf
 2AF8C	𪾌	sklf
 2AF8D	𪾍	kqlf
@@ -2278,7 +2278,7 @@
 2AFE5	𪿥	dsty
 2AFE6	𪿦	dgey
 2AFE7	𪿧	driy
-2AFE8	𪿨	dhdd
+2AFE8	𪿨	dtdd
 2AFE9	𪿩	dndg
 2AFEA	𪿪	drdf
 2AFEB	𪿫	dcgr
@@ -2413,7 +2413,7 @@
 2B06C	𫁬	utjr
 2B06D	𫁭	uooe
 2B06E	𫁮	gwmu
-2B06F	𫁯	ujfb
+2B06F	𫁯	ujfg
 2B070	𫁰	thu
 2B071	𫁱	tbgf
 2B072	𫁲	tfqb
@@ -2625,7 +2625,7 @@
 2B140	𫅀	lfnb
 2B141	𫅁	lwxb
 2B142	𫅂	ldf
-2B143	𫅃	pwjf
+2B143	𫅃	pqjf
 2B144	𫅄	lqiu
 2B145	𫅅	lyjj
 2B146	𫅆	mrrv
@@ -2861,7 +2861,7 @@
 2B22C	𫈬	apwn
 2B22D	𫈭	aiug
 2B22E	𫈮	ayke
-2B22F	𫈯	aufy
+2B22F	𫈯	augy
 2B230	𫈰	aiwk
 2B231	𫈱	ayde
 2B232	𫈲	ainf
@@ -2915,7 +2915,7 @@
 2B262	𫉢	arrk
 2B263	𫉣	aide
 2B264	𫉤	abjr
-2B265	𫉥	afwe
+2B265	𫉥	afqe
 2B266	𫉦	agqt
 2B267	𫉧	ajto
 2B268	𫉨	ajmc
@@ -2974,7 +2974,7 @@
 2B29D	𫊝	hakd
 2B29E	𫊞	havd
 2B29F	𫊟	hatf
-2B2A0	𫊠	hawh
+2B2A0	𫊠	hawg
 2B2A1	𫊡	hath
 2B2A2	𫊢	hayj
 2B2A3	𫊣	haqo
@@ -3087,7 +3087,7 @@
 2B30E	𫌎	ewke
 2B30F	𫌏	nhde
 2B310	𫌐	pufy
-2B311	𫌑	puoj
+2B311	𫌑	puuj
 2B312	𫌒	puxq
 2B313	𫌓	pumu
 2B314	𫌔	puvg
@@ -3352,7 +3352,7 @@
 2B417	𫐗	logw
 2B418	𫐘	ldgn
 2B419	𫐙	llll
-2B41A	𫐚	udsn
+2B41A	𫐚	ufsn
 2B41B	𫐛	udgi
 2B41C	𫐜	udcn
 2B41D	𫐝	udyw
@@ -3370,7 +3370,7 @@
 2B429	𫐩	wwfp
 2B42A	𫐪	eqip
 2B42B	𫐫	fqqp
-2B42C	𫐬	agpd
+2B42C	𫐬	agfp
 2B42D	𫐭	evhp
 2B42E	𫐮	wgmp
 2B42F	𫐯	ewpi
@@ -3790,7 +3790,7 @@
 2B5CD	𫗍	ftwe
 2B5CE	𫗎	wgvn
 2B5CF	𫗏	wyde
-2B5D0	𫗐	wyvg
+2B5D0	𫗐	wgvg
 2B5D1	𫗑	wyqc
 2B5D2	𫗒	wyvv
 2B5D3	𫗓	wytk
@@ -3916,7 +3916,7 @@
 2B64B	𫙋	tjrc
 2B64C	𫙌	ffhc
 2B64D	𫙍	rqcl
-2B64E	𫙎	rqcl
+2B64E	𫙎	tlql
 2B64F	𫙏	qofh
 2B650	𫙐	qoaj
 2B651	𫙑	qomc
@@ -3970,7 +3970,7 @@
 2B681	𫚁	qoum
 2B682	𫚂	qofy
 2B683	𫚃	erro
-2B684	𫚄	qohl
+2B684	𫚄	qotl
 2B685	𫚅	qovi
 2B686	𫚆	qodm
 2B687	𫚇	qonj
