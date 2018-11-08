@@ -24,7 +24,7 @@
 
 ## G源以外其他地区字形编码
 
-T源（中国台湾）、H源（中国香港）、M源（中国澳门）、J源（日本）、K源（韩国）、KP源（朝鲜）、V源（越南）、U源（Unicode委员会/美国等）等与G源（中国大陆/新加坡）字形不同的编码本人没时间整理，如有需求，请Fork后自行逐字校正。
+T源（中国台湾）、H源（中国香港）、M源（中国澳门）、J源（日本）、K源（韩国）、KP源（朝鲜）、V源（越南）、U源（Unicode委员会/美国等）等与G源（中国大陆/新加坡）字形不同的编码本人没时间整理，如有需求，请分别在[HK](https://github.com/CNMan/UnicodeCJK-WuBi06/tree/HK)、[MO](https://github.com/CNMan/UnicodeCJK-WuBi06/tree/MO)、[TW](https://github.com/CNMan/UnicodeCJK-WuBi06/tree/TW)等分支添加新世纪五笔编码。
 
 ## 反馈
 
