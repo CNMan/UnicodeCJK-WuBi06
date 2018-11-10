@@ -63,7 +63,7 @@ U+2003D	𠀽	gmhy
 U+2003E	𠀾	dhwc
 U+2003F	𠀿	ghkw
 U+20040	𠁀	anwy
-U+20041	𠁁	anfg
+U+20041	𠁁	nngg
 U+20042	𠁂	ftjs
 U+20043	𠁃	dhgi
 U+20044	𠁄	wgmh
@@ -834,7 +834,7 @@ U+20340	𠍀	wigi
 U+20341	𠍁	wtxt
 U+20342	𠍂	weks
 U+20343	𠍃	wwyw
-U+20344	𠍄	wang
+U+20344	𠍄	wnng
 U+20345	𠍅	wswt
 U+20346	𠍆	watj
 U+20347	𠍇	whqs
@@ -6129,7 +6129,7 @@ U+217EF	𡟯	vldn
 U+217F0	𡟰	vpqy
 U+217F1	𡟱	vaqj
 U+217F2	𡟲	vpdk
-U+217F3	𡟳	vang
+U+217F3	𡟳	vnng
 U+217F4	𡟴	vwnp
 U+217F5	𡟵	vskk
 U+217F6	𡟶	vmty
@@ -16520,7 +16520,7 @@ U+24086	𤂆	iebw
 U+24087	𤂇	iuxb
 U+24088	𤂈	ihls
 U+24089	𤂉	isay
-U+2408A	𤂊	ianr
+U+2408A	𤂊	innr
 U+2408B	𤂋	iavs
 U+2408C	𤂌	ifkm
 U+2408D	𤂍	ialp
@@ -21083,7 +21083,7 @@ U+25259	𥉙	hftj
 U+2525A	𥉚	hwww
 U+2525B	𥉛	hpjv
 U+2525C	𥉜	hdwt
-U+2525D	𥉝	hang
+U+2525D	𥉝	hnng
 U+2525E	𥉞	hlhg
 U+2525F	𥉟	htec
 U+25260	𥉠	cnhh
@@ -30606,14 +30606,14 @@ U+2778C	𧞌	puwo
 U+2778D	𧞍	pupi
 U+2778E	𧞎	puen
 U+2778F	𧞏	puew
-U+27790	𧞐	anfe
+U+27790	𧞐	nnge
 U+27791	𧞑	puoe
 U+27792	𧞒	fpte
 U+27793	𧞓	puyj
 U+27794	𧞔	pual
 U+27795	𧞕	dmje
 U+27796	𧞖	puuj
-U+27797	𧞗	yane
+U+27797	𧞗	ynne
 U+27798	𧞘	punp
 U+27799	𧞙	sfge
 U+2779A	𧞚	ytee
@@ -30838,7 +30838,7 @@ U+27874	𧡴	gliq
 U+27875	𧡵	dbhq
 U+27876	𧡶	jtgq
 U+27877	𧡷	hqem
-U+27878	𧡸	anfq
+U+27878	𧡸	nngq
 U+27879	𧡹	hlwq
 U+2787A	𧡺	ftxq
 U+2787B	𧡻	ldhq
@@ -31397,7 +31397,7 @@ U+27AA3	𧪣	ybio
 U+27AA4	𧪤	yhat
 U+27AA5	𧪥	yrhs
 U+27AA6	𧪦	yjng
-U+27AA7	𧪧	yang
+U+27AA7	𧪧	ynng
 U+27AA8	𧪨	ycoy
 U+27AA9	𧪩	ythn
 U+27AAA	𧪪	ymdl
@@ -34615,7 +34615,7 @@ U+28735	𨜵	jlbh
 U+28736	𨜶	uwlb
 U+28737	𨜷	yupb
 U+28738	𨜸	drbb
-U+28739	𨜹	anfb
+U+28739	𨜹	nngb
 U+2873A	𨜺	wcnb
 U+2873B	𨜻	hayb
 U+2873C	𨜼	ssbh
@@ -35470,7 +35470,7 @@ U+28A8C	𨪌	qftj
 U+28A8D	𨪍	qiiv
 U+28A8E	𨪎	qaky
 U+28A8F	𨪏	qutd
-U+28A90	𨪐	qang
+U+28A90	𨪐	qnng
 U+28A91	𨪑	qaaj
 U+28A92	𨪒	qkgn
 U+28A93	𨪓	qaqk
@@ -35731,7 +35731,7 @@ U+28B91	𨮑	qwmy
 U+28B92	𨮒	qalq
 U+28B93	𨮓	qwow
 U+28B94	𨮔	qegw
-U+28B95	𨮕	qanr
+U+28B95	𨮕	qnnr
 U+28B96	𨮖	egnq
 U+28B97	𨮗	qhaw
 U+28B98	𨮘	qpnm
@@ -36308,7 +36308,7 @@ U+28DD2	𨷒	umdr
 U+28DD3	𨷓	uono
 U+28DD4	𨷔	utgo
 U+28DD5	𨷕	ueac
-U+28DD6	𨷖	uanr
+U+28DD6	𨷖	unnr
 U+28DD7	𨷗	ufwg
 U+28DD8	𨷘	ufdj
 U+28DD9	𨷙	uykf
@@ -36551,7 +36551,7 @@ U+28EC5	𨻅	bcwm
 U+28EC6	𨻆	brhw
 U+28EC7	𨻇	bawk
 U+28EC8	𨻈	bimy
-U+28EC9	𨻉	bang
+U+28EC9	𨻉	bnng
 U+28ECA	𨻊	bdwf
 U+28ECB	𨻋	bgxf
 U+28ECC	𨻌	bwww
@@ -38175,7 +38175,7 @@ U+2951D	𩔝	wynm
 U+2951E	𩔞	clum
 U+2951F	𩔟	dqdm
 U+29520	𩔠	hfim
-U+29521	𩔡	anfm
+U+29521	𩔡	nngm
 U+29522	𩔢	opdm
 U+29523	𩔣	ytmm
 U+29524	𩔤	hdhm

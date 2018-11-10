@@ -40,7 +40,7 @@ U+3426	㐦	egnn
 U+3427	㐧	ynht
 U+3428	㐨	cnhh
 U+3429	㐩	fjfj
-U+342A	㐪	gbwi
+U+342A	㐪	ybwu
 U+342B	㐫	yrbj
 U+342C	㐬	yckb
 U+342D	㐭	ylkf
