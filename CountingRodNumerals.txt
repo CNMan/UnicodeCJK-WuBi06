@@ -1,0 +1,5 @@
+U+1D372	𝍲	ggll
+U+1D373	𝍳	ghi
+U+1D374	𝍴	ghi
+U+1D375	𝍵	ghhk
+U+1D376	𝍶	ghd
