@@ -4600,7 +4600,7 @@ U+45F6	䗶	jajn
 U+45F7	䗷	jujn
 U+45F8	䗸	yxtj
 U+45F9	䗹	juxn
-U+45FA	䗺	thnj
+U+45FA	䗺	thpj
 U+45FB	䗻	jtvb
 U+45FC	䗼	jtgo
 U+45FD	䗽	xwyj

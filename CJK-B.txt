@@ -12741,7 +12741,7 @@ U+231C3	𣇃	udhj
 U+231C4	𣇄	jrrj
 U+231C5	𣇅	jgfj
 U+231C6	𣇆	jpsu
-U+231C7	𣇇	thng
+U+231C7	𣇇	thpg
 U+231C8	𣇈	jagq
 U+231C9	𣇉	jvtk
 U+231CA	𣇊	jdhk

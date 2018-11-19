@@ -4340,7 +4340,7 @@ U+5EF2	廲	ogmx
 U+5EF3	廳	obgn
 U+5EF4	廴	pny
 U+5EF5	廵	vpv
-U+5EF6	延	thnp
+U+5EF6	延	thpv
 U+5EF7	廷	tfpd
 U+5EF8	廸	mpd
 U+5EF9	廹	rpd
@@ -14607,7 +14607,7 @@ U+870D	蜍	jwgs
 U+870E	蜎	jkeg
 U+870F	蜏	jtbt
 U+8710	蜐	jfce
-U+8711	蜑	thnj
+U+8711	蜑	thpj
 U+8712	蜒	jthp
 U+8713	蜓	jtfp
 U+8714	蜔	jqlg
@@ -17106,7 +17106,7 @@ U+90D0	郐	wfcb
 U+90D1	郑	udbh
 U+90D2	郒	yvcc
 U+90D3	郓	plbh
-U+90D4	郔	thnb
+U+90D4	郔	thpb
 U+90D5	郕	dnxb
 U+90D6	郖	gkub
 U+90D7	郗	rdmb
