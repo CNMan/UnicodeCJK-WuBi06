@@ -1,0 +1,16 @@
+U+31C0	㇀	ggll
+U+31C1	㇁	nnll
+U+31C2	㇂	nnll
+U+31C3	㇃	nnll
+U+31C4	㇄	nnll
+U+31C5	㇅	nnll
+U+31C7	㇇	nnll
+U+31C8	㇈	nnll
+U+31C9	㇉	nnll
+U+31CA	㇊	nnll
+U+31CB	㇋	nnll
+U+31CC	㇌	nnll
+U+31CD	㇍	nnll
+U+31CE	㇎	nnll
+U+31E2	㇢	nnll
+U+31E3	㇣	knll
