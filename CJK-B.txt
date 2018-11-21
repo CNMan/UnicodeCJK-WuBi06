@@ -846,7 +846,7 @@ U+2034C	𠍌	wpnn
 U+2034D	𠍍	wsdc
 U+2034E	𠍎	wfmy
 U+2034F	𠍏	wgkt
-U+20350	𠍐	wgcy
+U+20350	𠍐	wycy
 U+20351	𠍑	want
 U+20352	𠍒	wukg
 U+20353	𠍓	wmwa
@@ -6534,7 +6534,7 @@ U+21984	𡦄	qqeb
 U+21985	𡦅	bqbt
 U+21986	𡦆	rtfb
 U+21987	𡦇	bjte
-U+21988	𡦈	wgcy
+U+21988	𡦈	wycy
 U+21989	𡦉	bjyy
 U+2198A	𡦊	ftbb
 U+2198B	𡦋	ahnb
