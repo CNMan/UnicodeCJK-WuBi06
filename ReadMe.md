@@ -1,6 +1,6 @@
 # 新世纪版五笔字型 Unicode CJK 超大字符集编码数据库
 
-* 仅聚焦单字全码，不涉及词组。
+* 仅聚焦单字全码，不涉及简码和词组。
 
 * CJK/CJK-A/CJK-B 字形以[中华人民共和国《信息技术 中文编码字符集》国家标准 GB 18030-2005](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=C344D8D120B341A8DD328954A9B27A99) 为准。
 
@@ -8,19 +8,21 @@
 
 * CJK-F 字形以 [Unicode 11.0.0 CodeCharts](https://www.unicode.org/Public/11.0.0/charts/CodeCharts.pdf) 为准，G 源字形优先，待[新版 GB 18030 国标](http://www.nits.org.cn/getIndex.req?action=quary&req=modulenvpromote&id=3247&type=0&moduleId=83&sid=5)出台后校正。
 
-* 字体以[方正字库](http://www.foundertype.com/)给[籍合网](http://www.ancientbooks.cn/)做的[**中华书局宋体**](http://www.ancientbooks.cn/helpcore?font)（支持Unicode 10.0.0）为主。
+* 字体以[方正字库](http://www.foundertype.com/)给[籍合网](http://www.ancientbooks.cn/)做的[中华书局宋体](http://www.ancientbooks.cn/helpcore?font)（支持Unicode 10.0.0）为主。
 
-  * [中华书局宋体字形错误](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/7)
+  * [中华书局宋体错误（GB18030-2005字符部分）](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/7)
+
+  * [中华书局宋体错误（GB18030-2019新增字符部分）](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/36)
 
 * 这是一个数据库，不是一个码表。
 
 * 力求“标准”、“同形同码”
 
-## [如何参与项目](https://github.com/CNMan/Unicode_CJK_XSJWBBM/issues/5)
+## [如何参与项目](https://cnaiv.com/share/unicodecjk-wubi06.html)
 
-## [关于项目进度](https://github.com/CNMan/Unicode_CJK_XSJWBBM/issues/4)
+## [关于项目进度](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/4)
 
-## [部分字根异写的处理](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/10)
+## [部分字根异写的处理](https://cnaiv.com/share/zigenyiti.html)
 
 ## G源以外其他地区字形编码
 
@@ -28,9 +30,9 @@ T源（中国台湾）、H源（中国香港）、M源（中国澳门）、J源�
 
 ## 反馈
 
-如果你发现编码错误，请发[Issue](https://github.com/CNMan/Unicode_CJK_XSJWBBM/issues)、[Pull request](https://github.com/CNMan/Unicode_CJK_XSJWBBM/pulls)或发邮件到以下地址，以便及时修正
+如果你发现编码错误，请发[Issue](https://github.com/CNMan/UnicodeCJK-WuBi06/issues)、[Pull request](https://github.com/CNMan/UnicodeCJK-WuBi06/pulls)或发邮件到以下地址，以便及时修正
 
-![myemail](https://github.com/CNMan/Unicode_CJK_XSJWBBM/raw/master/imgs/myemail.png)
+![myemail](https://github.com/CNMan/UnicodeCJK-WuBi06/raw/master/imgs/myemail.png)
 
 ## Unicode CJK 部分变动历史：
 
@@ -73,15 +75,15 @@ CE5A4007936D580000AAF433282D9D183EF87ADC *wmwb2012a.exe v2.0.0.1
 
 安装后默认是86版，需要先将`编码方案`设置为“新世纪版五笔字形”、将`字符集`设置为“GB18030-2000(27533字)”、将`容错码`设置为“不允许”。
 
-![dyt_settings01](https://github.com/CNMan/Unicode_CJK_XSJWBBM/raw/master/imgs/dyt_settings01.png)
+![dyt_settings01](https://github.com/CNMan/UnicodeCJK-WuBi06/raw/master/imgs/dyt_settings01.png)
 
-![dyt00](https://github.com/CNMan/Unicode_CJK_XSJWBBM/raw/master/imgs/dyt00.png)
+![dyt00](https://github.com/CNMan/UnicodeCJK-WuBi06/raw/master/imgs/dyt00.png)
 
-![dyt01](https://github.com/CNMan/Unicode_CJK_XSJWBBM/raw/master/imgs/dyt01.png) ![dyt02](https://github.com/CNMan/Unicode_CJK_XSJWBBM/raw/master/imgs/dyt02.png)
+![dyt01](https://github.com/CNMan/UnicodeCJK-WuBi06/raw/master/imgs/dyt01.png) ![dyt02](https://github.com/CNMan/UnicodeCJK-WuBi06/raw/master/imgs/dyt02.png)
 
 [新世纪版五笔字型字根键位图](http://www.wangma.com.cn/view.asp?id=201&f_id=22)
 
-![zgjwt_jf_871x468](https://github.com/CNMan/Unicode_CJK_XSJWBBM/raw/master/imgs/zgjwt_jf_871x468.jpg)
+![zgjwt_jf_871x468](https://github.com/CNMan/UnicodeCJK-WuBi06/raw/master/imgs/zgjwt_jf_871x468.jpg)
 
 [新世纪版五笔字型字根助记歌](http://www.wangma.com.cn/view.asp?id=200&f_id=22)
 
@@ -95,15 +97,15 @@ CE5A4007936D580000AAF433282D9D183EF87ADC *wmwb2012a.exe v2.0.0.1
 
 新世纪版五笔字型字根变动表
 
-![zgbdb](https://github.com/CNMan/Unicode_CJK_XSJWBBM/raw/master/imgs/zgbdb.jpg)
+![zgbdb](https://github.com/CNMan/UnicodeCJK-WuBi06/raw/master/imgs/zgbdb.jpg)
 
 新世纪版五笔字型字根总表及助记词
 
-![zgzb](https://github.com/CNMan/Unicode_CJK_XSJWBBM/raw/master/imgs/zgzb.jpg)
+![zgzb](https://github.com/CNMan/UnicodeCJK-WuBi06/raw/master/imgs/zgzb.jpg)
 
 汉字编码方法及流程
 
-![bmff](https://github.com/CNMan/Unicode_CJK_XSJWBBM/raw/master/imgs/bmff.jpg)
+![bmff](https://github.com/CNMan/UnicodeCJK-WuBi06/raw/master/imgs/bmff.jpg)
 
 ## 参考资料
 
@@ -129,6 +131,10 @@ CE5A4007936D580000AAF433282D9D183EF87ADC *wmwb2012a.exe v2.0.0.1
 
 [《GB13000.1字符集汉字折笔规范》（GF2001-2001）](http://www.moe.gov.cn/s78/A19/yxs_left/moe_810/s230/201001/t20100115_75688.html)
 
+[《信息技术 通用键盘汉字输入通用要求》（GB/T 19246-2003）](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=8F7BD4C48AA924CC5CD260BB1E298E4F)
+
+[《信息技术 数字键盘汉字输入通用要求》（GB/T 18031-2016）](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=3CA25D96795756C2B350B03478A7AB18)
+
 [国家语委语料库在线网站](http://corpus.zhonghuayuwen.org/)
 
 [方正通用规范字库（个人版）V1.0](http://ifont.foundertype.com/index/generalfonts.html)
@@ -143,7 +149,7 @@ CE5A4007936D580000AAF433282D9D183EF87ADC *wmwb2012a.exe v2.0.0.1
 
 [https://gitee.com/xionghuaidong/WubiTools](https://gitee.com/xionghuaidong/WubiTools)
 
-[五笔爱好者论坛两周年精华](https://cnnews.info/share/uploads/wbfans.com_2years.chm)
+[五笔爱好者论坛两周年精华](https://cnaiv.com/share/uploads/wbfans.com_2years.chm)
 
 ## 版权
 
