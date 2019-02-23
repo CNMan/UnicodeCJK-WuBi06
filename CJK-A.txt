@@ -1249,7 +1249,7 @@ U+38DF	㣟	tfkg
 U+38E0	㣠	thtu
 U+38E1	㣡	twkh
 U+38E2	㣢	tuxt
-U+38E3	㣣	tdww
+U+38E3	㣣	tdty
 U+38E4	㣤	taay
 U+38E5	㣥	twff
 U+38E6	㣦	ttvg
