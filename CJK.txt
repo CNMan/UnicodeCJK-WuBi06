@@ -7271,7 +7271,7 @@ U+6A65	橥	qtfs
 U+6A66	橦	sujf
 U+6A67	橧	sulj
 U+6A68	橨	sfam
-U+6A69	橩	soof
+U+6A69	橩	soow
 U+6A6A	橪	sqdo
 U+6A6B	橫	sagw
 U+6A6C	橬	saqj
