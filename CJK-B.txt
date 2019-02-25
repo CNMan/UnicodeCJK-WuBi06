@@ -28288,7 +28288,7 @@ U+26E7E	𦹾	aykn
 U+26E7F	𦹿	awct
 U+26E80	𦺀	asgw
 U+26E81	𦺁	aiys
-U+26E82	𦺂	argo
+U+26E82	𦺂	btbo
 U+26E83	𦺃	ahmc
 U+26E84	𦺄	aqtb
 U+26E85	𦺅	ayug
