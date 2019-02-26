@@ -2527,7 +2527,7 @@ U+2C1FD	𬇽	irne
 U+2C1FE	𬇾	yniq
 U+2C1FF	𬇿	iuxh
 U+2C200	𬈀	iyeg
-U+2C201	𬈁	iulf
+U+2C201	𬈁	iulh
 U+2C202	𬈂	iblg
 U+2C203	𬈃	icuh
 U+2C204	𬈄	xwei
