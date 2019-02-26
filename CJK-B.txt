@@ -9973,7 +9973,7 @@ U+226F3	𢛳	flgn
 U+226F4	𢛴	nblg
 U+226F5	𢛵	nevh
 U+226F6	𢛶	ahnn
-U+226F7	𢛷	nrny
+U+226F7	𢛷	nyny
 U+226F8	𢛸	npgh
 U+226F9	𢛹	nujq
 U+226FA	𢛺	nrqn
