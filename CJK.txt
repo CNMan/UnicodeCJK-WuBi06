@@ -18029,7 +18029,7 @@ U+946B	鑫	qqqf
 U+946C	鑬	qahq
 U+946D	鑭	qugi
 U+946E	鑮	qaif
-U+946F	鑯	qwwy
+U+946F	鑯	qwwg
 U+9470	鑰	qwga
 U+9471	鑱	qqky
 U+9472	鑲	qyke
