@@ -3582,7 +3582,7 @@ U+41FC	䇼	tkcb
 U+41FD	䇽	trrj
 U+41FE	䇾	tyf
 U+41FF	䇿	tgki
-U+4200	䈀	tmmj
+U+4200	䈀	tmaj
 U+4201	䈁	twga
 U+4202	䈂	tuaj
 U+4203	䈃	tivk
