@@ -2299,7 +2299,7 @@ U+3CF9	㳹	isgg
 U+3CFA	㳺	irtb
 U+3CFB	㳻	iajg
 U+3CFC	㳼	akgi
-U+3CFD	㳽	ixti
+U+3CFD	㳽	ixqi
 U+3CFE	㳾	iufq
 U+3CFF	㳿	iycs
 U+3D00	㴀	iatp

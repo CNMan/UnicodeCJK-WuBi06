@@ -8695,7 +8695,7 @@ U+6FF5	濵	ipnm
 U+6FF6	濶	iutd
 U+6FF7	濷	iiay
 U+6FF8	濸	iawk
-U+6FF9	濹	ijff
+U+6FF9	濹	ilff
 U+6FFA	濺	imaa
 U+6FFB	濻	ibkm
 U+6FFC	濼	irxs
@@ -15131,7 +15131,7 @@ U+8919	褙	puue
 U+891A	褚	pufj
 U+891B	褛	puov
 U+891C	褜	eqne
-U+891D	褝	puil
+U+891D	褝	puul
 U+891E	褞	pujl
 U+891F	褟	pujn
 U+8920	褠	puaf

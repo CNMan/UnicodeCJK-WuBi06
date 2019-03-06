@@ -2,11 +2,7 @@
 
 * 仅聚焦单字全码，不涉及简码和词组。
 
-* CJK/CJK-A/CJK-B 字形以[中华人民共和国《信息技术 中文编码字符集》国家标准 GB 18030-2005](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=C344D8D120B341A8DD328954A9B27A99) 为准。
-
-* CJK-C/CJK-D/CJK-E 字形以[中华人民共和国《信息技术 中文编码字符集 汉字48点阵字型 第1部分：宋体》国家标准 GB/T 22321.1-2018](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=BCBF3BC7DCED3629F5E41CE02D9CFD55) 为准。
-
-* CJK-F 字形以 [Unicode 11.0.0 CodeCharts](https://www.unicode.org/Public/11.0.0/charts/CodeCharts.pdf) 为准，G 源字形优先，待[新版 GB 18030 国标](http://www.nits.org.cn/getIndex.req?action=quary&req=modulenvpromote&id=3247&type=0&moduleId=83&sid=5)出台后校正。
+* 字形以 [Unicode 12.0.0 CodeCharts](https://www.unicode.org/Public/12.0.0/charts/CodeCharts.pdf) 为准，同时参考中华人民共和国[《信息技术 中文编码字符集》国家标准 GB 18030-2005](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=C344D8D120B341A8DD328954A9B27A99) 、[《信息技术 中文编码字符集 汉字48点阵字型 第1部分：宋体》国家标准 GB/T 22321.1-2018](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=BCBF3BC7DCED3629F5E41CE02D9CFD55)、[新版 GB 18030 国标](http://www.nits.org.cn/getIndex.req?action=quary&req=modulenvpromote&id=3247&type=0&moduleId=83&sid=5)，不一致的请反馈至[Unicode与国标字形不符字整理](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/42)。
 
 * 字体以[方正字库](http://www.foundertype.com/)给[籍合网](http://www.ancientbooks.cn/)做的[中华书局宋体](http://www.ancientbooks.cn/helpcore?font)（支持Unicode 10.0.0）为主。
 
@@ -53,7 +49,7 @@ T源（中国台湾）、H源（中国香港）、M源（中国澳门）、J源�
 |11.0.0|2018.06|20,976||||||||
 |13.0.0|2020.xx|20,983|||||||5,002|
 
-GBK 基本相当于 Unicode 1.0.1；GB18030－2000 基本相当于 Unicode 3.0.0；GB18030－2005 基本相当于 Unicode 3.1.0；Unicode 13.0.0 预计在[2020年](https://blogs.adobe.com/CCJKType/2018/06/unicode11.html)7~8月正式发布。
+GBK 基本相当于 Unicode 1.0.1；GB18030－2000 基本相当于 Unicode 3.0.0；GB18030－2005 基本相当于 Unicode 3.1.0；GB18030－2019 基本相当于 Unicode 11.0.0；Unicode 13.0.0 预计在[2020年](https://blogs.adobe.com/CCJKType/2018/06/unicode11.html)7~8月正式发布。
 
 ```
 总码数：20,992+6,592+42,720+4,160+224+5,776+7,488+5,008=92,960

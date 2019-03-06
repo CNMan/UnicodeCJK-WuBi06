@@ -7498,7 +7498,7 @@ U+21D48	𡵈	mdnb
 U+21D49	𡵉	mgqb
 U+21D4A	𡵊	mhnn
 U+21D4B	𡵋	mhnb
-U+21D4C	𡵌	myry
+U+21D4C	𡵌	mcyy
 U+21D4D	𡵍	ynmj
 U+21D4E	𡵎	vymh
 U+21D4F	𡵏	mxu
@@ -10121,7 +10121,7 @@ U+22787	𢞇	nack
 U+22788	𢞈	kejn
 U+22789	𢞉	imgn
 U+2278A	𢞊	nbkb
-U+2278B	𢞋	ngdn
+U+2278B	𢞋	wgdn
 U+2278C	𢞌	neqn
 U+2278D	𢞍	ahkn
 U+2278E	𢞎	nath
@@ -15030,7 +15030,7 @@ U+23AB4	𣪴	xpec
 U+23AB5	𣪵	naec
 U+23AB6	𣪶	cccc
 U+23AB7	𣪷	etfc
-U+23AB8	𣪸	fptc
+U+23AB8	𣪸	fpfc
 U+23AB9	𣪹	fpgc
 U+23ABA	𣪺	fpgc
 U+23ABB	𣪻	oguc
