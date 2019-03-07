@@ -11874,7 +11874,7 @@ U+7C60	籠	tued
 U+7C61	籡	trww
 U+7C62	籢	twgt
 U+7C63	籣	tugi
-U+7C64	籤	twwy
+U+7C64	籤	twwg
 U+7C65	籥	twga
 U+7C66	籦	tqtf
 U+7C67	籧	thap
@@ -12436,7 +12436,7 @@ U+7E92	纒	xojf
 U+7E93	纓	xmmv
 U+7E94	纔	xqky
 U+7E95	纕	xyke
-U+7E96	纖	xwwy
+U+7E96	纖	xwwg
 U+7E97	纗	xmwk
 U+7E98	纘	xtfm
 U+7E99	纙	xlxy
@@ -14401,7 +14401,7 @@ U+863F	蘿	alxy
 U+8640	虀	ayug
 U+8641	虁	autt
 U+8642	虂	afkk
-U+8643	虃	aiwy
+U+8643	虃	aiwg
 U+8644	虄	ajtg
 U+8645	虅	aeuo
 U+8646	虆	alli
@@ -15217,7 +15217,7 @@ U+896F	襯	puuq
 U+8970	襰	pugm
 U+8971	襱	puud
 U+8972	襲	uege
-U+8973	襳	puwy
+U+8973	襳	puwg
 U+8974	襴	puui
 U+8975	襵	pubb
 U+8976	襶	pufy
@@ -18927,7 +18927,7 @@ U+97ED	韭	hdhg
 U+97EE	韮	ahdg
 U+97EF	韯	fhdy
 U+97F0	韰	hqcg
-U+97F1	韱	wwgy
+U+97F1	韱	wwag
 U+97F2	韲	yuhg
 U+97F3	音	ujf
 U+97F4	韴	ujgh

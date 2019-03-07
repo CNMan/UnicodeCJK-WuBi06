@@ -1126,7 +1126,7 @@ U+3864	㡤	mhoi
 U+3865	㡥	mhen
 U+3866	㡦	mhpm
 U+3867	㡧	mhpu
-U+3868	㡨	mhwy
+U+3868	㡨	mhwg
 U+3869	㡩	yxxh
 U+386A	㡪	mhet
 U+386B	㡫	xjqn
