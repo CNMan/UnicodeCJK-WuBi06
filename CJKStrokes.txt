@@ -34,3 +34,15 @@ U+31E0	㇠	nnll
 U+31E1	㇡	nnll
 U+31E2	㇢	nnll
 U+31E3	㇣	nnll
+U+31E4
+U+31E5
+U+31E6
+U+31E7
+U+31E8
+U+31E9
+U+31EA
+U+31EB
+U+31EC
+U+31ED
+U+31EE
+U+31EF

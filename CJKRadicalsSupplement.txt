@@ -24,6 +24,7 @@ U+2E96	⺖	nyyh
 U+2E97	⺗	nhyy
 U+2E98	⺘	rghg
 U+2E99	⺙	ttgy
+U+2E9A
 U+2E9B	⺛	aqv
 U+2E9C	⺜	jhng
 U+2E9D	⺝	ehng
@@ -113,3 +114,15 @@ U+2EF0	⻰	dxyi
 U+2EF1	⻱	txd
 U+2EF2	⻲	qjjn
 U+2EF3	⻳	qjnb
+U+2EF4
+U+2EF5
+U+2EF6
+U+2EF7
+U+2EF8
+U+2EF9
+U+2EFA
+U+2EFB
+U+2EFC
+U+2EFD
+U+2EFE
+U+2EFF

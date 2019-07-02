@@ -540,3 +540,5 @@ U+2FA1A	鼏	phnn
 U+2FA1B	鼖	fffc
 U+2FA1C	鼻	thla
 U+2FA1D	𪘀	hbtf
+U+2FA1E
+U+2FA1F

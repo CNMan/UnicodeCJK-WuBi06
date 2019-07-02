@@ -2,9 +2,9 @@
 
 * 仅聚焦单字全码，不涉及简码和词组。
 
-* 字形以 [Unicode 12.0.0 CodeCharts](https://www.unicode.org/Public/12.0.0/charts/CodeCharts.pdf) 为准，同时参考中华人民共和国[《信息技术 中文编码字符集》国家标准 GB 18030-2005](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=C344D8D120B341A8DD328954A9B27A99) 、[《信息技术 中文编码字符集 汉字48点阵字型 第1部分：宋体》国家标准 GB/T 22321.1-2018](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=BCBF3BC7DCED3629F5E41CE02D9CFD55)、[新版 GB 18030 国标](http://www.nits.org.cn/getIndex.req?action=quary&req=modulenvpromote&id=3247&type=0&moduleId=83&sid=5)，不一致的请反馈至[Unicode与国标字形不符字整理](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/42)。
+* 字形以 [Unicode 12.1.0 CodeCharts](https://www.unicode.org/Public/12.1.0/charts/CodeCharts.pdf) 为准，同时参考中华人民共和国[《信息技术 中文编码字符集》国家标准 GB 18030-2005](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=C344D8D120B341A8DD328954A9B27A99) 、[《信息技术 中文编码字符集 汉字48点阵字型 第1部分：宋体》国家标准 GB/T 22321.1-2018](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=BCBF3BC7DCED3629F5E41CE02D9CFD55)、[新版 GB 18030 国标](http://www.nits.org.cn/getIndex.req?action=quary&req=modulenvpromote&id=3247&type=0&moduleId=83&sid=5)，不一致的请反馈至[Unicode与国标字形不符字整理](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/42)。
 
-* 字体以[方正字库](http://www.foundertype.com/)给[籍合网](http://www.ancientbooks.cn/)做的[中华书局宋体](http://www.ancientbooks.cn/helpcore?font)（支持Unicode 12.0.0）为主。
+* 字体以[方正字库](http://www.foundertype.com/)给[籍合网](http://www.ancientbooks.cn/)做的[中华书局宋体](http://www.ancientbooks.cn/helpcore?font)（支持Unicode 12.1.0）为主。
 
   * [中华书局宋体错误（GB18030-2005字符部分）](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/7)
 
@@ -34,8 +34,8 @@ T源（中国台湾）、H源（中国香港）、M源（中国澳门）、J源�
 
 |版本|发布年月|CJK|CJK-A|CJK-B|CJK-C|CJK-D|CJK-E|CJK-F|CJK-G|CJK-CI|CJK-CIS|
 |-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
-|码位||[4E00-9FFF](https://www.unicode.org/charts/PDF/U4E00.pdf)|[3400-4DBF](https://www.unicode.org/charts/PDF/U3400.pdf)|[20000-2A6DF](https://www.unicode.org/charts/PDF/U20000.pdf)|[2A700-2B73F](https://www.unicode.org/charts/PDF/U2A700.pdf)|[2B740-2B81F](https://www.unicode.org/charts/PDF/U2B740.pdf)|[2B820-2CEAF](https://www.unicode.org/charts/PDF/U2B820.pdf)|[2CEB0-2EBEF](https://www.unicode.org/charts/PDF/U2CEB0.pdf)|[30000-3138F](https://www.unicode.org/L2/L2018/18268r-irgn-2308-wg2015v6.pdf)|[F900-FAFF](https://www.unicode.org/charts/PDF/UF900.pdf)|[2F800-2FA1F](https://www.unicode.org/charts/PDF/U2F800.pdf)|
-|码数||20,992|6,592|42,720|4,160|224|5,776|7,488|5,008|512|544|
+|码位||[4E00-9FFF](https://www.unicode.org/charts/PDF/U4E00.pdf)|[3400-4DBF](https://www.unicode.org/charts/PDF/U3400.pdf)|[20000-2A6DF](https://www.unicode.org/charts/PDF/U20000.pdf)|[2A700-2B73F](https://www.unicode.org/charts/PDF/U2A700.pdf)|[2B740-2B81F](https://www.unicode.org/charts/PDF/U2B740.pdf)|[2B820-2CEAF](https://www.unicode.org/charts/PDF/U2B820.pdf)|[2CEB0-2EBEF](https://www.unicode.org/charts/PDF/U2CEB0.pdf)|[30000-3134F](https://www.unicode.org/charts/PDF/Unicode-13.0/U130-30000.pdf)|[F900-FAFF](https://www.unicode.org/charts/PDF/UF900.pdf)|[2F800-2FA1F](https://www.unicode.org/charts/PDF/U2F800.pdf)|
+|码数||20,992|6,592|42,720|4,160|224|5,776|7,488|4944|512|544|
 |1.0.1|1992.06|20,902||||||||302||
 |3.0.0|1999.09||6,582|||||||||
 |3.1.0|2001.03|||42,711|||||||542|
@@ -48,13 +48,13 @@ T源（中国台湾）、H源（中国香港）、M源（中国澳门）、J源�
 |8.0.0|2015.06|20,950|||||5,762|||||
 |10.0.0|2017.06|20,971||||||7,473||||
 |11.0.0|2018.06|20,976||||||||||
-|13.0.0|2020.xx|20,983|||||||5,002|||
+|13.0.0|2020.xx|20,989|6,592|42,718|||||4939|||
 
-GBK 基本相当于 Unicode 1.0.1；GB18030－2000 基本相当于 Unicode 3.0.0；GB18030－2005 基本相当于 Unicode 3.1.0；GB18030－2019 基本相当于 Unicode 11.0.0；Unicode 13.0.0 预计在[2020年](https://blogs.adobe.com/CCJKType/2018/06/unicode11.html)7~8月正式发布。
+GBK 基本相当于 Unicode 1.0.1；GB18030－2000 基本相当于 Unicode 3.0.0；GB18030－2005 基本相当于 Unicode 3.1.0；GB18030－2019 基本相当于 Unicode 11.0.0；Unicode 13.0.0 预计在[2020年3月10日](https://www.unicode.org/versions/Unicode13.0.0/)正式发布。
 
 ```
-总码数：20,992+6,592+42,720+4,160+224+5,776+7,488+5,008+512+544=94,016
-总字数：20,983+6,582+42,711+4,149+222+5,762+7,473+5,002+472+542=93,898
+总码数：20,992+6,592+42,720+4,160+224+5,776+7,488+4944+512+544=93952
+总字数：20,989+6,592+42,718+4,149+222+5,762+7,473+4939+472+542=93858
 ```
 
 ## 王码五笔字型输入法

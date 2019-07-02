@@ -212,3 +212,13 @@ U+2FD2	⿒	hbj
 U+2FD3	⿓	uegd
 U+2FD4	⿔	qxf
 U+2FD5	⿕	wgka
+U+2FD6
+U+2FD7
+U+2FD8
+U+2FD9
+U+2FDA
+U+2FDB
+U+2FDC
+U+2FDD
+U+2FDE
+U+2FDF
