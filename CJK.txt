@@ -16990,7 +16990,7 @@ U+905C	遜	btxp
 U+905D	遝	lipi
 U+905E	遞	rhap
 U+905F	遟	nufp
-U+9060	遠	fkwp
+U+9060	遠	fkep
 U+9061	遡	ubtp
 U+9062	遢	jnpd
 U+9063	遣	khgp
