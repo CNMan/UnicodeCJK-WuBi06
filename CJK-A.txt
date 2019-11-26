@@ -4049,7 +4049,7 @@ U+43CF	䏏	egfh
 U+43D0	䏐	enwy
 U+43D1	䏑	qmww
 U+43D2	䏒	ethn
-U+43D3	䏓	mufq
+U+43D3	䏓	efqn
 U+43D4	䏔	enhf
 U+43D5	䏕	etfg
 U+43D6	䏖	exhh
@@ -4161,7 +4161,7 @@ U+443F	䐿	etmd
 U+4440	䑀	enkf
 U+4441	䑁	erre
 U+4442	䑂	eegw
-U+4443	䑃	muae
+U+4443	䑃	eape
 U+4444	䑄	ethj
 U+4445	䑅	ealq
 U+4446	䑆	euge

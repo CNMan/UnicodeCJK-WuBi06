@@ -6415,7 +6415,7 @@ U+670D	服	ebcy
 U+670E	朎	ewyc
 U+670F	朏	ebmh
 U+6710	朐	eqkg
-U+6711	朑	muan
+U+6711	朑	eann
 U+6712	朒	emww
 U+6713	朓	eqiy
 U+6714	朔	ubte
@@ -6435,7 +6435,7 @@ U+6721	朡	erbt
 U+6722	朢	ahng
 U+6723	朣	eujf
 U+6724	朤	eeee
-U+6725	朥	muoe
+U+6725	朥	eooe
 U+6726	朦	eape
 U+6727	朧	eued
 U+6728	木	ssss
@@ -12964,7 +12964,7 @@ U+80A2	肢	efcy
 U+80A3	肣	ewyn
 U+80A4	肤	efwy
 U+80A5	肥	ecn
-U+80A6	肦	muwv
+U+80A6	肦	ewvt
 U+80A7	肧	edhy
 U+80A8	肨	edhh
 U+80A9	肩	yned
@@ -13000,13 +13000,13 @@ U+80C6	胆	ejgg
 U+80C7	胇	exjh
 U+80C8	胈	edcy
 U+80C9	胉	erg
-U+80CA	胊	muqk
+U+80CA	胊	eqkg
 U+80CB	胋	ehkg
 U+80CC	背	uxef
 U+80CD	胍	ercy
 U+80CE	胎	eckg
 U+80CF	胏	etnt
-U+80D0	胐	mubm
+U+80D0	胐	ebmh
 U+80D1	胑	ekwy
 U+80D2	胒	enxn
 U+80D3	胓	eguf
@@ -13055,7 +13055,7 @@ U+80FD	能	cexx
 U+80FE	胾	fmwy
 U+80FF	胿	effg
 U+8100	脀	bige
-U+8101	脁	muqi
+U+8101	脁	eqiy
 U+8102	脂	exjg
 U+8103	脃	eqcn
 U+8104	脄	edoy
@@ -13093,7 +13093,7 @@ U+8123	脣	dfee
 U+8124	脤	edfe
 U+8125	脥	edww
 U+8126	脦	eany
-U+8127	脧	muct
+U+8127	脧	ecwt
 U+8128	脨	egki
 U+8129	脩	whte
 U+812A	脪	erdh
@@ -13221,7 +13221,7 @@ U+81A3	膣	epwf
 U+81A4	膤	efvg
 U+81A5	膥	gsdw
 U+81A6	膦	eoqh
-U+81A7	膧	muuf
+U+81A7	膧	eujf
 U+81A8	膨	efke
 U+81A9	膩	eafy
 U+81AA	膪	eyuk
