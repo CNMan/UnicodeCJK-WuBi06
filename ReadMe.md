@@ -14,11 +14,11 @@
 
 * 力求“标准”、“同形同码”
 
-## [如何参与项目](https://cnaiv.com/share/unicodecjk-wubi06.html)
+## [如何参与项目](https://cnman.github.io/unicodecjk-wubi06.html)
 
 ## [关于项目进度](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/4)
 
-## [部分字根异写的处理](https://cnaiv.com/share/zigenyiti.html)
+## [部分字根异写的处理](https://cnman.github.io/zigenyiti.html)
 
 ## G源以外其他地区字形编码
 
@@ -146,7 +146,7 @@ CE5A4007936D580000AAF433282D9D183EF87ADC *wmwb2012a.exe v2.0.0.1
 
 [https://gitee.com/xionghuaidong/WubiTools](https://gitee.com/xionghuaidong/WubiTools)
 
-[五笔爱好者论坛两周年精华](https://cnaiv.com/share/uploads/wbfans.com_2years.chm)
+[五笔爱好者论坛两周年精华](https://cnman.github.io/uploads/wbfans.com_2years.chm)
 
 ## 版权
 
