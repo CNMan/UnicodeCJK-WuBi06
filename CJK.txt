@@ -952,7 +952,7 @@ U+51B6	冶	uckg
 U+51B7	冷	uwyc
 U+51B8	冸	uugh
 U+51B9	冹	udcy
-U+51BA	冺	unna
+U+51BA	冺	unan
 U+51BB	冻	uaiy
 U+51BC	冼	utfq
 U+51BD	冽	ugqj
@@ -1055,7 +1055,7 @@ U+521D	初	puvt
 U+521E	刞	egjh
 U+521F	刟	vkjh
 U+5220	删	mmgj
-U+5221	刡	nnaj
+U+5221	刡	najh
 U+5222	刢	wycj
 U+5223	刣	ckjh
 U+5224	判	ugjh
@@ -1631,7 +1631,7 @@ U+545D	呝	kynn
 U+545E	呞	kngk
 U+545F	呟	kyxy
 U+5460	呠	ksgg
-U+5461	呡	knna
+U+5461	呡	knan
 U+5462	呢	knxn
 U+5463	呣	kxy
 U+5464	呤	kwyc
@@ -2297,7 +2297,7 @@ U+56F7	囷	lti
 U+56F8	囸	lghd
 U+56F9	囹	lwyc
 U+56FA	固	ldd
-U+56FB	囻	lnna
+U+56FB	囻	lnav
 U+56FC	囼	lckd
 U+56FD	国	lgyi
 U+56FE	图	ltui
@@ -2440,7 +2440,7 @@ U+5786	垆	fhnt
 U+5787	垇	fhng
 U+5788	垈	wayf
 U+5789	垉	fqnn
-U+578A	垊	fnna
+U+578A	垊	fnan
 U+578B	型	gajf
 U+578C	垌	fmgk
 U+578D	垍	fthg
@@ -3010,7 +3010,7 @@ U+59C0	姀	vty
 U+59C1	姁	vqkg
 U+59C2	姂	vtpy
 U+59C3	姃	vghg
-U+59C4	姄	vnna
+U+59C4	姄	vnan
 U+59C5	姅	vugh
 U+59C6	姆	vxy
 U+59C7	姇	wfvf
@@ -4617,7 +4617,7 @@ U+6007	怇	nang
 U+6008	怈	nann
 U+6009	怉	nqnn
 U+600A	怊	nvkg
-U+600B	怋	nnna
+U+600B	怋	nnan
 U+600C	怌	ndhg
 U+600D	怍	nthf
 U+600E	怎	thfn
@@ -5953,7 +5953,7 @@ U+653F	政	ghty
 U+6540	敀	rty
 U+6541	敁	hkhc
 U+6542	敂	qkty
-U+6543	敃	nnat
+U+6543	敃	naty
 U+6544	敄	cnht
 U+6545	故	dty
 U+6546	敆	wgkc
@@ -11552,7 +11552,7 @@ U+7B1E	笞	tckf
 U+7B1F	笟	trcy
 U+7B20	笠	tuf
 U+7B21	笡	tegf
-U+7B22	笢	tnna
+U+7B22	笢	tnab
 U+7B23	笣	tqnb
 U+7B24	笤	tvkf
 U+7B25	笥	tngk
@@ -12638,7 +12638,7 @@ U+7F5C	罜	lygf
 U+7F5D	罝	legf
 U+7F5E	罞	lcnt
 U+7F5F	罟	ldf
-U+7F60	罠	lnna
+U+7F60	罠	lnab
 U+7F61	罡	lghf
 U+7F62	罢	lfcu
 U+7F63	罣	lfff
@@ -14783,7 +14783,7 @@ U+87BD	螽	tujj
 U+87BE	螾	jpgw
 U+87BF	螿	nhdj
 U+87C0	蟀	jyxf
-U+87C1	蟁	nnaj
+U+87C1	蟁	najj
 U+87C2	蟂	jwvs
 U+87C3	蟃	jjlc
 U+87C4	蟄	fufj
@@ -17455,7 +17455,7 @@ U+922D	鈭	hxqf
 U+922E	鈮	qnxn
 U+922F	鈯	qbmh
 U+9230	鈰	qymh
-U+9231	鈱	qnna
+U+9231	鈱	qnan
 U+9232	鈲	qrcy
 U+9233	鈳	qskg
 U+9234	鈴	qwyc
@@ -20244,7 +20244,7 @@ U+9D12	鴒	wyco
 U+9D13	鴓	ntwo
 U+9D14	鴔	tpwo
 U+9D15	鴕	wvgx
-U+9D16	鴖	nnao
+U+9D16	鴖	nawo
 U+9D17	鴗	uwvo
 U+9D18	鴘	cawo
 U+9D19	鴙	tdwo

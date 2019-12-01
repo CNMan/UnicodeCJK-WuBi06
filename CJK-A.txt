@@ -1197,7 +1197,7 @@ U+38AB	㢫	xmh
 U+38AC	㢬	xdcy
 U+38AD	㢭	xhcy
 U+38AE	㢮	xtbn
-U+38AF	㢯	xnna
+U+38AF	㢯	xnan
 U+38B0	㢰	xhcy
 U+38B1	㢱	xciy
 U+38B2	㢲	xxgw
@@ -1398,7 +1398,7 @@ U+3974	㥴	nrhw
 U+3975	㥵	nlge
 U+3976	㥶	pawn
 U+3977	㥷	odwn
-U+3978	㥸	nnan
+U+3978	㥸	naln
 U+3979	㥹	owvn
 U+397A	㥺	nfcl
 U+397B	㥻	dtxn
@@ -3235,7 +3235,7 @@ U+40A1	䂡	drgg
 U+40A2	䂢	dtuy
 U+40A3	䂣	dhxn
 U+40A4	䂤	dwfy
-U+40A5	䂥	dnna
+U+40A5	䂥	dnan
 U+40A6	䂦	dwet
 U+40A7	䂧	dqiy
 U+40A8	䂨	dryy
@@ -3525,7 +3525,7 @@ U+41C3	䇃	unn
 U+41C4	䇄	utnn
 U+41C5	䇅	uay
 U+41C6	䇆	uufh
-U+41C7	䇇	unna
+U+41C7	䇇	unan
 U+41C8	䇈	ucfg
 U+41C9	䇉	udg
 U+41CA	䇊	uocy
@@ -3785,7 +3785,7 @@ U+42C7	䋇	xnyy
 U+42C8	䋈	vcxi
 U+42C9	䋉	xpwy
 U+42CA	䋊	xghg
-U+42CB	䋋	xnna
+U+42CB	䋋	xnan
 U+42CC	䋌	xang
 U+42CD	䋍	xskg
 U+42CE	䋎	xjgg
@@ -4807,7 +4807,7 @@ U+46C5	䛅	ylh
 U+46C6	䛆	ymg
 U+46C7	䛇	ywkg
 U+46C8	䛈	ytdy
-U+46C9	䛉	ynna
+U+46C9	䛉	ynan
 U+46CA	䛊	ykwy
 U+46CB	䛋	ydxy
 U+46CC	䛌	yqnn
@@ -5199,7 +5199,7 @@ U+484D	䡍	lfwy
 U+484E	䡎	lynt
 U+484F	䡏	lxcy
 U+4850	䡐	lpxn
-U+4851	䡑	lnna
+U+4851	䡑	lnan
 U+4852	䡒	llg
 U+4853	䡓	tlgs
 U+4854	䡔	lqqy
@@ -5814,7 +5814,7 @@ U+4AB4	䪴	pqdm
 U+4AB5	䪵	ahtm
 U+4AB6	䪶	egdm
 U+4AB7	䪷	qkdm
-U+4AB8	䪸	nnam
+U+4AB8	䪸	nadm
 U+4AB9	䪹	dhgm
 U+4ABA	䪺	fcdm
 U+4ABB	䪻	cadm

@@ -112,7 +112,7 @@ U+2CF1E	𬼞	gvxe
 U+2CF1F	𬼟	tknb
 U+2CF20	𬼠	tntn
 U+2CF21	𬼡	tufn
-U+2CF22	𬼢	nanv
+U+2CF22	𬼢	nnav
 U+2CF23	𬼣	vudi
 U+2CF24	𬼤	vknb
 U+2CF25	𬼥	gkin
@@ -122,7 +122,7 @@ U+2CF28	𬼨	qkbn
 U+2CF29	𬼩	uabn
 U+2CF2A	𬼪	ctgn
 U+2CF2B	𬼫	nunu
-U+2CF2C	𬼬	kkkn
+U+2CF2C	𬼬	nkkk
 U+2CF2D	𬼭	ykbb
 U+2CF2E	𬼮	labb
 U+2CF2F	𬼯	thsn

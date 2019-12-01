@@ -1,6 +1,6 @@
 # 新世纪版五笔字型 Unicode CJK 超大字符集编码数据库
 
-* 仅聚焦单字全码，不涉及简码和词组。
+* 仅聚焦单字全码，不涉及简码、容错码和词组。
 
 * 字形以 [Unicode 12.1.0 CodeCharts](https://www.unicode.org/Public/12.1.0/charts/CodeCharts.pdf) 为准，同时参考中华人民共和国[《信息技术 中文编码字符集》国家标准 GB 18030-2005](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=C344D8D120B341A8DD328954A9B27A99) 、[《信息技术 中文编码字符集 汉字48点阵字型 第1部分：宋体》国家标准 GB/T 22321.1-2018](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=BCBF3BC7DCED3629F5E41CE02D9CFD55)、[新版 GB 18030 国标](http://www.nits.org.cn/getIndex.req?action=quary&req=modulenvpromote&id=3247&type=0&moduleId=83&sid=5)，不一致的请反馈至[Unicode与国标字形不符字整理](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/42)。
 
@@ -112,7 +112,7 @@ CE5A4007936D580000AAF433282D9D183EF87ADC *wmwb2012a.exe v2.0.0.1
 
 [IDS data for CJK Unified Ideographs](https://github.com/cjkvi/cjkvi-ids)
 
-[《通用规范汉字表》（国发〔2013〕23号）](http://www.moe.gov.cn/s78/A19/yxs_left/moe_810/s230/201306/t20130601_186002.html)
+[《通用规范汉字表》（国发〔2013〕23号）](http://www.gov.cn/zwgk/2013-08/19/content_2469793.htm)
 
 [《现代常用字部件及部件名称规范》（GF 0014-2009）](http://www.moe.gov.cn/s78/A19/yxs_left/moe_810/s230/201001/t20100115_75696.html)
 
