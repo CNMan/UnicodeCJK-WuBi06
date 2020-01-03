@@ -1561,7 +1561,7 @@ U+5417	吗	kcgg
 U+5418	吘	ktfh
 U+5419	吙	koy
 U+541A	吚	kvtt
-U+541B	君	vtkd
+U+541B	君	vtkf
 U+541C	吜	knhf
 U+541D	吝	ykf
 U+541E	吞	gdkf
