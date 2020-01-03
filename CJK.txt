@@ -11955,7 +11955,7 @@ U+7CB1	粱	ivwo
 U+7CB2	粲	hqco
 U+7CB3	粳	ogjr
 U+7CB4	粴	ojfg
-U+7CB5	粵	tmtn
+U+7CB5	粵	tltn
 U+7CB6	粶	oviy
 U+7CB7	粷	oqoy
 U+7CB8	粸	oadw

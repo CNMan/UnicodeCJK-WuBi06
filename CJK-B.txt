@@ -4041,7 +4041,7 @@ U+20FC7	𠿇	kqeg
 U+20FC8	𠿈	kton
 U+20FC9	𠿉	lbwk
 U+20FCA	𠿊	klbc
-U+20FCB	𠿋	ktmn
+U+20FCB	𠿋	ktln
 U+20FCC	𠿌	kquj
 U+20FCD	𠿍	knac
 U+20FCE	𠿎	kgkh
