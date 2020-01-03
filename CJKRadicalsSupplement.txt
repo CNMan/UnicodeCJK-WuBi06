@@ -21,7 +21,7 @@ U+2E93	⺓	xxxx
 U+2E94	⺔	xgd
 U+2E95	⺕	vngg
 U+2E96	⺖	nyyh
-U+2E97	⺗	nhyy
+U+2E97	⺗	nhty
 U+2E98	⺘	rghg
 U+2E99	⺙	ttgy
 U+2E9A
@@ -49,7 +49,7 @@ U+2EAF	⺯	xnny
 U+2EB0	⺰	xnng
 U+2EB1	⺱	mri
 U+2EB2	⺲	lhng
-U+2EB3	⺳	pwu
+U+2EB3	⺳	pqb
 U+2EB4	⺴	pqb
 U+2EB5	⺵	mjk
 U+2EB6	⺶	ugr
