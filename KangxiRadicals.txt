@@ -39,7 +39,7 @@ U+2F25	⼥	vvvv
 U+2F26	⼦	bbbb
 U+2F27	⼧	pyyn
 U+2F28	⼨	fghy
-U+2F29	⼩	ihyy
+U+2F29	⼩	ihty
 U+2F2A	⼪	dnv
 U+2F2B	⼫	nngt
 U+2F2C	⼬	bhk

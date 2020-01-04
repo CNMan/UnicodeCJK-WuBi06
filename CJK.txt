@@ -8510,7 +8510,7 @@ U+6F3C	漼	imwy
 U+6F3D	漽	inig
 U+6F3E	漾	iugi
 U+6F3F	漿	nhdi
-U+6F40	潀	ilwy
+U+6F40	潀	ilww
 U+6F41	潁	xidm
 U+6F42	潂	imug
 U+6F43	潃	itte
@@ -13292,7 +13292,7 @@ U+81EA	自	thd
 U+81EB	臫	thnn
 U+81EC	臬	thsu
 U+81ED	臭	thdy
-U+81EE	臮	thwy
+U+81EE	臮	thww
 U+81EF	臯	thif
 U+81F0	臰	thgx
 U+81F1	臱	thpy
