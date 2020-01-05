@@ -999,7 +999,7 @@ U+37E5	㟥	mcde
 U+37E6	㟦	mplj
 U+37E7	㟧	mkkn
 U+37E8	㟨	mmdj
-U+37E9	㟩	nnam
+U+37E9	㟩	natm
 U+37EA	㟪	mlge
 U+37EB	㟫	mriy
 U+37EC	㟬	mehc
@@ -2075,7 +2075,7 @@ U+3C19	㰙	saky
 U+3C1A	㰚	syry
 U+3C1B	㰛	sars
 U+3C1C	㰜	sfhm
-U+3C1D	㰝	nnqw
+U+3C1D	㰝	nqwy
 U+3C1E	㰞	mqwy
 U+3C1F	㰟	rnqw
 U+3C20	㰠	ywqw
@@ -2170,7 +2170,7 @@ U+3C78	㱸	gqnf
 U+3C79	㱹	gqdh
 U+3C7A	㱺	gqhl
 U+3C7B	㱻	gqyy
-U+3C7C	㱼	nnwc
+U+3C7C	㱼	nwcy
 U+3C7D	㱽	pqwc
 U+3C7E	㱾	yntc
 U+3C7F	㱿	fmgc
@@ -4827,7 +4827,7 @@ U+46D9	䛙	ywsy
 U+46DA	䛚	dhvy
 U+46DB	䛛	ylkg
 U+46DC	䛜	ytlr
-U+46DD	䛝	ynfm
+U+46DD	䛝	ynhm
 U+46DE	䛞	yjfh
 U+46DF	䛟	ydww
 U+46E0	䛠	ygku

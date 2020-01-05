@@ -5944,7 +5944,7 @@ U+6536	收	nhty
 U+6537	攷	gnty
 U+6538	攸	whty
 U+6539	改	nty
-U+653A	攺	nnty
+U+653A	攺	nty
 U+653B	攻	aty
 U+653C	攼	fty
 U+653D	攽	wvty
@@ -6281,7 +6281,7 @@ U+6687	暇	jnhc
 U+6688	暈	jplj
 U+6689	暉	jplh
 U+668A	暊	jdmy
-U+668B	暋	nnaj
+U+668B	暋	natj
 U+668C	暌	jwgd
 U+668D	暍	jjqn
 U+668E	暎	jamd
@@ -10605,7 +10605,7 @@ U+776B	睫	hgvh
 U+776C	睬	hesy
 U+776D	睭	hmfk
 U+776E	睮	hwgj
-U+776F	睯	nnah
+U+776F	睯	nath
 U+7770	睰	hadk
 U+7771	睱	hnhc
 U+7772	睲	hjtg
@@ -16952,7 +16952,7 @@ U+9036	逶	tvpd
 U+9037	逷	jqrp
 U+9038	逸	qkqp
 U+9039	逹	fufp
-U+903A	逺	fnwp
+U+903A	逺	fnep
 U+903B	逻	lqpi
 U+903C	逼	gklp
 U+903D	逽	adkp
