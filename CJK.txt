@@ -10556,7 +10556,7 @@ U+773A	眺	hqiy
 U+773B	眻	hugh
 U+773C	眼	hvey
 U+773D	眽	hrey
-U+773E	眾	lwwy
+U+773E	眾	lwww
 U+773F	眿	hyni
 U+7740	着	ughf
 U+7741	睁	hqvh
