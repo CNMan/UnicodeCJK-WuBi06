@@ -128,6 +128,8 @@ CE5A4007936D580000AAF433282D9D183EF87ADC *wmwb2012a.exe v2.0.0.1
 
 [《GB13000.1字符集汉字折笔规范》（GF2001-2001）](http://www.moe.gov.cn/s78/A19/yxs_left/moe_810/s230/201001/t20100115_75688.html)
 
+[《信息技术 汉字编码字符集 汉字部首序和笔顺序》（GB/T 25741-2010）](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=DB34CB2C5C377E35E3766A543724B767)
+
 [《信息技术 通用键盘汉字输入通用要求》（GB/T 19246-2003）](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=8F7BD4C48AA924CC5CD260BB1E298E4F)
 
 [《信息技术 数字键盘汉字输入通用要求》（GB/T 18031-2016）](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=3CA25D96795756C2B350B03478A7AB18)
