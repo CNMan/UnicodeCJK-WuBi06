@@ -11765,7 +11765,7 @@ U+22DF3	𢷳	rqmt
 U+22DF4	𢷴	rakm
 U+22DF5	𢷵	rrlh
 U+22DF6	𢷶	rqyj
-U+22DF7	𢷷	rtfy
+U+22DF7	𢷷	rtfj
 U+22DF8	𢷸	rtmt
 U+22DF9	𢷹	rojf
 U+22DFA	𢷺	rflm

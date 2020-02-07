@@ -376,7 +376,7 @@ U+2F976	罺	lves
 U+2F977	𦌾	lxie
 U+2F978	羕	ugyi
 U+2F979	翺	thdn
-U+2F97A	者	ftjy
+U+2F97A	者	ftyj
 U+2F97B	𦓚	rgnj
 U+2F97C	𦔣	tfid
 U+2F97D	聠	btgf

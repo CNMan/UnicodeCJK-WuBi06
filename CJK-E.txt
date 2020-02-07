@@ -2313,7 +2313,7 @@ U+2C127	𬄧	trhs
 U+2C128	𬄨	sias
 U+2C129	𬄩	bqvs
 U+2C12A	𬄪	svas
-U+2C12B	𬄫	snfy
+U+2C12B	𬄫	snfj
 U+2C12C	𬄬	sfmy
 U+2C12D	𬄭	sdap
 U+2C12E	𬄮	sdng

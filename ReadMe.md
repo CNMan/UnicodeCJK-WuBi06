@@ -14,6 +14,14 @@
 
 * 力求“标准”、“同形同码”
 
+## [新世纪五笔字型资源库](https://06wb.github.io/)
+
+## 交流群组
+
+QQ群：38021162、857031696
+
+[Telegram](https://telegram.org/) 群组 [@wbinput](https://t.me/wbinput)
+
 ## [如何参与项目](https://cnman.github.io/unicodecjk-wubi06.html)
 
 ## [关于项目进度](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/4)

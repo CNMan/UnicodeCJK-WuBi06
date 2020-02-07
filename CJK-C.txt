@@ -2676,7 +2676,7 @@ U+2B172	𫅲	ntun
 U+2B173	𫅳	ftxx
 U+2B174	𫅴	ftxc
 U+2B175	𫅵	ftxt
-U+2B176	𫅶	ftxy
+U+2B176	𫅶	ftxj
 U+2B177	𫅷	awsx
 U+2B178	𫅸	ftxo
 U+2B179	𫅹	tfil
