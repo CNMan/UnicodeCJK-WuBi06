@@ -8518,7 +8518,7 @@ U+6F44	潄	igkt
 U+6F45	潅	irwy
 U+6F46	潆	iapi
 U+6F47	潇	iavj
-U+6F48	潈	itle
+U+6F48	潈	iley
 U+6F49	潉	imjx
 U+6F4A	潊	iwgc
 U+6F4B	潋	iwgt
