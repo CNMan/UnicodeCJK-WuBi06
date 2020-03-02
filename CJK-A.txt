@@ -1730,7 +1730,7 @@ U+3AC0	㫀	jjrh
 U+3AC1	㫁	xxgr
 U+3AC2	㫂	oaor
 U+3AC3	㫃	ywy
-U+3AC4	㫄	fqyr
+U+3AC4	㫄	yqyr
 U+3AC5	㫅	ywfj
 U+3AC6	㫆	ywiy
 U+3AC7	㫇	ywun
