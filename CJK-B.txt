@@ -5942,7 +5942,7 @@ U+21734	𡜴	vmwk
 U+21735	𡜵	vgey
 U+21736	𡜶	vqak
 U+21737	𡜷	vpgn
-U+21738	𡜸	lwmv
+U+21738	𡜸	mwmv
 U+21739	𡜹	ahtv
 U+2173A	𡜺	vskg
 U+2173B	𡜻	vpsy
