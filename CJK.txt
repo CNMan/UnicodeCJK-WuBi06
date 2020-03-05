@@ -4302,7 +4302,7 @@ U+5ECC	廌	onjo
 U+5ECD	廍	oukb
 U+5ECE	廎	oxdm
 U+5ECF	廏	orxc
-U+5ED0	廐	orxq
+U+5ED0	廐	ovcq
 U+5ED1	廑	oakg
 U+5ED2	廒	ogqt
 U+5ED3	廓	oykb
