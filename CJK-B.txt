@@ -14772,7 +14772,7 @@ U+239B2	𣦲	hiwu
 U+239B3	𣦳	hiwu
 U+239B4	𣦴	tdhh
 U+239B5	𣦵	hmgf
-U+239B6	𣦶	gnni
+U+239B6	𣦶	gnnv
 U+239B7	𣦷	hqnn
 U+239B8	𣦸	hqwy
 U+239B9	𣦹	gqwy
