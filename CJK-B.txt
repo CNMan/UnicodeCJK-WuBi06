@@ -6682,7 +6682,7 @@ U+21A18	𡨘	ptky
 U+21A19	𡨙	pwwf
 U+21A1A	𡨚	pqkq
 U+21A1B	𡨛	ptdh
-U+21A1C	𡨜	pyay
+U+21A1C	𡨜	pyai
 U+21A1D	𡨝	poqu
 U+21A1E	𡨞	pvpc
 U+21A1F	𡨟	ptfk
@@ -13453,7 +13453,7 @@ U+2348B	𣒋	sjag
 U+2348C	𣒌	skmw
 U+2348D	𣒍	swsk
 U+2348E	𣒎	sdnm
-U+2348F	𣒏	syay
+U+2348F	𣒏	syai
 U+23490	𣒐	pssy
 U+23491	𣒑	sisy
 U+23492	𣒒	sybh
@@ -13527,7 +13527,7 @@ U+234D5	𣓕	ssvc
 U+234D6	𣓖	syne
 U+234D7	𣓗	sqrj
 U+234D8	𣓘	sfpw
-U+234D9	𣓙	suai
+U+234D9	𣓙	syao
 U+234DA	𣓚	swwn
 U+234DB	𣓛	sthx
 U+234DC	𣓜	snhs
@@ -32851,7 +32851,7 @@ U+28051	𨁑	khuq
 U+28052	𨁒	khtk
 U+28053	𨁓	khtx
 U+28054	𨁔	khwf
-U+28055	𨁕	khyy
+U+28055	𨁕	khyi
 U+28056	𨁖	khwk
 U+28057	𨁗	khtp
 U+28058	𨁘	rhkh
