@@ -77,7 +77,7 @@ U+2CEFB	𬻻	ygnv
 U+2CEFC	𬻼	ncne
 U+2CEFD	𬻽	ygnd
 U+2CEFE	𬻾	ygwp
-U+2CEFF	𬻿	yyu
+U+2CEFF	𬻿	yyi
 U+2CF00	𬼀	yte
 U+2CF01	𬼁	ynv
 U+2CF02	𬼂	nnll
@@ -2035,7 +2035,7 @@ U+2D6A1	𭚡	anyi
 U+2D6A2	𭚢	fqty
 U+2D6A3	𭚣	agoy
 U+2D6A4	𭚤	hviy
-U+2D6A5	𭚥	ynb
+U+2D6A5	𭚥	ynv
 U+2D6A6	𭚦	xot
 U+2D6A7	𭚧	xwcy
 U+2D6A8	𭚨	gxen

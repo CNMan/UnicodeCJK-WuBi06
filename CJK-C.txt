@@ -8,7 +8,7 @@ U+2A706	𪜆	gxxg
 U+2A707	𪜇	gqww
 U+2A708	𪜈	hgan
 U+2A709	𪜉	khgf
-U+2A70A	𪜊	ynb
+U+2A70A	𪜊	ynv
 U+2A70B	𪜋	ygat
 U+2A70C	𪜌	bjd
 U+2A70D	𪜍	tfqi
