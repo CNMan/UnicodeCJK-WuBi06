@@ -20974,19 +20974,19 @@ U+9FEC	鿬	dlg
 U+9FED	鿭	qqiy
 U+9FEE	鿮	ogkh
 U+9FEF	鿯	tqro
-U+9FF0	鿰	
-U+9FF1	鿱	
-U+9FF2	鿲	
-U+9FF3	鿳	
-U+9FF4	鿴	
-U+9FF5	鿵	
-U+9FF6	鿶	
-U+9FF7	鿷	
-U+9FF8	鿸	
-U+9FF9	鿹	
-U+9FFA	鿺	
-U+9FFB	鿻	
-U+9FFC	鿼	
+U+9FF0	鿰	ifjh
+U+9FF1	鿱	gcn
+U+9FF2	鿲	gkue
+U+9FF3	鿳	qotx
+U+9FF4	鿴	qgtu
+U+9FF5	鿵	qgfn
+U+9FF6	鿶	qgye
+U+9FF7	鿷	qguj
+U+9FF8	鿸	qgtx
+U+9FF9	鿹	qgpm
+U+9FFA	鿺	gtqg
+U+9FFB	鿻	enuh
+U+9FFC	鿼	enuk
 U+9FFD
 U+9FFE
 U+9FFF

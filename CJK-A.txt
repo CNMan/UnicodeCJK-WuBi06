@@ -6580,13 +6580,13 @@ U+4DB2	䶲	mftx
 U+4DB3	䶳	wgkw
 U+4DB4	䶴	oqwa
 U+4DB5	䶵	wgkw
-U+4DB6	䶶	
-U+4DB7	䶷	
-U+4DB8	䶸	
-U+4DB9	䶹	
-U+4DBA	䶺	
-U+4DBB	䶻	
-U+4DBC	䶼	
-U+4DBD	䶽	
-U+4DBE	䶾	
-U+4DBF	䶿	
+U+4DB6	䶶	hgrh
+U+4DB7	䶷	kqn
+U+4DB8	䶸	ktcy
+U+4DB9	䶹	bte
+U+4DBA	䶺	emwy
+U+4DBB	䶻	epqn
+U+4DBC	䶼	ewcn
+U+4DBD	䶽	erbt
+U+4DBE	䶾	ewqw
+U+4DBF	䶿	wyqn
