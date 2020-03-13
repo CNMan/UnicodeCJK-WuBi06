@@ -42,7 +42,7 @@ T源（中国台湾）、H源（中国香港）、M源（中国澳门）、J源�
 
 |版本|发布年月|CJK|CJK-A|CJK-B|CJK-C|CJK-D|CJK-E|CJK-F|CJK-G|CJK-CI|CJK-CIS|
 |-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
-|码位||[4E00-9FFF](https://www.unicode.org/charts/PDF/U4E00.pdf)|[3400-4DBF](https://www.unicode.org/charts/PDF/U3400.pdf)|[20000-2A6DF](https://www.unicode.org/charts/PDF/U20000.pdf)|[2A700-2B73F](https://www.unicode.org/charts/PDF/U2A700.pdf)|[2B740-2B81F](https://www.unicode.org/charts/PDF/U2B740.pdf)|[2B820-2CEAF](https://www.unicode.org/charts/PDF/U2B820.pdf)|[2CEB0-2EBEF](https://www.unicode.org/charts/PDF/U2CEB0.pdf)|[30000-3134F](https://www.unicode.org/charts/PDF/Unicode-13.0/U130-30000.pdf)|[F900-FAFF](https://www.unicode.org/charts/PDF/UF900.pdf)|[2F800-2FA1F](https://www.unicode.org/charts/PDF/U2F800.pdf)|
+|码位||[4E00-9FFF](https://www.unicode.org/charts/PDF/U4E00.pdf)|[3400-4DBF](https://www.unicode.org/charts/PDF/U3400.pdf)|[20000-2A6DF](https://www.unicode.org/charts/PDF/U20000.pdf)|[2A700-2B73F](https://www.unicode.org/charts/PDF/U2A700.pdf)|[2B740-2B81F](https://www.unicode.org/charts/PDF/U2B740.pdf)|[2B820-2CEAF](https://www.unicode.org/charts/PDF/U2B820.pdf)|[2CEB0-2EBEF](https://www.unicode.org/charts/PDF/U2CEB0.pdf)|[30000-3134F](https://www.unicode.org/charts/PDF/U30000.pdf)|[F900-FAFF](https://www.unicode.org/charts/PDF/UF900.pdf)|[2F800-2FA1F](https://www.unicode.org/charts/PDF/U2F800.pdf)|
 |码数||20,992|6,592|42,720|4,160|224|5,776|7,488|4944|512|544|
 |1.0.1|1992.06|20,902||||||||302||
 |3.0.0|1999.09||6,582|||||||||
