@@ -1998,1006 +1998,1006 @@ U+307CC	𰟌	lxou
 U+307CD	𰟍	owrq
 U+307CE	𰟎	ooaw
 U+307CF	𰟏	owwl
-U+307D0	𰟐	
-U+307D1	𰟑	
-U+307D2	𰟒	
-U+307D3	𰟓	
-U+307D4	𰟔	
-U+307D5	𰟕	
-U+307D6	𰟖	
-U+307D7	𰟗	
-U+307D8	𰟘	
-U+307D9	𰟙	
-U+307DA	𰟚	
-U+307DB	𰟛	
-U+307DC	𰟜	
-U+307DD	𰟝	
-U+307DE	𰟞	
-U+307DF	𰟟	
-U+307E0	𰟠	
-U+307E1	𰟡	
-U+307E2	𰟢	
-U+307E3	𰟣	
-U+307E4	𰟤	
-U+307E5	𰟥	
-U+307E6	𰟦	
-U+307E7	𰟧	
-U+307E8	𰟨	
-U+307E9	𰟩	
-U+307EA	𰟪	
-U+307EB	𰟫	
-U+307EC	𰟬	
-U+307ED	𰟭	
-U+307EE	𰟮	
-U+307EF	𰟯	
-U+307F0	𰟰	
-U+307F1	𰟱	
-U+307F2	𰟲	
-U+307F3	𰟳	
-U+307F4	𰟴	
-U+307F5	𰟵	
-U+307F6	𰟶	
-U+307F7	𰟷	
-U+307F8	𰟸	
-U+307F9	𰟹	
-U+307FA	𰟺	
-U+307FB	𰟻	
-U+307FC	𰟼	
-U+307FD	𰟽	
-U+307FE	𰟾	
-U+307FF	𰟿	
-U+30800	𰠀	
-U+30801	𰠁	
-U+30802	𰠂	
-U+30803	𰠃	
-U+30804	𰠄	
-U+30805	𰠅	
-U+30806	𰠆	
-U+30807	𰠇	
-U+30808	𰠈	
-U+30809	𰠉	
-U+3080A	𰠊	
-U+3080B	𰠋	
-U+3080C	𰠌	
-U+3080D	𰠍	
-U+3080E	𰠎	
-U+3080F	𰠏	
-U+30810	𰠐	
-U+30811	𰠑	
-U+30812	𰠒	
-U+30813	𰠓	
-U+30814	𰠔	
-U+30815	𰠕	
-U+30816	𰠖	
-U+30817	𰠗	
-U+30818	𰠘	
-U+30819	𰠙	
-U+3081A	𰠚	
-U+3081B	𰠛	
-U+3081C	𰠜	
-U+3081D	𰠝	
-U+3081E	𰠞	
-U+3081F	𰠟	
-U+30820	𰠠	
-U+30821	𰠡	
-U+30822	𰠢	
-U+30823	𰠣	
-U+30824	𰠤	
-U+30825	𰠥	
-U+30826	𰠦	
-U+30827	𰠧	
-U+30828	𰠨	
-U+30829	𰠩	
-U+3082A	𰠪	
-U+3082B	𰠫	
-U+3082C	𰠬	
-U+3082D	𰠭	
-U+3082E	𰠮	
-U+3082F	𰠯	
-U+30830	𰠰	
-U+30831	𰠱	
-U+30832	𰠲	
-U+30833	𰠳	
-U+30834	𰠴	
-U+30835	𰠵	
-U+30836	𰠶	
-U+30837	𰠷	
-U+30838	𰠸	
-U+30839	𰠹	
-U+3083A	𰠺	
-U+3083B	𰠻	
-U+3083C	𰠼	
-U+3083D	𰠽	
-U+3083E	𰠾	
-U+3083F	𰠿	
-U+30840	𰡀	
-U+30841	𰡁	
-U+30842	𰡂	
-U+30843	𰡃	
-U+30844	𰡄	
-U+30845	𰡅	
-U+30846	𰡆	
-U+30847	𰡇	
-U+30848	𰡈	
-U+30849	𰡉	
-U+3084A	𰡊	
-U+3084B	𰡋	
-U+3084C	𰡌	
-U+3084D	𰡍	
-U+3084E	𰡎	
-U+3084F	𰡏	
-U+30850	𰡐	
-U+30851	𰡑	
-U+30852	𰡒	
-U+30853	𰡓	
-U+30854	𰡔	
-U+30855	𰡕	
-U+30856	𰡖	
-U+30857	𰡗	
-U+30858	𰡘	
-U+30859	𰡙	
-U+3085A	𰡚	
-U+3085B	𰡛	
-U+3085C	𰡜	
-U+3085D	𰡝	
-U+3085E	𰡞	
-U+3085F	𰡟	
-U+30860	𰡠	
-U+30861	𰡡	
-U+30862	𰡢	
-U+30863	𰡣	
-U+30864	𰡤	
-U+30865	𰡥	
-U+30866	𰡦	
-U+30867	𰡧	
-U+30868	𰡨	
-U+30869	𰡩	
-U+3086A	𰡪	
-U+3086B	𰡫	
-U+3086C	𰡬	
-U+3086D	𰡭	
-U+3086E	𰡮	
-U+3086F	𰡯	
-U+30870	𰡰	
-U+30871	𰡱	
-U+30872	𰡲	
-U+30873	𰡳	
-U+30874	𰡴	
-U+30875	𰡵	
-U+30876	𰡶	
-U+30877	𰡷	
-U+30878	𰡸	
-U+30879	𰡹	
-U+3087A	𰡺	
-U+3087B	𰡻	
-U+3087C	𰡼	
-U+3087D	𰡽	
-U+3087E	𰡾	
-U+3087F	𰡿	
-U+30880	𰢀	
-U+30881	𰢁	
-U+30882	𰢂	
-U+30883	𰢃	
-U+30884	𰢄	
-U+30885	𰢅	
-U+30886	𰢆	
-U+30887	𰢇	
-U+30888	𰢈	
-U+30889	𰢉	
-U+3088A	𰢊	
-U+3088B	𰢋	
-U+3088C	𰢌	
-U+3088D	𰢍	
-U+3088E	𰢎	
-U+3088F	𰢏	
-U+30890	𰢐	
-U+30891	𰢑	
-U+30892	𰢒	
-U+30893	𰢓	
-U+30894	𰢔	
-U+30895	𰢕	
-U+30896	𰢖	
-U+30897	𰢗	
-U+30898	𰢘	
-U+30899	𰢙	
-U+3089A	𰢚	
-U+3089B	𰢛	
-U+3089C	𰢜	
-U+3089D	𰢝	
-U+3089E	𰢞	
-U+3089F	𰢟	
-U+308A0	𰢠	
-U+308A1	𰢡	
-U+308A2	𰢢	
-U+308A3	𰢣	
-U+308A4	𰢤	
-U+308A5	𰢥	
-U+308A6	𰢦	
-U+308A7	𰢧	
-U+308A8	𰢨	
-U+308A9	𰢩	
-U+308AA	𰢪	
-U+308AB	𰢫	
-U+308AC	𰢬	
-U+308AD	𰢭	
-U+308AE	𰢮	
-U+308AF	𰢯	
-U+308B0	𰢰	
-U+308B1	𰢱	
-U+308B2	𰢲	
-U+308B3	𰢳	
-U+308B4	𰢴	
-U+308B5	𰢵	
-U+308B6	𰢶	
-U+308B7	𰢷	
-U+308B8	𰢸	
-U+308B9	𰢹	
-U+308BA	𰢺	
-U+308BB	𰢻	
-U+308BC	𰢼	
-U+308BD	𰢽	
-U+308BE	𰢾	
-U+308BF	𰢿	
-U+308C0	𰣀	
-U+308C1	𰣁	
-U+308C2	𰣂	
-U+308C3	𰣃	
-U+308C4	𰣄	
-U+308C5	𰣅	
-U+308C6	𰣆	
-U+308C7	𰣇	
-U+308C8	𰣈	
-U+308C9	𰣉	
-U+308CA	𰣊	
-U+308CB	𰣋	
-U+308CC	𰣌	
-U+308CD	𰣍	
-U+308CE	𰣎	
-U+308CF	𰣏	
-U+308D0	𰣐	
-U+308D1	𰣑	
-U+308D2	𰣒	
-U+308D3	𰣓	
-U+308D4	𰣔	
-U+308D5	𰣕	
-U+308D6	𰣖	
-U+308D7	𰣗	
-U+308D8	𰣘	
-U+308D9	𰣙	
-U+308DA	𰣚	
-U+308DB	𰣛	
-U+308DC	𰣜	
-U+308DD	𰣝	
-U+308DE	𰣞	
-U+308DF	𰣟	
-U+308E0	𰣠	
-U+308E1	𰣡	
-U+308E2	𰣢	
-U+308E3	𰣣	
-U+308E4	𰣤	
-U+308E5	𰣥	
-U+308E6	𰣦	
-U+308E7	𰣧	
-U+308E8	𰣨	
-U+308E9	𰣩	
-U+308EA	𰣪	
-U+308EB	𰣫	
-U+308EC	𰣬	
-U+308ED	𰣭	
-U+308EE	𰣮	
-U+308EF	𰣯	
-U+308F0	𰣰	
-U+308F1	𰣱	
-U+308F2	𰣲	
-U+308F3	𰣳	
-U+308F4	𰣴	
-U+308F5	𰣵	
-U+308F6	𰣶	
-U+308F7	𰣷	
-U+308F8	𰣸	
-U+308F9	𰣹	
-U+308FA	𰣺	
-U+308FB	𰣻	
-U+308FC	𰣼	
-U+308FD	𰣽	
-U+308FE	𰣾	
-U+308FF	𰣿	
-U+30900	𰤀	
-U+30901	𰤁	
-U+30902	𰤂	
-U+30903	𰤃	
-U+30904	𰤄	
-U+30905	𰤅	
-U+30906	𰤆	
-U+30907	𰤇	
-U+30908	𰤈	
-U+30909	𰤉	
-U+3090A	𰤊	
-U+3090B	𰤋	
-U+3090C	𰤌	
-U+3090D	𰤍	
-U+3090E	𰤎	
-U+3090F	𰤏	
-U+30910	𰤐	
-U+30911	𰤑	
-U+30912	𰤒	
-U+30913	𰤓	
-U+30914	𰤔	
-U+30915	𰤕	
-U+30916	𰤖	
-U+30917	𰤗	
-U+30918	𰤘	
-U+30919	𰤙	
-U+3091A	𰤚	
-U+3091B	𰤛	
-U+3091C	𰤜	
-U+3091D	𰤝	
-U+3091E	𰤞	
-U+3091F	𰤟	
-U+30920	𰤠	
-U+30921	𰤡	
-U+30922	𰤢	
-U+30923	𰤣	
-U+30924	𰤤	
-U+30925	𰤥	
-U+30926	𰤦	
-U+30927	𰤧	
-U+30928	𰤨	
-U+30929	𰤩	
-U+3092A	𰤪	
-U+3092B	𰤫	
-U+3092C	𰤬	
-U+3092D	𰤭	
-U+3092E	𰤮	
-U+3092F	𰤯	
-U+30930	𰤰	
-U+30931	𰤱	
-U+30932	𰤲	
-U+30933	𰤳	
-U+30934	𰤴	
-U+30935	𰤵	
-U+30936	𰤶	
-U+30937	𰤷	
-U+30938	𰤸	
-U+30939	𰤹	
-U+3093A	𰤺	
-U+3093B	𰤻	
-U+3093C	𰤼	
-U+3093D	𰤽	
-U+3093E	𰤾	
-U+3093F	𰤿	
-U+30940	𰥀	
-U+30941	𰥁	
-U+30942	𰥂	
-U+30943	𰥃	
-U+30944	𰥄	
-U+30945	𰥅	
-U+30946	𰥆	
-U+30947	𰥇	
-U+30948	𰥈	
-U+30949	𰥉	
-U+3094A	𰥊	
-U+3094B	𰥋	
-U+3094C	𰥌	
-U+3094D	𰥍	
-U+3094E	𰥎	
-U+3094F	𰥏	
-U+30950	𰥐	
-U+30951	𰥑	
-U+30952	𰥒	
-U+30953	𰥓	
-U+30954	𰥔	
-U+30955	𰥕	
-U+30956	𰥖	
-U+30957	𰥗	
-U+30958	𰥘	
-U+30959	𰥙	
-U+3095A	𰥚	
-U+3095B	𰥛	
-U+3095C	𰥜	
-U+3095D	𰥝	
-U+3095E	𰥞	
-U+3095F	𰥟	
-U+30960	𰥠	
-U+30961	𰥡	
-U+30962	𰥢	
-U+30963	𰥣	
-U+30964	𰥤	
-U+30965	𰥥	
-U+30966	𰥦	
-U+30967	𰥧	
-U+30968	𰥨	
-U+30969	𰥩	
-U+3096A	𰥪	
-U+3096B	𰥫	
-U+3096C	𰥬	
-U+3096D	𰥭	
-U+3096E	𰥮	
-U+3096F	𰥯	
-U+30970	𰥰	
-U+30971	𰥱	
-U+30972	𰥲	
-U+30973	𰥳	
-U+30974	𰥴	
-U+30975	𰥵	
-U+30976	𰥶	
-U+30977	𰥷	
-U+30978	𰥸	
-U+30979	𰥹	
-U+3097A	𰥺	
-U+3097B	𰥻	
-U+3097C	𰥼	
-U+3097D	𰥽	
-U+3097E	𰥾	
-U+3097F	𰥿	
-U+30980	𰦀	
-U+30981	𰦁	
-U+30982	𰦂	
-U+30983	𰦃	
-U+30984	𰦄	
-U+30985	𰦅	
-U+30986	𰦆	
-U+30987	𰦇	
-U+30988	𰦈	
-U+30989	𰦉	
-U+3098A	𰦊	
-U+3098B	𰦋	
-U+3098C	𰦌	
-U+3098D	𰦍	
-U+3098E	𰦎	
-U+3098F	𰦏	
-U+30990	𰦐	
-U+30991	𰦑	
-U+30992	𰦒	
-U+30993	𰦓	
-U+30994	𰦔	
-U+30995	𰦕	
-U+30996	𰦖	
-U+30997	𰦗	
-U+30998	𰦘	
-U+30999	𰦙	
-U+3099A	𰦚	
-U+3099B	𰦛	
-U+3099C	𰦜	
-U+3099D	𰦝	
-U+3099E	𰦞	
-U+3099F	𰦟	
-U+309A0	𰦠	
-U+309A1	𰦡	
-U+309A2	𰦢	
-U+309A3	𰦣	
-U+309A4	𰦤	
-U+309A5	𰦥	
-U+309A6	𰦦	
-U+309A7	𰦧	
-U+309A8	𰦨	
-U+309A9	𰦩	
-U+309AA	𰦪	
-U+309AB	𰦫	
-U+309AC	𰦬	
-U+309AD	𰦭	
-U+309AE	𰦮	
-U+309AF	𰦯	
-U+309B0	𰦰	
-U+309B1	𰦱	
-U+309B2	𰦲	
-U+309B3	𰦳	
-U+309B4	𰦴	
-U+309B5	𰦵	
-U+309B6	𰦶	
-U+309B7	𰦷	
-U+309B8	𰦸	
-U+309B9	𰦹	
-U+309BA	𰦺	
-U+309BB	𰦻	
-U+309BC	𰦼	
-U+309BD	𰦽	
-U+309BE	𰦾	
-U+309BF	𰦿	
-U+309C0	𰧀	
-U+309C1	𰧁	
-U+309C2	𰧂	
-U+309C3	𰧃	
-U+309C4	𰧄	
-U+309C5	𰧅	
-U+309C6	𰧆	
-U+309C7	𰧇	
-U+309C8	𰧈	
-U+309C9	𰧉	
-U+309CA	𰧊	
-U+309CB	𰧋	
-U+309CC	𰧌	
-U+309CD	𰧍	
-U+309CE	𰧎	
-U+309CF	𰧏	
-U+309D0	𰧐	
-U+309D1	𰧑	
-U+309D2	𰧒	
-U+309D3	𰧓	
-U+309D4	𰧔	
-U+309D5	𰧕	
-U+309D6	𰧖	
-U+309D7	𰧗	
-U+309D8	𰧘	
-U+309D9	𰧙	
-U+309DA	𰧚	
-U+309DB	𰧛	
-U+309DC	𰧜	
-U+309DD	𰧝	
-U+309DE	𰧞	
-U+309DF	𰧟	
-U+309E0	𰧠	
-U+309E1	𰧡	
-U+309E2	𰧢	
-U+309E3	𰧣	
-U+309E4	𰧤	
-U+309E5	𰧥	
-U+309E6	𰧦	
-U+309E7	𰧧	
-U+309E8	𰧨	
-U+309E9	𰧩	
-U+309EA	𰧪	
-U+309EB	𰧫	
-U+309EC	𰧬	
-U+309ED	𰧭	
-U+309EE	𰧮	
-U+309EF	𰧯	
-U+309F0	𰧰	
-U+309F1	𰧱	
-U+309F2	𰧲	
-U+309F3	𰧳	
-U+309F4	𰧴	
-U+309F5	𰧵	
-U+309F6	𰧶	
-U+309F7	𰧷	
-U+309F8	𰧸	
-U+309F9	𰧹	
-U+309FA	𰧺	
-U+309FB	𰧻	
-U+309FC	𰧼	
-U+309FD	𰧽	
-U+309FE	𰧾	
-U+309FF	𰧿	
-U+30A00	𰨀	
-U+30A01	𰨁	
-U+30A02	𰨂	
-U+30A03	𰨃	
-U+30A04	𰨄	
-U+30A05	𰨅	
-U+30A06	𰨆	
-U+30A07	𰨇	
-U+30A08	𰨈	
-U+30A09	𰨉	
-U+30A0A	𰨊	
-U+30A0B	𰨋	
-U+30A0C	𰨌	
-U+30A0D	𰨍	
-U+30A0E	𰨎	
-U+30A0F	𰨏	
-U+30A10	𰨐	
-U+30A11	𰨑	
-U+30A12	𰨒	
-U+30A13	𰨓	
-U+30A14	𰨔	
-U+30A15	𰨕	
-U+30A16	𰨖	
-U+30A17	𰨗	
-U+30A18	𰨘	
-U+30A19	𰨙	
-U+30A1A	𰨚	
-U+30A1B	𰨛	
-U+30A1C	𰨜	
-U+30A1D	𰨝	
-U+30A1E	𰨞	
-U+30A1F	𰨟	
-U+30A20	𰨠	
-U+30A21	𰨡	
-U+30A22	𰨢	
-U+30A23	𰨣	
-U+30A24	𰨤	
-U+30A25	𰨥	
-U+30A26	𰨦	
-U+30A27	𰨧	
-U+30A28	𰨨	
-U+30A29	𰨩	
-U+30A2A	𰨪	
-U+30A2B	𰨫	
-U+30A2C	𰨬	
-U+30A2D	𰨭	
-U+30A2E	𰨮	
-U+30A2F	𰨯	
-U+30A30	𰨰	
-U+30A31	𰨱	
-U+30A32	𰨲	
-U+30A33	𰨳	
-U+30A34	𰨴	
-U+30A35	𰨵	
-U+30A36	𰨶	
-U+30A37	𰨷	
-U+30A38	𰨸	
-U+30A39	𰨹	
-U+30A3A	𰨺	
-U+30A3B	𰨻	
-U+30A3C	𰨼	
-U+30A3D	𰨽	
-U+30A3E	𰨾	
-U+30A3F	𰨿	
-U+30A40	𰩀	
-U+30A41	𰩁	
-U+30A42	𰩂	
-U+30A43	𰩃	
-U+30A44	𰩄	
-U+30A45	𰩅	
-U+30A46	𰩆	
-U+30A47	𰩇	
-U+30A48	𰩈	
-U+30A49	𰩉	
-U+30A4A	𰩊	
-U+30A4B	𰩋	
-U+30A4C	𰩌	
-U+30A4D	𰩍	
-U+30A4E	𰩎	
-U+30A4F	𰩏	
-U+30A50	𰩐	
-U+30A51	𰩑	
-U+30A52	𰩒	
-U+30A53	𰩓	
-U+30A54	𰩔	
-U+30A55	𰩕	
-U+30A56	𰩖	
-U+30A57	𰩗	
-U+30A58	𰩘	
-U+30A59	𰩙	
-U+30A5A	𰩚	
-U+30A5B	𰩛	
-U+30A5C	𰩜	
-U+30A5D	𰩝	
-U+30A5E	𰩞	
-U+30A5F	𰩟	
-U+30A60	𰩠	
-U+30A61	𰩡	
-U+30A62	𰩢	
-U+30A63	𰩣	
-U+30A64	𰩤	
-U+30A65	𰩥	
-U+30A66	𰩦	
-U+30A67	𰩧	
-U+30A68	𰩨	
-U+30A69	𰩩	
-U+30A6A	𰩪	
-U+30A6B	𰩫	
-U+30A6C	𰩬	
-U+30A6D	𰩭	
-U+30A6E	𰩮	
-U+30A6F	𰩯	
-U+30A70	𰩰	
-U+30A71	𰩱	
-U+30A72	𰩲	
-U+30A73	𰩳	
-U+30A74	𰩴	
-U+30A75	𰩵	
-U+30A76	𰩶	
-U+30A77	𰩷	
-U+30A78	𰩸	
-U+30A79	𰩹	
-U+30A7A	𰩺	
-U+30A7B	𰩻	
-U+30A7C	𰩼	
-U+30A7D	𰩽	
-U+30A7E	𰩾	
-U+30A7F	𰩿	
-U+30A80	𰪀	
-U+30A81	𰪁	
-U+30A82	𰪂	
-U+30A83	𰪃	
-U+30A84	𰪄	
-U+30A85	𰪅	
-U+30A86	𰪆	
-U+30A87	𰪇	
-U+30A88	𰪈	
-U+30A89	𰪉	
-U+30A8A	𰪊	
-U+30A8B	𰪋	
-U+30A8C	𰪌	
-U+30A8D	𰪍	
-U+30A8E	𰪎	
-U+30A8F	𰪏	
-U+30A90	𰪐	
-U+30A91	𰪑	
-U+30A92	𰪒	
-U+30A93	𰪓	
-U+30A94	𰪔	
-U+30A95	𰪕	
-U+30A96	𰪖	
-U+30A97	𰪗	
-U+30A98	𰪘	
-U+30A99	𰪙	
-U+30A9A	𰪚	
-U+30A9B	𰪛	
-U+30A9C	𰪜	
-U+30A9D	𰪝	
-U+30A9E	𰪞	
-U+30A9F	𰪟	
-U+30AA0	𰪠	
-U+30AA1	𰪡	
-U+30AA2	𰪢	
-U+30AA3	𰪣	
-U+30AA4	𰪤	
-U+30AA5	𰪥	
-U+30AA6	𰪦	
-U+30AA7	𰪧	
-U+30AA8	𰪨	
-U+30AA9	𰪩	
-U+30AAA	𰪪	
-U+30AAB	𰪫	
-U+30AAC	𰪬	
-U+30AAD	𰪭	
-U+30AAE	𰪮	
-U+30AAF	𰪯	
-U+30AB0	𰪰	
-U+30AB1	𰪱	
-U+30AB2	𰪲	
-U+30AB3	𰪳	
-U+30AB4	𰪴	
-U+30AB5	𰪵	
-U+30AB6	𰪶	
-U+30AB7	𰪷	
-U+30AB8	𰪸	
-U+30AB9	𰪹	
-U+30ABA	𰪺	
-U+30ABB	𰪻	
-U+30ABC	𰪼	
-U+30ABD	𰪽	
-U+30ABE	𰪾	
-U+30ABF	𰪿	
-U+30AC0	𰫀	
-U+30AC1	𰫁	
-U+30AC2	𰫂	
-U+30AC3	𰫃	
-U+30AC4	𰫄	
-U+30AC5	𰫅	
-U+30AC6	𰫆	
-U+30AC7	𰫇	
-U+30AC8	𰫈	
-U+30AC9	𰫉	
-U+30ACA	𰫊	
-U+30ACB	𰫋	
-U+30ACC	𰫌	
-U+30ACD	𰫍	
-U+30ACE	𰫎	
-U+30ACF	𰫏	
-U+30AD0	𰫐	
-U+30AD1	𰫑	
-U+30AD2	𰫒	
-U+30AD3	𰫓	
-U+30AD4	𰫔	
-U+30AD5	𰫕	
-U+30AD6	𰫖	
-U+30AD7	𰫗	
-U+30AD8	𰫘	
-U+30AD9	𰫙	
-U+30ADA	𰫚	
-U+30ADB	𰫛	
-U+30ADC	𰫜	
-U+30ADD	𰫝	
-U+30ADE	𰫞	
-U+30ADF	𰫟	
-U+30AE0	𰫠	
-U+30AE1	𰫡	
-U+30AE2	𰫢	
-U+30AE3	𰫣	
-U+30AE4	𰫤	
-U+30AE5	𰫥	
-U+30AE6	𰫦	
-U+30AE7	𰫧	
-U+30AE8	𰫨	
-U+30AE9	𰫩	
-U+30AEA	𰫪	
-U+30AEB	𰫫	
-U+30AEC	𰫬	
-U+30AED	𰫭	
-U+30AEE	𰫮	
-U+30AEF	𰫯	
-U+30AF0	𰫰	
-U+30AF1	𰫱	
-U+30AF2	𰫲	
-U+30AF3	𰫳	
-U+30AF4	𰫴	
-U+30AF5	𰫵	
-U+30AF6	𰫶	
-U+30AF7	𰫷	
-U+30AF8	𰫸	
-U+30AF9	𰫹	
-U+30AFA	𰫺	
-U+30AFB	𰫻	
-U+30AFC	𰫼	
-U+30AFD	𰫽	
-U+30AFE	𰫾	
-U+30AFF	𰫿	
-U+30B00	𰬀	
-U+30B01	𰬁	
-U+30B02	𰬂	
-U+30B03	𰬃	
-U+30B04	𰬄	
-U+30B05	𰬅	
-U+30B06	𰬆	
-U+30B07	𰬇	
-U+30B08	𰬈	
-U+30B09	𰬉	
-U+30B0A	𰬊	
-U+30B0B	𰬋	
-U+30B0C	𰬌	
-U+30B0D	𰬍	
-U+30B0E	𰬎	
-U+30B0F	𰬏	
-U+30B10	𰬐	
-U+30B11	𰬑	
-U+30B12	𰬒	
-U+30B13	𰬓	
-U+30B14	𰬔	
-U+30B15	𰬕	
-U+30B16	𰬖	
-U+30B17	𰬗	
-U+30B18	𰬘	
-U+30B19	𰬙	
-U+30B1A	𰬚	
-U+30B1B	𰬛	
-U+30B1C	𰬜	
-U+30B1D	𰬝	
-U+30B1E	𰬞	
-U+30B1F	𰬟	
-U+30B20	𰬠	
-U+30B21	𰬡	
-U+30B22	𰬢	
-U+30B23	𰬣	
-U+30B24	𰬤	
-U+30B25	𰬥	
-U+30B26	𰬦	
-U+30B27	𰬧	
-U+30B28	𰬨	
-U+30B29	𰬩	
-U+30B2A	𰬪	
-U+30B2B	𰬫	
-U+30B2C	𰬬	
-U+30B2D	𰬭	
-U+30B2E	𰬮	
-U+30B2F	𰬯	
-U+30B30	𰬰	
-U+30B31	𰬱	
-U+30B32	𰬲	
-U+30B33	𰬳	
-U+30B34	𰬴	
-U+30B35	𰬵	
-U+30B36	𰬶	
-U+30B37	𰬷	
-U+30B38	𰬸	
-U+30B39	𰬹	
-U+30B3A	𰬺	
-U+30B3B	𰬻	
-U+30B3C	𰬼	
-U+30B3D	𰬽	
-U+30B3E	𰬾	
-U+30B3F	𰬿	
-U+30B40	𰭀	
-U+30B41	𰭁	
-U+30B42	𰭂	
-U+30B43	𰭃	
-U+30B44	𰭄	
-U+30B45	𰭅	
-U+30B46	𰭆	
-U+30B47	𰭇	
-U+30B48	𰭈	
-U+30B49	𰭉	
-U+30B4A	𰭊	
-U+30B4B	𰭋	
-U+30B4C	𰭌	
-U+30B4D	𰭍	
-U+30B4E	𰭎	
-U+30B4F	𰭏	
-U+30B50	𰭐	
-U+30B51	𰭑	
-U+30B52	𰭒	
-U+30B53	𰭓	
-U+30B54	𰭔	
-U+30B55	𰭕	
-U+30B56	𰭖	
-U+30B57	𰭗	
-U+30B58	𰭘	
-U+30B59	𰭙	
-U+30B5A	𰭚	
-U+30B5B	𰭛	
-U+30B5C	𰭜	
-U+30B5D	𰭝	
-U+30B5E	𰭞	
-U+30B5F	𰭟	
-U+30B60	𰭠	
-U+30B61	𰭡	
-U+30B62	𰭢	
-U+30B63	𰭣	
-U+30B64	𰭤	
-U+30B65	𰭥	
-U+30B66	𰭦	
-U+30B67	𰭧	
-U+30B68	𰭨	
-U+30B69	𰭩	
-U+30B6A	𰭪	
-U+30B6B	𰭫	
-U+30B6C	𰭬	
-U+30B6D	𰭭	
-U+30B6E	𰭮	
-U+30B6F	𰭯	
-U+30B70	𰭰	
-U+30B71	𰭱	
-U+30B72	𰭲	
-U+30B73	𰭳	
-U+30B74	𰭴	
-U+30B75	𰭵	
-U+30B76	𰭶	
-U+30B77	𰭷	
-U+30B78	𰭸	
-U+30B79	𰭹	
-U+30B7A	𰭺	
-U+30B7B	𰭻	
-U+30B7C	𰭼	
-U+30B7D	𰭽	
-U+30B7E	𰭾	
-U+30B7F	𰭿	
-U+30B80	𰮀	
-U+30B81	𰮁	
-U+30B82	𰮂	
-U+30B83	𰮃	
-U+30B84	𰮄	
-U+30B85	𰮅	
-U+30B86	𰮆	
-U+30B87	𰮇	
-U+30B88	𰮈	
-U+30B89	𰮉	
-U+30B8A	𰮊	
-U+30B8B	𰮋	
-U+30B8C	𰮌	
-U+30B8D	𰮍	
-U+30B8E	𰮎	
-U+30B8F	𰮏	
-U+30B90	𰮐	
-U+30B91	𰮑	
-U+30B92	𰮒	
-U+30B93	𰮓	
-U+30B94	𰮔	
-U+30B95	𰮕	
-U+30B96	𰮖	
-U+30B97	𰮗	
-U+30B98	𰮘	
-U+30B99	𰮙	
-U+30B9A	𰮚	
-U+30B9B	𰮛	
-U+30B9C	𰮜	
-U+30B9D	𰮝	
-U+30B9E	𰮞	
-U+30B9F	𰮟	
-U+30BA0	𰮠	
-U+30BA1	𰮡	
-U+30BA2	𰮢	
-U+30BA3	𰮣	
-U+30BA4	𰮤	
-U+30BA5	𰮥	
-U+30BA6	𰮦	
-U+30BA7	𰮧	
-U+30BA8	𰮨	
-U+30BA9	𰮩	
-U+30BAA	𰮪	
-U+30BAB	𰮫	
-U+30BAC	𰮬	
-U+30BAD	𰮭	
-U+30BAE	𰮮	
-U+30BAF	𰮯	
-U+30BB0	𰮰	
-U+30BB1	𰮱	
-U+30BB2	𰮲	
-U+30BB3	𰮳	
-U+30BB4	𰮴	
-U+30BB5	𰮵	
-U+30BB6	𰮶	
-U+30BB7	𰮷	
+U+307D0	𰟐	oakg
+U+307D1	𰟑	awco
+U+307D2	𰟒	osgy
+U+307D3	𰟓	oamy
+U+307D4	𰟔	otgp
+U+307D5	𰟕	otwh
+U+307D6	𰟖	oxtw
+U+307D7	𰟗	wgjo
+U+307D8	𰟘	ouqe
+U+307D9	𰟙	oads
+U+307DA	𰟚	fufo
+U+307DB	𰟛	srro
+U+307DC	𰟜	osff
+U+307DD	𰟝	akfo
+U+307DE	𰟞	fffo
+U+307DF	𰟟	ougg
+U+307E0	𰟠	udgo
+U+307E1	𰟡	oijr
+U+307E2	𰟢	oipq
+U+307E3	𰟣	sjgo
+U+307E4	𰟤	oduo
+U+307E5	𰟥	duro
+U+307E6	𰟦	ojmo
+U+307E7	𰟧	okba
+U+307E8	𰟨	oenn
+U+307E9	𰟩	wgko
+U+307EA	𰟪	obci
+U+307EB	𰟫	outk
+U+307EC	𰟬	ohgo
+U+307ED	𰟭	oooo
+U+307EE	𰟮	iamo
+U+307EF	𰟯	oopl
+U+307F0	𰟰	oddj
+U+307F1	𰟱	akko
+U+307F2	𰟲	opaq
+U+307F3	𰟳	ywyo
+U+307F4	𰟴	ftyi
+U+307F5	𰟵	olfy
+U+307F6	𰟶	doae
+U+307F7	𰟷	uaco
+U+307F8	𰟸	obww
+U+307F9	𰟹	bwgo
+U+307FA	𰟺	ooos
+U+307FB	𰟻	okkt
+U+307FC	𰟼	rhyx
+U+307FD	𰟽	rhyk
+U+307FE	𰟾	egmc
+U+307FF	𰟿	epef
+U+30800	𰠀	eksu
+U+30801	𰠁	swwy
+U+30802	𰠂	efjr
+U+30803	𰠃	ldry
+U+30804	𰠄	eywf
+U+30805	𰠅	rhym
+U+30806	𰠆	ecma
+U+30807	𰠇	puvc
+U+30808	𰠈	efuw
+U+30809	𰠉	exkf
+U+3080A	𰠊	exxf
+U+3080B	𰠋	wrdy
+U+3080C	𰠌	wrdy
+U+3080D	𰠍	wrhc
+U+3080E	𰠎	nhdc
+U+3080F	𰠏	nhdc
+U+30810	𰠐	nhdr
+U+30811	𰠑	nhdg
+U+30812	𰠒	nhdk
+U+30813	𰠓	nhdh
+U+30814	𰠔	nhdg
+U+30815	𰠕	nhdd
+U+30816	𰠖	nhdk
+U+30817	𰠗	ubg
+U+30818	𰠘	nhdp
+U+30819	𰠙	thgy
+U+3081A	𰠚	thgy
+U+3081B	𰠛	thgy
+U+3081C	𰠜	thgt
+U+3081D	𰠝	thgy
+U+3081E	𰠞	thgr
+U+3081F	𰠟	thgg
+U+30820	𰠠	ahth
+U+30821	𰠡	ahtw
+U+30822	𰠢	ahtk
+U+30823	𰠣	vbat
+U+30824	𰠤	ahtk
+U+30825	𰠥	ahtm
+U+30826	𰠦	tcy
+U+30827	𰠧	ktgj
+U+30828	𰠨	ntgk
+U+30829	𰠩	tfcy
+U+3082A	𰠪	tdbn
+U+3082B	𰠫	tmry
+U+3082C	𰠬	tbnn
+U+3082D	𰠭	tfiy
+U+3082E	𰠮	tdry
+U+3082F	𰠯	tdag
+U+30830	𰠰	tgoy
+U+30831	𰠱	tmdy
+U+30832	𰠲	tcag
+U+30833	𰠳	tffg
+U+30834	𰠴	tatq
+U+30835	𰠵	tyve
+U+30836	𰠶	tqqf
+U+30837	𰠷	tviy
+U+30838	𰠸	tyuk
+U+30839	𰠹	tlfc
+U+3083A	𰠺	xqrg
+U+3083B	𰠻	tolg
+U+3083C	𰠼	tkhm
+U+3083D	𰠽	bdyy
+U+3083E	𰠾	qttf
+U+3083F	𰠿	qtwv
+U+30840	𰡀	qudy
+U+30841	𰡁	qtyw
+U+30842	𰡂	qtgc
+U+30843	𰡃	qtfi
+U+30844	𰡄	qthn
+U+30845	𰡅	qtdc
+U+30846	𰡆	qteh
+U+30847	𰡇	qtqh
+U+30848	𰡈	dyeg
+U+30849	𰡉	qtgg
+U+3084A	𰡊	qttj
+U+3084B	𰡋	qtpl
+U+3084C	𰡌	qtte
+U+3084D	𰡍	qtdd
+U+3084E	𰡎	qtgo
+U+3084F	𰡏	qtkw
+U+30850	𰡐	qtkm
+U+30851	𰡑	qtyl
+U+30852	𰡒	qtuf
+U+30853	𰡓	qtgg
+U+30854	𰡔	qtlr
+U+30855	𰡕	qtsr
+U+30856	𰡖	qtkl
+U+30857	𰡗	qthw
+U+30858	𰡘	qtwm
+U+30859	𰡙	qtqj
+U+3085A	𰡚	qtrw
+U+3085B	𰡛	qtwa
+U+3085C	𰡜	qtge
+U+3085D	𰡝	qtah
+U+3085E	𰡞	qtfm
+U+3085F	𰡟	qtmj
+U+30860	𰡠	qtoc
+U+30861	𰡡	qtlk
+U+30862	𰡢	qtmv
+U+30863	𰡣	qtyt
+U+30864	𰡤	qtyo
+U+30865	𰡥	qtnr
+U+30866	𰡦	yumy
+U+30867	𰡧	kkly
+U+30868	𰡨	qtle
+U+30869	𰡩	qtar
+U+3086A	𰡪	ossk
+U+3086B	𰡫	qtwo
+U+3086C	𰡬	qtof
+U+3086D	𰡭	gvn
+U+3086E	𰡮	gufd
+U+3086F	𰡯	gay
+U+30870	𰡰	glh
+U+30871	𰡱	ggmw
+U+30872	𰡲	ygyu
+U+30873	𰡳	gywu
+U+30874	𰡴	gghg
+U+30875	𰡵	ghnt
+U+30876	𰡶	ghgh
+U+30877	𰡷	ggqb
+U+30878	𰡸	tlgf
+U+30879	𰡹	gtlr
+U+3087A	𰡺	gdiy
+U+3087B	𰡻	gyrb
+U+3087C	𰡼	gbsy
+U+3087D	𰡽	gdtf
+U+3087E	𰡾	gevg
+U+3087F	𰡿	gywh
+U+30880	𰢀	gqgg
+U+30881	𰢁	gwwg
+U+30882	𰢂	gmoy
+U+30883	𰢃	ipky
+U+30884	𰢄	gvij
+U+30885	𰢅	ggkl
+U+30886	𰢆	ggwh
+U+30887	𰢇	ggwi
+U+30888	𰢈	gtgf
+U+30889	𰢉	ghay
+U+3088A	𰢊	gygy
+U+3088B	𰢋	gakk
+U+3088C	𰢌	ggwi
+U+3088D	𰢍	ossy
+U+3088E	𰢎	gtqs
+U+3088F	𰢏	gdmj
+U+30890	𰢐	ghhh
+U+30891	𰢑	gqgj
+U+30892	𰢒	bjgy
+U+30893	𰢓	gmau
+U+30894	𰢔	gtjn
+U+30895	𰢕	ghls
+U+30896	𰢖	gkgh
+U+30897	𰢗	gjaf
+U+30898	𰢘	gosd
+U+30899	𰢙	gwga
+U+3089A	𰢚	gbbb
+U+3089B	𰢛	rhhy
+U+3089C	𰢜	rhgn
+U+3089D	𰢝	rhge
+U+3089E	𰢞	rhgq
+U+3089F	𰢟	tvry
+U+308A0	𰢠	rhgh
+U+308A1	𰢡	ewfy
+U+308A2	𰢢	fqgy
+U+308A3	𰢣	gnna
+U+308A4	𰢤	mmgy
+U+308A5	𰢥	svgy
+U+308A6	𰢦	ovgy
+U+308A7	𰢧	afnu
+U+308A8	𰢨	afeg
+U+308A9	𰢩	affx
+U+308AA	𰢪	adwp
+U+308AB	𰢫	ittg
+U+308AC	𰢬	tgkn
+U+308AD	𰢭	tgfk
+U+308AE	𰢮	jftg
+U+308AF	𰢯	tggi
+U+308B0	𰢰	qreh
+U+308B1	𰢱	eheh
+U+308B2	𰢲	nteh
+U+308B3	𰢳	cehy
+U+308B4	𰢴	glf
+U+308B5	𰢵	lbk
+U+308B6	𰢶	lgnn
+U+308B7	𰢷	umd
+U+308B8	𰢸	klf
+U+308B9	𰢹	lgah
+U+308BA	𰢺	lwxn
+U+308BB	𰢻	mqrr
+U+308BC	𰢼	leu
+U+308BD	𰢽	lqrr
+U+308BE	𰢾	ylwu
+U+308BF	𰢿	ldkg
+U+308C0	𰣀	ltgf
+U+308C1	𰣁	ldkf
+U+308C2	𰣂	lmfg
+U+308C3	𰣃	qxlf
+U+308C4	𰣄	ulh
+U+308C5	𰣅	xlf
+U+308C6	𰣆	ltkg
+U+308C7	𰣇	wyvl
+U+308C8	𰣈	iptl
+U+308C9	𰣉	legg
+U+308CA	𰣊	ledc
+U+308CB	𰣋	fwwl
+U+308CC	𰣌	lewd
+U+308CD	𰣍	lyuk
+U+308CE	𰣎	lawi
+U+308CF	𰣏	ldwi
+U+308D0	𰣐	jhjq
+U+308D1	𰣑	lcni
+U+308D2	𰣒	tfcl
+U+308D3	𰣓	tolr
+U+308D4	𰣔	lgee
+U+308D5	𰣕	gklj
+U+308D6	𰣖	llpg
+U+308D7	𰣗	tmtl
+U+308D8	𰣘	oolf
+U+308D9	𰣙	lwxc
+U+308DA	𰣚	lxak
+U+308DB	𰣛	lewj
+U+308DC	𰣜	kklp
+U+308DD	𰣝	gklj
+U+308DE	𰣞	llfl
+U+308DF	𰣟	llkl
+U+308E0	𰣠	djnh
+U+308E1	𰣡	ynlh
+U+308E2	𰣢	umri
+U+308E3	𰣣	ukhk
+U+308E4	𰣤	umyd
+U+308E5	𰣥	uwvv
+U+308E6	𰣦	uyty
+U+308E7	𰣧	uewi
+U+308E8	𰣨	ucci
+U+308E9	𰣩	upsk
+U+308EA	𰣪	uvci
+U+308EB	𰣫	uigw
+U+308EC	𰣬	uyjk
+U+308ED	𰣭	ujvd
+U+308EE	𰣮	uqeh
+U+308EF	𰣯	uujd
+U+308F0	𰣰	uoed
+U+308F1	𰣱	dndd
+U+308F2	𰣲	uild
+U+308F3	𰣳	uceg
+U+308F4	𰣴	uuvd
+U+308F5	𰣵	umdj
+U+308F6	𰣶	ukhm
+U+308F7	𰣷	umjk
+U+308F8	𰣸	uqbn
+U+308F9	𰣹	uejg
+U+308FA	𰣺	ugmw
+U+308FB	𰣻	uskk
+U+308FC	𰣼	utkw
+U+308FD	𰣽	uyor
+U+308FE	𰣾	ukkl
+U+308FF	𰣿	ujpx
+U+30900	𰤀	uewq
+U+30901	𰤁	dndl
+U+30902	𰤂	ufje
+U+30903	𰤃	uwyo
+U+30904	𰤄	uwwj
+U+30905	𰤅	dndy
+U+30906	𰤆	ugfl
+U+30907	𰤇	uqeg
+U+30908	𰤈	ufnf
+U+30909	𰤉	ussi
+U+3090A	𰤊	dnqg
+U+3090B	𰤋	utao
+U+3090C	𰤌	wdu
+U+3090D	𰤍	wxb
+U+3090E	𰤎	wxhj
+U+3090F	𰤏	wjnb
+U+30910	𰤐	wgkg
+U+30911	𰤑	wytu
+U+30912	𰤒	rnb
+U+30913	𰤓	rnrt
+U+30914	𰤔	rvb
+U+30915	𰤕	rtni
+U+30916	𰤖	rjfh
+U+30917	𰤗	rynw
+U+30918	𰤘	vbrf
+U+30919	𰤙	rrrf
+U+3091A	𰤚	fwfr
+U+3091B	𰤛	tdkr
+U+3091C	𰤜	eerf
+U+3091D	𰤝	raui
+U+3091E	𰤞	hcnh
+U+3091F	𰤟	hcfc
+U+30920	𰤠	hnnc
+U+30921	𰤡	qnhc
+U+30922	𰤢	hctg
+U+30923	𰤣	gcfc
+U+30924	𰤤	mwwc
+U+30925	𰤥	tkhc
+U+30926	𰤦	hcoy
+U+30927	𰤧	hcvv
+U+30928	𰤨	hcdp
+U+30929	𰤩	hctj
+U+3092A	𰤪	pfqc
+U+3092B	𰤫	hcfd
+U+3092C	𰤬	fnuc
+U+3092D	𰤭	dufc
+U+3092E	𰤮	jjhc
+U+3092F	𰤯	adwc
+U+30930	𰤰	dujc
+U+30931	𰤱	hcme
+U+30932	𰤲	lsj
+U+30933	𰤳	clf
+U+30934	𰤴	ntlf
+U+30935	𰤵	tflf
+U+30936	𰤶	dulf
+U+30937	𰤷	llf
+U+30938	𰤸	qxlf
+U+30939	𰤹	iwlf
+U+3093A	𰤺	lqlf
+U+3093B	𰤻	kkhl
+U+3093C	𰤼	jjlf
+U+3093D	𰤽	gqdl
+U+3093E	𰤾	helf
+U+3093F	𰤿	thgl
+U+30940	𰥀	hhlf
+U+30941	𰥁	uglh
+U+30942	𰥂	ugln
+U+30943	𰥃	fnwl
+U+30944	𰥄	uglk
+U+30945	𰥅	wgwq
+U+30946	𰥆	xttl
+U+30947	𰥇	egnl
+U+30948	𰥈	fhlb
+U+30949	𰥉	hlol
+U+3094A	𰥊	ujfl
+U+3094B	𰥋	hngg
+U+3094C	𰥌	hghy
+U+3094D	𰥍	hdu
+U+3094E	𰥎	dhf
+U+3094F	𰥏	hkf
+U+30950	𰥐	yhgf
+U+30951	𰥑	dhhg
+U+30952	𰥒	hwwy
+U+30953	𰥓	hqrr
+U+30954	𰥔	htdy
+U+30955	𰥕	hgcy
+U+30956	𰥖	dwhf
+U+30957	𰥗	hrsh
+U+30958	𰥘	mdhf
+U+30959	𰥙	mfhf
+U+3095A	𰥚	thg
+U+3095B	𰥛	hykh
+U+3095C	𰥜	bmhg
+U+3095D	𰥝	hdoy
+U+3095E	𰥞	aphf
+U+3095F	𰥟	ithn
+U+30960	𰥠	yohf
+U+30961	𰥡	pfhf
+U+30962	𰥢	hgmy
+U+30963	𰥣	hjcf
+U+30964	𰥤	hjvg
+U+30965	𰥥	tchf
+U+30966	𰥦	htwc
+U+30967	𰥧	huty
+U+30968	𰥨	hueg
+U+30969	𰥩	hnfy
+U+3096A	𰥪	hfwq
+U+3096B	𰥫	hbcy
+U+3096C	𰥬	hawj
+U+3096D	𰥭	hkjn
+U+3096E	𰥮	hmdf
+U+3096F	𰥯	hwcn
+U+30970	𰥰	rhqc
+U+30971	𰥱	hwyw
+U+30972	𰥲	ynhh
+U+30973	𰥳	hohk
+U+30974	𰥴	hiug
+U+30975	𰥵	hakf
+U+30976	𰥶	rhkr
+U+30977	𰥷	hpak
+U+30978	𰥸	haws
+U+30979	𰥹	hipq
+U+3097A	𰥺	fhnf
+U+3097B	𰥻	hpuf
+U+3097C	𰥼	othf
+U+3097D	𰥽	hxjh
+U+3097E	𰥾	foth
+U+3097F	𰥿	hawn
+U+30980	𰦀	hwfh
+U+30981	𰦁	hpoo
+U+30982	𰦂	fnhh
+U+30983	𰦃	htqs
+U+30984	𰦄	hipl
+U+30985	𰦅	hplp
+U+30986	𰦆	hoon
+U+30987	𰦇	hubg
+U+30988	𰦈	rhqf
+U+30989	𰦉	hfqq
+U+3098A	𰦊	htwc
+U+3098B	𰦋	htly
+U+3098C	𰦌	fhgw
+U+3098D	𰦍	cnhy
+U+3098E	𰦎	acnt
+U+3098F	𰦏	cnhy
+U+30990	𰦐	cnhx
+U+30991	𰦑	cnhq
+U+30992	𰦒	tfwu
+U+30993	𰦓	tdhy
+U+30994	𰦔	tdmq
+U+30995	𰦕	tdnw
+U+30996	𰦖	tdtd
+U+30997	𰦗	tdff
+U+30998	𰦘	tdkk
+U+30999	𰦙	tdkk
+U+3099A	𰦚	tdhd
+U+3099B	𰦛	tdgn
+U+3099C	𰦜	tdlc
+U+3099D	𰦝	tddk
+U+3099E	𰦞	tdad
+U+3099F	𰦟	tdgf
+U+309A0	𰦠	xtdm
+U+309A1	𰦡	tdgd
+U+309A2	𰦢	tdqj
+U+309A3	𰦣	tdtw
+U+309A4	𰦤	dbyy
+U+309A5	𰦥	drcy
+U+309A6	𰦦	ddet
+U+309A7	𰦧	dgxg
+U+309A8	𰦨	dyty
+U+309A9	𰦩	drng
+U+309AA	𰦪	dngg
+U+309AB	𰦫	dccu
+U+309AC	𰦬	dccy
+U+309AD	𰦭	ddxy
+U+309AE	𰦮	dvet
+U+309AF	𰦯	dhgh
+U+309B0	𰦰	dcgh
+U+309B1	𰦱	nadf
+U+309B2	𰦲	dcfy
+U+309B3	𰦳	dbg
+U+309B4	𰦴	dgog
+U+309B5	𰦵	ddfy
+U+309B6	𰦶	dgjg
+U+309B7	𰦷	apdf
+U+309B8	𰦸	djfh
+U+309B9	𰦹	deg
+U+309BA	𰦺	dotc
+U+309BB	𰦻	dgkc
+U+309BC	𰦼	dfpb
+U+309BD	𰦽	dgty
+U+309BE	𰦾	dgod
+U+309BF	𰦿	dkmw
+U+309C0	𰧀	djah
+U+309C1	𰧁	dkkh
+U+309C2	𰧂	wgnd
+U+309C3	𰧃	dujg
+U+309C4	𰧄	dykg
+U+309C5	𰧅	dhch
+U+309C6	𰧆	ddfa
+U+309C7	𰧇	djcm
+U+309C8	𰧈	daew
+U+309C9	𰧉	drfm
+U+309CA	𰧊	dpjh
+U+309CB	𰧋	fpdt
+U+309CC	𰧌	dmjj
+U+309CD	𰧍	dtfi
+U+309CE	𰧎	fqqw
+U+309CF	𰧏	duej
+U+309D0	𰧐	dgng
+U+309D1	𰧑	gqtd
+U+309D2	𰧒	djnt
+U+309D3	𰧓	daps
+U+309D4	𰧔	djtl
+U+309D5	𰧕	dwgk
+U+309D6	𰧖	drsc
+U+309D7	𰧗	dtff
+U+309D8	𰧘	dyfj
+U+309D9	𰧙	dipf
+U+309DA	𰧚	dlwn
+U+309DB	𰧛	dmdf
+U+309DC	𰧜	dmyt
+U+309DD	𰧝	dwvm
+U+309DE	𰧞	dqjg
+U+309DF	𰧟	dypy
+U+309E0	𰧠	nfid
+U+309E1	𰧡	dgal
+U+309E2	𰧢	dfwj
+U+309E3	𰧣	adwd
+U+309E4	𰧤	dtvg
+U+309E5	𰧥	dtff
+U+309E6	𰧦	dwwj
+U+309E7	𰧧	dwgo
+U+309E8	𰧨	dcfs
+U+309E9	𰧩	dfoo
+U+309EA	𰧪	dfwm
+U+309EB	𰧫	dqky
+U+309EC	𰧬	dwnh
+U+309ED	𰧭	ffiu
+U+309EE	𰧮	figj
+U+309EF	𰧯	figc
+U+309F0	𰧰	pynr
+U+309F1	𰧱	fimf
+U+309F2	𰧲	wxfi
+U+309F3	𰧳	figj
+U+309F4	𰧴	fiay
+U+309F5	𰧵	fiuf
+U+309F6	𰧶	fiay
+U+309F7	𰧷	figw
+U+309F8	𰧸	ffiy
+U+309F9	𰧹	fivk
+U+309FA	𰧺	fiqq
+U+309FB	𰧻	fiwc
+U+309FC	𰧼	fitk
+U+309FD	𰧽	fitk
+U+309FE	𰧾	pype
+U+309FF	𰧿	yjfi
+U+30A00	𰨀	figa
+U+30A01	𰨁	fiff
+U+30A02	𰨂	fiws
+U+30A03	𰨃	fiwf
+U+30A04	𰨄	filv
+U+30A05	𰨅	fitd
+U+30A06	𰨆	fixw
+U+30A07	𰨇	wyfi
+U+30A08	𰨈	fiof
+U+30A09	𰨉	fipn
+U+30A0A	𰨊	fitp
+U+30A0B	𰨋	fief
+U+30A0C	𰨌	fiyk
+U+30A0D	𰨍	fivp
+U+30A0E	𰨎	firl
+U+30A0F	𰨏	fiql
+U+30A10	𰨐	figh
+U+30A11	𰨑	figm
+U+30A12	𰨒	fipw
+U+30A13	𰨓	finw
+U+30A14	𰨔	hfim
+U+30A15	𰨕	fijk
+U+30A16	𰨖	pyjm
+U+30A17	𰨗	fifo
+U+30A18	𰨘	sfiy
+U+30A19	𰨙	fiaa
+U+30A1A	𰨚	ntky
+U+30A1B	𰨛	tvt
+U+30A1C	𰨜	tot
+U+30A1D	𰨝	ttfd
+U+30A1E	𰨞	tvfh
+U+30A1F	𰨟	tgmf
+U+30A20	𰨠	tkry
+U+30A21	𰨡	tlh
+U+30A22	𰨢	twbn
+U+30A23	𰨣	ttuf
+U+30A24	𰨤	tngk
+U+30A25	𰨥	ttfq
+U+30A26	𰨦	tyjh
+U+30A27	𰨧	tynk
+U+30A28	𰨨	tvvg
+U+30A29	𰨩	dhty
+U+30A2A	𰨪	tfnf
+U+30A2B	𰨫	tmcn
+U+30A2C	𰨬	tqhj
+U+30A2D	𰨭	tlvg
+U+30A2E	𰨮	tojf
+U+30A2F	𰨯	trny
+U+30A30	𰨰	ttky
+U+30A31	𰨱	tdkk
+U+30A32	𰨲	thst
+U+30A33	𰨳	tuqm
+U+30A34	𰨴	towc
+U+30A35	𰨵	fmuq
+U+30A36	𰨶	thko
+U+30A37	𰨷	tpnm
+U+30A38	𰨸	tfwj
+U+30A39	𰨹	twym
+U+30A3A	𰨺	tpty
+U+30A3B	𰨻	tvfj
+U+30A3C	𰨼	tkhk
+U+30A3D	𰨽	tccg
+U+30A3E	𰨾	tddj
+U+30A3F	𰨿	towo
+U+30A40	𰩀	tpen
+U+30A41	𰩁	tugy
+U+30A42	𰩂	tgwf
+U+30A43	𰩃	thhy
+U+30A44	𰩄	pqcc
+U+30A45	𰩅	pwdy
+U+30A46	𰩆	pqak
+U+30A47	𰩇	pqqb
+U+30A48	𰩈	pwti
+U+30A49	𰩉	pqxe
+U+30A4A	𰩊	pqhi
+U+30A4B	𰩋	pqff
+U+30A4C	𰩌	fcpe
+U+30A4D	𰩍	pqan
+U+30A4E	𰩎	pqkc
+U+30A4F	𰩏	pqts
+U+30A50	𰩐	pqdg
+U+30A51	𰩑	pqhw
+U+30A52	𰩒	pqhc
+U+30A53	𰩓	pwgq
+U+30A54	𰩔	pqff
+U+30A55	𰩕	bypf
+U+30A56	𰩖	pqjv
+U+30A57	𰩗	pqaf
+U+30A58	𰩘	pqng
+U+30A59	𰩙	pqad
+U+30A5A	𰩚	pqav
+U+30A5B	𰩛	pqeo
+U+30A5C	𰩜	pqdo
+U+30A5D	𰩝	pqrc
+U+30A5E	𰩞	pqvt
+U+30A5F	𰩟	pqaf
+U+30A60	𰩠	huf
+U+30A61	𰩡	uwff
+U+30A62	𰩢	ugcy
+U+30A63	𰩣	uwsy
+U+30A64	𰩤	uywr
+U+30A65	𰩥	udmd
+U+30A66	𰩦	ujhg
+U+30A67	𰩧	edmu
+U+30A68	𰩨	utgf
+U+30A69	𰩩	fnwu
+U+30A6A	𰩪	ultk
+U+30A6B	𰩫	uhqq
+U+30A6C	𰩬	tdu
+U+30A6D	𰩭	tmj
+U+30A6E	𰩮	tfny
+U+30A6F	𰩯	tgmh
+U+30A70	𰩰	taqb
+U+30A71	𰩱	tmff
+U+30A72	𰩲	thnr
+U+30A73	𰩳	tjnb
+U+30A74	𰩴	tkqb
+U+30A75	𰩵	tehj
+U+30A76	𰩶	ttdc
+U+30A77	𰩷	tnff
+U+30A78	𰩸	ttdj
+U+30A79	𰩹	tinr
+U+30A7A	𰩺	txqy
+U+30A7B	𰩻	tfpu
+U+30A7C	𰩼	tgva
+U+30A7D	𰩽	tfry
+U+30A7E	𰩾	tkdy
+U+30A7F	𰩿	tfqk
+U+30A80	𰪀	tgji
+U+30A81	𰪁	tmhr
+U+30A82	𰪂	ttdd
+U+30A83	𰪃	tpuv
+U+30A84	𰪄	tyjf
+U+30A85	𰪅	tglf
+U+30A86	𰪆	trtd
+U+30A87	𰪇	tsgv
+U+30A88	𰪈	tseg
+U+30A89	𰪉	thko
+U+30A8A	𰪊	tqkh
+U+30A8B	𰪋	tqtj
+U+30A8C	𰪌	teyi
+U+30A8D	𰪍	tujf
+U+30A8E	𰪎	tykq
+U+30A8F	𰪏	tltk
+U+30A90	𰪐	tqer
+U+30A91	𰪑	twar
+U+30A92	𰪒	utdy
+U+30A93	𰪓	tpfe
+U+30A94	𰪔	tgit
+U+30A95	𰪕	txdm
+U+30A96	𰪖	tiwy
+U+30A97	𰪗	tsss
+U+30A98	𰪘	tnni
+U+30A99	𰪙	tnky
+U+30A9A	𰪚	thtg
+U+30A9B	𰪛	tjtp
+U+30A9C	𰪜	ttee
+U+30A9D	𰪝	tuaw
+U+30A9E	𰪞	tsad
+U+30A9F	𰪟	trat
+U+30AA0	𰪠	thae
+U+30AA1	𰪡	ttql
+U+30AA2	𰪢	txra
+U+30AA3	𰪣	tyny
+U+30AA4	𰪤	ttof
+U+30AA5	𰪥	tqhe
+U+30AA6	𰪦	ory
+U+30AA7	𰪧	oah
+U+30AA8	𰪨	qonv
+U+30AA9	𰪩	oot
+U+30AAA	𰪪	ocgg
+U+30AAB	𰪫	ofny
+U+30AAC	𰪬	ogg
+U+30AAD	𰪭	otay
+U+30AAE	𰪮	otah
+U+30AAF	𰪯	otfg
+U+30AB0	𰪰	noi
+U+30AB1	𰪱	ogcy
+U+30AB2	𰪲	oskg
+U+30AB3	𰪳	ogoy
+U+30AB4	𰪴	olh
+U+30AB5	𰪵	orwy
+U+30AB6	𰪶	olft
+U+30AB7	𰪷	oidy
+U+30AB8	𰪸	ovjg
+U+30AB9	𰪹	orhf
+U+30ABA	𰪺	otgs
+U+30ABB	𰪻	orsy
+U+30ABC	𰪼	outt
+U+30ABD	𰪽	otjh
+U+30ABE	𰪾	odwg
+U+30ABF	𰪿	oape
+U+30AC0	𰫀	ojgf
+U+30AC1	𰫁	oufg
+U+30AC2	𰫂	ouxe
+U+30AC3	𰫃	oplh
+U+30AC4	𰫄	oefg
+U+30AC5	𰫅	oitk
+U+30AC6	𰫆	ocoy
+U+30AC7	𰫇	oawk
+U+30AC8	𰫈	otff
+U+30AC9	𰫉	oprw
+U+30ACA	𰫊	ouqi
+U+30ACB	𰫋	oagw
+U+30ACC	𰫌	owvq
+U+30ACD	𰫍	otge
+U+30ACE	𰫎	oypy
+U+30ACF	𰫏	oydg
+U+30AD0	𰫐	odwe
+U+30AD1	𰫑	oykt
+U+30AD2	𰫒	opjh
+U+30AD3	𰫓	owlj
+U+30AD4	𰫔	osgt
+U+30AD5	𰫕	oyuj
+U+30AD6	𰫖	oaui
+U+30AD7	𰫗	xgwy
+U+30AD8	𰫘	xynn
+U+30AD9	𰫙	xbg
+U+30ADA	𰫚	xgmh
+U+30ADB	𰫛	xqcy
+U+30ADC	𰫜	xwvn
+U+30ADD	𰫝	xvtt
+U+30ADE	𰫞	xdxy
+U+30ADF	𰫟	xkgn
+U+30AE0	𰫠	xlh
+U+30AE1	𰫡	xtgg
+U+30AE2	𰫢	xrsy
+U+30AE3	𰫣	xnkg
+U+30AE4	𰫤	xvey
+U+30AE5	𰫥	lxnn
+U+30AE6	𰫦	xwtf
+U+30AE7	𰫧	xpsy
+U+30AE8	𰫨	xckg
+U+30AE9	𰫩	xawx
+U+30AEA	𰫪	xlmh
+U+30AEB	𰫫	xltu
+U+30AEC	𰫬	xrmj
+U+30AED	𰫭	xonc
+U+30AEE	𰫮	xyde
+U+30AEF	𰫯	xykq
+U+30AF0	𰫰	xtvt
+U+30AF1	𰫱	ahnn
+U+30AF2	𰫲	xypy
+U+30AF3	𰫳	xfhk
+U+30AF4	𰫴	xlsu
+U+30AF5	𰫵	xddj
+U+30AF6	𰫶	wlgx
+U+30AF7	𰫷	xqoj
+U+30AF8	𰫸	xpen
+U+30AF9	𰫹	yxxf
+U+30AFA	𰫺	xpwx
+U+30AFB	𰫻	akkx
+U+30AFC	𰫼	xsh
+U+30AFD	𰫽	xdhy
+U+30AFE	𰫾	xfqn
+U+30AFF	𰫿	xkhh
+U+30B00	𰬀	xwjh
+U+30B01	𰬁	xynt
+U+30B02	𰬂	xskg
+U+30B03	𰬃	xgmw
+U+30B04	𰬄	xdlg
+U+30B05	𰬅	xwfy
+U+30B06	𰬆	xqkg
+U+30B07	𰬇	xygg
+U+30B08	𰬈	xyxy
+U+30B09	𰬉	xpxn
+U+30B0A	𰬊	xudg
+U+30B0B	𰬋	xxcy
+U+30B0C	𰬌	xghg
+U+30B0D	𰬍	xgud
+U+30B0E	𰬎	xxxf
+U+30B0F	𰬏	xriy
+U+30B10	𰬐	xtdj
+U+30B11	𰬑	xqvh
+U+30B12	𰬒	xuqw
+U+30B13	𰬓	xynw
+U+30B14	𰬔	xuah
+U+30B15	𰬕	xevg
+U+30B16	𰬖	xdny
+U+30B17	𰬗	xgiy
+U+30B18	𰬘	xfpb
+U+30B19	𰬙	xdfe
+U+30B1A	𰬚	xkmy
+U+30B1B	𰬛	xet
+U+30B1C	𰬜	xqkq
+U+30B1D	𰬝	xujg
+U+30B1E	𰬞	xvpc
+U+30B1F	𰬟	xakg
+U+30B20	𰬠	xglb
+U+30B21	𰬡	xgvh
+U+30B22	𰬢	xgvv
+U+30B23	𰬣	xjqr
+U+30B24	𰬤	xrtf
+U+30B25	𰬥	xwcn
+U+30B26	𰬦	xqrn
+U+30B27	𰬧	xooy
+U+30B28	𰬨	xblg
+U+30B29	𰬩	xvij
+U+30B2A	𰬪	xcde
+U+30B2B	𰬫	xgct
+U+30B2C	𰬬	xalg
+U+30B2D	𰬭	xfff
+U+30B2E	𰬮	xdpg
+U+30B2F	𰬯	xrbt
+U+30B30	𰬰	xqrn
+U+30B31	𰬱	xfpi
+U+30B32	𰬲	xdri
+U+30B33	𰬳	xubp
+U+30B34	𰬴	xpuf
+U+30B35	𰬵	xyth
+U+30B36	𰬶	xnrg
+U+30B37	𰬷	xaet
+U+30B38	𰬸	xgjn
+U+30B39	𰬹	xwym
+U+30B3A	𰬺	xusf
+U+30B3B	𰬻	xcnk
+U+30B3C	𰬼	xgkm
+U+30B3D	𰬽	xqeg
+U+30B3E	𰬾	xouo
+U+30B3F	𰬿	xwow
+U+30B40	𰭀	xdet
+U+30B41	𰭁	xatn
+U+30B42	𰭂	rmwy
+U+30B43	𰭃	rmcy
+U+30B44	𰭄	rmxm
+U+30B45	𰭅	rmoi
+U+30B46	𰭆	rmay
+U+30B47	𰭇	rmll
+U+30B48	𰭈	lhcu
+U+30B49	𰭉	pqkq
+U+30B4A	𰭊	mwsj
+U+30B4B	𰭋	lfmhg
+U+30B4C	𰭌	lugj
+U+30B4D	𰭍	mwvq
+U+30B4E	𰭎	lufj
+U+30B4F	𰭏	mwag
+U+30B50	𰭐	pwhw
+U+30B51	𰭑	lifc
+U+30B52	𰭒	mrpe
+U+30B53	𰭓	mrxa
+U+30B54	𰭔	lxke
+U+30B55	𰭕	mrxg
+U+30B56	𰭖	mrrx
+U+30B57	𰭗	ugwn
+U+30B58	𰭘	ugmw
+U+30B59	𰭙	ugua
+U+30B5A	𰭚	ugov
+U+30B5B	𰭛	ugdy
+U+30B5C	𰭜	ughh
+U+30B5D	𰭝	ngr
+U+30B5E	𰭞	nfjj
+U+30B5F	𰭟	bynt
+U+30B60	𰭠	nnyy
+U+30B61	𰭡	nnty
+U+30B62	𰭢	ngud
+U+30B63	𰭣	dtfn
+U+30B64	𰭤	jqrn
+U+30B65	𰭥	naky
+U+30B66	𰭦	tolg
+U+30B67	𰭧	ftnb
+U+30B68	𰭨	ftgf
+U+30B69	𰭩	dftx
+U+30B6A	𰭪	xftx
+U+30B6B	𰭫	ftxr
+U+30B6C	𰭬	fdmj
+U+30B6D	𰭭	mdmf
+U+30B6E	𰭮	mdmg
+U+30B6F	𰭯	vcaj
+U+30B70	𰭰	tfia
+U+30B71	𰭱	tfij
+U+30B72	𰭲	tfif
+U+30B73	𰭳	btcy
+U+30B74	𰭴	bdny
+U+30B75	𰭵	bghn
+U+30B76	𰭶	wrbf
+U+30B77	𰭷	btfh
+U+30B78	𰭸	abbf
+U+30B79	𰭹	bdxy
+U+30B7A	𰭺	vcbf
+U+30B7B	𰭻	bdmj
+U+30B7C	𰭼	vgnv
+U+30B7D	𰭽	vftj
+U+30B7E	𰭾	mwwn
+U+30B7F	𰭿	dmww
+U+30B80	𰮀	wmww
+U+30B81	𰮁	evt
+U+30B82	𰮂	mwwe
+U+30B83	𰮃	eiy
+U+30B84	𰮄	kmww
+U+30B85	𰮅	extt
+U+30B86	𰮆	mwwn
+U+30B87	𰮇	efqn
+U+30B88	𰮈	mwwh
+U+30B89	𰮉	mwwh
+U+30B8A	𰮊	etgh
+U+30B8B	𰮋	ewwn
+U+30B8C	𰮌	qcef
+U+30B8D	𰮍	rrmw
+U+30B8E	𰮎	rbmw
+U+30B8F	𰮏	mwwc
+U+30B90	𰮐	epwn
+U+30B91	𰮑	ycmw
+U+30B92	𰮒	eang
+U+30B93	𰮓	eafy
+U+30B94	𰮔	uxmw
+U+30B95	𰮕	afmw
+U+30B96	𰮖	mwwh
+U+30B97	𰮗	hkef
+U+30B98	𰮘	mwwg
+U+30B99	𰮙	eqvg
+U+30B9A	𰮚	ebiy
+U+30B9B	𰮛	mwwg
+U+30B9C	𰮜	mwwk
+U+30B9D	𰮝	eatq
+U+30B9E	𰮞	mwwh
+U+30B9F	𰮟	edah
+U+30BA0	𰮠	erdc
+U+30BA1	𰮡	egmw
+U+30BA2	𰮢	qrbw
+U+30BA3	𰮣	mwwc
+U+30BA4	𰮤	ewfw
+U+30BA5	𰮥	efnf
+U+30BA6	𰮦	efay
+U+30BA7	𰮧	mwwk
+U+30BA8	𰮨	icbw
+U+30BA9	𰮩	eqty
+U+30BAA	𰮪	mwwb
+U+30BAB	𰮫	ssmw
+U+30BAC	𰮬	ehwy
+U+30BAD	𰮭	ekjn
+U+30BAE	𰮮	mwwe
+U+30BAF	𰮯	erny
+U+30BB0	𰮰	erpy
+U+30BB1	𰮱	eqre
+U+30BB2	𰮲	evij
+U+30BB3	𰮳	eblg
+U+30BB4	𰮴	xuxe
+U+30BB5	𰮵	efyw
+U+30BB6	𰮶	fmuw
+U+30BB7	𰮷	eadk
 U+30BB8	𰮸	
 U+30BB9	𰮹	
 U+30BBA	𰮺	
