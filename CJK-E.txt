@@ -5243,7 +5243,7 @@ U+2CC99	𬲙	wyua
 U+2CC9A	𬲚	wyda
 U+2CC9B	𬲛	wyar
 U+2CC9C	𬲜	wyit
-U+2CC9D	𬲝	wgvf
+U+2CC9D	𬲝	wywf
 U+2CC9E	𬲞	wyvs
 U+2CC9F	𬲟	wyvw
 U+2CCA0	𬲠	wywn
