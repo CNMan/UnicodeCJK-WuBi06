@@ -127,8 +127,8 @@ U+2B7BD	𫞽	taeu
 U+2B7BE	𫞾	tlxx
 U+2B7BF	𫞿	tuvs
 U+2B7C0	𫟀	ofvg
-U+2B7C1	𫟁	xinc
-U+2B7C2	𫟂	xipu
+U+2B7C1	𫟁	xnhc
+U+2B7C2	𫟂	xpau
 U+2B7C3	𫟃	xwtf
 U+2B7C4	𫟄	xpdc
 U+2B7C5	𫟅	xyki

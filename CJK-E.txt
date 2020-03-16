@@ -918,7 +918,7 @@ U+2BBB4	𫮴	foos
 U+2BBB5	𫮵	fnih
 U+2BBB6	𫮶	ffkk
 U+2BBB7	𫮷	fjfk
-U+2BBB8	𫮸	xidf
+U+2BBB8	𫮸	xdjf
 U+2BBB9	𫮹	fadi
 U+2BBBA	𫮺	pakf
 U+2BBBB	𫮻	cnhf
@@ -3508,7 +3508,7 @@ U+2C5D2	𬗒	xpgf
 U+2C5D3	𬗓	xumh
 U+2C5D4	𬗔	xyfy
 U+2C5D5	𬗕	xaah
-U+2C5D6	𬗖	xigu
+U+2C5D6	𬗖	xgku
 U+2C5D7	𬗗	xrrh
 U+2C5D8	𬗘	xgmu
 U+2C5D9	𬗙	xknd
@@ -3530,7 +3530,7 @@ U+2C5E8	𬗨	xxmy
 U+2C5E9	𬗩	xdrh
 U+2C5EA	𬗪	gxic
 U+2C5EB	𬗫	hnii
-U+2C5EC	𬗬	xirg
+U+2C5EC	𬗬	xrgg
 U+2C5ED	𬗭	xuxx
 U+2C5EE	𬗮	xugd
 U+2C5EF	𬗯	xamy
@@ -3551,14 +3551,14 @@ U+2C5FD	𬗽	xlsf
 U+2C5FE	𬗾	gxic
 U+2C5FF	𬗿	xwyc
 U+2C600	𬘀	xief
-U+2C601	𬘁	xixy
+U+2C601	𬘁	xxxy
 U+2C602	𬘂	xcnm
 U+2C603	𬘃	xgfx
 U+2C604	𬘄	xgjx
 U+2C605	𬘅	xlud
 U+2C606	𬘆	xfbh
 U+2C607	𬘇	xqlq
-U+2C608	𬘈	xith
+U+2C608	𬘈	xteh
 U+2C609	𬘉	xdlf
 U+2C60A	𬘊	xlcx
 U+2C60B	𬘋	xrrm
