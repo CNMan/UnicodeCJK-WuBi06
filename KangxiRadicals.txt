@@ -145,7 +145,7 @@ U+2F8F	⾏	tgsh
 U+2F90	⾐	yeu
 U+2F91	⾑	gmbk
 U+2F92	⾒	hqb
-U+2F93	⾓	qehk
+U+2F93	⾓	qehj
 U+2F94	⾔	yyyy
 U+2F95	⾕	wwkf
 U+2F96	⾖	gkuf
