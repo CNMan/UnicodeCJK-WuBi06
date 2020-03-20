@@ -66,7 +66,7 @@ U+2CEF0	𬻰	ghsf
 U+2CEF1	𬻱	mhlg
 U+2CEF2	𬻲	nhvy
 U+2CEF3	𬻳	khsh
-U+2CEF4	𬻴	vhwc
+U+2CEF4	𬻴	hvwc
 U+2CEF5	𬻵	qyvo
 U+2CEF6	𬻶	iakh
 U+2CEF7	𬻷	nhfy
@@ -7302,7 +7302,7 @@ U+2EB34	𮬴	ldwo
 U+2EB35	𮬵	mnwo
 U+2EB36	𮬶	qkwo
 U+2EB37	𮬷	wvgs
-U+2EB38	𮬸	wgva
+U+2EB38	𮬸	wvga
 U+2EB39	𮬹	kewo
 U+2EB3A	𮬺	qyto
 U+2EB3B	𮬻	wvgb

@@ -34,7 +34,7 @@ U+30020	𰀠	hui
 U+30021	𰀡	jcy
 U+30022	𰀢	jtyy
 U+30023	𰀣	nhfw
-U+30024	𰀤	vhgg
+U+30024	𰀤	hvgg
 U+30025	𰀥	hnnh
 U+30026	𰀦	hnnn
 U+30027	𰀧	nhmk
