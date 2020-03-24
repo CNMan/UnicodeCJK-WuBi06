@@ -30160,7 +30160,7 @@ U+275CE	𧗎	aiel
 U+275CF	𧗏	tlkm
 U+275D0	𧗐	tlnt
 U+275D1	𧗑	dufl
-U+275D2	𧗒	xxdy
+U+275D2	𧗒	xxal
 U+275D3	𧗓	xxdl
 U+275D4	𧗔	tlwm
 U+275D5	𧗕	etll

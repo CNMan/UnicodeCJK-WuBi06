@@ -83,7 +83,7 @@ U+2ED1	⻑	deu
 U+2ED2	⻒	dcu
 U+2ED3	⻓	tayi
 U+2ED4	⻔	uyhn
-U+2ED5	⻕	thnn
+U+2ED5	⻕	wnnn
 U+2ED6	⻖	bnh
 U+2ED7	⻗	fghy
 U+2ED8	⻘	gef

@@ -4220,7 +4220,7 @@ U+5E7A	幺	xxxx
 U+5E7B	幻	xnn
 U+5E7C	幼	xet
 U+5E7D	幽	mxxi
-U+5E7E	幾	xxdy
+U+5E7E	幾	xxaw
 U+5E7F	广	oygt
 U+5E80	庀	oxv
 U+5E81	庁	osk
