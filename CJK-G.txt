@@ -2517,7 +2517,7 @@ U+309D3	𰧓	daps
 U+309D4	𰧔	djtl
 U+309D5	𰧕	dwgk
 U+309D6	𰧖	drsc
-U+309D7	𰧗	dtgf
+U+309D7	𰧗	dtff
 U+309D8	𰧘	dyfj
 U+309D9	𰧙	dipf
 U+309DA	𰧚	dlun

@@ -2477,7 +2477,7 @@ U+2C1CB	𬇋	ynqa
 U+2C1CC	𬇌	qask
 U+2C1CD	𬇍	ywra
 U+2C1CE	𬇎	qakk
-U+2C1CF	𬇏	rnsi
+U+2C1CF	𬇏	rnsu
 U+2C1D0	𬇐	rnjn
 U+2C1D1	𬇑	rnsh
 U+2C1D2	𬇒	rndi

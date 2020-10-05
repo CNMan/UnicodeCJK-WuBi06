@@ -181,7 +181,7 @@ U+2FB3	⾳	ujf
 U+2FB4	⾴	dmu
 U+2FB5	⾵	wtji
 U+2FB6	⾶	nuth
-U+2FB7	⾷	wyvu
+U+2FB7	⾷	wyve
 U+2FB8	⾸	uthf
 U+2FB9	⾹	tjf
 U+2FBA	⾺	coi

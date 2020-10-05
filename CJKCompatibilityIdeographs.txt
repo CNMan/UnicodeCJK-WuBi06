@@ -183,7 +183,7 @@ U+F9B5	例	wgqj
 U+F9B6	禮	pymu
 U+F9B7	醴	sgmu
 U+F9B8	隸	sfii
-U+F9B9	惡	gjgn
+U+F9B9	惡	gfgn
 U+F9BA	了	bnh
 U+F9BB	僚	wdui
 U+F9BC	寮	pdui

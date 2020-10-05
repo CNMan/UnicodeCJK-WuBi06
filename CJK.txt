@@ -168,7 +168,7 @@ U+4EA6	亦	you
 U+4EA7	产	ute
 U+4EA8	亨	ykbj
 U+4EA9	亩	ylf
-U+4EAA	亪	yoyu
+U+4EAA	亪	yoyb
 U+4EAB	享	ykbf
 U+4EAC	京	ykiu
 U+4EAD	亭	ykps
@@ -7701,12 +7701,12 @@ U+6C13	氓	ynna
 U+6C14	气	rnb
 U+6C15	氕	rntr
 U+6C16	氖	rnbr
-U+6C17	気	rnri
+U+6C17	気	rnru
 U+6C18	氘	rnjj
 U+6C19	氙	rnmj
 U+6C1A	氚	rnkj
 U+6C1B	氛	rnwv
-U+6C1C	氜	rnjd
+U+6C1C	氜	rnjf
 U+6C1D	氝	rnmw
 U+6C1E	氞	rngw
 U+6C1F	氟	rnxj
