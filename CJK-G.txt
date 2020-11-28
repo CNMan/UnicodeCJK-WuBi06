@@ -774,7 +774,7 @@ U+30304	𰌄	vdpy
 U+30305	𰌅	rcvf
 U+30306	𰌆	lrvf
 U+30307	𰌇	vgmy
-U+30308	𰌈	cfhg
+U+30308	𰌈	vfhg
 U+30309	𰌉	vkjn
 U+3030A	𰌊	vaqq
 U+3030B	𰌋	vug
