@@ -2,7 +2,7 @@
 
 * 仅聚焦单字全码，不涉及简码、容错码和词组。
 
-* 字形以 [Unicode 13.0.0 CodeCharts](https://www.unicode.org/Public/13.0.0/charts/CodeCharts.pdf) 为准，同时参考中华人民共和国[《信息技术 中文编码字符集》国家标准 GB 18030-2005](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=C344D8D120B341A8DD328954A9B27A99) 、[《信息技术 中文编码字符集 汉字48点阵字型 第1部分：宋体》国家标准 GB/T 22321.1-2018](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=BCBF3BC7DCED3629F5E41CE02D9CFD55)、[新版 GB 18030 国标](http://www.nits.org.cn/getIndex.req?action=quary&req=modulenvpromote&id=3247&type=0&moduleId=83&sid=5)，不一致的请反馈至[Unicode与国标字形不符字整理](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/42)。
+* 字形以 [Unicode 14.0.0 CodeCharts](https://www.unicode.org/Public/14.0.0/charts/CodeCharts.pdf) 为准，同时参考中华人民共和国[《信息技术 中文编码字符集》国家标准 GB 18030-2005](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=C344D8D120B341A8DD328954A9B27A99) 、[《信息技术 中文编码字符集 汉字48点阵字型 第1部分：宋体》国家标准 GB/T 22321.1-2018](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=BCBF3BC7DCED3629F5E41CE02D9CFD55)、[新版 GB 18030 国标](http://www.nits.org.cn/getIndex.req?action=quary&req=modulenvpromote&id=3247&type=0&moduleId=83&sid=5)，不一致的请反馈至[Unicode与国标字形不符字整理](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/42)。
 
 * 字体以[方正字库](http://www.foundertype.com/)给[籍合网](http://www.ancientbooks.cn/)做的[中华书局宋体](http://www.ancientbooks.cn/helpcore?font)（支持Unicode 12.1.0）为主。
 
@@ -57,13 +57,14 @@ T源（中国台湾）、H源（中国香港）、M源（中国澳门）、J源�
 |10.0.0|2017.06|20,971||||||7,473|||||
 |11.0.0|2018.06|20,976|||||||||||
 |13.0.0|2020.03|20,989|6,592|42,718|||||4,939||||
+|14.0.0|2021.09|20,992||42,720|4,153||||||||
 |?|?|||||||||4,205|||
 
 GBK 基本相当于 Unicode 1.0.1；GB18030－2000 基本相当于 Unicode 3.0.0；GB18030－2005 基本相当于 Unicode 3.1.0；GB18030－2019 基本相当于 Unicode 11.0.0。
 
 ```
 总码数：20,992+6,592+42,720+4,160+224+5,776+7,488+4,944+4,208+512+544=98,160
-总字数：20,989+6,592+42,718+4,149+222+5,762+7,473+4,939+4,205+472+542=98,063
+总字数：20,992+6,592+42,720+4,153+222+5,762+7,473+4,939+4,205+472+542=98,072
 ```
 
 ## 王码五笔字型输入法
@@ -117,7 +118,7 @@ CE5A4007936D580000AAF433282D9D183EF87ADC *wmwb2012a.exe v2.0.0.1
 
 [Unihan Database Lookup](https://www.unicode.org/charts/unihan.html)
 
-[ISO/IEC 10646 5th edition](http://standards.iso.org/ittf/PubliclyAvailableStandards/c069119_ISO_IEC_10646_2017.zip)
+[ISO/IEC 10646 6th edition](https://standards.iso.org/ittf/PubliclyAvailableStandards/c076835_ISO_IEC_10646_2020(E).zip)
 
 [IDS data for CJK Unified Ideographs](https://github.com/cjkvi/cjkvi-ids)
 

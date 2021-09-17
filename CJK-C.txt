@@ -4147,10 +4147,10 @@ U+2B731	𫜱	amhd
 U+2B732	𫜲	dedy
 U+2B733	𫜳	mfqn
 U+2B734	𫜴	ssoa
-U+2B735
-U+2B736
-U+2B737
-U+2B738
+U+2B735	𫜵	etyt
+U+2B736	𫜶	eykt
+U+2B737	𫜷	dtfb
+U+2B738	𫜸	kxn
 U+2B739
 U+2B73A
 U+2B73B

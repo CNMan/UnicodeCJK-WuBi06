@@ -20987,6 +20987,6 @@ U+9FF9	鿹	qgpm
 U+9FFA	鿺	gtqg
 U+9FFB	鿻	enuh
 U+9FFC	鿼	enuk
-U+9FFD
-U+9FFE
-U+9FFF
+U+9FFD	鿽	kpqf
+U+9FFE	鿾	fyvb
+U+9FFF	鿿	gehi

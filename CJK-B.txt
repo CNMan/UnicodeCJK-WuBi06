@@ -42716,5 +42716,5 @@ U+2A6DA	𪛚	hgd
 U+2A6DB	𪛛	nyi
 U+2A6DC	𪛜	aaaa
 U+2A6DD	𪛝	wyi
-U+2A6DE
-U+2A6DF
+U+2A6DE	𪛞	gaps
+U+2A6DF	𪛟	hgg
