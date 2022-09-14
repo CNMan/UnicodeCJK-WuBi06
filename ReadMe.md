@@ -2,13 +2,13 @@
 
 * 仅聚焦单字全码，不涉及简码、容错码和词组。
 
-* 字形以 [Unicode 14.0.0 CodeCharts](https://www.unicode.org/Public/14.0.0/charts/CodeCharts.pdf) 为准，同时参考中华人民共和国[《信息技术 中文编码字符集》国家标准 GB 18030-2005](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=C344D8D120B341A8DD328954A9B27A99) 、[《信息技术 中文编码字符集 汉字48点阵字型 第1部分：宋体》国家标准 GB/T 22321.1-2018](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=BCBF3BC7DCED3629F5E41CE02D9CFD55)、[新版 GB 18030 国标](http://www.nits.org.cn/getIndex.req?action=quary&req=modulenvpromote&id=3247&type=0&moduleId=83&sid=5)，不一致的请反馈至[Unicode与国标字形不符字整理](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/42)。
+* 字形以 [Unicode 15.0.0 CodeCharts](https://www.unicode.org/Public/15.0.0/charts/CodeCharts.pdf) 为准，同时参考中华人民共和国[《信息技术 中文编码字符集》国家标准 GB 18030-2022](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=A1931A578FE14957104988029B0833D3) 、[《信息技术 中文编码字符集 汉字48点阵字型 第1部分：宋体》国家标准 GB/T 22321.1-2018](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=BCBF3BC7DCED3629F5E41CE02D9CFD55)，不一致的请反馈至[Unicode与国标字形不符字整理](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/42)。
 
 * 字体以[方正字库](http://www.foundertype.com/)给[籍合网](http://www.ancientbooks.cn/)做的[中华书局宋体](http://www.ancientbooks.cn/helpcore?font)（支持Unicode 12.1.0）为主。
 
   * [中华书局宋体错误（GB18030-2005字符部分）](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/7)
 
-  * [中华书局宋体错误（GB18030-2019新增字符部分）](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/36)
+  * [中华书局宋体错误（GB18030-2022新增字符部分）](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/36)
 
 * 这是一个数据库，不是一个码表。
 
@@ -42,8 +42,8 @@ T源（中国台湾）、H源（中国香港）、M源（中国澳门）、J源�
 
 |版本|发布年月|CJK|CJK-A|CJK-B|CJK-C|CJK-D|CJK-E|CJK-F|CJK-G|CJK-H|CJK-CI|CJK-CIS|
 |-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
-|码位||4E00-9FFF|3400-4DBF|20000-2A6DF|2A700-2B73F|2B740-2B81F|2B820-2CEAF|2CEB0-2EBEF|30000-3134F|31350-323BF|F900-FAFF|2F800-2FA1F|
-|码数||20,992|6,592|42,720|4,160|224|5,776|7,488|4,944|4,208|512|544|
+|码位||4E00-9FFF|3400-4DBF|20000-2A6DF|2A700-2B73F|2B740-2B81F|2B820-2CEAF|2CEB0-2EBEF|30000-3134F|31350-323AF|F900-FAFF|2F800-2FA1F|
+|码数||20,992|6,592|42,720|4,160|224|5,776|7,488|4,944|4,192|512|544|
 |1.0.1|1992.06|20,902|||||||||302||
 |3.0.0|1999.09||6,582||||||||||
 |3.1.0|2001.03|||42,711||||||||542|
@@ -58,13 +58,13 @@ T源（中国台湾）、H源（中国香港）、M源（中国澳门）、J源�
 |11.0.0|2018.06|20,976|||||||||||
 |13.0.0|2020.03|20,989|6,592|42,718|||||4,939||||
 |14.0.0|2021.09|20,992||42,720|4,153||||||||
-|?|?|||||||||4,205|||
+|15.0.0|2022.09||||4,154|||||4,192|||
 
-GBK 基本相当于 Unicode 1.0.1；GB18030－2000 基本相当于 Unicode 3.0.0；GB18030－2005 基本相当于 Unicode 3.1.0；GB18030－2019 基本相当于 Unicode 11.0.0。
+GBK 基本相当于 Unicode 1.0.1；GB18030－2000 基本相当于 Unicode 3.0.0；GB18030－2005 基本相当于 Unicode 3.1.0；GB18030－2022 基本相当于 Unicode 11.0.0。
 
 ```
-总码数：20,992+6,592+42,720+4,160+224+5,776+7,488+4,944+4,208+512+544=98,160
-总字数：20,992+6,592+42,720+4,153+222+5,762+7,473+4,939+4,205+472+542=98,072
+总码数：20,992+6,592+42,720+4,160+224+5,776+7,488+4,944+4,192+512+544=98,144
+总字数：20,992+6,592+42,720+4,154+222+5,762+7,473+4,939+4,192+472+542=98,060
 ```
 
 ## 王码五笔字型输入法

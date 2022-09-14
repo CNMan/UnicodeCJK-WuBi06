@@ -4151,7 +4151,7 @@ U+2B735	𫜵	etyt
 U+2B736	𫜶	eykt
 U+2B737	𫜷	dtfb
 U+2B738	𫜸	kxn
-U+2B739
+U+2B739	𫜹	vngg
 U+2B73A
 U+2B73B
 U+2B73C
