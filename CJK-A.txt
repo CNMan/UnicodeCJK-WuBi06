@@ -2274,7 +2274,7 @@ U+3CE0	㳠	idpy
 U+3CE1	㳡	ifpy
 U+3CE2	㳢	itdj
 U+3CE3	㳣	iftx
-U+3CE4	㳤	iuay
+U+3CE4	㳤	iyai
 U+3CE5	㳥	igah
 U+3CE6	㳦	iaah
 U+3CE7	㳧	ibnn
@@ -5455,7 +5455,7 @@ U+494D	䥍	fufq
 U+494E	䥎	qdfe
 U+494F	䥏	qtrb
 U+4950	䥐	cnhq
-U+4951	䥑	qswq
+U+4951	䥑	qswt
 U+4952	䥒	xcjq
 U+4953	䥓	qadf
 U+4954	䥔	qsoy
@@ -5673,7 +5673,7 @@ U+4A27	䨧	fuwc
 U+4A28	䨨	fwnp
 U+4A29	䨩	fpyh
 U+4A2A	䨪	ffjf
-U+4A2B	䨫	fswq
+U+4A2B	䨫	fswt
 U+4A2C	䨬	fiss
 U+4A2D	䨭	ffce
 U+4A2E	䨮	fdhv
@@ -6060,7 +6060,7 @@ U+4BAA	䮪	coqs
 U+4BAB	䮫	colv
 U+4BAC	䮬	coad
 U+4BAD	䮭	coeq
-U+4BAE	䮮	cosq
+U+4BAE	䮮	cost
 U+4BAF	䮯	cogt
 U+4BB0	䮰	coyd
 U+4BB1	䮱	cogp
@@ -6457,7 +6457,7 @@ U+4D37	䴷	swwq
 U+4D38	䴸	swwb
 U+4D39	䴹	swws
 U+4D3A	䴺	swwk
-U+4D3B	䴻	tqtq
+U+4D3B	䴻	tqtt
 U+4D3C	䴼	swwa
 U+4D3D	䴽	swwf
 U+4D3E	䴾	swwa
@@ -6467,7 +6467,7 @@ U+4D41	䵁	swwf
 U+4D42	䵂	swwd
 U+4D43	䵃	swww
 U+4D44	䵄	swwu
-U+4D45	䵅	gqtq
+U+4D45	䵅	gqtt
 U+4D46	䵆	swwe
 U+4D47	䵇	osst
 U+4D48	䵈	txts

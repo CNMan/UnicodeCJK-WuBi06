@@ -5296,7 +5296,7 @@ U+2E35E	𮍞	thtf
 U+2E35F	𮍟	thef
 U+2E360	𮍠	gcfy
 U+2E361	𮍡	gcfc
-U+2E362	𮍢	ufwf
+U+2E362	𮍢	udgf
 U+2E363	𮍣	gcfg
 U+2E364	𮍤	emgf
 U+2E365	𮍥	tef

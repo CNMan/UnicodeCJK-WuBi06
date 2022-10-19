@@ -168,7 +168,7 @@ U+4EA6	亦	you
 U+4EA7	产	ute
 U+4EA8	亨	ykbj
 U+4EA9	亩	ylf
-U+4EAA	亪	yoyb
+U+4EAA	亪	yonb
 U+4EAB	享	ykbf
 U+4EAC	京	ykiu
 U+4EAD	亭	ykps
@@ -2074,7 +2074,7 @@ U+5618	嘘	khag
 U+5619	嘙	kihv
 U+561A	嘚	ktjf
 U+561B	嘛	koss
-U+561C	嘜	kswq
+U+561C	嘜	kswt
 U+561D	嘝	kqef
 U+561E	嘞	kake
 U+561F	嘟	kftb
@@ -20643,7 +20643,7 @@ U+9EA1	麡	onjj
 U+9EA2	麢	onjk
 U+9EA3	麣	onjt
 U+9EA4	麤	onjx
-U+9EA5	麥	swwq
+U+9EA5	麥	swwt
 U+9EA6	麦	gtu
 U+9EA7	麧	swwn
 U+9EA8	麨	swwt
@@ -20662,9 +20662,9 @@ U+9EB4	麴	swwo
 U+9EB5	麵	swwd
 U+9EB6	麶	swwc
 U+9EB7	麷	swwu
-U+9EB8	麸	gqfw
-U+9EB9	麹	gqqo
-U+9EBA	麺	gqdd
+U+9EB8	麸	gtfw
+U+9EB9	麹	gtqo
+U+9EBA	麺	gtdd
 U+9EBB	麻	ossi
 U+9EBC	麼	ossx
 U+9EBD	麽	ossc

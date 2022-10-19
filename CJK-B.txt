@@ -6469,7 +6469,7 @@ U+21943	𡥃	bvg
 U+21944	𡥄	bkf
 U+21945	𡥅	rbg
 U+21946	𡥆	nhfb
-U+21947	𡥇	fbwi
+U+21947	𡥇	fbwu
 U+21948	𡥈	rrbf
 U+21949	𡥉	rdbf
 U+2194A	𡥊	btfn
@@ -9556,7 +9556,7 @@ U+22552	𢕒	tykt
 U+22553	𢕓	takk
 U+22554	𢕔	tujf
 U+22555	𢕕	tcce
-U+22556	𢕖	tsdb
+U+22556	𢕖	tsdn
 U+22557	𢕗	tpdk
 U+22558	𢕘	tmwy
 U+22559	𢕙	tqtl
@@ -11168,7 +11168,7 @@ U+22B9E	𢮞	rcyy
 U+22B9F	𢮟	nvpr
 U+22BA0	𢮠	gngr
 U+22BA1	𢮡	rwug
-U+22BA2	𢮢	rnff
+U+22BA2	𢮢	rnhf
 U+22BA3	𢮣	eurj
 U+22BA4	𢮤	recn
 U+22BA5	𢮥	rcdi
@@ -11467,7 +11467,7 @@ U+22CC9	𢳉	xqkr
 U+22CCA	𢳊	rfwy
 U+22CCB	𢳋	rorf
 U+22CCC	𢳌	rhgn
-U+22CCD	𢳍	rsdb
+U+22CCD	𢳍	rsdn
 U+22CCE	𢳎	rfaf
 U+22CCF	𢳏	rxmg
 U+22CD0	𢳐	rmdj
@@ -13851,7 +13851,7 @@ U+23619	𣘙	sukb
 U+2361A	𣘚	syxf
 U+2361B	𣘛	srqq
 U+2361C	𣘜	stck
-U+2361D	𣘝	ssdb
+U+2361D	𣘝	ssdn
 U+2361E	𣘞	swyg
 U+2361F	𣘟	wnhs
 U+23620	𣘠	stsk
@@ -15082,7 +15082,7 @@ U+23AE8	𣫨	fnwl
 U+23AE9	𣫩	oguc
 U+23AEA	𣫪	fptj
 U+23AEB	𣫫	atdq
-U+23AEC	𣫬	xgjk
+U+23AEC	𣫬	xad
 U+23AED	𣫭	yxu
 U+23AEE	𣫮	bxu
 U+23AEF	𣫯	xxu
@@ -16091,7 +16091,7 @@ U+23ED9	𣻙	itkk
 U+23EDA	𣻚	itss
 U+23EDB	𣻛	idwe
 U+23EDC	𣻜	itwf
-U+23EDD	𣻝	isdb
+U+23EDD	𣻝	isdn
 U+23EDE	𣻞	ilff
 U+23EDF	𣻟	iday
 U+23EE0	𣻠	iwgf
@@ -23672,7 +23672,7 @@ U+25C76	𥱶	tdrr
 U+25C77	𥱷	twym
 U+25C78	𥱸	takk
 U+25C79	𥱹	tajd
-U+25C7A	𥱺	tsdb
+U+25C7A	𥱺	tsdn
 U+25C7B	𥱻	twgp
 U+25C7C	𥱼	tirf
 U+25C7D	𥱽	tlub
@@ -25541,7 +25541,7 @@ U+263C3	𦏃	cnhg
 U+263C4	𦏄	ugdg
 U+263C5	𦏅	ugdw
 U+263C6	𦏆	uguf
-U+263C7	𦏇	uguy
+U+263C7	𦏇	ugqy
 U+263C8	𦏈	ugdt
 U+263C9	𦏉	uglo
 U+263CA	𦏊	ugay
@@ -30791,7 +30791,7 @@ U+27845	𧡅	dtdq
 U+27846	𧡆	huhq
 U+27847	𧡇	hqle
 U+27848	𧡈	kghq
-U+27849	𧡉	hquu
+U+27849	𧡉	hqyi
 U+2784A	𧡊	wsgq
 U+2784B	𧡋	dffq
 U+2784C	𧡌	yneq

@@ -143,7 +143,7 @@ U+2F8D	⾍	jhny
 U+2F8E	⾎	tld
 U+2F8F	⾏	tgsh
 U+2F90	⾐	yeu
-U+2F91	⾑	gmbk
+U+2F91	⾑	gmjg
 U+2F92	⾒	hqb
 U+2F93	⾓	qehj
 U+2F94	⾔	yyyy
