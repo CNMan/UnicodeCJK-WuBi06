@@ -19,7 +19,7 @@ U+31361	𱍡	dhuh
 U+31362	𱍢	dqqs
 U+31363	𱍣	qtgc
 U+31364	𱍤	dhjh
-U+31365	𱍥	agkg
+U+31365	𱍥	hghg
 U+31366	𱍦	anyy
 U+31367	𱍧	vakh
 U+31368	𱍨	akfg
@@ -43,7 +43,7 @@ U+31379	𱍹	byi
 U+3137A	𱍺	tdnb
 U+3137B	𱍻	fpd
 U+3137C	𱍼	whqg
-U+3137D	𱍽	dmpy
+U+3137D	𱍽	dmjp
 U+3137E	𱍾	cwyy
 U+3137F	𱍿	lvqy
 U+31380	𱎀	nvd
@@ -72,7 +72,7 @@ U+31396	𱎖	gfmf
 U+31397	𱎗	ytny
 U+31398	𱎘	ycag
 U+31399	𱎙	ykpq
-U+3139A	𱎚	wrr
+U+3139A	𱎚	wre
 U+3139B	𱎛	wff
 U+3139C	𱎜	wghu
 U+3139D	𱎝	wynn
@@ -276,7 +276,7 @@ U+31462	𱑢	cnb
 U+31463	𱑣	fcuh
 U+31464	𱑤	fchg
 U+31465	𱑥	mfcy
-U+31466	𱑦	fcja
+U+31466	𱑦	fcjx
 U+31467	𱑧	citk
 U+31468	𱑨	cfcd
 U+31469	𱑩	fckw
@@ -1347,7 +1347,7 @@ U+31891	𱢑	fjff
 U+31892	𱢒	jaeu
 U+31893	𱢓	jrpf
 U+31894	𱢔	jlny
-U+31895	𱢕	jmfh
+U+31895	𱢕	jjhg
 U+31896	𱢖	jwvl
 U+31897	𱢗	jnuu
 U+31898	𱢘	jqvn
@@ -1756,7 +1756,7 @@ U+31A2A	𱨪	ighg
 U+31A2B	𱨫	isfo
 U+31A2C	𱨬	iimt
 U+31A2D	𱨭	ikfd
-U+31A2E	𱨮	imff
+U+31A2E	𱨮	ijlf
 U+31A2F	𱨯	imaf
 U+31A30	𱨰	ildh
 U+31A31	𱨱	ijqc

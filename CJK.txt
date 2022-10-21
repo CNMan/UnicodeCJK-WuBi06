@@ -168,7 +168,7 @@ U+4EA6	亦	you
 U+4EA7	产	ute
 U+4EA8	亨	ykbj
 U+4EA9	亩	ylf
-U+4EAA	亪	yonb
+U+4EAA	亪	yoyu
 U+4EAB	享	ykbf
 U+4EAC	京	ykiu
 U+4EAD	亭	ykps

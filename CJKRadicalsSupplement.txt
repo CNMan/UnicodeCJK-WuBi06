@@ -27,7 +27,7 @@ U+2E99	⺙	ttgy
 U+2E9A
 U+2E9B	⺛	aqv
 U+2E9C	⺜	jhng
-U+2E9D	⺝	ehng
+U+2E9D	⺝	eeee
 U+2E9E	⺞	hqu
 U+2E9F	⺟	xnny
 U+2EA0	⺠	nav
@@ -54,7 +54,7 @@ U+2EB4	⺴	pqb
 U+2EB5	⺵	mjk
 U+2EB6	⺶	ugr
 U+2EB7	⺷	ugf
-U+2EB8	⺸	hghg
+U+2EB8	⺸	hghf
 U+2EB9	⺹	fte
 U+2EBA	⺺	vhk
 U+2EBB	⺻	vhgd
@@ -63,7 +63,7 @@ U+2EBD	⺽	ethg
 U+2EBE	⺾	aghh
 U+2EBF	⺿	ahgh
 U+2EC0	⻀	hghg
-U+2EC1	⻁	haqv
+U+2EC1	⻁	hawv
 U+2EC2	⻂	puyy
 U+2EC3	⻃	sghg
 U+2EC4	⻄	sghg
@@ -92,7 +92,7 @@ U+2EDA	⻚	dmu
 U+2EDB	⻛	wri
 U+2EDC	⻜	nui
 U+2EDD	⻝	wyve
-U+2EDE	⻞	wyvf
+U+2EDE	⻞	wytg
 U+2EDF	⻟	wyty
 U+2EE0	⻠	qnb
 U+2EE1	⻡	vdhf

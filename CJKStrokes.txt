@@ -27,13 +27,13 @@ U+31D9	㇙	nnll
 U+31DA	㇚	hhll
 U+31DB	㇛	nnll
 U+31DC	㇜	nnll
-U+31DD	㇝	nnll
+U+31DD	㇝	yyll
 U+31DE	㇞	nnll
 U+31DF	㇟	nnll
 U+31E0	㇠	nnll
 U+31E1	㇡	nnll
 U+31E2	㇢	nnll
-U+31E3	㇣	nnll
+U+31E3	㇣	knll
 U+31E4
 U+31E5
 U+31E6
