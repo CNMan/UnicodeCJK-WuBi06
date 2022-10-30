@@ -1879,7 +1879,7 @@ U+30755	𰝕	ikll
 U+30756	𰝖	ijmn
 U+30757	𰝗	ituj
 U+30758	𰝘	ioom
-U+30759	𰝙	idhe
+U+30759	𰝙	dtbe
 U+3075A	𰝚	isre
 U+3075B	𰝛	ilrf
 U+3075C	𰝜	idjy

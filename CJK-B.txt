@@ -10957,7 +10957,7 @@ U+22ACB	𢫋	rhgg
 U+22ACC	𢫌	rwbn
 U+22ACD	𢫍	rqry
 U+22ACE	𢫎	rqnn
-U+22ACF	𢫏	rmmh
+U+22ACF	𢫏	rpmh
 U+22AD0	𢫐	riwy
 U+22AD1	𢫑	rqhy
 U+22AD2	𢫒	rbiy
@@ -31821,7 +31821,7 @@ U+27C4B	𧱋	tlge
 U+27C4C	𧱌	epge
 U+27C4D	𧱍	geps
 U+27C4E	𧱎	genn
-U+27C4F	𧱏	ufge
+U+27C4F	𧱏	ufeu
 U+27C50	𧱐	gefb
 U+27C51	𧱑	geee
 U+27C52	𧱒	gerc

@@ -2125,7 +2125,7 @@ U+2AF4B	𪽋	elf
 U+2AF4C	𪽌	lyy
 U+2AF4D	𪽍	lskf
 U+2AF4E	𪽎	lskg
-U+2AF4F	𪽏	lwgc
+U+2AF4F	𪽏	lwyc
 U+2AF50	𪽐	tlwj
 U+2AF51	𪽑	lqtg
 U+2AF52	𪽒	lycq
