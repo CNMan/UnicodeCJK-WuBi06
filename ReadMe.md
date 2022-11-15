@@ -2,13 +2,20 @@
 
 * 仅聚焦单字全码，不涉及简码、容错码和词组。
 
-* 字形以 [Unicode 15.0.0 CodeCharts](https://www.unicode.org/Public/15.0.0/charts/CodeCharts.pdf) 为准，同时参考中华人民共和国[《信息技术 中文编码字符集》国家标准 GB 18030-2022](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=A1931A578FE14957104988029B0833D3) 、[《信息技术 中文编码字符集 汉字48点阵字型 第1部分：宋体》国家标准 GB/T 22321.1-2018](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=BCBF3BC7DCED3629F5E41CE02D9CFD55)，不一致的请反馈至[Unicode与国标字形不符字整理](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/42)。
+* 字形参考
+  * [Unicode 15.0.0 CodeCharts](https://www.unicode.org/Public/15.0.0/charts/CodeCharts.pdf)
+  * [GB 18030-2022 信息技术 中文编码字符集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=A1931A578FE14957104988029B0833D3)
+  * [GB/T 36616.1-2018 信息技术 通用编码字符集（基本多文种平面） 汉字64点阵字型 第1部分：宋体](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=B237C0E1B670D4116A4CD942FAFFD82F)
+  * [GB/T 36616.2-2018 信息技术 通用编码字符集（基本多文种平面） 汉字64点阵字型 第2部分：黑体](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=D04297F7BFEBD71FFE0149C48EE3BF5E)
+  * [GB/T 36616.3-2018 信息技术 通用编码字符集（基本多文种平面） 汉字64点阵字型 第3部分：楷体](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=1EA5D0FFC8E7E5362117A060B6BE8D65)
+  * [GB/T 36616.4-2018 信息技术 通用编码字符集（基本多文种平面） 汉字64点阵字型 第4部分：仿宋体](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=09D8B4FDABD348DE1809202A6A921C46)
+  * 不一致的请反馈至[Unicode与国标字形不符字整理](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/42)
 
-* 字体以[方正字库](http://www.foundertype.com/)给[籍合网](http://www.ancientbooks.cn/)做的[中华书局宋体](http://www.ancientbooks.cn/helpcore?font)（支持Unicode 12.1.0）为主。
-
-  * [中华书局宋体错误（GB18030-2005字符部分）](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/7)
-
-  * [中华书局宋体错误（GB18030-2022新增字符部分）](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/36)
+* 字体使用
+  * [方正字库](http://www.foundertype.com/)给[籍合网](http://www.ancientbooks.cn/)做的[中华书局宋体](http://www.ancientbooks.cn/helpcore?font)（支持Unicode 12.1.0）
+    * [中华书局宋体错误（GB18030-2005字符部分）](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/7)
+    * [中华书局宋体错误（GB18030-2022新增字符部分）](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/36)
+  * [遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic)
 
 * 这是一个数据库，不是一个码表。
 
@@ -122,29 +129,33 @@ CE5A4007936D580000AAF433282D9D183EF87ADC *wmwb2012a.exe v2.0.0.1
 
 [IDS data for CJK Unified Ideographs](https://github.com/cjkvi/cjkvi-ids)
 
-[《通用规范汉字表》（国发〔2013〕23号）](http://www.gov.cn/zwgk/2013-08/19/content_2469793.htm)
-
-[《现代常用字部件及部件名称规范》（GF 0014-2009）](http://www.moe.gov.cn/s78/A19/yxs_left/moe_810/s230/201001/t20100115_75696.html)
-
-[《信息处理用GB13000.1字符集汉字部件规范》（GF 3001-1997）](http://www.moe.gov.cn/s78/A19/yxs_left/moe_810/s230/201001/t20100115_75616.html)
-
-[《现代汉语通用字笔顺规范》](http://www.moe.gov.cn/s78/A19/yxs_left/moe_810/s230/201001/t20100115_75615.html)
-
-[《GB13000.1字符集汉字笔顺规范》（GF3002-1999）](http://www.moe.gov.cn/s78/A19/yxs_left/moe_810/s230/201001/t20100115_75619.html)
-
-[《GB13000.1字符集汉字字序（笔画序）规范》（GF3003-1999）](http://www.moe.gov.cn/s78/A19/yxs_left/moe_810/s230/201001/t20100115_75631.html)
-
-[《GB13000.1字符集汉字部首归部规范》（GF0012-2009）](http://www.moe.gov.cn/s78/A19/yxs_left/moe_810/s230/200901/t20090102_186104.html)
-
-[《GB13000.1字符集汉字折笔规范》（GF2001-2001）](http://www.moe.gov.cn/s78/A19/yxs_left/moe_810/s230/201001/t20100115_75688.html)
-
-[《信息技术 汉字编码字符集 汉字部首序和笔顺序》（GB/T 25741-2010）](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=DB34CB2C5C377E35E3766A543724B767)
-
-[《信息技术 通用键盘汉字输入通用要求》（GB/T 19246-2003）](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=8F7BD4C48AA924CC5CD260BB1E298E4F)
-
-[《信息技术 数字键盘汉字输入通用要求》（GB/T 18031-2016）](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=3CA25D96795756C2B350B03478A7AB18)
-
 [国家语委语料库在线网站](http://corpus.zhonghuayuwen.org/)
+
+[现代汉语通用字笔顺规范](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201001/t20100115_75615.html)
+
+[GB/T 18031-2016 信息技术 数字键盘汉字输入通用要求](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=3CA25D96795756C2B350B03478A7AB18)
+
+[GB/T 19246-2003 信息技术 通用键盘汉字输入通用要求](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=8F7BD4C48AA924CC5CD260BB1E298E4F)
+
+[GB/T 25741-2010 信息技术 汉字编码字符集 汉字部首序和笔顺序](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=DB34CB2C5C377E35E3766A543724B767)
+
+[GF 0012-2009 GB13000.1字符集汉字部首归部规范](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/200901/t20090102_186104.html)
+
+[GF 0014-2009 现代常用字部件及部件名称规范](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201001/t20100115_75696.html)
+
+[GF 0017-2013 识字教学用通用键盘汉字字形输入系统评测规则](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201301/t20130101_185997.html)
+
+[GF 0023-2020 通用规范汉字笔顺规范](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/202103/t20210318_520473.html)
+
+[GF 2001-2001 GB13000.1字符集汉字折笔规范](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201001/t20100115_75688.html)
+
+[GF 3001-1997 信息处理用GB13000.1字符集汉字部件规范](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201001/t20100115_75616.html)
+
+[GF 3002-1999 GB13000.1字符集汉字笔顺规范](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201001/t20100115_75619.html)
+
+[GF 3003-1999 GB13000.1字符集汉字字序（笔画序）规范](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201001/t20100115_75631.html)
+
+[《通用规范汉字表》（国发〔2013〕23号）](http://www.gov.cn/zwgk/2013-08/19/content_2469793.htm)
 
 [方正通用规范字库（个人版）V1.0](http://ifont.foundertype.com/index/generalfonts.html)
 
