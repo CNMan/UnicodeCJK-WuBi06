@@ -4152,9 +4152,9 @@ U+2B736	𫜶	eykt
 U+2B737	𫜷	dtfb
 U+2B738	𫜸	kxn
 U+2B739	𫜹	vngg
-U+2B73A
-U+2B73B
-U+2B73C
-U+2B73D
-U+2B73E
-U+2B73F
+U+2B73A	𫜺	mlf
+U+2B73B	𫜻	ggsj
+U+2B73C	𫜼	bmcc
+U+2B73D	𫜽	bwsy
+U+2B73E	𫜾	pgef
+U+2B73F	𫜿	goen

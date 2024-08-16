@@ -5760,17 +5760,17 @@ U+2CE9E	𬺞	qkjn
 U+2CE9F	𬺟	wgkq
 U+2CEA0	𬺠	xgia
 U+2CEA1	𬺡	gjha
-U+2CEA2
-U+2CEA3
-U+2CEA4
-U+2CEA5
-U+2CEA6
-U+2CEA7
-U+2CEA8
-U+2CEA9
-U+2CEAA
-U+2CEAB
-U+2CEAC
-U+2CEAD
+U+2CEA2	𬺢	gwu
+U+2CEA3	𬺣	kgf
+U+2CEA4	𬺤	ywcu
+U+2CEA5	𬺥	yjfj
+U+2CEA6	𬺦	ykkk
+U+2CEA7	𬺧	uqb
+U+2CEA8	𬺨	qmhg
+U+2CEA9	𬺩	hjf
+U+2CEAA	𬺪	qtlc
+U+2CEAB	𬺫	mywc
+U+2CEAC	𬺬	xgey
+U+2CEAD	𬺭	ttds
 U+2CEAE
 U+2CEAF
