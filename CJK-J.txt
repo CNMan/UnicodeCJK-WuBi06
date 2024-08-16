@@ -1,0 +1,4304 @@
+U+323B0	𲎰	dnv
+U+323B1	𲎱	anv
+U+323B2	𲎲	dmb
+U+323B3	𲎳	dddf
+U+323B4	𲎴	ukqh
+U+323B5	𲎵	dkdj
+U+323B6	𲎶	dhff
+U+323B7	𲎷	tfcq
+U+323B8	𲎸	dhfe
+U+323B9	𲎹	hgwb
+U+323BA	𲎺	tdhj
+U+323BB	𲎻	jfay
+U+323BC	𲎼	wwkh
+U+323BD	𲎽	khee
+U+323BE	𲎾	kkhp
+U+323BF	𲎿	rbn
+U+323C0	𲏀	tkhu
+U+323C1	𲏁	byhu
+U+323C2	𲏂	sjch
+U+323C3	𲏃	tfww
+U+323C4	𲏄	odqy
+U+323C5	𲏅	qlwq
+U+323C6	𲏆	tnv
+U+323C7	𲏇	nui
+U+323C8	𲏈	inb
+U+323C9	𲏉	qynb
+U+323CA	𲏊	nnhg
+U+323CB	𲏋	fwnb
+U+323CC	𲏌	ngxi
+U+323CD	𲏍	itnb
+U+323CE	𲏎	wjnb
+U+323CF	𲏏	wvnb
+U+323D0	𲏐	qrnb
+U+323D1	𲏑	nbnv
+U+323D2	𲏒	nnxu
+U+323D3	𲏓	nguf
+U+323D4	𲏔	dnb
+U+323D5	𲏕	finb
+U+323D6	𲏖	dknb
+U+323D7	𲏗	kxnb
+U+323D8	𲏘	nhnn
+U+323D9	𲏙	qknb
+U+323DA	𲏚	wayn
+U+323DB	𲏛	nxi
+U+323DC	𲏜	qqnb
+U+323DD	𲏝	shnb
+U+323DE	𲏞	hxnb
+U+323DF	𲏟	rinb
+U+323E0	𲏠	qahn
+U+323E1	𲏡	venb
+U+323E2	𲏢	giyn
+U+323E3	𲏣	fpbn
+U+323E4	𲏤	wgsn
+U+323E5	𲏥	tsnb
+U+323E6	𲏦	ntfn
+U+323E7	𲏧	tqrn
+U+323E8	𲏨	tfan
+U+323E9	𲏩	ndnb
+U+323EA	𲏪	bskn
+U+323EB	𲏫	fcpn
+U+323EC	𲏬	aekn
+U+323ED	𲏭	ithn
+U+323EE	𲏮	jvkn
+U+323EF	𲏯	nutn
+U+323F0	𲏰	ajfn
+U+323F1	𲏱	menb
+U+323F2	𲏲	whtn
+U+323F3	𲏳	ebnh
+U+323F4	𲏴	ykmn
+U+323F5	𲏵	yxyn
+U+323F6	𲏶	lxin
+U+323F7	𲏷	lebn
+U+323F8	𲏸	tbsf
+U+323F9	𲏹	rlgn
+U+323FA	𲏺	yygn
+U+323FB	𲏻	wgkn
+U+323FC	𲏼	jvkn
+U+323FD	𲏽	ebnn
+U+323FE	𲏾	uthn
+U+323FF	𲏿	ebnh
+U+32400	𲐀	ebnh
+U+32401	𲐁	dibh
+U+32402	𲐂	fmj
+U+32403	𲐃	fdjf
+U+32404	𲐄	fccb
+U+32405	𲐅	qrfc
+U+32406	𲐆	fhdd
+U+32407	𲐇	gogi
+U+32408	𲐈	fcfc
+U+32409	𲐉	gact
+U+3240A	𲐊	fyto
+U+3240B	𲐋	gief
+U+3240C	𲐌	yjcu
+U+3240D	𲐍	ywks
+U+3240E	𲐎	ylsu
+U+3240F	𲐏	ywtn
+U+32410	𲐐	ypkk
+U+32411	𲐑	ynie
+U+32412	𲐒	ykpq
+U+32413	𲐓	ytmt
+U+32414	𲐔	ynlx
+U+32415	𲐕	wghh
+U+32416	𲐖	bwy
+U+32417	𲐗	wfnb
+U+32418	𲐘	wavt
+U+32419	𲐙	wsu
+U+3241A	𲐚	wfwu
+U+3241B	𲐛	wmhn
+U+3241C	𲐜	whqw
+U+3241D	𲐝	wmsh
+U+3241E	𲐞	wqtb
+U+3241F	𲐟	xwuu
+U+32420	𲐠	wagd
+U+32421	𲐡	wsg
+U+32422	𲐢	wwcw
+U+32423	𲐣	hnmn
+U+32424	𲐤	wmwk
+U+32425	𲐥	wjfh
+U+32426	𲐦	wbtg
+U+32427	𲐧	wbeg
+U+32428	𲐨	wyck
+U+32429	𲐩	wynx
+U+3242A	𲐪	wbeg
+U+3242B	𲐫	wvyn
+U+3242C	𲐬	wwww
+U+3242D	𲐭	wpyf
+U+3242E	𲐮	anwy
+U+3242F	𲐯	wmdg
+U+32430	𲐰	wtgi
+U+32431	𲐱	wtfh
+U+32432	𲐲	wovw
+U+32433	𲐳	wxbg
+U+32434	𲐴	wdae
+U+32435	𲐵	wdcc
+U+32436	𲐶	wdyl
+U+32437	𲐷	wjug
+U+32438	𲐸	wleg
+U+32439	𲐹	wmsg
+U+3243A	𲐺	wwga
+U+3243B	𲐻	wqmd
+U+3243C	𲐼	wbwg
+U+3243D	𲐽	wpff
+U+3243E	𲐾	wugd
+U+3243F	𲐿	woac
+U+32440	𲑀	weks
+U+32441	𲑁	waky
+U+32442	𲑂	wyne
+U+32443	𲑃	whtg
+U+32444	𲑄	wjgh
+U+32445	𲑅	ywwf
+U+32446	𲑆	wudo
+U+32447	𲑇	wadf
+U+32448	𲑈	wahf
+U+32449	𲑉	fpbd
+U+3244A	𲑊	whmk
+U+3244B	𲑋	wiph
+U+3244C	𲑌	wtfp
+U+3244D	𲑍	wukb
+U+3244E	𲑎	wskg
+U+3244F	𲑏	wwww
+U+32450	𲑐	wxdx
+U+32451	𲑑	wbtg
+U+32452	𲑒	wvfg
+U+32453	𲑓	wflg
+U+32454	𲑔	wake
+U+32455	𲑕	wlff
+U+32456	𲑖	wyek
+U+32457	𲑗	wuep
+U+32458	𲑘	wkki
+U+32459	𲑙	wyje
+U+3245A	𲑚	wukw
+U+3245B	𲑛	wnlv
+U+3245C	𲑜	wakf
+U+3245D	𲑝	wafe
+U+3245E	𲑞	wmaa
+U+3245F	𲑟	wpjc
+U+32460	𲑠	wuec
+U+32461	𲑡	wojf
+U+32462	𲑢	wgka
+U+32463	𲑣	fhwd
+U+32464	𲑤	wakm
+U+32465	𲑥	wqrh
+U+32466	𲑦	wsly
+U+32467	𲑧	wmdt
+U+32468	𲑨	wqaj
+U+32469	𲑩	gmwa
+U+3246A	𲑪	wfkw
+U+3246B	𲑫	wukn
+U+3246C	𲑬	igqy
+U+3246D	𲑭	igqh
+U+3246E	𲑮	qiwv
+U+3246F	𲑯	igqe
+U+32470	𲑰	atgk
+U+32471	𲑱	igqe
+U+32472	𲑲	igqj
+U+32473	𲑳	igqw
+U+32474	𲑴	igqe
+U+32475	𲑵	igqs
+U+32476	𲑶	gqtq
+U+32477	𲑷	igqj
+U+32478	𲑸	tfqx
+U+32479	𲑹	eqfq
+U+3247A	𲑺	gdky
+U+3247B	𲑻	tyul
+U+3247C	𲑼	towg
+U+3247D	𲑽	tyof
+U+3247E	𲑾	ubj
+U+3247F	𲑿	ekwu
+U+32480	𲒀	adwc
+U+32481	𲒁	ovyw
+U+32482	𲒂	sfhw
+U+32483	𲒃	ufwv
+U+32484	𲒄	mwww
+U+32485	𲒅	mwgk
+U+32486	𲒆	mvfj
+U+32487	𲒇	pwu
+U+32488	𲒈	pfcu
+U+32489	𲒉	phu
+U+3248A	𲒊	pwqq
+U+3248B	𲒋	uqy
+U+3248C	𲒌	uag
+U+3248D	𲒍	uriy
+U+3248E	𲒎	ugty
+U+3248F	𲒏	ugjr
+U+32490	𲒐	ukhy
+U+32491	𲒑	uwyk
+U+32492	𲒒	uwfk
+U+32493	𲒓	uudj
+U+32494	𲒔	uugd
+U+32495	𲒕	uvgj
+U+32496	𲒖	uwyx
+U+32497	𲒗	usfi
+U+32498	𲒘	ulxi
+U+32499	𲒙	uwym
+U+3249A	𲒚	uywa
+U+3249B	𲒛	pawj
+U+3249C	𲒜	uwyk
+U+3249D	𲒝	uylq
+U+3249E	𲒞	whk
+U+3249F	𲒟	twow
+U+324A0	𲒠	cbmj
+U+324A1	𲒡	rbty
+U+324A2	𲒢	bmny
+U+324A3	𲒣	bmly
+U+324A4	𲒤	hjh
+U+324A5	𲒥	ljh
+U+324A6	𲒦	tmkj
+U+324A7	𲒧	ovt
+U+324A8	𲒨	gkiv
+U+324A9	𲒩	vrrj
+U+324AA	𲒪	rrvr
+U+324AB	𲒫	mwyj
+U+324AC	𲒬	hwbj
+U+324AD	𲒭	tgvj
+U+324AE	𲒮	njgv
+U+324AF	𲒯	kkkj
+U+324B0	𲒰	tjwv
+U+324B1	𲒱	eckv
+U+324B2	𲒲	pwtj
+U+324B3	𲒳	hatj
+U+324B4	𲒴	iiij
+U+324B5	𲒵	mumh
+U+324B6	𲒶	fljh
+U+324B7	𲒷	tfqj
+U+324B8	𲒸	yrbv
+U+324B9	𲒹	ijtj
+U+324BA	𲒺	gjgj
+U+324BB	𲒻	atuj
+U+324BC	𲒼	teej
+U+324BD	𲒽	qiej
+U+324BE	𲒾	wgkv
+U+324BF	𲒿	qojj
+U+324C0	𲓀	aduj
+U+324C1	𲓁	mume
+U+324C2	𲓂	hxeb
+U+324C3	𲓃	wgke
+U+324C4	𲓄	awwe
+U+324C5	𲓅	jjen
+U+324C6	𲓆	sven
+U+324C7	𲓇	goge
+U+324C8	𲓈	egeb
+U+324C9	𲓉	gote
+U+324CA	𲓊	etxt
+U+324CB	𲓋	tlre
+U+324CC	𲓌	bhhe
+U+324CD	𲓍	fufe
+U+324CE	𲓎	apef
+U+324CF	𲓏	tfqe
+U+324D0	𲓐	thae
+U+324D1	𲓑	qtdd
+U+324D2	𲓒	qrgh
+U+324D3	𲓓	qyye
+U+324D4	𲓔	iftr
+U+324D5	𲓕	qrwj
+U+324D6	𲓖	qret
+U+324D7	𲓗	qraj
+U+324D8	𲓘	pasb
+U+324D9	𲓙	wglb
+U+324DA	𲓚	taqv
+U+324DB	𲓛	agwa
+U+324DC	𲓜	fmb
+U+324DD	𲓝	fwu
+U+324DE	𲓞	rfj
+U+324DF	𲓟	fjqv
+U+324E0	𲓠	fywy
+U+324E1	𲓡	tdwv
+U+324E2	𲓢	wvtf
+U+324E3	𲓣	hghf
+U+324E4	𲓤	ffff
+U+324E5	𲓥	ianf
+U+324E6	𲓦	fpwc
+U+324E7	𲓧	glgl
+U+324E8	𲓨	ycef
+U+324E9	𲓩	fjff
+U+324EA	𲓪	fwyf
+U+324EB	𲓫	fmuh
+U+324EC	𲓬	hveu
+U+324ED	𲓭	fjfh
+U+324EE	𲓮	hkpx
+U+324EF	𲓯	fmuh
+U+324F0	𲓰	ffhc
+U+324F1	𲓱	sbh
+U+324F2	𲓲	gdbj
+U+324F3	𲓳	mwbj
+U+324F4	𲓴	dbj
+U+324F5	𲓵	rbj
+U+324F6	𲓶	ekbj
+U+324F7	𲓷	tghb
+U+324F8	𲓸	iygb
+U+324F9	𲓹	wgsb
+U+324FA	𲓺	dthd
+U+324FB	𲓻	daei
+U+324FC	𲓼	dwyg
+U+324FD	𲓽	dbbb
+U+324FE	𲓾	gkrh
+U+324FF	𲓿	ckdb
+U+32500	𲔀	dwwo
+U+32501	𲔁	ddee
+U+32502	𲔂	cccf
+U+32503	𲔃	cugj
+U+32504	𲔄	fcup
+U+32505	𲔅	tlcy
+U+32506	𲔆	ywxc
+U+32507	𲔇	cccg
+U+32508	𲔈	jgwc
+U+32509	𲔉	epcf
+U+3250A	𲔊	begc
+U+3250B	𲔋	rcfj
+U+3250C	𲔌	ccle
+U+3250D	𲔍	kqn
+U+3250E	𲔎	kfg
+U+3250F	𲔏	kiy
+U+32510	𲔐	kdwy
+U+32511	𲔑	fkxb
+U+32512	𲔒	kwry
+U+32513	𲔓	kmyg
+U+32514	𲔔	ywkf
+U+32515	𲔕	ckxb
+U+32516	𲔖	kxt
+U+32517	𲔗	fkxb
+U+32518	𲔘	fkxb
+U+32519	𲔙	kgmg
+U+3251A	𲔚	kaen
+U+3251B	𲔛	klen
+U+3251C	𲔜	kjn
+U+3251D	𲔝	kwkg
+U+3251E	𲔞	bkxb
+U+3251F	𲔟	fbkf
+U+32520	𲔠	kfbb
+U+32521	𲔡	gkxb
+U+32522	𲔢	akxb
+U+32523	𲔣	kgmg
+U+32524	𲔤	kmrj
+U+32525	𲔥	tfnx
+U+32526	𲔦	kwsy
+U+32527	𲔧	ykxb
+U+32528	𲔨	pkxb
+U+32529	𲔩	kunw
+U+3252A	𲔪	kuhb
+U+3252B	𲔫	kege
+U+3252C	𲔬	ankx
+U+3252D	𲔭	krgx
+U+3252E	𲔮	krry
+U+3252F	𲔯	kahb
+U+32530	𲔰	kgiy
+U+32531	𲔱	uxkx
+U+32532	𲔲	kjvg
+U+32533	𲔳	kefh
+U+32534	𲔴	kisy
+U+32535	𲔵	kiwc
+U+32536	𲔶	ukqk
+U+32537	𲔷	kukq
+U+32538	𲔸	kniy
+U+32539	𲔹	kxbg
+U+3253A	𲔺	brkf
+U+3253B	𲔻	kgdh
+U+3253C	𲔼	adkx
+U+3253D	𲔽	kfrg
+U+3253E	𲔾	kfee
+U+3253F	𲔿	krqb
+U+32540	𲕀	kflg
+U+32541	𲕁	kgfl
+U+32542	𲕂	kqrk
+U+32543	𲕃	kksk
+U+32544	𲕄	kjeg
+U+32545	𲕅	klgj
+U+32546	𲕆	qqkx
+U+32547	𲕇	vksk
+U+32548	𲕈	wvtx
+U+32549	𲕉	thkx
+U+3254A	𲕊	rikx
+U+3254B	𲕋	krgm
+U+3254C	𲕌	ktyg
+U+3254D	𲕍	kyny
+U+3254E	𲕎	kinx
+U+3254F	𲕏	kowf
+U+32550	𲕐	knck
+U+32551	𲕑	koyw
+U+32552	𲕒	kugc
+U+32553	𲕓	kywu
+U+32554	𲕔	knnx
+U+32555	𲕕	kyoc
+U+32556	𲕖	kysy
+U+32557	𲕗	gkkx
+U+32558	𲕘	giyx
+U+32559	𲕙	rfwx
+U+3255A	𲕚	kfhr
+U+3255B	𲕛	ksqb
+U+3255C	𲕜	kdqj
+U+3255D	𲕝	dgaj
+U+3255E	𲕞	dngb
+U+3255F	𲕟	kklg
+U+32560	𲕠	kjvk
+U+32561	𲕡	kjfi
+U+32562	𲕢	klny
+U+32563	𲕣	khwv
+U+32564	𲕤	kaib
+U+32565	𲕥	kavc
+U+32566	𲕦	wskx
+U+32567	𲕧	ktky
+U+32568	𲕨	krfh
+U+32569	𲕩	kwcy
+U+3256A	𲕪	kejg
+U+3256B	𲕫	kitq
+U+3256C	𲕬	knwk
+U+3256D	𲕭	kpyr
+U+3256E	𲕮	kimk
+U+3256F	𲕯	kidi
+U+32570	𲕰	lkxb
+U+32571	𲕱	kfgy
+U+32572	𲕲	krkk
+U+32573	𲕳	kmft
+U+32574	𲕴	kmty
+U+32575	𲕵	ktec
+U+32576	𲕶	kwhw
+U+32577	𲕷	kugw
+U+32578	𲕸	kudp
+U+32579	𲕹	oopk
+U+3257A	𲕺	kyta
+U+3257B	𲕻	knuq
+U+3257C	𲕼	kitv
+U+3257D	𲕽	kekk
+U+3257E	𲕾	ngkw
+U+3257F	𲕿	krub
+U+32580	𲖀	krwy
+U+32581	𲖁	kbmf
+U+32582	𲖂	ksth
+U+32583	𲖃	krbl
+U+32584	𲖄	kraw
+U+32585	𲖅	addl
+U+32586	𲖆	kapg
+U+32587	𲖇	kkgy
+U+32588	𲖈	khac
+U+32589	𲖉	kwxm
+U+3258A	𲖊	kqkq
+U+3258B	𲖋	kqtl
+U+3258C	𲖌	ktck
+U+3258D	𲖍	ktwf
+U+3258E	𲖎	kugl
+U+3258F	𲖏	kuve
+U+32590	𲖐	utex
+U+32591	𲖑	kypg
+U+32592	𲖒	kykn
+U+32593	𲖓	kymn
+U+32594	𲖔	kiqh
+U+32595	𲖕	kuqi
+U+32596	𲖖	vgpx
+U+32597	𲖗	knff
+U+32598	𲖘	kbff
+U+32599	𲖙	krtf
+U+3259A	𲖚	kdng
+U+3259B	𲖛	kfpc
+U+3259C	𲖜	krkb
+U+3259D	𲖝	krdi
+U+3259E	𲖞	kayf
+U+3259F	𲖟	kauk
+U+325A0	𲖠	khhn
+U+325A1	𲖡	kaje
+U+325A2	𲖢	ktjh
+U+325A3	𲖣	kwyc
+U+325A4	𲖤	kkdm
+U+325A5	𲖥	kwyy
+U+325A6	𲖦	kwqs
+U+325A7	𲖧	txki
+U+325A8	𲖨	kysk
+U+325A9	𲖩	kisg
+U+325AA	𲖪	kouk
+U+325AB	𲖫	knig
+U+325AC	𲖬	kekm
+U+325AD	𲖭	knfj
+U+325AE	𲖮	kxyr
+U+325AF	𲖯	kusy
+U+325B0	𲖰	aqpx
+U+325B1	𲖱	amax
+U+325B2	𲖲	kfjn
+U+325B3	𲖳	kgkp
+U+325B4	𲖴	kraw
+U+325B5	𲖵	kfto
+U+325B6	𲖶	rhdk
+U+325B7	𲖷	kadl
+U+325B8	𲖸	kkdt
+U+325B9	𲖹	kapk
+U+325BA	𲖺	exdk
+U+325BB	𲖻	kwrb
+U+325BC	𲖼	kwko
+U+325BD	𲖽	kwgm
+U+325BE	𲖾	kwxm
+U+325BF	𲖿	ukwk
+U+325C0	𲗀	ytfx
+U+325C1	𲗁	kutk
+U+325C2	𲗂	kctk
+U+325C3	𲗃	kbdp
+U+325C4	𲗄	kccg
+U+325C5	𲗅	kbul
+U+325C6	𲗆	kcnm
+U+325C7	𲗇	kgco
+U+325C8	𲗈	kskw
+U+325C9	𲗉	klbn
+U+325CA	𲗊	kawk
+U+325CB	𲗋	klfj
+U+325CC	𲗌	khab
+U+325CD	𲗍	klkk
+U+325CE	𲗎	kjsq
+U+325CF	𲗏	lvrk
+U+325D0	𲗐	khgh
+U+325D1	𲗑	kaiy
+U+325D2	𲗒	kipw
+U+325D3	𲗓	kycd
+U+325D4	𲗔	koyf
+U+325D5	𲗕	kufk
+U+325D6	𲗖	kbtp
+U+325D7	𲗗	kaho
+U+325D8	𲗘	kssi
+U+325D9	𲗙	kfwo
+U+325DA	𲗚	kftp
+U+325DB	𲗛	kgnl
+U+325DC	𲗜	kmdy
+U+325DD	𲗝	dfet
+U+325DE	𲗞	khgm
+U+325DF	𲗟	kajj
+U+325E0	𲗠	kaos
+U+325E1	𲗡	kwyf
+U+325E2	𲗢	errd
+U+325E3	𲗣	kpdi
+U+325E4	𲗤	kput
+U+325E5	𲗥	kyjs
+U+325E6	𲗦	knfn
+U+325E7	𲗧	kxdi
+U+325E8	𲗨	fkut
+U+325E9	𲗩	krqy
+U+325EA	𲗪	kgkm
+U+325EB	𲗫	kfjn
+U+325EC	𲗬	krks
+U+325ED	𲗭	ksfy
+U+325EE	𲗮	fkun
+U+325EF	𲗯	kawo
+U+325F0	𲗰	kmtt
+U+325F1	𲗱	kavj
+U+325F2	𲗲	kalh
+U+325F3	𲗳	wywk
+U+325F4	𲗴	ktre
+U+325F5	𲗵	kqtj
+U+325F6	𲗶	ygkx
+U+325F7	𲗷	kook
+U+325F8	𲗸	kyak
+U+325F9	𲗹	kyud
+U+325FA	𲗺	knay
+U+325FB	𲗻	knkf
+U+325FC	𲗼	kcuj
+U+325FD	𲗽	kgif
+U+325FE	𲗾	kdjf
+U+325FF	𲗿	kfjh
+U+32600	𲘀	kcos
+U+32601	𲘁	kuid
+U+32602	𲘂	khan
+U+32603	𲘃	kqtc
+U+32604	𲘄	oamx
+U+32605	𲘅	kolw
+U+32606	𲘆	kytf
+U+32607	𲘇	koso
+U+32608	𲘈	kbvl
+U+32609	𲘉	kdno
+U+3260A	𲘊	kllf
+U+3260B	𲘋	kjom
+U+3260C	𲘌	kavt
+U+3260D	𲘍	ksgo
+U+3260E	𲘎	kgqt
+U+3260F	𲘏	emgk
+U+32610	𲘐	kyuy
+U+32611	𲘑	kccm
+U+32612	𲘒	ksfj
+U+32613	𲘓	kato
+U+32614	𲘔	kerq
+U+32615	𲘕	kfnf
+U+32616	𲘖	lxwx
+U+32617	𲘗	kyac
+U+32618	𲘘	kyxx
+U+32619	𲘙	kaqo
+U+3261A	𲘚	kaal
+U+3261B	𲘛	kfkw
+U+3261C	𲘜	kobn
+U+3261D	𲘝	kyxq
+U+3261E	𲘞	lnv
+U+3261F	𲘟	tlwi
+U+32620	𲘠	laqv
+U+32621	𲘡	lqry
+U+32622	𲘢	ltfq
+U+32623	𲘣	lyoi
+U+32624	𲘤	lgak
+U+32625	𲘥	layn
+U+32626	𲘦	ladw
+U+32627	𲘧	laqc
+U+32628	𲘨	lyom
+U+32629	𲘩	lyon
+U+3262A	𲘪	lpyh
+U+3262B	𲘫	ljgf
+U+3262C	𲘬	lldd
+U+3262D	𲘭	lqoj
+U+3262E	𲘮	lkma
+U+3262F	𲘯	wgmm
+U+32630	𲘰	fjh
+U+32631	𲘱	fgqn
+U+32632	𲘲	fgng
+U+32633	𲘳	fqy
+U+32634	𲘴	fdbn
+U+32635	𲘵	ftay
+U+32636	𲘶	ywff
+U+32637	𲘷	fnfg
+U+32638	𲘸	fdfh
+U+32639	𲘹	fdkg
+U+3263A	𲘺	famh
+U+3263B	𲘻	fqyg
+U+3263C	𲘼	tbff
+U+3263D	𲘽	fway
+U+3263E	𲘾	ibff
+U+3263F	𲘿	ipff
+U+32640	𲙀	fbfg
+U+32641	𲙁	fcag
+U+32642	𲙂	fgaj
+U+32643	𲙃	fabh
+U+32644	𲙄	tehf
+U+32645	𲙅	ftdg
+U+32646	𲙆	futt
+U+32647	𲙇	dhfb
+U+32648	𲙈	fqph
+U+32649	𲙉	fdfe
+U+3264A	𲙊	fliy
+U+3264B	𲙋	fnnw
+U+3264C	𲙌	fyck
+U+3264D	𲙍	fbfq
+U+3264E	𲙎	fvyn
+U+3264F	𲙏	flrh
+U+32650	𲙐	fwff
+U+32651	𲙑	fswc
+U+32652	𲙒	fdfi
+U+32653	𲙓	ffgw
+U+32654	𲙔	fbcy
+U+32655	𲙕	frvk
+U+32656	𲙖	fkjn
+U+32657	𲙗	hgif
+U+32658	𲙘	fjgf
+U+32659	𲙙	fkeg
+U+3265A	𲙚	tkff
+U+3265B	𲙛	wgqf
+U+3265C	𲙜	fthc
+U+3265D	𲙝	fowf
+U+3265E	𲙞	fypy
+U+3265F	𲙟	ffam
+U+32660	𲙠	fdff
+U+32661	𲙡	fbkg
+U+32662	𲙢	fkhm
+U+32663	𲙣	fkkk
+U+32664	𲙤	fjog
+U+32665	𲙥	fjtg
+U+32666	𲙦	qtjf
+U+32667	𲙧	ftoy
+U+32668	𲙨	ftvw
+U+32669	𲙩	itkf
+U+3266A	𲙪	fptk
+U+3266B	𲙫	fgoj
+U+3266C	𲙬	fmth
+U+3266D	𲙭	wwfe
+U+3266E	𲙮	fqfh
+U+3266F	𲙯	fpwy
+U+32670	𲙰	fude
+U+32671	𲙱	fvip
+U+32672	𲙲	fftt
+U+32673	𲙳	fdfk
+U+32674	𲙴	fmmv
+U+32675	𲙵	fmgt
+U+32676	𲙶	jcnf
+U+32677	𲙷	flrm
+U+32678	𲙸	fxmy
+U+32679	𲙹	wgsf
+U+3267A	𲙺	ftge
+U+3267B	𲙻	fpaq
+U+3267C	𲙼	onrf
+U+3267D	𲙽	fyth
+U+3267E	𲙾	fuqi
+U+3267F	𲙿	fudh
+U+32680	𲚀	bjtf
+U+32681	𲚁	fbqe
+U+32682	𲚂	fajv
+U+32683	𲚃	fftb
+U+32684	𲚄	fsaa
+U+32685	𲚅	fimt
+U+32686	𲚆	flnh
+U+32687	𲚇	fueg
+U+32688	𲚈	fqgj
+U+32689	𲚉	fpgl
+U+3268A	𲚊	fatf
+U+3268B	𲚋	fdlo
+U+3268C	𲚌	gevf
+U+3268D	𲚍	fdag
+U+3268E	𲚎	fmuf
+U+3268F	𲚏	fhxh
+U+32690	𲚐	fwym
+U+32691	𲚑	exdf
+U+32692	𲚒	ftln
+U+32693	𲚓	idrf
+U+32694	𲚔	fvfj
+U+32695	𲚕	fdwf
+U+32696	𲚖	fptf
+U+32697	𲚗	fgrd
+U+32698	𲚘	ftpn
+U+32699	𲚙	ftok
+U+3269A	𲚚	fone
+U+3269B	𲚛	idhf
+U+3269C	𲚜	afmf
+U+3269D	𲚝	qgef
+U+3269E	𲚞	ftmm
+U+3269F	𲚟	fako
+U+326A0	𲚠	khuf
+U+326A1	𲚡	ftbm
+U+326A2	𲚢	pdhf
+U+326A3	𲚣	ylif
+U+326A4	𲚤	fnkf
+U+326A5	𲚥	wwfc
+U+326A6	𲚦	fook
+U+326A7	𲚧	fpah
+U+326A8	𲚨	xfff
+U+326A9	𲚩	lxwf
+U+326AA	𲚪	ftqy
+U+326AB	𲚫	fukq
+U+326AC	𲚬	yntf
+U+326AD	𲚭	fnay
+U+326AE	𲚮	fwtk
+U+326AF	𲚯	ntnv
+U+326B0	𲚰	qfnb
+U+326B1	𲚱	uqu
+U+326B2	𲚲	qcn
+U+326B3	𲚳	dwqu
+U+326B4	𲚴	qqft
+U+326B5	𲚵	qqcn
+U+326B6	𲚶	qqah
+U+326B7	𲚷	qqde
+U+326B8	𲚸	adwq
+U+326B9	𲚹	qqln
+U+326BA	𲚺	qqyi
+U+326BB	𲚻	qqbw
+U+326BC	𲚼	fwnb
+U+326BD	𲚽	djf
+U+326BE	𲚾	dgjf
+U+326BF	𲚿	gdsg
+U+326C0	𲛀	dmww
+U+326C1	𲛁	dykb
+U+326C2	𲛂	sfcd
+U+326C3	𲛃	gudg
+U+326C4	𲛄	dtff
+U+326C5	𲛅	sksd
+U+326C6	𲛆	gxwx
+U+326C7	𲛇	twwd
+U+326C8	𲛈	dskn
+U+326C9	𲛉	errd
+U+326CA	𲛊	vycq
+U+326CB	𲛋	rsvf
+U+326CC	𲛌	vken
+U+326CD	𲛍	vicy
+U+326CE	𲛎	vahb
+U+326CF	𲛏	vege
+U+326D0	𲛐	vynv
+U+326D1	𲛑	cdvf
+U+326D2	𲛒	vaay
+U+326D3	𲛓	vkeg
+U+326D4	𲛔	imkv
+U+326D5	𲛕	vjgw
+U+326D6	𲛖	vepc
+U+326D7	𲛗	vtfx
+U+326D8	𲛘	vinx
+U+326D9	𲛙	vyny
+U+326DA	𲛚	vcwc
+U+326DB	𲛛	vnbm
+U+326DC	𲛜	vbkg
+U+326DD	𲛝	vdjf
+U+326DE	𲛞	vhag
+U+326DF	𲛟	vptk
+U+326E0	𲛠	vpah
+U+326E1	𲛡	vigg
+U+326E2	𲛢	vatv
+U+326E3	𲛣	hhvf
+U+326E4	𲛤	vqtb
+U+326E5	𲛥	vyly
+U+326E6	𲛦	uqwc
+U+326E7	𲛧	cexv
+U+326E8	𲛨	vbcv
+U+326E9	𲛩	vdga
+U+326EA	𲛪	vxdm
+U+326EB	𲛫	vals
+U+326EC	𲛬	vukg
+U+326ED	𲛭	vihc
+U+326EE	𲛮	fidv
+U+326EF	𲛯	vmdm
+U+326F0	𲛰	vhdn
+U+326F1	𲛱	vahi
+U+326F2	𲛲	vuwc
+U+326F3	𲛳	vqmt
+U+326F4	𲛴	wgmv
+U+326F5	𲛵	vnkf
+U+326F6	𲛶	vujy
+U+326F7	𲛷	vfko
+U+326F8	𲛸	vatl
+U+326F9	𲛹	txvs
+U+326FA	𲛺	vosd
+U+326FB	𲛻	lelv
+U+326FC	𲛼	bbt
+U+326FD	𲛽	bhbh
+U+326FE	𲛾	brey
+U+326FF	𲛿	blet
+U+32700	𲜀	bblg
+U+32701	𲜁	bpkk
+U+32702	𲜂	dhbx
+U+32703	𲜃	ebgy
+U+32704	𲜄	ebwr
+U+32705	𲜅	boqh
+U+32706	𲜆	brcq
+U+32707	𲜇	brcm
+U+32708	𲜈	bhdj
+U+32709	𲜉	pftr
+U+3270A	𲜊	per
+U+3270B	𲜋	pynr
+U+3270C	𲜌	pmdu
+U+3270D	𲜍	pgaf
+U+3270E	𲜎	psps
+U+3270F	𲜏	pxnu
+U+32710	𲜐	pdgy
+U+32711	𲜑	pfpb
+U+32712	𲜒	pfiw
+U+32713	𲜓	pfpf
+U+32714	𲜔	pukn
+U+32715	𲜕	ptlf
+U+32716	𲜖	pjgk
+U+32717	𲜗	ptln
+U+32718	𲜘	ponx
+U+32719	𲜙	pegt
+U+3271A	𲜚	pegg
+U+3271B	𲜛	pdhj
+U+3271C	𲜜	pmdo
+U+3271D	𲜝	pahd
+U+3271E	𲜞	gapy
+U+3271F	𲜟	ftjk
+U+32720	𲜠	lfu
+U+32721	𲜡	pfqf
+U+32722	𲜢	gkhf
+U+32723	𲜣	uthf
+U+32724	𲜤	egkf
+U+32725	𲜥	pfqf
+U+32726	𲜦	vaki
+U+32727	𲜧	ffdf
+U+32728	𲜨	citr
+U+32729	𲜩	gcft
+U+3272A	𲜪	irrh
+U+3272B	𲜫	rbmi
+U+3272C	𲜬	irpn
+U+3272D	𲜭	itrm
+U+3272E	𲜮	ywwt
+U+3272F	𲜯	xnyi
+U+32730	𲜰	ufti
+U+32731	𲜱	qihn
+U+32732	𲜲	nnv
+U+32733	𲜳	nfqv
+U+32734	𲜴	nydf
+U+32735	𲜵	nskd
+U+32736	𲜶	nxjk
+U+32737	𲜷	nycq
+U+32738	𲜸	nitn
+U+32739	𲜹	nbmn
+U+3273A	𲜺	ntfd
+U+3273B	𲜻	nyna
+U+3273C	𲜼	nitw
+U+3273D	𲜽	mumy
+U+3273E	𲜾	nugl
+U+3273F	𲜿	nhcw
+U+32740	𲝀	ndyu
+U+32741	𲝁	fwyn
+U+32742	𲝂	nyuj
+U+32743	𲝃	mwu
+U+32744	𲝄	mfnn
+U+32745	𲝅	mdwu
+U+32746	𲝆	mdhy
+U+32747	𲝇	mhu
+U+32748	𲝈	mwbn
+U+32749	𲝉	mtff
+U+3274A	𲝊	mkgn
+U+3274B	𲝋	mrcy
+U+3274C	𲝌	mmmg
+U+3274D	𲝍	rmh
+U+3274E	𲝎	myni
+U+3274F	𲝏	mowy
+U+32750	𲝐	mhcu
+U+32751	𲝑	mxjf
+U+32752	𲝒	mbg
+U+32753	𲝓	mfbb
+U+32754	𲝔	gajm
+U+32755	𲝕	migq
+U+32756	𲝖	midy
+U+32757	𲝗	mwtf
+U+32758	𲝘	mwdy
+U+32759	𲝙	mwqb
+U+3275A	𲝚	vbmj
+U+3275B	𲝛	mfoy
+U+3275C	𲝜	mqke
+U+3275D	𲝝	mceh
+U+3275E	𲝞	mbfq
+U+3275F	𲝟	mgvv
+U+32760	𲝠	msgf
+U+32761	𲝡	mdeu
+U+32762	𲝢	mdfa
+U+32763	𲝣	mrvk
+U+32764	𲝤	mspq
+U+32765	𲝥	mmun
+U+32766	𲝦	mjqb
+U+32767	𲝧	mqrn
+U+32768	𲝨	moqy
+U+32769	𲝩	mooy
+U+3276A	𲝪	yymj
+U+3276B	𲝫	mpgh
+U+3276C	𲝬	mbsk
+U+3276D	𲝭	mdgg
+U+3276E	𲝮	madk
+U+3276F	𲝯	mmmm
+U+32770	𲝰	mqmy
+U+32771	𲝱	mbve
+U+32772	𲝲	mwgd
+U+32773	𲝳	msff
+U+32774	𲝴	mdwt
+U+32775	𲝵	mpkk
+U+32776	𲝶	made
+U+32777	𲝷	mmwa
+U+32778	𲝸	mlaw
+U+32779	𲝹	mjlc
+U+3277A	𲝺	mlaw
+U+3277B	𲝻	mrqq
+U+3277C	𲝼	mwfi
+U+3277D	𲝽	mwhs
+U+3277E	𲝾	muay
+U+3277F	𲝿	mouf
+U+32780	𲞀	mbwc
+U+32781	𲞁	mffc
+U+32782	𲞂	mfhy
+U+32783	𲞃	mlnt
+U+32784	𲞄	mipr
+U+32785	𲞅	mdhi
+U+32786	𲞆	mwgu
+U+32787	𲞇	mfkm
+U+32788	𲞈	mssi
+U+32789	𲞉	mhqo
+U+3278A	𲞊	mtaw
+U+3278B	𲞋	muep
+U+3278C	𲞌	mapk
+U+3278D	𲞍	mtes
+U+3278E	𲞎	mqmt
+U+3278F	𲞏	yuhm
+U+32790	𲞐	dddm
+U+32791	𲞑	mtmt
+U+32792	𲞒	mtts
+U+32793	𲞓	mooy
+U+32794	𲞔	mymk
+U+32795	𲞕	mnuj
+U+32796	𲞖	mbkm
+U+32797	𲞗	mhah
+U+32798	𲞘	memw
+U+32799	𲞙	memw
+U+3279A	𲞚	mgmx
+U+3279B	𲞛	kctd
+U+3279C	𲞜	vrbs
+U+3279D	𲞝	wwaf
+U+3279E	𲞞	daft
+U+3279F	𲞟	arf
+U+327A0	𲞠	apwa
+U+327A1	𲞡	anyk
+U+327A2	𲞢	fwtn
+U+327A3	𲞣	anim
+U+327A4	𲞤	ackn
+U+327A5	𲞥	anth
+U+327A6	𲞦	anfy
+U+327A7	𲞧	alfj
+U+327A8	𲞨	cwqy
+U+327A9	𲞩	cccb
+U+327AA	𲞪	ceno
+U+327AB	𲞫	cajl
+U+327AC	𲞬	ntpk
+U+327AD	𲞭	mhfq
+U+327AE	𲞮	mhqc
+U+327AF	𲞯	mhqg
+U+327B0	𲞰	mhrw
+U+327B1	𲞱	dmhn
+U+327B2	𲞲	mhtt
+U+327B3	𲞳	tffh
+U+327B4	𲞴	mhco
+U+327B5	𲞵	mhrq
+U+327B6	𲞶	cnhh
+U+327B7	𲞷	mhpf
+U+327B8	𲞸	mhyy
+U+327B9	𲞹	yufj
+U+327BA	𲞺	fgah
+U+327BB	𲞻	fvey
+U+327BC	𲞼	uann
+U+327BD	𲞽	gufe
+U+327BE	𲞾	xtvg
+U+327BF	𲞿	wixy
+U+327C0	𲟀	ofwi
+U+327C1	𲟁	oad
+U+327C2	𲟂	oqbk
+U+327C3	𲟃	ofii
+U+327C4	𲟄	odd
+U+327C5	𲟅	okcv
+U+327C6	𲟆	oufk
+U+327C7	𲟇	otbd
+U+327C8	𲟈	ongf
+U+327C9	𲟉	oawn
+U+327CA	𲟊	oatn
+U+327CB	𲟋	oomi
+U+327CC	𲟌	omdm
+U+327CD	𲟍	oigq
+U+327CE	𲟎	offw
+U+327CF	𲟏	ofnt
+U+327D0	𲟐	ownb
+U+327D1	𲟑	oete
+U+327D2	𲟒	ojfe
+U+327D3	𲟓	epd
+U+327D4	𲟔	akkp
+U+327D5	𲟕	awyp
+U+327D6	𲟖	sjmp
+U+327D7	𲟗	ggaj
+U+327D8	𲟘	xtwn
+U+327D9	𲟙	yoxk
+U+327DA	𲟚	gjgj
+U+327DB	𲟛	vffi
+U+327DC	𲟜	voyi
+U+327DD	𲟝	tmet
+U+327DE	𲟞	hdhe
+U+327DF	𲟟	hage
+U+327E0	𲟠	ttan
+U+327E1	𲟡	tfcy
+U+327E2	𲟢	tehh
+U+327E3	𲟣	tuah
+U+327E4	𲟤	tukg
+U+327E5	𲟥	ttff
+U+327E6	𲟦	tvyh
+U+327E7	𲟧	tonx
+U+327E8	𲟨	thdn
+U+327E9	𲟩	txjm
+U+327EA	𲟪	tfle
+U+327EB	𲟫	ttgw
+U+327EC	𲟬	thcw
+U+327ED	𲟭	tdjy
+U+327EE	𲟮	tusb
+U+327EF	𲟯	tfct
+U+327F0	𲟰	tjgf
+U+327F1	𲟱	nfjh
+U+327F2	𲟲	tfnn
+U+327F3	𲟳	noy
+U+327F4	𲟴	xhnu
+U+327F5	𲟵	gonu
+U+327F6	𲟶	nkry
+U+327F7	𲟷	nwbg
+U+327F8	𲟸	dhbn
+U+327F9	𲟹	ndmj
+U+327FA	𲟺	rinu
+U+327FB	𲟻	tfqn
+U+327FC	𲟼	nwqb
+U+327FD	𲟽	tlnu
+U+327FE	𲟾	npbg
+U+327FF	𲟿	wyxn
+U+32800	𲠀	vbnu
+U+32801	𲠁	kejn
+U+32802	𲠂	nkwn
+U+32803	𲠃	trxn
+U+32804	𲠄	nwqi
+U+32805	𲠅	nigg
+U+32806	𲠆	nmdf
+U+32807	𲠇	eenu
+U+32808	𲠈	nrmh
+U+32809	𲠉	nrgm
+U+3280A	𲠊	yntn
+U+3280B	𲠋	phkn
+U+3280C	𲠌	imnu
+U+3280D	𲠍	vqin
+U+3280E	𲠎	nrgf
+U+3280F	𲠏	byqn
+U+32810	𲠐	qvny
+U+32811	𲠑	nqke
+U+32812	𲠒	ugrn
+U+32813	𲠓	nngf
+U+32814	𲠔	nxjm
+U+32815	𲠕	fkqn
+U+32816	𲠖	sfnn
+U+32817	𲠗	qngn
+U+32818	𲠘	ntws
+U+32819	𲠙	udjn
+U+3281A	𲠚	ynnu
+U+3281B	𲠛	cknw
+U+3281C	𲠜	ngkw
+U+3281D	𲠝	gotn
+U+3281E	𲠞	njgg
+U+3281F	𲠟	thnd
+U+32820	𲠠	nujq
+U+32821	𲠡	nnfy
+U+32822	𲠢	nfhk
+U+32823	𲠣	nahy
+U+32824	𲠤	aetn
+U+32825	𲠥	ndhi
+U+32826	𲠦	nmdm
+U+32827	𲠧	khnn
+U+32828	𲠨	khdn
+U+32829	𲠩	ntmn
+U+3282A	𲠪	nwah
+U+3282B	𲠫	nugi
+U+3282C	𲠬	fkun
+U+3282D	𲠭	nhbn
+U+3282E	𲠮	fmun
+U+3282F	𲠯	naal
+U+32830	𲠰	njuj
+U+32831	𲠱	ipkn
+U+32832	𲠲	njel
+U+32833	𲠳	nhad
+U+32834	𲠴	qjqn
+U+32835	𲠵	nwxm
+U+32836	𲠶	twyn
+U+32837	𲠷	ycen
+U+32838	𲠸	uknc
+U+32839	𲠹	nken
+U+3283A	𲠺	nutd
+U+3283B	𲠻	afin
+U+3283C	𲠼	nptj
+U+3283D	𲠽	drrn
+U+3283E	𲠾	drrn
+U+3283F	𲠿	lvtn
+U+32840	𲡀	nuyg
+U+32841	𲡁	wukn
+U+32842	𲡂	ywgn
+U+32843	𲡃	jgwn
+U+32844	𲡄	qjqn
+U+32845	𲡅	epnq
+U+32846	𲡆	lamn
+U+32847	𲡇	adwn
+U+32848	𲡈	tfan
+U+32849	𲡉	jmht
+U+3284A	𲡊	nllf
+U+3284B	𲡋	nykt
+U+3284C	𲡌	akkn
+U+3284D	𲡍	ntff
+U+3284E	𲡎	fwfy
+U+3284F	𲡏	duhy
+U+32850	𲡐	dwja
+U+32851	𲡑	rhfy
+U+32852	𲡒	mgka
+U+32853	𲡓	hxfy
+U+32854	𲡔	aaoh
+U+32855	𲡕	adwa
+U+32856	𲡖	rnry
+U+32857	𲡗	ynmj
+U+32858	𲡘	ynni
+U+32859	𲡙	rkh
+U+3285A	𲡚	rden
+U+3285B	𲡛	avrj
+U+3285C	𲡜	rgg
+U+3285D	𲡝	rmy
+U+3285E	𲡞	rmqn
+U+3285F	𲡟	bnrj
+U+32860	𲡠	rfah
+U+32861	𲡡	rdgq
+U+32862	𲡢	rlwy
+U+32863	𲡣	rtgg
+U+32864	𲡤	wbrj
+U+32865	𲡥	rtdj
+U+32866	𲡦	bwrj
+U+32867	𲡧	xjrj
+U+32868	𲡨	rdfn
+U+32869	𲡩	rbfn
+U+3286A	𲡪	rwvg
+U+3286B	𲡫	rtyp
+U+3286C	𲡬	ywxr
+U+3286D	𲡭	runw
+U+3286E	𲡮	riag
+U+3286F	𲡯	rfnt
+U+32870	𲡰	fcpr
+U+32871	𲡱	rsvg
+U+32872	𲡲	rlhc
+U+32873	𲡳	rkqw
+U+32874	𲡴	refh
+U+32875	𲡵	rujg
+U+32876	𲡶	rusy
+U+32877	𲡷	ruga
+U+32878	𲡸	rbwj
+U+32879	𲡹	rtyg
+U+3287A	𲡺	rrmj
+U+3287B	𲡻	intr
+U+3287C	𲡼	rdjf
+U+3287D	𲡽	rfpe
+U+3287E	𲡾	radw
+U+3287F	𲡿	rsfy
+U+32880	𲢀	rjxj
+U+32881	𲢁	remf
+U+32882	𲢂	rpyh
+U+32883	𲢃	udkr
+U+32884	𲢄	roug
+U+32885	𲢅	rukc
+U+32886	𲢆	ryok
+U+32887	𲢇	rskk
+U+32888	𲢈	rdaj
+U+32889	𲢉	rdfk
+U+3288A	𲢊	rjsg
+U+3288B	𲢋	rlfc
+U+3288C	𲢌	rmeg
+U+3288D	𲢍	rwwb
+U+3288E	𲢎	rrmw
+U+3288F	𲢏	rpge
+U+32890	𲢐	rivh
+U+32891	𲢑	rymh
+U+32892	𲢒	itxr
+U+32893	𲢓	rntk
+U+32894	𲢔	rvye
+U+32895	𲢕	rgmy
+U+32896	𲢖	gkrh
+U+32897	𲢗	rkjj
+U+32898	𲢘	rait
+U+32899	𲢙	rawk
+U+3289A	𲢚	rmpi
+U+3289B	𲢛	rabq
+U+3289C	𲢜	rttf
+U+3289D	𲢝	rrnn
+U+3289E	𲢞	ruox
+U+3289F	𲢟	rodn
+U+328A0	𲢠	ryfj
+U+328A1	𲢡	rira
+U+328A2	𲢢	rohk
+U+328A3	𲢣	rpsb
+U+328A4	𲢤	rnhr
+U+328A5	𲢥	rajv
+U+328A6	𲢦	rawy
+U+328A7	𲢧	rggc
+U+328A8	𲢨	sfcr
+U+328A9	𲢩	raje
+U+328AA	𲢪	rmwh
+U+328AB	𲢫	rpjh
+U+328AC	𲢬	rjtq
+U+328AD	𲢭	rlnh
+U+328AE	𲢮	rimt
+U+328AF	𲢯	rtli
+U+328B0	𲢰	rrrr
+U+328B1	𲢱	wgkr
+U+328B2	𲢲	rrlo
+U+328B3	𲢳	revk
+U+328B4	𲢴	ryuj
+U+328B5	𲢵	ripy
+U+328B6	𲢶	buer
+U+328B7	𲢷	akfr
+U+328B8	𲢸	rkhe
+U+328B9	𲢹	rldn
+U+328BA	𲢺	rkhi
+U+328BB	𲢻	rrdm
+U+328BC	𲢼	recn
+U+328BD	𲢽	rept
+U+328BE	𲢾	rtth
+U+328BF	𲢿	renn
+U+328C0	𲣀	rwxm
+U+328C1	𲣁	ronx
+U+328C2	𲣂	roec
+U+328C3	𲣃	rpuy
+U+328C4	𲣄	rxga
+U+328C5	𲣅	rbmg
+U+328C6	𲣆	rmyc
+U+328C7	𲣇	rawk
+U+328C8	𲣈	ripe
+U+328C9	𲣉	ralq
+U+328CA	𲣊	qabo
+U+328CB	𲣋	rtpn
+U+328CC	𲣌	rqve
+U+328CD	𲣍	rtwa
+U+328CE	𲣎	rykc
+U+328CF	𲣏	rday
+U+328D0	𲣐	rsce
+U+328D1	𲣑	rukq
+U+328D2	𲣒	afwr
+U+328D3	𲣓	rrgk
+U+328D4	𲣔	rtdy
+U+328D5	𲣕	rhdl
+U+328D6	𲣖	rwyv
+U+328D7	𲣗	ywgr
+U+328D8	𲣘	iwxr
+U+328D9	𲣙	rnkv
+U+328DA	𲣚	rnfo
+U+328DB	𲣛	rftq
+U+328DC	𲣜	raui
+U+328DD	𲣝	rkwj
+U+328DE	𲣞	rkhg
+U+328DF	𲣟	rxgg
+U+328E0	𲣠	rhan
+U+328E1	𲣡	rqtc
+U+328E2	𲣢	rtwi
+U+328E3	𲣣	rpam
+U+328E4	𲣤	ryxy
+U+328E5	𲣥	rree
+U+328E6	𲣦	rmac
+U+328E7	𲣧	rkkk
+U+328E8	𲣨	rywg
+U+328E9	𲣩	rakq
+U+328EA	𲣪	wycc
+U+328EB	𲣫	fcwe
+U+328EC	𲣬	wcqc
+U+328ED	𲣭	fcyc
+U+328EE	𲣮	jgpc
+U+328EF	𲣯	nuty
+U+328F0	𲣰	covt
+U+328F1	𲣱	lvtc
+U+328F2	𲣲	mtwj
+U+328F3	𲣳	ydny
+U+328F4	𲣴	ahny
+U+328F5	𲣵	yahh
+U+328F6	𲣶	ynyu
+U+328F7	𲣷	yfou
+U+328F8	𲣸	ygan
+U+328F9	𲣹	yuyy
+U+328FA	𲣺	yoqh
+U+328FB	𲣻	yvhl
+U+328FC	𲣼	erry
+U+328FD	𲣽	dufh
+U+328FE	𲣾	gjrf
+U+328FF	𲣿	ohdf
+U+32900	𲤀	ykmr
+U+32901	𲤁	dhor
+U+32902	𲤂	hklr
+U+32903	𲤃	ytyw
+U+32904	𲤄	ywgr
+U+32905	𲤅	ytyg
+U+32906	𲤆	ythw
+U+32907	𲤇	ylmy
+U+32908	𲤈	yrlo
+U+32909	𲤉	yawj
+U+3290A	𲤊	ymmm
+U+3290B	𲤋	ymmm
+U+3290C	𲤌	aqee
+U+3290D	𲤍	aqtu
+U+3290E	𲤎	aqag
+U+3290F	𲤏	jfg
+U+32910	𲤐	jwgn
+U+32911	𲤑	jnyy
+U+32912	𲤒	jgny
+U+32913	𲤓	dhgj
+U+32914	𲤔	jhkg
+U+32915	𲤕	jwfn
+U+32916	𲤖	jryy
+U+32917	𲤗	jhcy
+U+32918	𲤘	fjfu
+U+32919	𲤙	jjfg
+U+3291A	𲤚	jjgf
+U+3291B	𲤛	jefn
+U+3291C	𲤜	jqrb
+U+3291D	𲤝	jinu
+U+3291E	𲤞	jgey
+U+3291F	𲤟	jmdf
+U+32920	𲤠	jmun
+U+32921	𲤡	jtkg
+U+32922	𲤢	jthc
+U+32923	𲤣	jukg
+U+32924	𲤤	jkjy
+U+32925	𲤥	jmdj
+U+32926	𲤦	jthn
+U+32927	𲤧	qrjh
+U+32928	𲤨	jtff
+U+32929	𲤩	jqrw
+U+3292A	𲤪	pyrj
+U+3292B	𲤫	jfmk
+U+3292C	𲤬	jdwi
+U+3292D	𲤭	jgqo
+U+3292E	𲤮	jgyg
+U+3292F	𲤯	jawk
+U+32930	𲤰	jeqq
+U+32931	𲤱	igqe
+U+32932	𲤲	jovi
+U+32933	𲤳	jghf
+U+32934	𲤴	jgep
+U+32935	𲤵	jipf
+U+32936	𲤶	jmmm
+U+32937	𲤷	jtel
+U+32938	𲤸	jywe
+U+32939	𲤹	jvjs
+U+3293A	𲤺	fffj
+U+3293B	𲤻	jmat
+U+3293C	𲤼	jhtr
+U+3293D	𲤽	jjbc
+U+3293E	𲤾	jtgy
+U+3293F	𲤿	jhdn
+U+32940	𲥀	jwgu
+U+32941	𲥁	jffs
+U+32942	𲥂	jajy
+U+32943	𲥃	jipl
+U+32944	𲥄	jtmt
+U+32945	𲥅	jwyc
+U+32946	𲥆	ugve
+U+32947	𲥇	jiem
+U+32948	𲥈	jbci
+U+32949	𲥉	jxth
+U+3294A	𲥊	joos
+U+3294B	𲥋	jght
+U+3294C	𲥌	jawg
+U+3294D	𲥍	jmhn
+U+3294E	𲥎	jemw
+U+3294F	𲥏	jnwg
+U+32950	𲥐	jgke
+U+32951	𲥑	manb
+U+32952	𲥒	maag
+U+32953	𲥓	jxle
+U+32954	𲥔	wglk
+U+32955	𲥕	gjro
+U+32956	𲥖	wgli
+U+32957	𲥗	ewi
+U+32958	𲥘	fced
+U+32959	𲥙	ebbg
+U+3295A	𲥚	etmk
+U+3295B	𲥛	ewgg
+U+3295C	𲥜	eqkq
+U+3295D	𲥝	eayn
+U+3295E	𲥞	ejgf
+U+3295F	𲥟	imke
+U+32960	𲥠	etgh
+U+32961	𲥡	etaw
+U+32962	𲥢	eitx
+U+32963	𲥣	ujfe
+U+32964	𲥤	ewxc
+U+32965	𲥥	efwk
+U+32966	𲥦	eujw
+U+32967	𲥧	utte
+U+32968	𲥨	elfj
+U+32969	𲥩	eepc
+U+3296A	𲥪	ynes
+U+3296B	𲥫	etdi
+U+3296C	𲥬	eykg
+U+3296D	𲥭	ekkt
+U+3296E	𲥮	sfh
+U+3296F	𲥯	sgsh
+U+32970	𲥰	shnb
+U+32971	𲥱	sqrt
+U+32972	𲥲	sanw
+U+32973	𲥳	spwy
+U+32974	𲥴	shgg
+U+32975	𲥵	sqhy
+U+32976	𲥶	stdy
+U+32977	𲥷	sscy
+U+32978	𲥸	desy
+U+32979	𲥹	gcfs
+U+3297A	𲥺	sarh
+U+3297B	𲥻	uwvs
+U+3297C	𲥼	svbh
+U+3297D	𲥽	sdlg
+U+3297E	𲥾	sfqw
+U+3297F	𲥿	hqcs
+U+32980	𲦀	gkiq
+U+32981	𲦁	sqsy
+U+32982	𲦂	stmt
+U+32983	𲦃	sesy
+U+32984	𲦄	siwc
+U+32985	𲦅	sdhy
+U+32986	𲦆	sdys
+U+32987	𲦇	rrsu
+U+32988	𲦈	fhsu
+U+32989	𲦉	jsyy
+U+3298A	𲦊	shnn
+U+3298B	𲦋	secn
+U+3298C	𲦌	sug
+U+3298D	𲦍	sadw
+U+3298E	𲦎	sawn
+U+3298F	𲦏	sdhg
+U+32990	𲦐	sdcc
+U+32991	𲦑	fitb
+U+32992	𲦒	sack
+U+32993	𲦓	sqke
+U+32994	𲦔	tbgs
+U+32995	𲦕	swkk
+U+32996	𲦖	sutk
+U+32997	𲦗	syox
+U+32998	𲦘	spwy
+U+32999	𲦙	soty
+U+3299A	𲦚	eksn
+U+3299B	𲦛	ssgg
+U+3299C	𲦜	sawa
+U+3299D	𲦝	sksk
+U+3299E	𲦞	sttd
+U+3299F	𲦟	tmds
+U+329A0	𲦠	siye
+U+329A1	𲦡	sogg
+U+329A2	𲦢	svtt
+U+329A3	𲦣	sgwj
+U+329A4	𲦤	sakw
+U+329A5	𲦥	sawi
+U+329A6	𲦦	ssse
+U+329A7	𲦧	sgks
+U+329A8	𲦨	skwy
+U+329A9	𲦩	tews
+U+329AA	𲦪	syoe
+U+329AB	𲦫	sytf
+U+329AC	𲦬	spwf
+U+329AD	𲦭	sfjh
+U+329AE	𲦮	sagf
+U+329AF	𲦯	sdhe
+U+329B0	𲦰	sfke
+U+329B1	𲦱	sffc
+U+329B2	𲦲	imks
+U+329B3	𲦳	skkn
+U+329B4	𲦴	sqtk
+U+329B5	𲦵	togs
+U+329B6	𲦶	stdu
+U+329B7	𲦷	sqlg
+U+329B8	𲦸	stff
+U+329B9	𲦹	sykf
+U+329BA	𲦺	sijr
+U+329BB	𲦻	ssak
+U+329BC	𲦼	sdtf
+U+329BD	𲦽	saje
+U+329BE	𲦾	slhf
+U+329BF	𲦿	saov
+U+329C0	𲧀	stal
+U+329C1	𲧁	eaws
+U+329C2	𲧂	sesw
+U+329C3	𲧃	ywwk
+U+329C4	𲧄	ifti
+U+329C5	𲧅	naws
+U+329C6	𲧆	snac
+U+329C7	𲧇	gegs
+U+329C8	𲧈	sfhe
+U+329C9	𲧉	shph
+U+329CA	𲧊	suud
+U+329CB	𲧋	sutd
+U+329CC	𲧌	saiu
+U+329CD	𲧍	jsuo
+U+329CE	𲧎	srlh
+U+329CF	𲧏	rihi
+U+329D0	𲧐	stdk
+U+329D1	𲧑	ywwo
+U+329D2	𲧒	sosc
+U+329D3	𲧓	ilrs
+U+329D4	𲧔	sdhn
+U+329D5	𲧕	stsh
+U+329D6	𲧖	srgk
+U+329D7	𲧗	snkl
+U+329D8	𲧘	swvw
+U+329D9	𲧙	sthc
+U+329DA	𲧚	sfnb
+U+329DB	𲧛	fffh
+U+329DC	𲧜	sahk
+U+329DD	𲧝	gkic
+U+329DE	𲧞	jswm
+U+329DF	𲧟	sytf
+U+329E0	𲧠	spam
+U+329E1	𲧡	sxgr
+U+329E2	𲧢	sptm
+U+329E3	𲧣	stmp
+U+329E4	𲧤	sqif
+U+329E5	𲧥	sbkf
+U+329E6	𲧦	slll
+U+329E7	𲧧	sbgn
+U+329E8	𲧨	jsnm
+U+329E9	𲧩	syxt
+U+329EA	𲧪	semo
+U+329EB	𲧫	hqwy
+U+329EC	𲧬	ynmw
+U+329ED	𲧭	jgww
+U+329EE	𲧮	tadw
+U+329EF	𲧯	dgkw
+U+329F0	𲧰	avfw
+U+329F1	𲧱	khf
+U+329F2	𲧲	ghfj
+U+329F3	𲧳	hmuj
+U+329F4	𲧴	ghwk
+U+329F5	𲧵	hdgh
+U+329F6	𲧶	mmgh
+U+329F7	𲧷	jbcy
+U+329F8	𲧸	gqgf
+U+329F9	𲧹	gqek
+U+329FA	𲧺	gqge
+U+329FB	𲧻	gqjw
+U+329FC	𲧼	gqqp
+U+329FD	𲧽	gque
+U+329FE	𲧾	gqtw
+U+329FF	𲧿	gqod
+U+32A00	𲨀	dwwc
+U+32A01	𲨁	fowc
+U+32A02	𲨂	rrmc
+U+32A03	𲨃	qnxx
+U+32A04	𲨄	tfnh
+U+32A05	𲨅	tfnw
+U+32A06	𲨆	tfnm
+U+32A07	𲨇	tfng
+U+32A08	𲨈	qrtn
+U+32A09	𲨉	tfng
+U+32A0A	𲨊	tfnk
+U+32A0B	𲨋	tfnj
+U+32A0C	𲨌	uwyn
+U+32A0D	𲨍	nwcn
+U+32A0E	𲨎	ntfn
+U+32A0F	𲨏	tfnj
+U+32A10	𲨐	tfno
+U+32A11	𲨑	tfnv
+U+32A12	𲨒	tfnt
+U+32A13	𲨓	dadn
+U+32A14	𲨔	rnff
+U+32A15	𲨕	rnfq
+U+32A16	𲨖	rnwc
+U+32A17	𲨗	rntn
+U+32A18	𲨘	rniu
+U+32A19	𲨙	rnnx
+U+32A1A	𲨚	dfyn
+U+32A1B	𲨛	rnth
+U+32A1C	𲨜	rnxi
+U+32A1D	𲨝	rnct
+U+32A1E	𲨞	hern
+U+32A1F	𲨟	rnlq
+U+32A20	𲨠	rnqf
+U+32A21	𲨡	rnye
+U+32A22	𲨢	rnbk
+U+32A23	𲨣	rndj
+U+32A24	𲨤	rnjn
+U+32A25	𲨥	rnus
+U+32A26	𲨦	rnty
+U+32A27	𲨧	rnok
+U+32A28	𲨨	rnpm
+U+32A29	𲨩	rnhi
+U+32A2A	𲨪	rnlo
+U+32A2B	𲨫	rnen
+U+32A2C	𲨬	rnxi
+U+32A2D	𲨭	rnue
+U+32A2E	𲨮	rnqg
+U+32A2F	𲨯	rnly
+U+32A30	𲨰	igg
+U+32A31	𲨱	ihk
+U+32A32	𲨲	ifg
+U+32A33	𲨳	ihy
+U+32A34	𲨴	inn
+U+32A35	𲨵	idg
+U+32A36	𲨶	igry
+U+32A37	𲨷	inn
+U+32A38	𲨸	iaqn
+U+32A39	𲨹	ighn
+U+32A3A	𲨺	imqb
+U+32A3B	𲨻	itgj
+U+32A3C	𲨼	itah
+U+32A3D	𲨽	iyu
+U+32A3E	𲨾	iken
+U+32A3F	𲨿	imgg
+U+32A40	𲩀	ifgf
+U+32A41	𲩁	iajh
+U+32A42	𲩂	gcfi
+U+32A43	𲩃	ifkh
+U+32A44	𲩄	itmk
+U+32A45	𲩅	irhf
+U+32A46	𲩆	iwfc
+U+32A47	𲩇	ithh
+U+32A48	𲩈	iwhg
+U+32A49	𲩉	ipqy
+U+32A4A	𲩊	inf
+U+32A4B	𲩋	inlg
+U+32A4C	𲩌	iamy
+U+32A4D	𲩍	angy
+U+32A4E	𲩎	igab
+U+32A4F	𲩏	imcn
+U+32A50	𲩐	iblg
+U+32A51	𲩑	ingb
+U+32A52	𲩒	inxy
+U+32A53	𲩓	ibfq
+U+32A54	𲩔	ispq
+U+32A55	𲩕	ixdm
+U+32A56	𲩖	idte
+U+32A57	𲩗	igbo
+U+32A58	𲩘	irpy
+U+32A59	𲩙	iffh
+U+32A5A	𲩚	imty
+U+32A5B	𲩛	iawf
+U+32A5C	𲩜	qmwi
+U+32A5D	𲩝	igds
+U+32A5E	𲩞	iojh
+U+32A5F	𲩟	ifct
+U+32A60	𲩠	ight
+U+32A61	𲩡	ishk
+U+32A62	𲩢	ifjc
+U+32A63	𲩣	iaqk
+U+32A64	𲩤	ieji
+U+32A65	𲩥	iqkv
+U+32A66	𲩦	irhg
+U+32A67	𲩧	ipre
+U+32A68	𲩨	iujf
+U+32A69	𲩩	ipff
+U+32A6A	𲩪	ioug
+U+32A6B	𲩫	ixag
+U+32A6C	𲩬	ieks
+U+32A6D	𲩭	inuu
+U+32A6E	𲩮	iaky
+U+32A6F	𲩯	iaff
+U+32A70	𲩰	augi
+U+32A71	𲩱	iwnp
+U+32A72	𲩲	iyon
+U+32A73	𲩳	ipjv
+U+32A74	𲩴	iugn
+U+32A75	𲩵	ipdk
+U+32A76	𲩶	imjp
+U+32A77	𲩷	idjt
+U+32A78	𲩸	igks
+U+32A79	𲩹	iryf
+U+32A7A	𲩺	ijdy
+U+32A7B	𲩻	imit
+U+32A7C	𲩼	imty
+U+32A7D	𲩽	imfe
+U+32A7E	𲩾	iwrg
+U+32A7F	𲩿	iwww
+U+32A80	𲪀	iwvm
+U+32A81	𲪁	itdk
+U+32A82	𲪂	ipwe
+U+32A83	𲪃	iuqi
+U+32A84	𲪄	iggx
+U+32A85	𲪅	iftb
+U+32A86	𲪆	iapb
+U+32A87	𲪇	iaqj
+U+32A88	𲪈	iwyj
+U+32A89	𲪉	iynk
+U+32A8A	𲪊	ioyb
+U+32A8B	𲪋	ixkk
+U+32A8C	𲪌	iahl
+U+32A8D	𲪍	giym
+U+32A8E	𲪎	iadl
+U+32A8F	𲪏	iapg
+U+32A90	𲪐	iawc
+U+32A91	𲪑	ilss
+U+32A92	𲪒	iept
+U+32A93	𲪓	ieux
+U+32A94	𲪔	iovt
+U+32A95	𲪕	igqy
+U+32A96	𲪖	iddm
+U+32A97	𲪗	ibwy
+U+32A98	𲪘	igrd
+U+32A99	𲪙	iuoy
+U+32A9A	𲪚	itgo
+U+32A9B	𲪛	iqmt
+U+32A9C	𲪜	iwym
+U+32A9D	𲪝	idqq
+U+32A9E	𲪞	iujw
+U+32A9F	𲪟	ipwi
+U+32AA0	𲪠	ifjs
+U+32AA1	𲪡	ilco
+U+32AA2	𲪢	ihdl
+U+32AA3	𲪣	thcx
+U+32AA4	𲪤	ioff
+U+32AA5	𲪥	iyuf
+U+32AA6	𲪦	ifcc
+U+32AA7	𲪧	iiej
+U+32AA8	𲪨	iqob
+U+32AA9	𲪩	iudo
+U+32AAA	𲪪	itun
+U+32AAB	𲪫	iyki
+U+32AAC	𲪬	inip
+U+32AAD	𲪭	ifkm
+U+32AAE	𲪮	idjf
+U+32AAF	𲪯	igeg
+U+32AB0	𲪰	iane
+U+32AB1	𲪱	iuik
+U+32AB2	𲪲	ilfp
+U+32AB3	𲪳	itox
+U+32AB4	𲪴	itei
+U+32AB5	𲪵	iykm
+U+32AB6	𲪶	ovis
+U+32AB7	𲪷	iyem
+U+32AB8	𲪸	isfq
+U+32AB9	𲪹	immg
+U+32ABA	𲪺	itjt
+U+32ABB	𲪻	iwho
+U+32ABC	𲪼	iwyc
+U+32ABD	𲪽	ipwt
+U+32ABE	𲪾	ixfq
+U+32ABF	𲪿	immh
+U+32AC0	𲫀	iylq
+U+32AC1	𲫁	ipqf
+U+32AC2	𲫂	ikhj
+U+32AC3	𲫃	ieuo
+U+32AC4	𲫄	ital
+U+32AC5	𲫅	ridd
+U+32AC6	𲫆	iahq
+U+32AC7	𲫇	iyxv
+U+32AC8	𲫈	ionh
+U+32AC9	𲫉	iyxn
+U+32ACA	𲫊	iowo
+U+32ACB	𲫋	uege
+U+32ACC	𲫌	iujn
+U+32ACD	𲫍	ofh
+U+32ACE	𲫎	vou
+U+32ACF	𲫏	oghu
+U+32AD0	𲫐	odbn
+U+32AD1	𲫑	owuy
+U+32AD2	𲫒	iou
+U+32AD3	𲫓	odmh
+U+32AD4	𲫔	oann
+U+32AD5	𲫕	ojhh
+U+32AD6	𲫖	orgg
+U+32AD7	𲫗	ojxt
+U+32AD8	𲫘	wvdo
+U+32AD9	𲫙	wfco
+U+32ADA	𲫚	ovkg
+U+32ADB	𲫛	onlg
+U+32ADC	𲫜	ofje
+U+32ADD	𲫝	oayn
+U+32ADE	𲫞	qtdo
+U+32ADF	𲫟	oeet
+U+32AE0	𲫠	whko
+U+32AE1	𲫡	oefy
+U+32AE2	𲫢	rdou
+U+32AE3	𲫣	oyca
+U+32AE4	𲫤	ofou
+U+32AE5	𲫥	oyfy
+U+32AE6	𲫦	soay
+U+32AE7	𲫧	rvko
+U+32AE8	𲫨	osrh
+U+32AE9	𲫩	ofuf
+U+32AEA	𲫪	atfo
+U+32AEB	𲫫	ormh
+U+32AEC	𲫬	otfx
+U+32AED	𲫭	ooou
+U+32AEE	𲫮	oifc
+U+32AEF	𲫯	obib
+U+32AF0	𲫰	dwjo
+U+32AF1	𲫱	ogxy
+U+32AF2	𲫲	ojvk
+U+32AF3	𲫳	oady
+U+32AF4	𲫴	rlgn
+U+32AF5	𲫵	otvg
+U+32AF6	𲫶	ocee
+U+32AF7	𲫷	vaho
+U+32AF8	𲫸	votq
+U+32AF9	𲫹	odwt
+U+32AFA	𲫺	oboy
+U+32AFB	𲫻	obcc
+U+32AFC	𲫼	oldu
+U+32AFD	𲫽	opwf
+U+32AFE	𲫾	obws
+U+32AFF	𲫿	ogep
+U+32B00	𲬀	ofwq
+U+32B01	𲬁	otdh
+U+32B02	𲬂	oyko
+U+32B03	𲬃	iqou
+U+32B04	𲬄	swwo
+U+32B05	𲬅	mdoa
+U+32B06	𲬆	hteo
+U+32B07	𲬇	hhho
+U+32B08	𲬈	oayf
+U+32B09	𲬉	jjjo
+U+32B0A	𲬊	ormr
+U+32B0B	𲬋	oooo
+U+32B0C	𲬌	btgo
+U+32B0D	𲬍	vtko
+U+32B0E	𲬎	sueo
+U+32B0F	𲬏	scno
+U+32B10	𲬐	obkg
+U+32B11	𲬑	ojfj
+U+32B12	𲬒	oaec
+U+32B13	𲬓	olge
+U+32B14	𲬔	oapg
+U+32B15	𲬕	ipko
+U+32B16	𲬖	jujo
+U+32B17	𲬗	oaqt
+U+32B18	𲬘	ohgh
+U+32B19	𲬙	omyk
+U+32B1A	𲬚	oadn
+U+32B1B	𲬛	okhk
+U+32B1C	𲬜	yxxo
+U+32B1D	𲬝	oplp
+U+32B1E	𲬞	ujqo
+U+32B1F	𲬟	ocor
+U+32B20	𲬠	ermo
+U+32B21	𲬡	onjo
+U+32B22	𲬢	oopf
+U+32B23	𲬣	udgo
+U+32B24	𲬤	oykc
+U+32B25	𲬥	oope
+U+32B26	𲬦	olrj
+U+32B27	𲬧	ofie
+U+32B28	𲬨	oito
+U+32B29	𲬩	rlgk
+U+32B2A	𲬪	owke
+U+32B2B	𲬫	oont
+U+32B2C	𲬬	oaui
+U+32B2D	𲬭	hoso
+U+32B2E	𲬮	qoij
+U+32B2F	𲬯	dido
+U+32B30	𲬰	oohi
+U+32B31	𲬱	oupj
+U+32B32	𲬲	ojli
+U+32B33	𲬳	ottp
+U+32B34	𲬴	otww
+U+32B35	𲬵	uldo
+U+32B36	𲬶	cexf
+U+32B37	𲬷	oooo
+U+32B38	𲬸	ogke
+U+32B39	𲬹	emgo
+U+32B3A	𲬺	rlgo
+U+32B3B	𲬻	rhyf
+U+32B3C	𲬼	rhyg
+U+32B3D	𲬽	evcf
+U+32B3E	𲬾	rhyq
+U+32B3F	𲬿	eyxf
+U+32B40	𲭀	wrhy
+U+32B41	𲭁	wrvr
+U+32B42	𲭂	wrsu
+U+32B43	𲭃	wrdh
+U+32B44	𲭄	wrfc
+U+32B45	𲭅	nhdx
+U+32B46	𲭆	nhdc
+U+32B47	𲭇	nhdy
+U+32B48	𲭈	nddr
+U+32B49	𲭉	nhdk
+U+32B4A	𲭊	ufhw
+U+32B4B	𲭋	thgr
+U+32B4C	𲭌	thgw
+U+32B4D	𲭍	thgm
+U+32B4E	𲭎	thgl
+U+32B4F	𲭏	thgc
+U+32B50	𲭐	thgj
+U+32B51	𲭑	thge
+U+32B52	𲭒	ahtq
+U+32B53	𲭓	yaht
+U+32B54	𲭔	ahtk
+U+32B55	𲭕	wynt
+U+32B56	𲭖	pfqt
+U+32B57	𲭗	ahtt
+U+32B58	𲭘	ahte
+U+32B59	𲭙	qket
+U+32B5A	𲭚	ttcy
+U+32B5B	𲭛	ttfh
+U+32B5C	𲭜	twvt
+U+32B5D	𲭝	twcy
+U+32B5E	𲭞	vctg
+U+32B5F	𲭟	tpta
+U+32B60	𲭠	qotg
+U+32B61	𲭡	tmfk
+U+32B62	𲭢	tcde
+U+32B63	𲭣	tuxx
+U+32B64	𲭤	ovtg
+U+32B65	𲭥	tuvi
+U+32B66	𲭦	tonx
+U+32B67	𲭧	toss
+U+32B68	𲭨	tvtg
+U+32B69	𲭩	twgw
+U+32B6A	𲭪	tkhe
+U+32B6B	𲭫	qthy
+U+32B6C	𲭬	qtcy
+U+32B6D	𲭭	qtkg
+U+32B6E	𲭮	qtdh
+U+32B6F	𲭯	qttd
+U+32B70	𲭰	qtqc
+U+32B71	𲭱	qtyt
+U+32B72	𲭲	qtgo
+U+32B73	𲭳	qtsk
+U+32B74	𲭴	qtdv
+U+32B75	𲭵	qthg
+U+32B76	𲭶	qtrw
+U+32B77	𲭷	qttf
+U+32B78	𲭸	qtwe
+U+32B79	𲭹	qtwf
+U+32B7A	𲭺	qtug
+U+32B7B	𲭻	qtfn
+U+32B7C	𲭼	qtgi
+U+32B7D	𲭽	qtar
+U+32B7E	𲭾	qtwh
+U+32B7F	𲭿	qtud
+U+32B80	𲮀	qtfo
+U+32B81	𲮁	qtdq
+U+32B82	𲮂	qtdf
+U+32B83	𲮃	qthi
+U+32B84	𲮄	qtwt
+U+32B85	𲮅	qttx
+U+32B86	𲮆	qttb
+U+32B87	𲮇	qtps
+U+32B88	𲮈	qtuc
+U+32B89	𲮉	qtpg
+U+32B8A	𲮊	qtve
+U+32B8B	𲮋	qtgv
+U+32B8C	𲮌	qtfy
+U+32B8D	𲮍	qtdi
+U+32B8E	𲮎	qthf
+U+32B8F	𲮏	qtik
+U+32B90	𲮐	qthe
+U+32B91	𲮑	qtae
+U+32B92	𲮒	qtwn
+U+32B93	𲮓	qtyc
+U+32B94	𲮔	qtvi
+U+32B95	𲮕	qtnd
+U+32B96	𲮖	qtdm
+U+32B97	𲮗	qtff
+U+32B98	𲮘	qtad
+U+32B99	𲮙	qtjk
+U+32B9A	𲮚	qtto
+U+32B9B	𲮛	qttg
+U+32B9C	𲮜	qtej
+U+32B9D	𲮝	qtpk
+U+32B9E	𲮞	qtuj
+U+32B9F	𲮟	qtua
+U+32BA0	𲮠	qtct
+U+32BA1	𲮡	qtnf
+U+32BA2	𲮢	qtfi
+U+32BA3	𲮣	qthw
+U+32BA4	𲮤	qtro
+U+32BA5	𲮥	qtrw
+U+32BA6	𲮦	qtwc
+U+32BA7	𲮧	qtwr
+U+32BA8	𲮨	qtpf
+U+32BA9	𲮩	qtuo
+U+32BAA	𲮪	qtpe
+U+32BAB	𲮫	qtpk
+U+32BAC	𲮬	oopy
+U+32BAD	𲮭	qtpf
+U+32BAE	𲮮	pwyy
+U+32BAF	𲮯	qtxu
+U+32BB0	𲮰	qtul
+U+32BB1	𲮱	qtaa
+U+32BB2	𲮲	qtqo
+U+32BB3	𲮳	qtyg
+U+32BB4	𲮴	qtlo
+U+32BB5	𲮵	qtdj
+U+32BB6	𲮶	qtlh
+U+32BB7	𲮷	qtuj
+U+32BB8	𲮸	qtyy
+U+32BB9	𲮹	qtoe
+U+32BBA	𲮺	qtuf
+U+32BBB	𲮻	oooy
+U+32BBC	𲮼	pwjy
+U+32BBD	𲮽	qtwc
+U+32BBE	𲮾	fwwy
+U+32BBF	𲮿	hagy
+U+32BC0	𲯀	qtuy
+U+32BC1	𲯁	qtbi
+U+32BC2	𲯂	qtdy
+U+32BC3	𲯃	hpgy
+U+32BC4	𲯄	qtww
+U+32BC5	𲯅	qtrh
+U+32BC6	𲯆	qtpi
+U+32BC7	𲯇	qtoc
+U+32BC8	𲯈	qtos
+U+32BC9	𲯉	qtam
+U+32BCA	𲯊	gxqj
+U+32BCB	𲯋	kkjy
+U+32BCC	𲯌	qtti
+U+32BCD	𲯍	qtvs
+U+32BCE	𲯎	qtuc
+U+32BCF	𲯏	qtdp
+U+32BD0	𲯐	haly
+U+32BD1	𲯑	qteg
+U+32BD2	𲯒	qtwt
+U+32BD3	𲯓	qtlf
+U+32BD4	𲯔	qtay
+U+32BD5	𲯕	qtaj
+U+32BD6	𲯖	qtqj
+U+32BD7	𲯗	qtap
+U+32BD8	𲯘	qtxh
+U+32BD9	𲯙	qtmt
+U+32BDA	𲯚	yxqw
+U+32BDB	𲯛	fqgy
+U+32BDC	𲯜	gynt
+U+32BDD	𲯝	gdmh
+U+32BDE	𲯞	gggh
+U+32BDF	𲯟	gpwf
+U+32BE0	𲯠	gfhg
+U+32BE1	𲯡	gimk
+U+32BE2	𲯢	grde
+U+32BE3	𲯣	ynty
+U+32BE4	𲯤	govw
+U+32BE5	𲯥	gkkn
+U+32BE6	𲯦	gjgg
+U+32BE7	𲯧	gwdc
+U+32BE8	𲯨	guey
+U+32BE9	𲯩	gbcl
+U+32BEA	𲯪	gnhe
+U+32BEB	𲯫	gycy
+U+32BEC	𲯬	ggpy
+U+32BED	𲯭	gldn
+U+32BEE	𲯮	gtmp
+U+32BEF	𲯯	gpkk
+U+32BF0	𲯰	ggip
+U+32BF1	𲯱	ggep
+U+32BF2	𲯲	gfjn
+U+32BF3	𲯳	givs
+U+32BF4	𲯴	gpwj
+U+32BF5	𲯵	gynt
+U+32BF6	𲯶	gfwj
+U+32BF7	𲯷	gsss
+U+32BF8	𲯸	gfje
+U+32BF9	𲯹	glmy
+U+32BFA	𲯺	gaft
+U+32BFB	𲯻	glge
+U+32BFC	𲯼	gjfi
+U+32BFD	𲯽	gtgi
+U+32BFE	𲯾	gttt
+U+32BFF	𲯿	gooo
+U+32C00	𲰀	gfwc
+U+32C01	𲰁	gbtx
+U+32C02	𲰂	pynf
+U+32C03	𲰃	gmae
+U+32C04	𲰄	gahg
+U+32C05	𲰅	gjfq
+U+32C06	𲰆	errg
+U+32C07	𲰇	gyxy
+U+32C08	𲰈	gadt
+U+32C09	𲰉	grqf
+U+32C0A	𲰊	gnwy
+U+32C0B	𲰋	gxvi
+U+32C0C	𲰌	gfwl
+U+32C0D	𲰍	gont
+U+32C0E	𲰎	gatl
+U+32C0F	𲰏	guxw
+U+32C10	𲰐	gfkk
+U+32C11	𲰑	ahny
+U+32C12	𲰒	gelf
+U+32C13	𲰓	gpam
+U+32C14	𲰔	gylw
+U+32C15	𲰕	gsrf
+U+32C16	𲰖	rcyk
+U+32C17	𲰗	mery
+U+32C18	𲰘	haoy
+U+32C19	𲰙	gnnq
+U+32C1A	𲰚	gnnh
+U+32C1B	𲰛	gnnm
+U+32C1C	𲰜	gnnc
+U+32C1D	𲰝	gnnq
+U+32C1E	𲰞	ebgn
+U+32C1F	𲰟	gmcn
+U+32C20	𲰠	udby
+U+32C21	𲰡	gnnk
+U+32C22	𲰢	txhy
+U+32C23	𲰣	vkuy
+U+32C24	𲰤	gnnj
+U+32C25	𲰥	adwj
+U+32C26	𲰦	ylkn
+U+32C27	𲰧	tgbt
+U+32C28	𲰨	tgjh
+U+32C29	𲰩	tgrg
+U+32C2A	𲰪	tgnx
+U+32C2B	𲰫	tggg
+U+32C2C	𲰬	tgdb
+U+32C2D	𲰭	tgyv
+U+32C2E	𲰮	pyng
+U+32C2F	𲰯	tgga
+U+32C30	𲰰	tgwi
+U+32C31	𲰱	sstg
+U+32C32	𲰲	ldtg
+U+32C33	𲰳	tgeq
+U+32C34	𲰴	tgal
+U+32C35	𲰵	xjeh
+U+32C36	𲰶	lgf
+U+32C37	𲰷	lwn
+U+32C38	𲰸	vlf
+U+32C39	𲰹	qynl
+U+32C3A	𲰺	lqcy
+U+32C3B	𲰻	ltpy
+U+32C3C	𲰼	lebn
+U+32C3D	𲰽	lmgk
+U+32C3E	𲰾	lwwf
+U+32C3F	𲰿	ltfp
+U+32C40	𲱀	ukql
+U+32C41	𲱁	lmum
+U+32C42	𲱂	ltfg
+U+32C43	𲱃	leiq
+U+32C44	𲱄	jhdj
+U+32C45	𲱅	llny
+U+32C46	𲱆	llxi
+U+32C47	𲱇	uqil
+U+32C48	𲱈	lesv
+U+32C49	𲱉	lawk
+U+32C4A	𲱊	llhd
+U+32C4B	𲱋	lqdy
+U+32C4C	𲱌	lnac
+U+32C4D	𲱍	lllw
+U+32C4E	𲱎	toli
+U+32C4F	𲱏	lawn
+U+32C50	𲱐	lrnh
+U+32C51	𲱑	nhlr
+U+32C52	𲱒	umwi
+U+32C53	𲱓	ugoi
+U+32C54	𲱔	ujhk
+U+32C55	𲱕	udjd
+U+32C56	𲱖	ugjg
+U+32C57	𲱗	udii
+U+32C58	𲱘	urgk
+U+32C59	𲱙	uumh
+U+32C5A	𲱚	ugti
+U+32C5B	𲱛	urbc
+U+32C5C	𲱜	utbe
+U+32C5D	𲱝	upfq
+U+32C5E	𲱞	uxqw
+U+32C5F	𲱟	ubed
+U+32C60	𲱠	uebn
+U+32C61	𲱡	uihc
+U+32C62	𲱢	ulwe
+U+32C63	𲱣	udye
+U+32C64	𲱤	udjb
+U+32C65	𲱥	uuxe
+U+32C66	𲱦	uuxx
+U+32C67	𲱧	udgy
+U+32C68	𲱨	uswt
+U+32C69	𲱩	uvkr
+U+32C6A	𲱪	uavb
+U+32C6B	𲱫	uuii
+U+32C6C	𲱬	uoud
+U+32C6D	𲱭	unff
+U+32C6E	𲱮	ufgf
+U+32C6F	𲱯	uath
+U+32C70	𲱰	uuoj
+U+32C71	𲱱	uugi
+U+32C72	𲱲	ubue
+U+32C73	𲱳	ufkc
+U+32C74	𲱴	ufrc
+U+32C75	𲱵	uake
+U+32C76	𲱶	ujuj
+U+32C77	𲱷	usgt
+U+32C78	𲱸	uoos
+U+32C79	𲱹	uufl
+U+32C7A	𲱺	uoit
+U+32C7B	𲱻	uthp
+U+32C7C	𲱼	ukkt
+U+32C7D	𲱽	uufy
+U+32C7E	𲱾	wxe
+U+32C7F	𲱿	wgkb
+U+32C80	𲲀	ryey
+U+32C81	𲲁	rkej
+U+32C82	𲲂	ricc
+U+32C83	𲲃	ssdj
+U+32C84	𲲄	rrno
+U+32C85	𲲅	hcqk
+U+32C86	𲲆	ughc
+U+32C87	𲲇	hcwk
+U+32C88	𲲈	hcan
+U+32C89	𲲉	hcdn
+U+32C8A	𲲊	tvgc
+U+32C8B	𲲋	hcvs
+U+32C8C	𲲌	tolc
+U+32C8D	𲲍	aanc
+U+32C8E	𲲎	pugc
+U+32C8F	𲲏	wclf
+U+32C90	𲲐	anlf
+U+32C91	𲲑	aflf
+U+32C92	𲲒	dugl
+U+32C93	𲲓	iycl
+U+32C94	𲲔	ugly
+U+32C95	𲲕	uqwn
+U+32C96	𲲖	pgrl
+U+32C97	𲲗	vfjl
+U+32C98	𲲘	jqwl
+U+32C99	𲲙	uqwp
+U+32C9A	𲲚	hbt
+U+32C9B	𲲛	xxhf
+U+32C9C	𲲜	hhbh
+U+32C9D	𲲝	tahf
+U+32C9E	𲲞	hruy
+U+32C9F	𲲟	hdgq
+U+32CA0	𲲠	hkry
+U+32CA1	𲲡	hldy
+U+32CA2	𲲢	hrfc
+U+32CA3	𲲣	hqhg
+U+32CA4	𲲤	hqtg
+U+32CA5	𲲥	hiwc
+U+32CA6	𲲦	hgfq
+U+32CA7	𲲧	hhaw
+U+32CA8	𲲨	hqbp
+U+32CA9	𲲩	hyny
+U+32CAA	𲲪	hpwa
+U+32CAB	𲲫	hyfh
+U+32CAC	𲲬	hffn
+U+32CAD	𲲭	gshe
+U+32CAE	𲲮	hmwy
+U+32CAF	𲲯	hgoj
+U+32CB0	𲲰	hxxy
+U+32CB1	𲲱	hgbm
+U+32CB2	𲲲	hlft
+U+32CB3	𲲳	hhqo
+U+32CB4	𲲴	hobt
+U+32CB5	𲲵	wimh
+U+32CB6	𲲶	fhwm
+U+32CB7	𲲷	hrdi
+U+32CB8	𲲸	htdy
+U+32CB9	𲲹	nhrf
+U+32CBA	𲲺	hann
+U+32CBB	𲲻	hpgt
+U+32CBC	𲲼	hsrr
+U+32CBD	𲲽	hahl
+U+32CBE	𲲾	cnhy
+U+32CBF	𲲿	cnhx
+U+32CC0	𲳀	cnho
+U+32CC1	𲳁	tdsg
+U+32CC2	𲳂	tdph
+U+32CC3	𲳃	tdkj
+U+32CC4	𲳄	ugtu
+U+32CC5	𲳅	tdlt
+U+32CC6	𲳆	tdgk
+U+32CC7	𲳇	uktu
+U+32CC8	𲳈	dnb
+U+32CC9	𲳉	dan
+U+32CCA	𲳊	dcy
+U+32CCB	𲳋	dfyy
+U+32CCC	𲳌	ddyy
+U+32CCD	𲳍	dtfg
+U+32CCE	𲳎	dqbh
+U+32CCF	𲳏	dthn
+U+32CD0	𲳐	dwan
+U+32CD1	𲳑	dywy
+U+32CD2	𲳒	dnu
+U+32CD3	𲳓	daiy
+U+32CD4	𲳔	dguf
+U+32CD5	𲳕	dhg
+U+32CD6	𲳖	dbiy
+U+32CD7	𲳗	dqhy
+U+32CD8	𲳘	dymh
+U+32CD9	𲳙	ddfy
+U+32CDA	𲳚	dwdy
+U+32CDB	𲳛	qqdg
+U+32CDC	𲳜	dpey
+U+32CDD	𲳝	dpvg
+U+32CDE	𲳞	daiy
+U+32CDF	𲳟	dfcb
+U+32CE0	𲳠	dfnt
+U+32CE1	𲳡	dsgg
+U+32CE2	𲳢	dmwk
+U+32CE3	𲳣	defy
+U+32CE4	𲳤	dcwt
+U+32CE5	𲳥	ddwg
+U+32CE6	𲳦	lrdf
+U+32CE7	𲳧	drug
+U+32CE8	𲳨	dkhn
+U+32CE9	𲳩	drqw
+U+32CEA	𲳪	drqy
+U+32CEB	𲳫	dooy
+U+32CEC	𲳬	dnbm
+U+32CED	𲳭	dfmf
+U+32CEE	𲳮	dgmc
+U+32CEF	𲳯	dasy
+U+32CF0	𲳰	fffd
+U+32CF1	𲳱	dgli
+U+32CF2	𲳲	dftj
+U+32CF3	𲳳	dlyt
+U+32CF4	𲳴	dujg
+U+32CF5	𲳵	dnua
+U+32CF6	𲳶	dxjm
+U+32CF7	𲳷	dbcc
+U+32CF8	𲳸	ddwt
+U+32CF9	𲳹	dbat
+U+32CFA	𲳺	dapg
+U+32CFB	𲳻	daws
+U+32CFC	𲳼	dqbl
+U+32CFD	𲳽	uwyd
+U+32CFE	𲳾	douf
+U+32CFF	𲳿	djlc
+U+32D00	𲴀	djaf
+U+32D01	𲴁	drfm
+U+32D02	𲴂	dyuk
+U+32D03	𲴃	dgjn
+U+32D04	𲴄	djjj
+U+32D05	𲴅	dhxi
+U+32D06	𲴆	dkhm
+U+32D07	𲴇	dlmy
+U+32D08	𲴈	dwyp
+U+32D09	𲴉	duoj
+U+32D0A	𲴊	dxjm
+U+32D0B	𲴋	dcci
+U+32D0C	𲴌	dnnw
+U+32D0D	𲴍	dgbm
+U+32D0E	𲴎	dfrc
+U+32D0F	𲴏	djvo
+U+32D10	𲴐	
+U+32D11	𲴑	
+U+32D12	𲴒	
+U+32D13	𲴓	
+U+32D14	𲴔	
+U+32D15	𲴕	
+U+32D16	𲴖	
+U+32D17	𲴗	
+U+32D18	𲴘	
+U+32D19	𲴙	
+U+32D1A	𲴚	
+U+32D1B	𲴛	
+U+32D1C	𲴜	
+U+32D1D	𲴝	
+U+32D1E	𲴞	
+U+32D1F	𲴟	
+U+32D20	𲴠	
+U+32D21	𲴡	
+U+32D22	𲴢	
+U+32D23	𲴣	
+U+32D24	𲴤	
+U+32D25	𲴥	
+U+32D26	𲴦	
+U+32D27	𲴧	
+U+32D28	𲴨	
+U+32D29	𲴩	
+U+32D2A	𲴪	
+U+32D2B	𲴫	
+U+32D2C	𲴬	
+U+32D2D	𲴭	
+U+32D2E	𲴮	
+U+32D2F	𲴯	
+U+32D30	𲴰	
+U+32D31	𲴱	
+U+32D32	𲴲	
+U+32D33	𲴳	
+U+32D34	𲴴	
+U+32D35	𲴵	
+U+32D36	𲴶	
+U+32D37	𲴷	
+U+32D38	𲴸	
+U+32D39	𲴹	
+U+32D3A	𲴺	
+U+32D3B	𲴻	
+U+32D3C	𲴼	
+U+32D3D	𲴽	
+U+32D3E	𲴾	
+U+32D3F	𲴿	
+U+32D40	𲵀	
+U+32D41	𲵁	
+U+32D42	𲵂	
+U+32D43	𲵃	
+U+32D44	𲵄	
+U+32D45	𲵅	
+U+32D46	𲵆	
+U+32D47	𲵇	
+U+32D48	𲵈	
+U+32D49	𲵉	
+U+32D4A	𲵊	
+U+32D4B	𲵋	
+U+32D4C	𲵌	
+U+32D4D	𲵍	
+U+32D4E	𲵎	
+U+32D4F	𲵏	
+U+32D50	𲵐	
+U+32D51	𲵑	
+U+32D52	𲵒	
+U+32D53	𲵓	
+U+32D54	𲵔	
+U+32D55	𲵕	
+U+32D56	𲵖	
+U+32D57	𲵗	
+U+32D58	𲵘	
+U+32D59	𲵙	
+U+32D5A	𲵚	
+U+32D5B	𲵛	
+U+32D5C	𲵜	
+U+32D5D	𲵝	
+U+32D5E	𲵞	
+U+32D5F	𲵟	
+U+32D60	𲵠	
+U+32D61	𲵡	
+U+32D62	𲵢	
+U+32D63	𲵣	
+U+32D64	𲵤	
+U+32D65	𲵥	
+U+32D66	𲵦	
+U+32D67	𲵧	
+U+32D68	𲵨	
+U+32D69	𲵩	
+U+32D6A	𲵪	
+U+32D6B	𲵫	
+U+32D6C	𲵬	
+U+32D6D	𲵭	
+U+32D6E	𲵮	
+U+32D6F	𲵯	
+U+32D70	𲵰	
+U+32D71	𲵱	
+U+32D72	𲵲	
+U+32D73	𲵳	
+U+32D74	𲵴	
+U+32D75	𲵵	
+U+32D76	𲵶	
+U+32D77	𲵷	
+U+32D78	𲵸	
+U+32D79	𲵹	
+U+32D7A	𲵺	
+U+32D7B	𲵻	
+U+32D7C	𲵼	
+U+32D7D	𲵽	
+U+32D7E	𲵾	
+U+32D7F	𲵿	
+U+32D80	𲶀	
+U+32D81	𲶁	
+U+32D82	𲶂	
+U+32D83	𲶃	
+U+32D84	𲶄	
+U+32D85	𲶅	
+U+32D86	𲶆	
+U+32D87	𲶇	
+U+32D88	𲶈	
+U+32D89	𲶉	
+U+32D8A	𲶊	
+U+32D8B	𲶋	
+U+32D8C	𲶌	
+U+32D8D	𲶍	
+U+32D8E	𲶎	
+U+32D8F	𲶏	
+U+32D90	𲶐	
+U+32D91	𲶑	
+U+32D92	𲶒	
+U+32D93	𲶓	
+U+32D94	𲶔	
+U+32D95	𲶕	
+U+32D96	𲶖	
+U+32D97	𲶗	
+U+32D98	𲶘	
+U+32D99	𲶙	
+U+32D9A	𲶚	
+U+32D9B	𲶛	
+U+32D9C	𲶜	
+U+32D9D	𲶝	
+U+32D9E	𲶞	
+U+32D9F	𲶟	
+U+32DA0	𲶠	
+U+32DA1	𲶡	
+U+32DA2	𲶢	
+U+32DA3	𲶣	
+U+32DA4	𲶤	
+U+32DA5	𲶥	
+U+32DA6	𲶦	
+U+32DA7	𲶧	
+U+32DA8	𲶨	
+U+32DA9	𲶩	
+U+32DAA	𲶪	
+U+32DAB	𲶫	
+U+32DAC	𲶬	
+U+32DAD	𲶭	
+U+32DAE	𲶮	
+U+32DAF	𲶯	
+U+32DB0	𲶰	
+U+32DB1	𲶱	
+U+32DB2	𲶲	
+U+32DB3	𲶳	
+U+32DB4	𲶴	
+U+32DB5	𲶵	
+U+32DB6	𲶶	
+U+32DB7	𲶷	
+U+32DB8	𲶸	
+U+32DB9	𲶹	
+U+32DBA	𲶺	
+U+32DBB	𲶻	
+U+32DBC	𲶼	
+U+32DBD	𲶽	
+U+32DBE	𲶾	
+U+32DBF	𲶿	
+U+32DC0	𲷀	
+U+32DC1	𲷁	
+U+32DC2	𲷂	
+U+32DC3	𲷃	
+U+32DC4	𲷄	
+U+32DC5	𲷅	
+U+32DC6	𲷆	
+U+32DC7	𲷇	
+U+32DC8	𲷈	
+U+32DC9	𲷉	
+U+32DCA	𲷊	
+U+32DCB	𲷋	
+U+32DCC	𲷌	
+U+32DCD	𲷍	
+U+32DCE	𲷎	
+U+32DCF	𲷏	
+U+32DD0	𲷐	
+U+32DD1	𲷑	
+U+32DD2	𲷒	
+U+32DD3	𲷓	
+U+32DD4	𲷔	
+U+32DD5	𲷕	
+U+32DD6	𲷖	
+U+32DD7	𲷗	
+U+32DD8	𲷘	
+U+32DD9	𲷙	
+U+32DDA	𲷚	
+U+32DDB	𲷛	
+U+32DDC	𲷜	
+U+32DDD	𲷝	
+U+32DDE	𲷞	
+U+32DDF	𲷟	
+U+32DE0	𲷠	
+U+32DE1	𲷡	
+U+32DE2	𲷢	
+U+32DE3	𲷣	
+U+32DE4	𲷤	
+U+32DE5	𲷥	
+U+32DE6	𲷦	
+U+32DE7	𲷧	
+U+32DE8	𲷨	
+U+32DE9	𲷩	
+U+32DEA	𲷪	
+U+32DEB	𲷫	
+U+32DEC	𲷬	
+U+32DED	𲷭	
+U+32DEE	𲷮	
+U+32DEF	𲷯	
+U+32DF0	𲷰	
+U+32DF1	𲷱	
+U+32DF2	𲷲	
+U+32DF3	𲷳	
+U+32DF4	𲷴	
+U+32DF5	𲷵	
+U+32DF6	𲷶	
+U+32DF7	𲷷	
+U+32DF8	𲷸	
+U+32DF9	𲷹	
+U+32DFA	𲷺	
+U+32DFB	𲷻	
+U+32DFC	𲷼	
+U+32DFD	𲷽	
+U+32DFE	𲷾	
+U+32DFF	𲷿	
+U+32E00	𲸀	
+U+32E01	𲸁	
+U+32E02	𲸂	
+U+32E03	𲸃	
+U+32E04	𲸄	
+U+32E05	𲸅	
+U+32E06	𲸆	
+U+32E07	𲸇	
+U+32E08	𲸈	
+U+32E09	𲸉	
+U+32E0A	𲸊	
+U+32E0B	𲸋	
+U+32E0C	𲸌	
+U+32E0D	𲸍	
+U+32E0E	𲸎	
+U+32E0F	𲸏	
+U+32E10	𲸐	
+U+32E11	𲸑	
+U+32E12	𲸒	
+U+32E13	𲸓	
+U+32E14	𲸔	
+U+32E15	𲸕	
+U+32E16	𲸖	
+U+32E17	𲸗	
+U+32E18	𲸘	
+U+32E19	𲸙	
+U+32E1A	𲸚	
+U+32E1B	𲸛	
+U+32E1C	𲸜	
+U+32E1D	𲸝	
+U+32E1E	𲸞	
+U+32E1F	𲸟	
+U+32E20	𲸠	
+U+32E21	𲸡	
+U+32E22	𲸢	
+U+32E23	𲸣	
+U+32E24	𲸤	
+U+32E25	𲸥	
+U+32E26	𲸦	
+U+32E27	𲸧	
+U+32E28	𲸨	
+U+32E29	𲸩	
+U+32E2A	𲸪	
+U+32E2B	𲸫	
+U+32E2C	𲸬	
+U+32E2D	𲸭	
+U+32E2E	𲸮	
+U+32E2F	𲸯	
+U+32E30	𲸰	
+U+32E31	𲸱	
+U+32E32	𲸲	
+U+32E33	𲸳	
+U+32E34	𲸴	
+U+32E35	𲸵	
+U+32E36	𲸶	
+U+32E37	𲸷	
+U+32E38	𲸸	
+U+32E39	𲸹	
+U+32E3A	𲸺	
+U+32E3B	𲸻	
+U+32E3C	𲸼	
+U+32E3D	𲸽	
+U+32E3E	𲸾	
+U+32E3F	𲸿	
+U+32E40	𲹀	
+U+32E41	𲹁	
+U+32E42	𲹂	
+U+32E43	𲹃	
+U+32E44	𲹄	
+U+32E45	𲹅	
+U+32E46	𲹆	
+U+32E47	𲹇	
+U+32E48	𲹈	
+U+32E49	𲹉	
+U+32E4A	𲹊	
+U+32E4B	𲹋	
+U+32E4C	𲹌	
+U+32E4D	𲹍	
+U+32E4E	𲹎	
+U+32E4F	𲹏	
+U+32E50	𲹐	
+U+32E51	𲹑	
+U+32E52	𲹒	
+U+32E53	𲹓	
+U+32E54	𲹔	
+U+32E55	𲹕	
+U+32E56	𲹖	
+U+32E57	𲹗	
+U+32E58	𲹘	
+U+32E59	𲹙	
+U+32E5A	𲹚	
+U+32E5B	𲹛	
+U+32E5C	𲹜	
+U+32E5D	𲹝	
+U+32E5E	𲹞	
+U+32E5F	𲹟	
+U+32E60	𲹠	
+U+32E61	𲹡	
+U+32E62	𲹢	
+U+32E63	𲹣	
+U+32E64	𲹤	
+U+32E65	𲹥	
+U+32E66	𲹦	
+U+32E67	𲹧	
+U+32E68	𲹨	
+U+32E69	𲹩	
+U+32E6A	𲹪	
+U+32E6B	𲹫	
+U+32E6C	𲹬	
+U+32E6D	𲹭	
+U+32E6E	𲹮	
+U+32E6F	𲹯	
+U+32E70	𲹰	
+U+32E71	𲹱	
+U+32E72	𲹲	
+U+32E73	𲹳	
+U+32E74	𲹴	
+U+32E75	𲹵	
+U+32E76	𲹶	
+U+32E77	𲹷	
+U+32E78	𲹸	
+U+32E79	𲹹	
+U+32E7A	𲹺	
+U+32E7B	𲹻	
+U+32E7C	𲹼	
+U+32E7D	𲹽	
+U+32E7E	𲹾	
+U+32E7F	𲹿	
+U+32E80	𲺀	
+U+32E81	𲺁	
+U+32E82	𲺂	
+U+32E83	𲺃	
+U+32E84	𲺄	
+U+32E85	𲺅	
+U+32E86	𲺆	
+U+32E87	𲺇	
+U+32E88	𲺈	
+U+32E89	𲺉	
+U+32E8A	𲺊	
+U+32E8B	𲺋	
+U+32E8C	𲺌	
+U+32E8D	𲺍	
+U+32E8E	𲺎	
+U+32E8F	𲺏	
+U+32E90	𲺐	
+U+32E91	𲺑	
+U+32E92	𲺒	
+U+32E93	𲺓	
+U+32E94	𲺔	
+U+32E95	𲺕	
+U+32E96	𲺖	
+U+32E97	𲺗	
+U+32E98	𲺘	
+U+32E99	𲺙	
+U+32E9A	𲺚	
+U+32E9B	𲺛	
+U+32E9C	𲺜	
+U+32E9D	𲺝	
+U+32E9E	𲺞	
+U+32E9F	𲺟	
+U+32EA0	𲺠	
+U+32EA1	𲺡	
+U+32EA2	𲺢	
+U+32EA3	𲺣	
+U+32EA4	𲺤	
+U+32EA5	𲺥	
+U+32EA6	𲺦	
+U+32EA7	𲺧	
+U+32EA8	𲺨	
+U+32EA9	𲺩	
+U+32EAA	𲺪	
+U+32EAB	𲺫	
+U+32EAC	𲺬	
+U+32EAD	𲺭	
+U+32EAE	𲺮	
+U+32EAF	𲺯	
+U+32EB0	𲺰	
+U+32EB1	𲺱	
+U+32EB2	𲺲	
+U+32EB3	𲺳	
+U+32EB4	𲺴	
+U+32EB5	𲺵	
+U+32EB6	𲺶	
+U+32EB7	𲺷	
+U+32EB8	𲺸	
+U+32EB9	𲺹	
+U+32EBA	𲺺	
+U+32EBB	𲺻	
+U+32EBC	𲺼	
+U+32EBD	𲺽	
+U+32EBE	𲺾	
+U+32EBF	𲺿	
+U+32EC0	𲻀	
+U+32EC1	𲻁	
+U+32EC2	𲻂	
+U+32EC3	𲻃	
+U+32EC4	𲻄	
+U+32EC5	𲻅	
+U+32EC6	𲻆	
+U+32EC7	𲻇	
+U+32EC8	𲻈	
+U+32EC9	𲻉	
+U+32ECA	𲻊	
+U+32ECB	𲻋	
+U+32ECC	𲻌	
+U+32ECD	𲻍	
+U+32ECE	𲻎	
+U+32ECF	𲻏	
+U+32ED0	𲻐	
+U+32ED1	𲻑	
+U+32ED2	𲻒	
+U+32ED3	𲻓	
+U+32ED4	𲻔	
+U+32ED5	𲻕	
+U+32ED6	𲻖	
+U+32ED7	𲻗	
+U+32ED8	𲻘	
+U+32ED9	𲻙	
+U+32EDA	𲻚	
+U+32EDB	𲻛	
+U+32EDC	𲻜	
+U+32EDD	𲻝	
+U+32EDE	𲻞	
+U+32EDF	𲻟	
+U+32EE0	𲻠	
+U+32EE1	𲻡	
+U+32EE2	𲻢	
+U+32EE3	𲻣	
+U+32EE4	𲻤	
+U+32EE5	𲻥	
+U+32EE6	𲻦	
+U+32EE7	𲻧	
+U+32EE8	𲻨	
+U+32EE9	𲻩	
+U+32EEA	𲻪	
+U+32EEB	𲻫	
+U+32EEC	𲻬	
+U+32EED	𲻭	
+U+32EEE	𲻮	
+U+32EEF	𲻯	
+U+32EF0	𲻰	
+U+32EF1	𲻱	
+U+32EF2	𲻲	
+U+32EF3	𲻳	
+U+32EF4	𲻴	
+U+32EF5	𲻵	
+U+32EF6	𲻶	
+U+32EF7	𲻷	
+U+32EF8	𲻸	
+U+32EF9	𲻹	
+U+32EFA	𲻺	
+U+32EFB	𲻻	
+U+32EFC	𲻼	
+U+32EFD	𲻽	
+U+32EFE	𲻾	
+U+32EFF	𲻿	
+U+32F00	𲼀	
+U+32F01	𲼁	
+U+32F02	𲼂	
+U+32F03	𲼃	
+U+32F04	𲼄	
+U+32F05	𲼅	
+U+32F06	𲼆	
+U+32F07	𲼇	
+U+32F08	𲼈	
+U+32F09	𲼉	
+U+32F0A	𲼊	
+U+32F0B	𲼋	
+U+32F0C	𲼌	
+U+32F0D	𲼍	
+U+32F0E	𲼎	
+U+32F0F	𲼏	
+U+32F10	𲼐	
+U+32F11	𲼑	
+U+32F12	𲼒	
+U+32F13	𲼓	
+U+32F14	𲼔	
+U+32F15	𲼕	
+U+32F16	𲼖	
+U+32F17	𲼗	
+U+32F18	𲼘	
+U+32F19	𲼙	
+U+32F1A	𲼚	
+U+32F1B	𲼛	
+U+32F1C	𲼜	
+U+32F1D	𲼝	
+U+32F1E	𲼞	
+U+32F1F	𲼟	
+U+32F20	𲼠	
+U+32F21	𲼡	
+U+32F22	𲼢	
+U+32F23	𲼣	
+U+32F24	𲼤	
+U+32F25	𲼥	
+U+32F26	𲼦	
+U+32F27	𲼧	
+U+32F28	𲼨	
+U+32F29	𲼩	
+U+32F2A	𲼪	
+U+32F2B	𲼫	
+U+32F2C	𲼬	
+U+32F2D	𲼭	
+U+32F2E	𲼮	
+U+32F2F	𲼯	
+U+32F30	𲼰	
+U+32F31	𲼱	
+U+32F32	𲼲	
+U+32F33	𲼳	
+U+32F34	𲼴	
+U+32F35	𲼵	
+U+32F36	𲼶	
+U+32F37	𲼷	
+U+32F38	𲼸	
+U+32F39	𲼹	
+U+32F3A	𲼺	
+U+32F3B	𲼻	
+U+32F3C	𲼼	
+U+32F3D	𲼽	
+U+32F3E	𲼾	
+U+32F3F	𲼿	
+U+32F40	𲽀	
+U+32F41	𲽁	
+U+32F42	𲽂	
+U+32F43	𲽃	
+U+32F44	𲽄	
+U+32F45	𲽅	
+U+32F46	𲽆	
+U+32F47	𲽇	
+U+32F48	𲽈	
+U+32F49	𲽉	
+U+32F4A	𲽊	
+U+32F4B	𲽋	
+U+32F4C	𲽌	
+U+32F4D	𲽍	
+U+32F4E	𲽎	
+U+32F4F	𲽏	
+U+32F50	𲽐	
+U+32F51	𲽑	
+U+32F52	𲽒	
+U+32F53	𲽓	
+U+32F54	𲽔	
+U+32F55	𲽕	
+U+32F56	𲽖	
+U+32F57	𲽗	
+U+32F58	𲽘	
+U+32F59	𲽙	
+U+32F5A	𲽚	
+U+32F5B	𲽛	
+U+32F5C	𲽜	
+U+32F5D	𲽝	
+U+32F5E	𲽞	
+U+32F5F	𲽟	
+U+32F60	𲽠	
+U+32F61	𲽡	
+U+32F62	𲽢	
+U+32F63	𲽣	
+U+32F64	𲽤	
+U+32F65	𲽥	
+U+32F66	𲽦	
+U+32F67	𲽧	
+U+32F68	𲽨	
+U+32F69	𲽩	
+U+32F6A	𲽪	
+U+32F6B	𲽫	
+U+32F6C	𲽬	
+U+32F6D	𲽭	
+U+32F6E	𲽮	
+U+32F6F	𲽯	
+U+32F70	𲽰	
+U+32F71	𲽱	
+U+32F72	𲽲	
+U+32F73	𲽳	
+U+32F74	𲽴	
+U+32F75	𲽵	
+U+32F76	𲽶	
+U+32F77	𲽷	
+U+32F78	𲽸	
+U+32F79	𲽹	
+U+32F7A	𲽺	
+U+32F7B	𲽻	
+U+32F7C	𲽼	
+U+32F7D	𲽽	
+U+32F7E	𲽾	
+U+32F7F	𲽿	
+U+32F80	𲾀	
+U+32F81	𲾁	
+U+32F82	𲾂	
+U+32F83	𲾃	
+U+32F84	𲾄	
+U+32F85	𲾅	
+U+32F86	𲾆	
+U+32F87	𲾇	
+U+32F88	𲾈	
+U+32F89	𲾉	
+U+32F8A	𲾊	
+U+32F8B	𲾋	
+U+32F8C	𲾌	
+U+32F8D	𲾍	
+U+32F8E	𲾎	
+U+32F8F	𲾏	
+U+32F90	𲾐	
+U+32F91	𲾑	
+U+32F92	𲾒	
+U+32F93	𲾓	
+U+32F94	𲾔	
+U+32F95	𲾕	
+U+32F96	𲾖	
+U+32F97	𲾗	
+U+32F98	𲾘	
+U+32F99	𲾙	
+U+32F9A	𲾚	
+U+32F9B	𲾛	
+U+32F9C	𲾜	
+U+32F9D	𲾝	
+U+32F9E	𲾞	
+U+32F9F	𲾟	
+U+32FA0	𲾠	
+U+32FA1	𲾡	
+U+32FA2	𲾢	
+U+32FA3	𲾣	
+U+32FA4	𲾤	
+U+32FA5	𲾥	
+U+32FA6	𲾦	
+U+32FA7	𲾧	
+U+32FA8	𲾨	
+U+32FA9	𲾩	
+U+32FAA	𲾪	
+U+32FAB	𲾫	
+U+32FAC	𲾬	
+U+32FAD	𲾭	
+U+32FAE	𲾮	
+U+32FAF	𲾯	
+U+32FB0	𲾰	
+U+32FB1	𲾱	
+U+32FB2	𲾲	
+U+32FB3	𲾳	
+U+32FB4	𲾴	
+U+32FB5	𲾵	
+U+32FB6	𲾶	
+U+32FB7	𲾷	
+U+32FB8	𲾸	
+U+32FB9	𲾹	
+U+32FBA	𲾺	
+U+32FBB	𲾻	
+U+32FBC	𲾼	
+U+32FBD	𲾽	
+U+32FBE	𲾾	
+U+32FBF	𲾿	
+U+32FC0	𲿀	
+U+32FC1	𲿁	
+U+32FC2	𲿂	
+U+32FC3	𲿃	
+U+32FC4	𲿄	
+U+32FC5	𲿅	
+U+32FC6	𲿆	
+U+32FC7	𲿇	
+U+32FC8	𲿈	
+U+32FC9	𲿉	
+U+32FCA	𲿊	
+U+32FCB	𲿋	
+U+32FCC	𲿌	
+U+32FCD	𲿍	
+U+32FCE	𲿎	
+U+32FCF	𲿏	
+U+32FD0	𲿐	
+U+32FD1	𲿑	
+U+32FD2	𲿒	
+U+32FD3	𲿓	
+U+32FD4	𲿔	
+U+32FD5	𲿕	
+U+32FD6	𲿖	
+U+32FD7	𲿗	
+U+32FD8	𲿘	
+U+32FD9	𲿙	
+U+32FDA	𲿚	
+U+32FDB	𲿛	
+U+32FDC	𲿜	
+U+32FDD	𲿝	
+U+32FDE	𲿞	
+U+32FDF	𲿟	
+U+32FE0	𲿠	
+U+32FE1	𲿡	
+U+32FE2	𲿢	
+U+32FE3	𲿣	
+U+32FE4	𲿤	
+U+32FE5	𲿥	
+U+32FE6	𲿦	
+U+32FE7	𲿧	
+U+32FE8	𲿨	
+U+32FE9	𲿩	
+U+32FEA	𲿪	
+U+32FEB	𲿫	
+U+32FEC	𲿬	
+U+32FED	𲿭	
+U+32FEE	𲿮	
+U+32FEF	𲿯	
+U+32FF0	𲿰	
+U+32FF1	𲿱	
+U+32FF2	𲿲	
+U+32FF3	𲿳	
+U+32FF4	𲿴	
+U+32FF5	𲿵	
+U+32FF6	𲿶	
+U+32FF7	𲿷	
+U+32FF8	𲿸	
+U+32FF9	𲿹	
+U+32FFA	𲿺	
+U+32FFB	𲿻	
+U+32FFC	𲿼	
+U+32FFD	𲿽	
+U+32FFE	𲿾	
+U+32FFF	𲿿	
+U+33000	𳀀	
+U+33001	𳀁	
+U+33002	𳀂	
+U+33003	𳀃	
+U+33004	𳀄	
+U+33005	𳀅	
+U+33006	𳀆	
+U+33007	𳀇	
+U+33008	𳀈	
+U+33009	𳀉	
+U+3300A	𳀊	
+U+3300B	𳀋	
+U+3300C	𳀌	
+U+3300D	𳀍	
+U+3300E	𳀎	
+U+3300F	𳀏	
+U+33010	𳀐	
+U+33011	𳀑	
+U+33012	𳀒	
+U+33013	𳀓	
+U+33014	𳀔	
+U+33015	𳀕	
+U+33016	𳀖	
+U+33017	𳀗	
+U+33018	𳀘	
+U+33019	𳀙	
+U+3301A	𳀚	
+U+3301B	𳀛	
+U+3301C	𳀜	
+U+3301D	𳀝	
+U+3301E	𳀞	
+U+3301F	𳀟	
+U+33020	𳀠	
+U+33021	𳀡	
+U+33022	𳀢	
+U+33023	𳀣	
+U+33024	𳀤	
+U+33025	𳀥	
+U+33026	𳀦	
+U+33027	𳀧	
+U+33028	𳀨	
+U+33029	𳀩	
+U+3302A	𳀪	
+U+3302B	𳀫	
+U+3302C	𳀬	
+U+3302D	𳀭	
+U+3302E	𳀮	
+U+3302F	𳀯	
+U+33030	𳀰	
+U+33031	𳀱	
+U+33032	𳀲	
+U+33033	𳀳	
+U+33034	𳀴	
+U+33035	𳀵	
+U+33036	𳀶	
+U+33037	𳀷	
+U+33038	𳀸	
+U+33039	𳀹	
+U+3303A	𳀺	
+U+3303B	𳀻	
+U+3303C	𳀼	
+U+3303D	𳀽	
+U+3303E	𳀾	
+U+3303F	𳀿	
+U+33040	𳁀	
+U+33041	𳁁	
+U+33042	𳁂	
+U+33043	𳁃	
+U+33044	𳁄	
+U+33045	𳁅	
+U+33046	𳁆	
+U+33047	𳁇	
+U+33048	𳁈	
+U+33049	𳁉	
+U+3304A	𳁊	
+U+3304B	𳁋	
+U+3304C	𳁌	
+U+3304D	𳁍	
+U+3304E	𳁎	
+U+3304F	𳁏	
+U+33050	𳁐	
+U+33051	𳁑	
+U+33052	𳁒	
+U+33053	𳁓	
+U+33054	𳁔	
+U+33055	𳁕	
+U+33056	𳁖	
+U+33057	𳁗	
+U+33058	𳁘	
+U+33059	𳁙	
+U+3305A	𳁚	
+U+3305B	𳁛	
+U+3305C	𳁜	
+U+3305D	𳁝	
+U+3305E	𳁞	
+U+3305F	𳁟	
+U+33060	𳁠	
+U+33061	𳁡	
+U+33062	𳁢	
+U+33063	𳁣	
+U+33064	𳁤	
+U+33065	𳁥	
+U+33066	𳁦	
+U+33067	𳁧	
+U+33068	𳁨	
+U+33069	𳁩	
+U+3306A	𳁪	
+U+3306B	𳁫	
+U+3306C	𳁬	
+U+3306D	𳁭	
+U+3306E	𳁮	
+U+3306F	𳁯	
+U+33070	𳁰	
+U+33071	𳁱	
+U+33072	𳁲	
+U+33073	𳁳	
+U+33074	𳁴	
+U+33075	𳁵	
+U+33076	𳁶	
+U+33077	𳁷	
+U+33078	𳁸	
+U+33079	𳁹	
+U+3307A	𳁺	
+U+3307B	𳁻	
+U+3307C	𳁼	
+U+3307D	𳁽	
+U+3307E	𳁾	
+U+3307F	𳁿	
+U+33080	𳂀	
+U+33081	𳂁	
+U+33082	𳂂	
+U+33083	𳂃	
+U+33084	𳂄	
+U+33085	𳂅	
+U+33086	𳂆	
+U+33087	𳂇	
+U+33088	𳂈	
+U+33089	𳂉	
+U+3308A	𳂊	
+U+3308B	𳂋	
+U+3308C	𳂌	
+U+3308D	𳂍	
+U+3308E	𳂎	
+U+3308F	𳂏	
+U+33090	𳂐	
+U+33091	𳂑	
+U+33092	𳂒	
+U+33093	𳂓	
+U+33094	𳂔	
+U+33095	𳂕	
+U+33096	𳂖	
+U+33097	𳂗	
+U+33098	𳂘	
+U+33099	𳂙	
+U+3309A	𳂚	
+U+3309B	𳂛	
+U+3309C	𳂜	
+U+3309D	𳂝	
+U+3309E	𳂞	
+U+3309F	𳂟	
+U+330A0	𳂠	
+U+330A1	𳂡	
+U+330A2	𳂢	
+U+330A3	𳂣	
+U+330A4	𳂤	
+U+330A5	𳂥	
+U+330A6	𳂦	
+U+330A7	𳂧	
+U+330A8	𳂨	
+U+330A9	𳂩	
+U+330AA	𳂪	
+U+330AB	𳂫	
+U+330AC	𳂬	
+U+330AD	𳂭	
+U+330AE	𳂮	
+U+330AF	𳂯	
+U+330B0	𳂰	
+U+330B1	𳂱	
+U+330B2	𳂲	
+U+330B3	𳂳	
+U+330B4	𳂴	
+U+330B5	𳂵	
+U+330B6	𳂶	
+U+330B7	𳂷	
+U+330B8	𳂸	
+U+330B9	𳂹	
+U+330BA	𳂺	
+U+330BB	𳂻	
+U+330BC	𳂼	
+U+330BD	𳂽	
+U+330BE	𳂾	
+U+330BF	𳂿	
+U+330C0	𳃀	
+U+330C1	𳃁	
+U+330C2	𳃂	
+U+330C3	𳃃	
+U+330C4	𳃄	
+U+330C5	𳃅	
+U+330C6	𳃆	
+U+330C7	𳃇	
+U+330C8	𳃈	
+U+330C9	𳃉	
+U+330CA	𳃊	
+U+330CB	𳃋	
+U+330CC	𳃌	
+U+330CD	𳃍	
+U+330CE	𳃎	
+U+330CF	𳃏	
+U+330D0	𳃐	
+U+330D1	𳃑	
+U+330D2	𳃒	
+U+330D3	𳃓	
+U+330D4	𳃔	
+U+330D5	𳃕	
+U+330D6	𳃖	
+U+330D7	𳃗	
+U+330D8	𳃘	
+U+330D9	𳃙	
+U+330DA	𳃚	
+U+330DB	𳃛	
+U+330DC	𳃜	
+U+330DD	𳃝	
+U+330DE	𳃞	
+U+330DF	𳃟	
+U+330E0	𳃠	
+U+330E1	𳃡	
+U+330E2	𳃢	
+U+330E3	𳃣	
+U+330E4	𳃤	
+U+330E5	𳃥	
+U+330E6	𳃦	
+U+330E7	𳃧	
+U+330E8	𳃨	
+U+330E9	𳃩	
+U+330EA	𳃪	
+U+330EB	𳃫	
+U+330EC	𳃬	
+U+330ED	𳃭	
+U+330EE	𳃮	
+U+330EF	𳃯	
+U+330F0	𳃰	
+U+330F1	𳃱	
+U+330F2	𳃲	
+U+330F3	𳃳	
+U+330F4	𳃴	
+U+330F5	𳃵	
+U+330F6	𳃶	
+U+330F7	𳃷	
+U+330F8	𳃸	
+U+330F9	𳃹	
+U+330FA	𳃺	
+U+330FB	𳃻	
+U+330FC	𳃼	
+U+330FD	𳃽	
+U+330FE	𳃾	
+U+330FF	𳃿	
+U+33100	𳄀	
+U+33101	𳄁	
+U+33102	𳄂	
+U+33103	𳄃	
+U+33104	𳄄	
+U+33105	𳄅	
+U+33106	𳄆	
+U+33107	𳄇	
+U+33108	𳄈	
+U+33109	𳄉	
+U+3310A	𳄊	
+U+3310B	𳄋	
+U+3310C	𳄌	
+U+3310D	𳄍	
+U+3310E	𳄎	
+U+3310F	𳄏	
+U+33110	𳄐	
+U+33111	𳄑	
+U+33112	𳄒	
+U+33113	𳄓	
+U+33114	𳄔	
+U+33115	𳄕	
+U+33116	𳄖	
+U+33117	𳄗	
+U+33118	𳄘	
+U+33119	𳄙	
+U+3311A	𳄚	
+U+3311B	𳄛	
+U+3311C	𳄜	
+U+3311D	𳄝	
+U+3311E	𳄞	
+U+3311F	𳄟	
+U+33120	𳄠	
+U+33121	𳄡	
+U+33122	𳄢	
+U+33123	𳄣	
+U+33124	𳄤	
+U+33125	𳄥	
+U+33126	𳄦	
+U+33127	𳄧	
+U+33128	𳄨	
+U+33129	𳄩	
+U+3312A	𳄪	
+U+3312B	𳄫	
+U+3312C	𳄬	
+U+3312D	𳄭	
+U+3312E	𳄮	
+U+3312F	𳄯	
+U+33130	𳄰	
+U+33131	𳄱	
+U+33132	𳄲	
+U+33133	𳄳	
+U+33134	𳄴	
+U+33135	𳄵	
+U+33136	𳄶	
+U+33137	𳄷	
+U+33138	𳄸	
+U+33139	𳄹	
+U+3313A	𳄺	
+U+3313B	𳄻	
+U+3313C	𳄼	
+U+3313D	𳄽	
+U+3313E	𳄾	
+U+3313F	𳄿	
+U+33140	𳅀	
+U+33141	𳅁	
+U+33142	𳅂	
+U+33143	𳅃	
+U+33144	𳅄	
+U+33145	𳅅	
+U+33146	𳅆	
+U+33147	𳅇	
+U+33148	𳅈	
+U+33149	𳅉	
+U+3314A	𳅊	
+U+3314B	𳅋	
+U+3314C	𳅌	
+U+3314D	𳅍	
+U+3314E	𳅎	
+U+3314F	𳅏	
+U+33150	𳅐	
+U+33151	𳅑	
+U+33152	𳅒	
+U+33153	𳅓	
+U+33154	𳅔	
+U+33155	𳅕	
+U+33156	𳅖	
+U+33157	𳅗	
+U+33158	𳅘	
+U+33159	𳅙	
+U+3315A	𳅚	
+U+3315B	𳅛	
+U+3315C	𳅜	
+U+3315D	𳅝	
+U+3315E	𳅞	
+U+3315F	𳅟	
+U+33160	𳅠	
+U+33161	𳅡	
+U+33162	𳅢	
+U+33163	𳅣	
+U+33164	𳅤	
+U+33165	𳅥	
+U+33166	𳅦	
+U+33167	𳅧	
+U+33168	𳅨	
+U+33169	𳅩	
+U+3316A	𳅪	
+U+3316B	𳅫	
+U+3316C	𳅬	
+U+3316D	𳅭	
+U+3316E	𳅮	
+U+3316F	𳅯	
+U+33170	𳅰	
+U+33171	𳅱	
+U+33172	𳅲	
+U+33173	𳅳	
+U+33174	𳅴	
+U+33175	𳅵	
+U+33176	𳅶	
+U+33177	𳅷	
+U+33178	𳅸	
+U+33179	𳅹	
+U+3317A	𳅺	
+U+3317B	𳅻	
+U+3317C	𳅼	
+U+3317D	𳅽	
+U+3317E	𳅾	
+U+3317F	𳅿	
+U+33180	𳆀	
+U+33181	𳆁	
+U+33182	𳆂	
+U+33183	𳆃	
+U+33184	𳆄	
+U+33185	𳆅	
+U+33186	𳆆	
+U+33187	𳆇	
+U+33188	𳆈	
+U+33189	𳆉	
+U+3318A	𳆊	
+U+3318B	𳆋	
+U+3318C	𳆌	
+U+3318D	𳆍	
+U+3318E	𳆎	
+U+3318F	𳆏	
+U+33190	𳆐	
+U+33191	𳆑	
+U+33192	𳆒	
+U+33193	𳆓	
+U+33194	𳆔	
+U+33195	𳆕	
+U+33196	𳆖	
+U+33197	𳆗	
+U+33198	𳆘	
+U+33199	𳆙	
+U+3319A	𳆚	
+U+3319B	𳆛	
+U+3319C	𳆜	
+U+3319D	𳆝	
+U+3319E	𳆞	
+U+3319F	𳆟	
+U+331A0	𳆠	
+U+331A1	𳆡	
+U+331A2	𳆢	
+U+331A3	𳆣	
+U+331A4	𳆤	
+U+331A5	𳆥	
+U+331A6	𳆦	
+U+331A7	𳆧	
+U+331A8	𳆨	
+U+331A9	𳆩	
+U+331AA	𳆪	
+U+331AB	𳆫	
+U+331AC	𳆬	
+U+331AD	𳆭	
+U+331AE	𳆮	
+U+331AF	𳆯	
+U+331B0	𳆰	
+U+331B1	𳆱	
+U+331B2	𳆲	
+U+331B3	𳆳	
+U+331B4	𳆴	
+U+331B5	𳆵	
+U+331B6	𳆶	
+U+331B7	𳆷	
+U+331B8	𳆸	
+U+331B9	𳆹	
+U+331BA	𳆺	
+U+331BB	𳆻	
+U+331BC	𳆼	
+U+331BD	𳆽	
+U+331BE	𳆾	
+U+331BF	𳆿	
+U+331C0	𳇀	
+U+331C1	𳇁	
+U+331C2	𳇂	
+U+331C3	𳇃	
+U+331C4	𳇄	
+U+331C5	𳇅	
+U+331C6	𳇆	
+U+331C7	𳇇	
+U+331C8	𳇈	
+U+331C9	𳇉	
+U+331CA	𳇊	
+U+331CB	𳇋	
+U+331CC	𳇌	
+U+331CD	𳇍	
+U+331CE	𳇎	
+U+331CF	𳇏	
+U+331D0	𳇐	
+U+331D1	𳇑	
+U+331D2	𳇒	
+U+331D3	𳇓	
+U+331D4	𳇔	
+U+331D5	𳇕	
+U+331D6	𳇖	
+U+331D7	𳇗	
+U+331D8	𳇘	
+U+331D9	𳇙	
+U+331DA	𳇚	
+U+331DB	𳇛	
+U+331DC	𳇜	
+U+331DD	𳇝	
+U+331DE	𳇞	
+U+331DF	𳇟	
+U+331E0	𳇠	
+U+331E1	𳇡	
+U+331E2	𳇢	
+U+331E3	𳇣	
+U+331E4	𳇤	
+U+331E5	𳇥	
+U+331E6	𳇦	
+U+331E7	𳇧	
+U+331E8	𳇨	
+U+331E9	𳇩	
+U+331EA	𳇪	
+U+331EB	𳇫	
+U+331EC	𳇬	
+U+331ED	𳇭	
+U+331EE	𳇮	
+U+331EF	𳇯	
+U+331F0	𳇰	
+U+331F1	𳇱	
+U+331F2	𳇲	
+U+331F3	𳇳	
+U+331F4	𳇴	
+U+331F5	𳇵	
+U+331F6	𳇶	
+U+331F7	𳇷	
+U+331F8	𳇸	
+U+331F9	𳇹	
+U+331FA	𳇺	
+U+331FB	𳇻	
+U+331FC	𳇼	
+U+331FD	𳇽	
+U+331FE	𳇾	
+U+331FF	𳇿	
+U+33200	𳈀	
+U+33201	𳈁	
+U+33202	𳈂	
+U+33203	𳈃	
+U+33204	𳈄	
+U+33205	𳈅	
+U+33206	𳈆	
+U+33207	𳈇	
+U+33208	𳈈	
+U+33209	𳈉	
+U+3320A	𳈊	
+U+3320B	𳈋	
+U+3320C	𳈌	
+U+3320D	𳈍	
+U+3320E	𳈎	
+U+3320F	𳈏	
+U+33210	𳈐	
+U+33211	𳈑	
+U+33212	𳈒	
+U+33213	𳈓	
+U+33214	𳈔	
+U+33215	𳈕	
+U+33216	𳈖	
+U+33217	𳈗	
+U+33218	𳈘	
+U+33219	𳈙	
+U+3321A	𳈚	
+U+3321B	𳈛	
+U+3321C	𳈜	
+U+3321D	𳈝	
+U+3321E	𳈞	
+U+3321F	𳈟	
+U+33220	𳈠	
+U+33221	𳈡	
+U+33222	𳈢	
+U+33223	𳈣	
+U+33224	𳈤	
+U+33225	𳈥	
+U+33226	𳈦	
+U+33227	𳈧	
+U+33228	𳈨	
+U+33229	𳈩	
+U+3322A	𳈪	
+U+3322B	𳈫	
+U+3322C	𳈬	
+U+3322D	𳈭	
+U+3322E	𳈮	
+U+3322F	𳈯	
+U+33230	𳈰	
+U+33231	𳈱	
+U+33232	𳈲	
+U+33233	𳈳	
+U+33234	𳈴	
+U+33235	𳈵	
+U+33236	𳈶	
+U+33237	𳈷	
+U+33238	𳈸	
+U+33239	𳈹	
+U+3323A	𳈺	
+U+3323B	𳈻	
+U+3323C	𳈼	
+U+3323D	𳈽	
+U+3323E	𳈾	
+U+3323F	𳈿	
+U+33240	𳉀	
+U+33241	𳉁	
+U+33242	𳉂	
+U+33243	𳉃	
+U+33244	𳉄	
+U+33245	𳉅	
+U+33246	𳉆	
+U+33247	𳉇	
+U+33248	𳉈	
+U+33249	𳉉	
+U+3324A	𳉊	
+U+3324B	𳉋	
+U+3324C	𳉌	
+U+3324D	𳉍	
+U+3324E	𳉎	
+U+3324F	𳉏	
+U+33250	𳉐	
+U+33251	𳉑	
+U+33252	𳉒	
+U+33253	𳉓	
+U+33254	𳉔	
+U+33255	𳉕	
+U+33256	𳉖	
+U+33257	𳉗	
+U+33258	𳉘	
+U+33259	𳉙	
+U+3325A	𳉚	
+U+3325B	𳉛	
+U+3325C	𳉜	
+U+3325D	𳉝	
+U+3325E	𳉞	
+U+3325F	𳉟	
+U+33260	𳉠	
+U+33261	𳉡	
+U+33262	𳉢	
+U+33263	𳉣	
+U+33264	𳉤	
+U+33265	𳉥	
+U+33266	𳉦	
+U+33267	𳉧	
+U+33268	𳉨	
+U+33269	𳉩	
+U+3326A	𳉪	
+U+3326B	𳉫	
+U+3326C	𳉬	
+U+3326D	𳉭	
+U+3326E	𳉮	
+U+3326F	𳉯	
+U+33270	𳉰	
+U+33271	𳉱	
+U+33272	𳉲	
+U+33273	𳉳	
+U+33274	𳉴	
+U+33275	𳉵	
+U+33276	𳉶	
+U+33277	𳉷	
+U+33278	𳉸	
+U+33279	𳉹	
+U+3327A	𳉺	
+U+3327B	𳉻	
+U+3327C	𳉼	
+U+3327D	𳉽	
+U+3327E	𳉾	
+U+3327F	𳉿	
+U+33280	𳊀	
+U+33281	𳊁	
+U+33282	𳊂	
+U+33283	𳊃	
+U+33284	𳊄	
+U+33285	𳊅	
+U+33286	𳊆	
+U+33287	𳊇	
+U+33288	𳊈	
+U+33289	𳊉	
+U+3328A	𳊊	
+U+3328B	𳊋	
+U+3328C	𳊌	
+U+3328D	𳊍	
+U+3328E	𳊎	
+U+3328F	𳊏	
+U+33290	𳊐	
+U+33291	𳊑	
+U+33292	𳊒	
+U+33293	𳊓	
+U+33294	𳊔	
+U+33295	𳊕	
+U+33296	𳊖	
+U+33297	𳊗	
+U+33298	𳊘	
+U+33299	𳊙	
+U+3329A	𳊚	
+U+3329B	𳊛	
+U+3329C	𳊜	
+U+3329D	𳊝	
+U+3329E	𳊞	
+U+3329F	𳊟	
+U+332A0	𳊠	
+U+332A1	𳊡	
+U+332A2	𳊢	
+U+332A3	𳊣	
+U+332A4	𳊤	
+U+332A5	𳊥	
+U+332A6	𳊦	
+U+332A7	𳊧	
+U+332A8	𳊨	
+U+332A9	𳊩	
+U+332AA	𳊪	
+U+332AB	𳊫	
+U+332AC	𳊬	
+U+332AD	𳊭	
+U+332AE	𳊮	
+U+332AF	𳊯	
+U+332B0	𳊰	
+U+332B1	𳊱	
+U+332B2	𳊲	
+U+332B3	𳊳	
+U+332B4	𳊴	
+U+332B5	𳊵	
+U+332B6	𳊶	
+U+332B7	𳊷	
+U+332B8	𳊸	
+U+332B9	𳊹	
+U+332BA	𳊺	
+U+332BB	𳊻	
+U+332BC	𳊼	
+U+332BD	𳊽	
+U+332BE	𳊾	
+U+332BF	𳊿	
+U+332C0	𳋀	
+U+332C1	𳋁	
+U+332C2	𳋂	
+U+332C3	𳋃	
+U+332C4	𳋄	
+U+332C5	𳋅	
+U+332C6	𳋆	
+U+332C7	𳋇	
+U+332C8	𳋈	
+U+332C9	𳋉	
+U+332CA	𳋊	
+U+332CB	𳋋	
+U+332CC	𳋌	
+U+332CD	𳋍	
+U+332CE	𳋎	
+U+332CF	𳋏	
+U+332D0	𳋐	
+U+332D1	𳋑	
+U+332D2	𳋒	
+U+332D3	𳋓	
+U+332D4	𳋔	
+U+332D5	𳋕	
+U+332D6	𳋖	
+U+332D7	𳋗	
+U+332D8	𳋘	
+U+332D9	𳋙	
+U+332DA	𳋚	
+U+332DB	𳋛	
+U+332DC	𳋜	
+U+332DD	𳋝	
+U+332DE	𳋞	
+U+332DF	𳋟	
+U+332E0	𳋠	
+U+332E1	𳋡	
+U+332E2	𳋢	
+U+332E3	𳋣	
+U+332E4	𳋤	
+U+332E5	𳋥	
+U+332E6	𳋦	
+U+332E7	𳋧	
+U+332E8	𳋨	
+U+332E9	𳋩	
+U+332EA	𳋪	
+U+332EB	𳋫	
+U+332EC	𳋬	
+U+332ED	𳋭	
+U+332EE	𳋮	
+U+332EF	𳋯	
+U+332F0	𳋰	
+U+332F1	𳋱	
+U+332F2	𳋲	
+U+332F3	𳋳	
+U+332F4	𳋴	
+U+332F5	𳋵	
+U+332F6	𳋶	
+U+332F7	𳋷	
+U+332F8	𳋸	
+U+332F9	𳋹	
+U+332FA	𳋺	
+U+332FB	𳋻	
+U+332FC	𳋼	
+U+332FD	𳋽	
+U+332FE	𳋾	
+U+332FF	𳋿	
+U+33300	𳌀	
+U+33301	𳌁	
+U+33302	𳌂	
+U+33303	𳌃	
+U+33304	𳌄	
+U+33305	𳌅	
+U+33306	𳌆	
+U+33307	𳌇	
+U+33308	𳌈	
+U+33309	𳌉	
+U+3330A	𳌊	
+U+3330B	𳌋	
+U+3330C	𳌌	
+U+3330D	𳌍	
+U+3330E	𳌎	
+U+3330F	𳌏	
+U+33310	𳌐	
+U+33311	𳌑	
+U+33312	𳌒	
+U+33313	𳌓	
+U+33314	𳌔	
+U+33315	𳌕	
+U+33316	𳌖	
+U+33317	𳌗	
+U+33318	𳌘	
+U+33319	𳌙	
+U+3331A	𳌚	
+U+3331B	𳌛	
+U+3331C	𳌜	
+U+3331D	𳌝	
+U+3331E	𳌞	
+U+3331F	𳌟	
+U+33320	𳌠	
+U+33321	𳌡	
+U+33322	𳌢	
+U+33323	𳌣	
+U+33324	𳌤	
+U+33325	𳌥	
+U+33326	𳌦	
+U+33327	𳌧	
+U+33328	𳌨	
+U+33329	𳌩	
+U+3332A	𳌪	
+U+3332B	𳌫	
+U+3332C	𳌬	
+U+3332D	𳌭	
+U+3332E	𳌮	
+U+3332F	𳌯	
+U+33330	𳌰	
+U+33331	𳌱	
+U+33332	𳌲	
+U+33333	𳌳	
+U+33334	𳌴	
+U+33335	𳌵	
+U+33336	𳌶	
+U+33337	𳌷	
+U+33338	𳌸	
+U+33339	𳌹	
+U+3333A	𳌺	
+U+3333B	𳌻	
+U+3333C	𳌼	
+U+3333D	𳌽	
+U+3333E	𳌾	
+U+3333F	𳌿	
+U+33340	𳍀	
+U+33341	𳍁	
+U+33342	𳍂	
+U+33343	𳍃	
+U+33344	𳍄	
+U+33345	𳍅	
+U+33346	𳍆	
+U+33347	𳍇	
+U+33348	𳍈	
+U+33349	𳍉	
+U+3334A	𳍊	
+U+3334B	𳍋	
+U+3334C	𳍌	
+U+3334D	𳍍	
+U+3334E	𳍎	
+U+3334F	𳍏	
+U+33350	𳍐	
+U+33351	𳍑	
+U+33352	𳍒	
+U+33353	𳍓	
+U+33354	𳍔	
+U+33355	𳍕	
+U+33356	𳍖	
+U+33357	𳍗	
+U+33358	𳍘	
+U+33359	𳍙	
+U+3335A	𳍚	
+U+3335B	𳍛	
+U+3335C	𳍜	
+U+3335D	𳍝	
+U+3335E	𳍞	
+U+3335F	𳍟	
+U+33360	𳍠	
+U+33361	𳍡	
+U+33362	𳍢	
+U+33363	𳍣	
+U+33364	𳍤	
+U+33365	𳍥	
+U+33366	𳍦	
+U+33367	𳍧	
+U+33368	𳍨	
+U+33369	𳍩	
+U+3336A	𳍪	
+U+3336B	𳍫	
+U+3336C	𳍬	
+U+3336D	𳍭	
+U+3336E	𳍮	
+U+3336F	𳍯	
+U+33370	𳍰	
+U+33371	𳍱	
+U+33372	𳍲	
+U+33373	𳍳	
+U+33374	𳍴	
+U+33375	𳍵	
+U+33376	𳍶	
+U+33377	𳍷	
+U+33378	𳍸	
+U+33379	𳍹	
+U+3337A	𳍺	
+U+3337B	𳍻	
+U+3337C	𳍼	
+U+3337D	𳍽	
+U+3337E	𳍾	
+U+3337F	𳍿	
+U+33380	𳎀	
+U+33381	𳎁	
+U+33382	𳎂	
+U+33383	𳎃	
+U+33384	𳎄	
+U+33385	𳎅	
+U+33386	𳎆	
+U+33387	𳎇	
+U+33388	𳎈	
+U+33389	𳎉	
+U+3338A	𳎊	
+U+3338B	𳎋	
+U+3338C	𳎌	
+U+3338D	𳎍	
+U+3338E	𳎎	
+U+3338F	𳎏	
+U+33390	𳎐	
+U+33391	𳎑	
+U+33392	𳎒	
+U+33393	𳎓	
+U+33394	𳎔	
+U+33395	𳎕	
+U+33396	𳎖	
+U+33397	𳎗	
+U+33398	𳎘	
+U+33399	𳎙	
+U+3339A	𳎚	
+U+3339B	𳎛	
+U+3339C	𳎜	
+U+3339D	𳎝	
+U+3339E	𳎞	
+U+3339F	𳎟	
+U+333A0	𳎠	
+U+333A1	𳎡	
+U+333A2	𳎢	
+U+333A3	𳎣	
+U+333A4	𳎤	
+U+333A5	𳎥	
+U+333A6	𳎦	
+U+333A7	𳎧	
+U+333A8	𳎨	
+U+333A9	𳎩	
+U+333AA	𳎪	
+U+333AB	𳎫	
+U+333AC	𳎬	
+U+333AD	𳎭	
+U+333AE	𳎮	
+U+333AF	𳎯	
+U+333B0	𳎰	
+U+333B1	𳎱	
+U+333B2	𳎲	
+U+333B3	𳎳	
+U+333B4	𳎴	
+U+333B5	𳎵	
+U+333B6	𳎶	
+U+333B7	𳎷	
+U+333B8	𳎸	
+U+333B9	𳎹	
+U+333BA	𳎺	
+U+333BB	𳎻	
+U+333BC	𳎼	
+U+333BD	𳎽	
+U+333BE	𳎾	
+U+333BF	𳎿	
+U+333C0	𳏀	
+U+333C1	𳏁	
+U+333C2	𳏂	
+U+333C3	𳏃	
+U+333C4	𳏄	
+U+333C5	𳏅	
+U+333C6	𳏆	
+U+333C7	𳏇	
+U+333C8	𳏈	
+U+333C9	𳏉	
+U+333CA	𳏊	
+U+333CB	𳏋	
+U+333CC	𳏌	
+U+333CD	𳏍	
+U+333CE	𳏎	
+U+333CF	𳏏	
+U+333D0	𳏐	
+U+333D1	𳏑	
+U+333D2	𳏒	
+U+333D3	𳏓	
+U+333D4	𳏔	
+U+333D5	𳏕	
+U+333D6	𳏖	
+U+333D7	𳏗	
+U+333D8	𳏘	
+U+333D9	𳏙	
+U+333DA	𳏚	
+U+333DB	𳏛	
+U+333DC	𳏜	
+U+333DD	𳏝	
+U+333DE	𳏞	
+U+333DF	𳏟	
+U+333E0	𳏠	
+U+333E1	𳏡	
+U+333E2	𳏢	
+U+333E3	𳏣	
+U+333E4	𳏤	
+U+333E5	𳏥	
+U+333E6	𳏦	
+U+333E7	𳏧	
+U+333E8	𳏨	
+U+333E9	𳏩	
+U+333EA	𳏪	
+U+333EB	𳏫	
+U+333EC	𳏬	
+U+333ED	𳏭	
+U+333EE	𳏮	
+U+333EF	𳏯	
+U+333F0	𳏰	
+U+333F1	𳏱	
+U+333F2	𳏲	
+U+333F3	𳏳	
+U+333F4	𳏴	
+U+333F5	𳏵	
+U+333F6	𳏶	
+U+333F7	𳏷	
+U+333F8	𳏸	
+U+333F9	𳏹	
+U+333FA	𳏺	
+U+333FB	𳏻	
+U+333FC	𳏼	
+U+333FD	𳏽	
+U+333FE	𳏾	
+U+333FF	𳏿	
+U+33400	𳐀	
+U+33401	𳐁	
+U+33402	𳐂	
+U+33403	𳐃	
+U+33404	𳐄	
+U+33405	𳐅	
+U+33406	𳐆	
+U+33407	𳐇	
+U+33408	𳐈	
+U+33409	𳐉	
+U+3340A	𳐊	
+U+3340B	𳐋	
+U+3340C	𳐌	
+U+3340D	𳐍	
+U+3340E	𳐎	
+U+3340F	𳐏	
+U+33410	𳐐	
+U+33411	𳐑	
+U+33412	𳐒	
+U+33413	𳐓	
+U+33414	𳐔	
+U+33415	𳐕	
+U+33416	𳐖	
+U+33417	𳐗	
+U+33418	𳐘	
+U+33419	𳐙	
+U+3341A	𳐚	
+U+3341B	𳐛	
+U+3341C	𳐜	
+U+3341D	𳐝	
+U+3341E	𳐞	
+U+3341F	𳐟	
+U+33420	𳐠	
+U+33421	𳐡	
+U+33422	𳐢	
+U+33423	𳐣	
+U+33424	𳐤	
+U+33425	𳐥	
+U+33426	𳐦	
+U+33427	𳐧	
+U+33428	𳐨	
+U+33429	𳐩	
+U+3342A	𳐪	
+U+3342B	𳐫	
+U+3342C	𳐬	
+U+3342D	𳐭	
+U+3342E	𳐮	
+U+3342F	𳐯	
+U+33430	𳐰	
+U+33431	𳐱	
+U+33432	𳐲	
+U+33433	𳐳	
+U+33434	𳐴	
+U+33435	𳐵	
+U+33436	𳐶	
+U+33437	𳐷	
+U+33438	𳐸	
+U+33439	𳐹	
+U+3343A	𳐺	
+U+3343B	𳐻	
+U+3343C	𳐼	
+U+3343D	𳐽	
+U+3343E	𳐾	
+U+3343F	𳐿	
+U+33440	𳑀	
+U+33441	𳑁	
+U+33442	𳑂	
+U+33443	𳑃	
+U+33444	𳑄	
+U+33445	𳑅	
+U+33446	𳑆	
+U+33447	𳑇	
+U+33448	𳑈	
+U+33449	𳑉	
+U+3344A	𳑊	
+U+3344B	𳑋	
+U+3344C	𳑌	
+U+3344D	𳑍	
+U+3344E	𳑎	
+U+3344F	𳑏	
+U+33450	𳑐	
+U+33451	𳑑	
+U+33452	𳑒	
+U+33453	𳑓	
+U+33454	𳑔	
+U+33455	𳑕	
+U+33456	𳑖	
+U+33457	𳑗	
+U+33458	𳑘	
+U+33459	𳑙	
+U+3345A	𳑚	
+U+3345B	𳑛	
+U+3345C	𳑜	
+U+3345D	𳑝	
+U+3345E	𳑞	
+U+3345F	𳑟	
+U+33460	𳑠	
+U+33461	𳑡	
+U+33462	𳑢	
+U+33463	𳑣	
+U+33464	𳑤	
+U+33465	𳑥	
+U+33466	𳑦	
+U+33467	𳑧	
+U+33468	𳑨	
+U+33469	𳑩	
+U+3346A	𳑪	
+U+3346B	𳑫	
+U+3346C	𳑬	
+U+3346D	𳑭	
+U+3346E	𳑮	
+U+3346F	𳑯	
+U+33470	𳑰	
+U+33471	𳑱	
+U+33472	𳑲	
+U+33473	𳑳	
+U+33474	𳑴	
+U+33475	𳑵	
+U+33476	𳑶	
+U+33477	𳑷	
+U+33478	𳑸	
+U+33479	𳑹	
+U+3347A
+U+3347B
+U+3347C
+U+3347D
+U+3347E
+U+3347F
