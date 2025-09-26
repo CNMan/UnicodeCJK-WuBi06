@@ -590,7 +590,7 @@ U+2D0FC	𭃼	veks
 U+2D0FD	𭃽	vnhg
 U+2D0FE	𭃾	axjj
 U+2D0FF	𭃿	fjfv
-U+2D100	𭄀	wgjy
+U+2D100	𭄀	uogy
 U+2D101	𭄁	qyvj
 U+2D102	𭄂	tfhv
 U+2D103	𭄃	wvgb
