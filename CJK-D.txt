@@ -220,5 +220,5 @@ U+2B81A	𫠚	hobk
 U+2B81B	𫠛	hbjg
 U+2B81C	𫠜	hwbq
 U+2B81D	𫠝	imkn
-U+2B81E
+U+2B81E	𫠞	jqwy
 U+2B81F
